@@ -281,3 +281,8 @@ heaven,earth,paradise
 rainbow,plant,flower_garden
 sunset,aquarium,horizon
 universe,landscape,cosmos
+life,cosmos,existence
+flower_garden,human,botanist
+botanist,garden,greenhouse
+greenhouse,isolation,biodome
+human,garden,farmer
