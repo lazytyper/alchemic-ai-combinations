@@ -1,13 +1,12 @@
 ==================================
-= Dice
+= Magic Spell
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice = Dice
+Witch + Potion = Magic Spell
 
 Usages:
 =======
-Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling
+Hulk + Magic Spell = Charmander
+Druid + Magic Spell = Incantation

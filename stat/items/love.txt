@@ -14,3 +14,4 @@ Love + Castaway = Loneliness
 Life + Love = Romance
 Love + Evil = Hate
 Love + Witch = Potion
+Love + Catastrophe = Tragic Romance

@@ -8,3 +8,4 @@ Allergy + Antidote = Desentization
 
 Usages:
 =======
+Desentization + Kaiju = Monster Suit

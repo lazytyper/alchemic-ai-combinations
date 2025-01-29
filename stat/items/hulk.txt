@@ -9,3 +9,5 @@ Human + Fury = Hulk
 Usages:
 =======
 Human + Hulk = Monster
+Hulk + Godzilla = Kaiju
+Hulk + Magic Spell = Charmander

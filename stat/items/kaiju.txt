@@ -1,13 +1,11 @@
 ==================================
-= Dice
+= Kaiju
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice = Dice
+Hulk + Godzilla = Kaiju
 
 Usages:
 =======
-Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling
+Desentization + Kaiju = Monster Suit

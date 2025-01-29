@@ -4,6 +4,7 @@
 
 created by:
 ===========
+Paradise + Oasis = Water
 
 Usages:
 =======
@@ -13,3 +14,4 @@ Earth + Water = Mud
 Water + Water = Ocean
 Water + Blue Planet = Earth
 Water + Weather = Rain
+Lava + Water = Stone

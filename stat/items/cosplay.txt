@@ -1,13 +1,10 @@
 ==================================
-= Dice
+= Cosplay
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice = Dice
+Human + Monster Suit = Cosplay
 
 Usages:
 =======
-Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling

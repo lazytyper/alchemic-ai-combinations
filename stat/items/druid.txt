@@ -9,3 +9,12 @@ Nature + Spirit = Druid
 Usages:
 =======
 Mountain + Druid = Nature Guardian
+Druid + Magic Spell = Incantation
+Religion + Druid = Nature Worship
+Human + Tree = Druid
+
+Usages:
+=======
+Mountain + Druid = Nature Guardian
+Druid + Magic Spell = Incantation
+Religion + Druid = Nature Worship

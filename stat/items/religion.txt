@@ -14,3 +14,4 @@ Love + Religion = Marriage
 Fire + Religion = Sacrifice
 Religion + Optimism = Faith
 Religion + Nymph = Nympholepsy
+Religion + Druid = Nature Worship

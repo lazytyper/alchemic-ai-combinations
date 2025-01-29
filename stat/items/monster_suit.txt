@@ -1,13 +1,11 @@
 ==================================
-= Dice
+= Monster Suit
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice = Dice
+Desentization + Kaiju = Monster Suit
 
 Usages:
 =======
-Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling
+Human + Monster Suit = Cosplay

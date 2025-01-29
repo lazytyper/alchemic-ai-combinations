@@ -1,13 +1,10 @@
 ==================================
-= Dice
+= Incantation
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice = Dice
+Druid + Magic Spell = Incantation
 
 Usages:
 =======
-Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling

@@ -35,6 +35,7 @@ Fire + Life + Swamp = Witch
 Life + Cosmos = Existence
 Life + Soul = Spirit
 Life + Tree = Nature
+Life + Forest = Nature
 Planet + Evolution = Life
 
 Usages:
@@ -66,3 +67,4 @@ Fire + Life + Swamp = Witch
 Life + Cosmos = Existence
 Life + Soul = Spirit
 Life + Tree = Nature
+Life + Forest = Nature

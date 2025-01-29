@@ -1,13 +1,11 @@
 ==================================
-= Dice
+= Oasis
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice = Dice
+Marsupilami + Desert = Oasis
 
 Usages:
 =======
-Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling
+Paradise + Oasis = Water

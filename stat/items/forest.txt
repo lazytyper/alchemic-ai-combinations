@@ -11,3 +11,4 @@ Usages:
 Human + Forest = Ranger
 Forest + Ranger = National Park
 Forest + Dryad = Nymph
+Life + Forest = Nature

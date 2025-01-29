@@ -354,3 +354,16 @@ potion,poison,elixir
 dryad,elixir,health_potion
 health_potion,allergy,antidote
 allergy,antidote,desentization
+love,catastrophe,tragic_romance
+hulk,godzilla,kaiju
+human,dice,gambling
+forest,life,nature
+desentization,kaiju,monster_suit
+monster_suit,human,cosplay
+witch,potion,magic_spell
+hulk,magic_spell,charmander
+druid,magic_spell,incantation
+human,tree,druid
+druid,religion,nature_worship
+oasis,paradise,water
+desert,marsupilami,oasis

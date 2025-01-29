@@ -9,3 +9,4 @@ Love + Witch = Potion
 Usages:
 =======
 Poison + Potion = Elixir
+Witch + Potion = Magic Spell

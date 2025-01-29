@@ -1,13 +1,10 @@
 ==================================
-= Dice
+= Gambling
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice = Dice
+Human + Dice = Gambling
 
 Usages:
 =======
-Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling

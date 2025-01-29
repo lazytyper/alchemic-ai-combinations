@@ -1,13 +1,10 @@
 ==================================
-= Dice
+= Nature Worship
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice = Dice
+Religion + Druid = Nature Worship
 
 Usages:
 =======
-Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling

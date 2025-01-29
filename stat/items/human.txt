@@ -33,3 +33,6 @@ Human + Fury = Hulk
 Human + Hulk = Monster
 Human + Chaos = Anarchy
 Human + Sound = Speech
+Human + Dice = Gambling
+Human + Monster Suit = Cosplay
+Human + Tree = Druid

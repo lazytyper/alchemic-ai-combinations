@@ -11,6 +11,7 @@ Usages:
 Sacrifice + Witch = Witchcraft
 Smoke + Witch = Spell
 Love + Witch = Potion
+Witch + Potion = Magic Spell
 Fire + Life + Swamp = Witch
 
 Usages:
@@ -18,3 +19,4 @@ Usages:
 Sacrifice + Witch = Witchcraft
 Smoke + Witch = Spell
 Love + Witch = Potion
+Witch + Potion = Magic Spell
