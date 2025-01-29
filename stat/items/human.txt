@@ -27,3 +27,5 @@ Human + Garden = Farmer
 Human + Crop Yield = Farming
 Human + Hard Place = Rock
 Human + Everest = Sherpa
+Human + Hate = Prejudice
+Human + Anger = Rage

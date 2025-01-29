@@ -313,3 +313,10 @@ sherpa,sherpa,mountaineer
 sherpa,stone,mountain_guide
 life,soul,spirit
 life,tree,nature
+evil,love,hate
+hate,human,prejudice
+hate,hate,anger
+anger,human,rage
+rage,isolation,solitude
+jungle_ride,garden,theme_park
+ranger,theme_park,adventureland

@@ -1,12 +1,11 @@
 ==================================
-= Ranger
+= Theme Park
 ==================================
 
 created by:
 ===========
-Human + Forest = Ranger
+Garden + Jungle Ride = Theme Park
 
 Usages:
 =======
-Forest + Ranger = National Park
 Ranger + Theme Park = Adventureland

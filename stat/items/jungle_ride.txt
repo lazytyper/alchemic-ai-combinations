@@ -8,3 +8,4 @@ Rainforest + Dirtbike = Jungle Ride
 
 Usages:
 =======
+Garden + Jungle Ride = Theme Park

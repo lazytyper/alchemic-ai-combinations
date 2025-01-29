@@ -12,3 +12,4 @@ Cupid + Love = Arrow
 Love + Religion = Marriage
 Love + Castaway = Loneliness
 Life + Love = Romance
+Love + Evil = Hate

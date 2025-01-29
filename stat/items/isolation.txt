@@ -10,3 +10,4 @@ Usages:
 =======
 Isolation + Greenhouse = Biodome
 Isolation + Flower = Solitude
+Isolation + Rage = Solitude

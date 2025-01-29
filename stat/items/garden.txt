@@ -12,6 +12,7 @@ Garden + Toadstool = Fairy Ring
 Garden + Botanist = Greenhouse
 Human + Garden = Farmer
 Garden + Farmer = Crop Yield
+Garden + Jungle Ride = Theme Park
 Earth + Paradise = Garden
 
 Usages:
@@ -20,3 +21,4 @@ Garden + Toadstool = Fairy Ring
 Garden + Botanist = Greenhouse
 Human + Garden = Farmer
 Garden + Farmer = Crop Yield
+Garden + Jungle Ride = Theme Park
