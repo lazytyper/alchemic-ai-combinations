@@ -33,3 +33,4 @@ Life + Life = Eternity
 Life + Love = Romance
 Life + Farmland = Agriculture
 Fire + Life + Swamp = Witch
+Life + Cosmos = Existence

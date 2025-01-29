@@ -10,3 +10,4 @@ Usages:
 =======
 Wind + Weather = Storm
 Imitation + Weather = Climate Change
+Water + Weather = Rain

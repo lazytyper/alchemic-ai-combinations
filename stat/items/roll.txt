@@ -9,3 +9,4 @@ Sushi + Sushi
 Usages:
 =======
 Sushi + Roll = Maki
+Roll + Sacrifice = Dice

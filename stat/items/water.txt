@@ -12,3 +12,4 @@ Air + Water = Mist
 Earth + Water = Mud
 Water + Water = Ocean
 Water + Blue Planet = Earth
+Water + Weather = Rain

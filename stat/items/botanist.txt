@@ -1,12 +1,11 @@
 ==================================
-= Sunflower
+= Botanist
 ==================================
 
 created by:
 ===========
-Sun + Flower
+Human + Flower Garden
 
 Usages:
 =======
-Photosynthesis + Sunflower = Energy Production
-Sunflower + Rain = Rainbow
+Garden + Botanist = Greenhouse

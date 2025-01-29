@@ -10,3 +10,6 @@ Earth + Paradise
 Usages:
 =======
 Garden + Toadstool = Fairy Ring
+Garden + Botanist = Greenhouse
+Human + Garden = Farmer
+Garden + Farmer = Crop Yield

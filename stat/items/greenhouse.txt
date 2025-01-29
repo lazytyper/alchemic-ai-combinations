@@ -1,12 +1,11 @@
 ==================================
-= Sunflower
+= Greenhouse
 ==================================
 
 created by:
 ===========
-Sun + Flower
+Garden + Botanist
 
 Usages:
 =======
-Photosynthesis + Sunflower = Energy Production
-Sunflower + Rain = Rainbow
+Isolation + Greenhouse = Biodome

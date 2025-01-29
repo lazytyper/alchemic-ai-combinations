@@ -1,12 +1,11 @@
 ==================================
-= Sunflower
+= Rain
 ==================================
 
 created by:
 ===========
-Sun + Flower
+Water + Weather
 
 Usages:
 =======
-Photosynthesis + Sunflower = Energy Production
 Sunflower + Rain = Rainbow

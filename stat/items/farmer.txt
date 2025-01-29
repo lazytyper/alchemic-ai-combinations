@@ -1,12 +1,12 @@
 ==================================
-= Sunflower
+= Farmer
 ==================================
 
 created by:
 ===========
-Sun + Flower
+Human + Garden
 
 Usages:
 =======
-Photosynthesis + Sunflower = Energy Production
-Sunflower + Rain = Rainbow
+Garden + Farmer = Crop Yield
+Farmer + Farming = Agriculture

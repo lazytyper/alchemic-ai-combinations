@@ -1,11 +1,10 @@
 ==================================
-= Isolation
+= Biodome
 ==================================
 
 created by:
 ===========
-Community + Loneliness
+Isolation + Greenhouse
 
 Usages:
 =======
-Isolation + Greenhouse = Biodome

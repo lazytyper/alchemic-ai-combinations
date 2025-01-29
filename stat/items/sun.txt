@@ -17,3 +17,4 @@ Sun + Sky = Farmland
 Sun + Soul = Spirituality
 Sun + Spirituality = Yoga
 Sun + Flower = Sunflower
+Fish + Sun = Sunset

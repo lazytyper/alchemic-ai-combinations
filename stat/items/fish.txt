@@ -14,3 +14,4 @@ Fish + Steam Room = Sushi Bar
 Fish + Sushi Bar = Sushi
 Fish + Human = Mermaid
 Fish + Environment = Aquarium
+Fish + Sun = Sunset

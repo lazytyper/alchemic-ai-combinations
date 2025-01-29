@@ -8,3 +8,4 @@ Plant + Rainbow
 
 Usages:
 =======
+Human + Flower Garden = Botanist

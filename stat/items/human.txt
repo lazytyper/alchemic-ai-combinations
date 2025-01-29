@@ -22,3 +22,6 @@ Human + Forest = Ranger
 Human + Yellowstone = Tourist Attraction
 Human + Mountain = Climber
 Human + Human = Society
+Human + Flower Garden = Botanist
+Human + Garden = Farmer
+Human + Crop Yield = Farming

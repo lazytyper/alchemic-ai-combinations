@@ -286,3 +286,10 @@ flower_garden,human,botanist
 botanist,garden,greenhouse
 greenhouse,isolation,biodome
 human,garden,farmer
+fish,sun,sunset
+rain,sunflower,rainbow
+water,weather,rain
+farmer,garden,crop_yield
+crop_yield,human,farming
+farmer,farming,agriculture
+sacrifice,roll,dice

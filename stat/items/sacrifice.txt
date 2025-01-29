@@ -10,3 +10,4 @@ Usages:
 =======
 Sacrifice + Witch = Witchcraft
 Sacrifice + Eden = Garden
+Roll + Sacrifice = Dice
