@@ -20,3 +20,11 @@ Sacrifice + Witch = Witchcraft
 Smoke + Witch = Spell
 Love + Witch = Potion
 Witch + Potion = Magic Spell
+Human + Spellcaster = Witch
+
+Usages:
+=======
+Sacrifice + Witch = Witchcraft
+Smoke + Witch = Spell
+Love + Witch = Potion
+Witch + Potion = Magic Spell

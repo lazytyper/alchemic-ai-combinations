@@ -11,3 +11,4 @@ Usages:
 Isolation + Greenhouse = Biodome
 Isolation + Flower = Solitude
 Isolation + Rage = Solitude
+Human + Isolation = Loneliness

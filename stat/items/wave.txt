@@ -10,3 +10,4 @@ Usages:
 =======
 Mountain + Wave = Surfing
 Air + Wave = Sound
+Solar Panel + Wave = Renewable Energy

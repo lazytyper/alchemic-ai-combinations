@@ -392,3 +392,12 @@ silence,thunder,whisper
 human,meditation,buddhism
 human,buddhism,enlightenment
 wizard,enlightenment,gandalf
+human,spellcaster,witch
+solar_panel,wave,renewable_energy
+human,isolation,loneliness
+chernobyl,oceanic_paradise,underworld
+underworld,human,hades
+god,magic,miracle
+miracle,cinderella,fairy_tale
+fairy_tale,loneliness,happily_ever_after
+human,whisper,gossip

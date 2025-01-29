@@ -41,3 +41,7 @@ Human + Silence = Meditation
 Human + Jungle = Tarzan
 Human + Meditation = Buddhism
 Human + Buddhism = Enlightenment
+Human + Spellcaster = Witch
+Human + Isolation = Loneliness
+Human + Underworld = Hades
+Human + Whisper = Gossip

@@ -1,13 +1,10 @@
 ==================================
-= God
+= Gossip
 ==================================
 
 created by:
 ===========
-Life + Zeus = God
+Human + Whisper = Gossip
 
 Usages:
 =======
-God + View = Deity
-God + Thunder = Zeus
-God + Magic = Miracle

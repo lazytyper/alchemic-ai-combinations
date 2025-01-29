@@ -9,3 +9,4 @@ Sun + Mirror = Solar Panel
 Usages:
 =======
 Solar Panel + Solar Panel = Renewable Energy
+Solar Panel + Wave = Renewable Energy

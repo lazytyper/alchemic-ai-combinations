@@ -8,3 +8,4 @@ Thunder + Silence = Whisper
 
 Usages:
 =======
+Human + Whisper = Gossip

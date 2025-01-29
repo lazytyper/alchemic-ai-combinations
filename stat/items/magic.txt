@@ -9,8 +9,10 @@ Incantation + Cinderella = Magic
 Usages:
 =======
 Magic + Magic = Sorcery
+God + Magic = Miracle
 Druid + Incantation = Magic
 
 Usages:
 =======
 Magic + Magic = Sorcery
+God + Magic = Miracle

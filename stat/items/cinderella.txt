@@ -10,3 +10,4 @@ Usages:
 =======
 Incantation + Cinderella = Magic
 Cinderella + Spellcaster = Fairy Godmother
+Cinderella + Miracle = Fairy Tale
