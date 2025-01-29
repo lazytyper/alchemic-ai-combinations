@@ -1,13 +1,12 @@
 ==================================
-= Olympus
+= Mountain
 ==================================
 
 created by:
 ===========
-View + Zeus
-Island + Zeus
+Olympus + Olympus
 
 Usages:
 =======
-Aquarium + Olympus = Poseidon
-Olympus + Olympus = Mountain
+Eruption + Mountain = Volcano
+Human + Mountain = Climber

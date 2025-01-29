@@ -6,6 +6,7 @@ created by:
 ===========
 Earth + Fire
 Earth + Combustion
+Eruption + Mountain
 
 Usages:
 =======

@@ -11,3 +11,4 @@ Volcano + Monarch
 
 Usages:
 =======
+Eruption + Mountain = Volcano

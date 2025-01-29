@@ -20,3 +20,5 @@ Human + Energy = Life Force
 Human + Bicycle = Cyclist
 Human + Forest = Ranger
 Human + Yellowstone = Tourist Attraction
+Human + Mountain = Climber
+Human + Human = Society

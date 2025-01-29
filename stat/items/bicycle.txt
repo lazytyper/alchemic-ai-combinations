@@ -11,3 +11,4 @@ Usages:
 Human + Bicycle = Cyclist
 Energy + Bicycle = Pedal
 Bicycle + Racecourse = Velodrome
+Bicycle + Racetrack = Velodrome

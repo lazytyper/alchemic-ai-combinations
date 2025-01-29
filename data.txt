@@ -271,3 +271,9 @@ yellowstone,human,tourist_attraction
 tourist_attraction,race,racecourse
 racecourse,bicycle,velodrome
 racecourse,motorcycle,racetrack
+racetrack,bicycle,velodrome
+zeus,island,olympus
+olympus,olympus,mountain
+mountain,eruption,volcano
+mountain,human,climber
+human,human,society
