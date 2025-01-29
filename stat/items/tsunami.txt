@@ -11,3 +11,5 @@ Usages:
 Air Quality + Tsunami = Disaster
 Tsunami + Disaster = Fukushima
 Tsunami + Dirt = Mudslide
+Tsunami + Godzilla = Destruction
+Ocean + Tsunami = Wave

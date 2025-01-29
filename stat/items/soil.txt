@@ -11,3 +11,4 @@ Usages:
 Soil + Fish = Fertilizer
 Soil + Fertilizer = Plant
 Air + Soil = Plants
+Soil + Perspective = Landscape

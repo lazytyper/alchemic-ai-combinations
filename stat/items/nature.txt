@@ -18,6 +18,7 @@ Nature + Horizon = Landscape
 Nature + Soul = Spirit
 Nature + Sushi = Greenpeace
 Nature + Photosynthesis = Carbon Dioxide
+Nature + Spirit = Druid
 Life + Tree = Nature
 
 Usages:
@@ -32,3 +33,4 @@ Nature + Horizon = Landscape
 Nature + Soul = Spirit
 Nature + Sushi = Greenpeace
 Nature + Photosynthesis = Carbon Dioxide
+Nature + Spirit = Druid

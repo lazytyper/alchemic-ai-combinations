@@ -9,3 +9,10 @@ Jungle + Shipwreck = Tarzan
 Usages:
 =======
 Community + Tarzan = Jungle Tribe
+Tarzan + Speech = Elephant Communication
+Jungle + Nature Guardian = Tarzan
+
+Usages:
+=======
+Community + Tarzan = Jungle Tribe
+Tarzan + Speech = Elephant Communication

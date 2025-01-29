@@ -8,3 +8,5 @@ Pollen + Human = Allergy
 
 Usages:
 =======
+Allergy + Health Potion = Antidote
+Allergy + Antidote = Desentization

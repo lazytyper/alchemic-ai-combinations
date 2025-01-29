@@ -1,12 +1,10 @@
 ==================================
-= Rage
+= Vroom
 ==================================
 
 created by:
 ===========
-Human + Anger = Rage
+Motorcycle + Sound = Vroom
 
 Usages:
 =======
-Isolation + Rage = Solitude
-Rage + Rage = Fury

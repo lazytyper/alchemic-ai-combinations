@@ -1,13 +1,11 @@
 ==================================
-= Hope
+= Elixir
 ==================================
 
 created by:
 ===========
-Life + Pandora = Hope
+Poison + Potion = Elixir
 
 Usages:
 =======
-Hope + Soul = Faith
-Hope + Perspective = Optimism
-Hope + Dice = Chance
+Dryad + Elixir = Health Potion

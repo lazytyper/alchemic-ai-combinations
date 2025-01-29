@@ -13,3 +13,4 @@ Planet + Religion = Jupiter
 Love + Religion = Marriage
 Fire + Religion = Sacrifice
 Religion + Optimism = Faith
+Religion + Nymph = Nympholepsy

@@ -29,3 +29,7 @@ Human + Hard Place = Rock
 Human + Everest = Sherpa
 Human + Hate = Prejudice
 Human + Anger = Rage
+Human + Fury = Hulk
+Human + Hulk = Monster
+Human + Chaos = Anarchy
+Human + Sound = Speech

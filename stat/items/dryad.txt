@@ -1,13 +1,12 @@
 ==================================
-= Hope
+= Dryad
 ==================================
 
 created by:
 ===========
-Life + Pandora = Hope
+Landscape + Nature Guardian = Dryad
 
 Usages:
 =======
-Hope + Soul = Faith
-Hope + Perspective = Optimism
-Hope + Dice = Chance
+Forest + Dryad = Nymph
+Dryad + Elixir = Health Potion

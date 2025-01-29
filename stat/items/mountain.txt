@@ -13,3 +13,5 @@ Human + Mountain = Climber
 Mountain + Rock = Everest
 Bicycle + Mountain = Mountainbike
 Motorcycle + Mountain = Dirtbike
+Mountain + Druid = Nature Guardian
+Mountain + Wave = Surfing

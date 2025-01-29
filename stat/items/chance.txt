@@ -1,12 +1,10 @@
 ==================================
-= Rage
+= Chance
 ==================================
 
 created by:
 ===========
-Human + Anger = Rage
+Hope + Dice = Chance
 
 Usages:
 =======
-Isolation + Rage = Solitude
-Rage + Rage = Fury

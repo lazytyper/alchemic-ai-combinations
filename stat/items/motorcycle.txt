@@ -11,3 +11,5 @@ Usages:
 Atmosphere + Motorcycle = Skycycle
 Motorcycle + Racecourse = Racetrack
 Motorcycle + Mountain = Dirtbike
+Motorcycle + Anarchy = Outlaw
+Motorcycle + Sound = Vroom

@@ -12,3 +12,13 @@ Horizon + Landscape = View
 Steam + Landscape = Geysers
 View + Landscape = Scenery
 Landscape + Universe = Cosmos
+Landscape + Nature Guardian = Dryad
+Soil + Perspective = Landscape
+
+Usages:
+=======
+Horizon + Landscape = View
+Steam + Landscape = Geysers
+View + Landscape = Scenery
+Landscape + Universe = Cosmos
+Landscape + Nature Guardian = Dryad

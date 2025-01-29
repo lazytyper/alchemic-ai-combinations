@@ -11,6 +11,7 @@ Usages:
 Corruption + Society = Bribery
 Evil + Society = Corruption
 Society + Charizard = Dragon Cult
+Society + Hate = Dystopia
 Human + Human = Society
 
 Usages:
@@ -18,3 +19,4 @@ Usages:
 Corruption + Society = Bribery
 Evil + Society = Corruption
 Society + Charizard = Dragon Cult
+Society + Hate = Dystopia

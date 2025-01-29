@@ -1,13 +1,11 @@
 ==================================
-= Hope
+= Potion
 ==================================
 
 created by:
 ===========
-Life + Pandora = Hope
+Love + Witch = Potion
 
 Usages:
 =======
-Hope + Soul = Faith
-Hope + Perspective = Optimism
-Hope + Dice = Chance
+Poison + Potion = Elixir

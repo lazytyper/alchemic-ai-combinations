@@ -8,3 +8,4 @@ Arrow + Toadstool = Poison
 
 Usages:
 =======
+Poison + Potion = Elixir

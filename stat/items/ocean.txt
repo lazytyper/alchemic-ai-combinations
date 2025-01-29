@@ -17,3 +17,4 @@ Ocean + Paradise = Island
 Earth + Ocean = Island
 Ocean + Life = Marine Biologist
 Ocean + Lost Civilization = Atlantis
+Ocean + Tsunami = Wave
