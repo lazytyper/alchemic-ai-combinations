@@ -320,3 +320,6 @@ anger,human,rage
 rage,isolation,solitude
 jungle_ride,garden,theme_park
 ranger,theme_park,adventureland
+reality_show,mudslide,replica,mudshow
+dirt,tsunami,mudslide
+horticulture,castaway,mudshow
