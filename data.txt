@@ -280,3 +280,4 @@ human,human,society
 heaven,earth,paradise
 rainbow,plant,flower_garden
 sunset,aquarium,horizon
+universe,landscape,cosmos
