@@ -1,12 +1,10 @@
 ==================================
-= Jupiter
+= Merlin
 ==================================
 
 created by:
 ===========
-Planet + Religion = Jupiter
+Wizard + Wizard = Merlin
 
 Usages:
 =======
-Faith + Jupiter = Zeus
-Jupiter + Jupiter = Gas Giant

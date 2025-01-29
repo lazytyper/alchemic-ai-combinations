@@ -10,3 +10,5 @@ Usages:
 =======
 Human + Sound = Speech
 Motorcycle + Sound = Vroom
+Sound + Thunderstorm = Noise
+Galaxy + Sound = Silence

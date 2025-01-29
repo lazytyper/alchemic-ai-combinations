@@ -1,12 +1,10 @@
 ==================================
-= Jupiter
+= Cosmic Static
 ==================================
 
 created by:
 ===========
-Planet + Religion = Jupiter
+Galaxy + Noise = Cosmic Static
 
 Usages:
 =======
-Faith + Jupiter = Zeus
-Jupiter + Jupiter = Gas Giant

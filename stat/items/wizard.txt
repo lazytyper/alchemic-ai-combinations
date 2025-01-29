@@ -1,12 +1,12 @@
 ==================================
-= Pollination
+= Wizard
 ==================================
 
 created by:
 ===========
-Wind + Pollen = Pollination
+Magic + Magic = Wizard
 
 Usages:
 =======
-Human + Pollination = Gardening
-Eruption + Pollination = Flowering
+Wizard + Wizard = Merlin
+Wizard + Enlightenment = Gandalf

@@ -16,3 +16,9 @@ Usages:
 =======
 Community + Tarzan = Jungle Tribe
 Tarzan + Speech = Elephant Communication
+Human + Jungle = Tarzan
+
+Usages:
+=======
+Community + Tarzan = Jungle Tribe
+Tarzan + Speech = Elephant Communication

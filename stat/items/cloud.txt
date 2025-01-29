@@ -11,3 +11,5 @@ Usages:
 Monarch + Cloud = Cloudberry
 Cloud + Salamander = Firestorm
 Cloud + Soul = Heaven
+Volcano + Cloud = Ash
+Cloud + Storm = Thunderstorm

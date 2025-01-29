@@ -1,12 +1,12 @@
 ==================================
-= Pollination
+= Noise
 ==================================
 
 created by:
 ===========
-Wind + Pollen = Pollination
+Sound + Thunderstorm = Noise
 
 Usages:
 =======
-Human + Pollination = Gardening
-Eruption + Pollination = Flowering
+Thunderstorm + Noise = Thunder
+Galaxy + Noise = Cosmic Static

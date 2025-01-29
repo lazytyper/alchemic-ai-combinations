@@ -10,3 +10,4 @@ Usages:
 =======
 Island + Storm = Shipwreck
 Combustion + Storm = Firestorm
+Cloud + Storm = Thunderstorm

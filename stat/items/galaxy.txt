@@ -10,15 +10,21 @@ Usages:
 =======
 Galaxy + Galaxy = Universe
 Arrow + Galaxy = Milky Way
+Galaxy + Sound = Silence
+Galaxy + Noise = Cosmic Static
 Solar System + Solar System = Galaxy
 
 Usages:
 =======
 Galaxy + Galaxy = Universe
 Arrow + Galaxy = Milky Way
+Galaxy + Sound = Silence
+Galaxy + Noise = Cosmic Static
 Milky Way + Hot Spring = Galaxy
 
 Usages:
 =======
 Galaxy + Galaxy = Universe
 Arrow + Galaxy = Milky Way
+Galaxy + Sound = Silence
+Galaxy + Noise = Cosmic Static

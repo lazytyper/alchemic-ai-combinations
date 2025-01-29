@@ -16,6 +16,7 @@ Volcano + Water = Steam
 Volcano + Monarch = Eruption
 Air + Volcano = Smoke
 Volcano + Steam = Hot Springs
+Volcano + Cloud = Ash
 Earth + Combustion = Volcano
 
 Usages:
@@ -28,6 +29,7 @@ Volcano + Water = Steam
 Volcano + Monarch = Eruption
 Air + Volcano = Smoke
 Volcano + Steam = Hot Springs
+Volcano + Cloud = Ash
 Eruption + Mountain = Volcano
 
 Usages:
@@ -40,3 +42,4 @@ Volcano + Water = Steam
 Volcano + Monarch = Eruption
 Air + Volcano = Smoke
 Volcano + Steam = Hot Springs
+Volcano + Cloud = Ash

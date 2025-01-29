@@ -1,13 +1,16 @@
 ==================================
-= Incantation
+= Magic
 ==================================
 
 created by:
 ===========
-Druid + Magic Spell = Incantation
+Incantation + Cinderella = Magic
 
 Usages:
 =======
-Incantation + Cinderella = Magic
+Magic + Magic = Sorcery
 Druid + Incantation = Magic
-Human + Incantation = Spellcaster
+
+Usages:
+=======
+Magic + Magic = Sorcery

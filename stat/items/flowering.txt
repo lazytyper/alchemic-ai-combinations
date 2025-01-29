@@ -1,12 +1,10 @@
 ==================================
-= Jupiter
+= Flowering
 ==================================
 
 created by:
 ===========
-Planet + Religion = Jupiter
+Eruption + Pollination = Flowering
 
 Usages:
 =======
-Faith + Jupiter = Zeus
-Jupiter + Jupiter = Gas Giant

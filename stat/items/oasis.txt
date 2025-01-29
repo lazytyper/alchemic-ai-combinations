@@ -9,3 +9,13 @@ Water + Paradise = Oasis
 Usages:
 =======
 Marsupilami + Oasis = Desert
+Tree + Desert = Oasis
+
+Usages:
+=======
+Marsupilami + Oasis = Desert
+Water + Desert = Oasis
+
+Usages:
+=======
+Marsupilami + Oasis = Desert

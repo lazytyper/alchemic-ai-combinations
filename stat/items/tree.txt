@@ -11,3 +11,4 @@ Usages:
 Tree + Tree = Forest
 Life + Tree = Nature
 Human + Tree = Druid
+Tree + Desert = Oasis

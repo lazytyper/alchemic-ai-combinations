@@ -9,3 +9,4 @@ Life + Zeus = God
 Usages:
 =======
 God + View = Deity
+God + Thunder = Zeus

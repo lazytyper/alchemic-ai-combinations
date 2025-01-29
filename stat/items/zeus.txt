@@ -11,3 +11,10 @@ Usages:
 Life + Zeus = God
 View + Zeus = Olympus
 Island + Zeus = Olympus
+God + Thunder = Zeus
+
+Usages:
+=======
+Life + Zeus = God
+View + Zeus = Olympus
+Island + Zeus = Olympus

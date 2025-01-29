@@ -8,3 +8,5 @@ Marsupilami + Oasis = Desert
 
 Usages:
 =======
+Tree + Desert = Oasis
+Water + Desert = Oasis

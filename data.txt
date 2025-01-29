@@ -387,3 +387,8 @@ human,silence,meditation
 human,jungle,tarzan
 desert,tree,oasis
 desert,water,oasis
+pollination,eruption,flowering
+silence,thunder,whisper
+human,meditation,buddhism
+human,buddhism,enlightenment
+wizard,enlightenment,gandalf

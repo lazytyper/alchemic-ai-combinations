@@ -1,12 +1,10 @@
 ==================================
-= Jupiter
+= Sorcery
 ==================================
 
 created by:
 ===========
-Planet + Religion = Jupiter
+Magic + Magic = Sorcery
 
 Usages:
 =======
-Faith + Jupiter = Zeus
-Jupiter + Jupiter = Gas Giant

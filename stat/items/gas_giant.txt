@@ -1,12 +1,10 @@
 ==================================
-= Jupiter
+= Gas Giant
 ==================================
 
 created by:
 ===========
-Planet + Religion = Jupiter
+Jupiter + Jupiter = Gas Giant
 
 Usages:
 =======
-Faith + Jupiter = Zeus
-Jupiter + Jupiter = Gas Giant

@@ -1,12 +1,12 @@
 ==================================
-= Pollination
+= Thunderstorm
 ==================================
 
 created by:
 ===========
-Wind + Pollen = Pollination
+Cloud + Storm = Thunderstorm
 
 Usages:
 =======
-Human + Pollination = Gardening
-Eruption + Pollination = Flowering
+Sound + Thunderstorm = Noise
+Thunderstorm + Noise = Thunder

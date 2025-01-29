@@ -1,12 +1,11 @@
 ==================================
-= Pollination
+= Spellcaster
 ==================================
 
 created by:
 ===========
-Wind + Pollen = Pollination
+Human + Incantation = Spellcaster
 
 Usages:
 =======
-Human + Pollination = Gardening
-Eruption + Pollination = Flowering
+Cinderella + Spellcaster = Fairy Godmother

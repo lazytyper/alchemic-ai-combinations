@@ -1,12 +1,10 @@
 ==================================
-= Jupiter
+= Gandalf
 ==================================
 
 created by:
 ===========
-Planet + Religion = Jupiter
+Wizard + Enlightenment = Gandalf
 
 Usages:
 =======
-Faith + Jupiter = Zeus
-Jupiter + Jupiter = Gas Giant

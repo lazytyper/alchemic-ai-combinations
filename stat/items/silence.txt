@@ -1,12 +1,12 @@
 ==================================
-= Pollination
+= Silence
 ==================================
 
 created by:
 ===========
-Wind + Pollen = Pollination
+Galaxy + Sound = Silence
 
 Usages:
 =======
-Human + Pollination = Gardening
-Eruption + Pollination = Flowering
+Human + Silence = Meditation
+Thunder + Silence = Whisper
