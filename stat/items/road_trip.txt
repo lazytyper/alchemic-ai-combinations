@@ -1,11 +1,10 @@
 ==================================
-= Race
+= Road Trip
 ==================================
 
 created by:
 ===========
-Cyclist + Cyclist
+Scenery + Race
 
 Usages:
 =======
-Scenery + Race = Road Trip

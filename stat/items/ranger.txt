@@ -1,11 +1,10 @@
 ==================================
-= Race
+= Ranger
 ==================================
 
 created by:
 ===========
-Cyclist + Cyclist
+Human + Forest
 
 Usages:
 =======
-Scenery + Race = Road Trip

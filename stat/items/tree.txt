@@ -8,3 +8,4 @@ Plant + Plant
 
 Usages:
 =======
+Tree + Tree = Forest

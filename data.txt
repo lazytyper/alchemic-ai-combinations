@@ -262,3 +262,6 @@ cyclist,cyclist,race
 photosynthesis,sunflower,energy_production
 flower,sun,sunflower
 fertilizer,plant,flower
+race,scenery,road_trip
+tree,tree,forest
+forest,human,ranger

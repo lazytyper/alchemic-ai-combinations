@@ -9,3 +9,4 @@ View + Landscape
 Usages:
 =======
 Cyclist + Scenery = Bicycle Tour
+Scenery + Race = Road Trip
