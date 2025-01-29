@@ -1,0 +1,14 @@
+Creations:
+==========
+Earth + Water = Mud
+
+Usages:
+=======
+Earth + Mud = Soil
+Mud + Mud = Clay
+Mud + Mist = Swamp
+Lava + Mud = Obsidian
+Life + Mud = Evolution
+Oxygen + Mud = Dirt
+Mud + Evolution = Amphibian
+Mud + Sun = Adobe

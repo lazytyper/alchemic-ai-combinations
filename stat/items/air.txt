@@ -1,0 +1,20 @@
+Creations:
+==========
+Oxygen + Atmosphere = Air
+
+Usages:
+=======
+Air + Air = Oxygen
+Air + Mist = Fog
+Air + Replica = Wind
+Air + Water = Mist
+Air + Fire = Smoke
+Air + Life = Breath
+Air + Earth = Dust
+Air + Dust = Pollen
+Air + Volcano = Smoke
+Air + Wind = Atmosphere
+Air + Steam = Cloud
+Air + Atmosphere = Sky
+Air + Soil = Plants
+Air + Paradise = Eden

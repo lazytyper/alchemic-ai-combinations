@@ -1,0 +1,8 @@
+Creations:
+==========
+Life + Swamp = Mudskipper
+
+Usages:
+=======
+Mudskipper + Mudskipper = Fish
+Mudskipper + Sushi = Sushiroll

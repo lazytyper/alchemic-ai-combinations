@@ -1,0 +1,8 @@
+Creations:
+==========
+Nature + Windflower = Anemone
+
+Usages:
+=======
+Anemone + Anemone = Duplicate
+Anemone + Replica = Fake Flower

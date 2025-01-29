@@ -1,0 +1,9 @@
+Creations:
+==========
+Earth + Mud = Soil
+
+Usages:
+=======
+Soil + Fish = Fertilizer
+Soil + Fertilizer = Plant
+Air + Soil = Plants

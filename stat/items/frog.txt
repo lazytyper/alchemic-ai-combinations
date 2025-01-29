@@ -1,0 +1,7 @@
+Creations:
+==========
+Island + Amphibian = Frog
+
+Usages:
+=======
+Frog + Frog = Toad

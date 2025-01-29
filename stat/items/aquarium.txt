@@ -1,0 +1,7 @@
+Creations:
+==========
+Fish + Environment = Aquarium
+
+Usages:
+=======
+Aquarium + Olympus = Poseidon

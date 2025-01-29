@@ -1,0 +1,9 @@
+Creations:
+==========
+Fire + Volcano = Eruption
+Volcano + Disaster = Eruption
+Life + Volcano = Eruption
+Volcano + Monarch = Eruption
+
+Usages:
+=======

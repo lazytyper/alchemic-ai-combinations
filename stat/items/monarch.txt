@@ -1,0 +1,9 @@
+Creations:
+==========
+Human + Queen = Monarch
+
+Usages:
+=======
+Volcano + Monarch = Eruption
+Monarch + Cloud = Cloudberry
+Samsara + Monarch = Reincarnation

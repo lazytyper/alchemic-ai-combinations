@@ -1,0 +1,10 @@
+Creations:
+==========
+Air + Water = Mist
+
+Usages:
+=======
+Ocean + Mist = Fog
+Mist + Hurricane = Fog
+Mud + Mist = Swamp
+Air + Mist = Fog

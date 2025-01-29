@@ -1,0 +1,8 @@
+Creations:
+==========
+Ocean + Mist = Fog
+Mist + Hurricane = Fog
+Air + Mist = Fog
+
+Usages:
+=======

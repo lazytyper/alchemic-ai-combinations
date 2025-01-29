@@ -1,0 +1,8 @@
+Creations:
+==========
+Atmosphere + Wind = Weather
+
+Usages:
+=======
+Wind + Weather = Storm
+Imitation + Weather = Climate Change

@@ -1,0 +1,15 @@
+Creations:
+==========
+Air + Replica = Wind
+
+Usages:
+=======
+Nature + Wind = Tornado
+Wind + Samsara = Cyclone
+Wind + Pollen = Pollination
+Air + Wind = Atmosphere
+Combustion + Wind = Turbine
+Wind + Weather = Storm
+Atmosphere + Wind = Weather
+Wind + Renewable Energy = Solar Power
+Wind + Wind = Hurricane

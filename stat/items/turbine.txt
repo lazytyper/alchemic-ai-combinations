@@ -1,0 +1,9 @@
+Creations:
+==========
+Combustion + Wind = Turbine
+
+Usages:
+=======
+Pottery + Turbine = Vase
+Turbine + Vase = Windflower
+Fire + Turbine = Power Plant

@@ -1,0 +1,8 @@
+Creations:
+==========
+Soil + Fertilizer = Plant
+
+Usages:
+=======
+Plant + Renewable Energy = Biofuel
+Plant + Plant = Tree

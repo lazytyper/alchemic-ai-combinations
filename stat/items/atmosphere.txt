@@ -1,0 +1,12 @@
+Creations:
+==========
+Air + Wind = Atmosphere
+
+Usages:
+=======
+Atmosphere + Atmosphere = Air Quality
+Oxygen + Atmosphere = Air
+Combustion + Atmosphere = Fire
+Earth + Atmosphere = Biosphere
+Air + Atmosphere = Sky
+Atmosphere + Wind = Weather

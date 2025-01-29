@@ -1,0 +1,7 @@
+Creations:
+==========
+Anemone + Anemone = Duplicate
+
+Usages:
+=======
+Duplicate + Duplicate = Copy

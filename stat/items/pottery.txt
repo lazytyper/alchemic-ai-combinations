@@ -1,0 +1,10 @@
+Creations:
+==========
+Clay + Nature = Pottery
+Fire + Clay = Pottery
+
+Usages:
+=======
+Pottery + Turbine = Vase
+Biosphere + Pottery = Clay Soil
+Pottery + Geyser = Hot Spring

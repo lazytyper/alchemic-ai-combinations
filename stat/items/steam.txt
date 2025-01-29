@@ -1,0 +1,12 @@
+Creations:
+==========
+Volcano + Water = Steam
+Fire + Ocean = Steam
+
+Usages:
+=======
+Steam + Fish = Sauna
+Earth + Steam = Geyser
+Air + Steam = Cloud
+Volcano + Steam = Hot Springs
+Steam + Landscape = Geysers

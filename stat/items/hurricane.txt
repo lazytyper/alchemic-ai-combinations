@@ -1,0 +1,8 @@
+Creations:
+==========
+Wind + Wind = Hurricane
+
+Usages:
+=======
+Mist + Hurricane = Fog
+Hurricane + Ecosystem = Disaster

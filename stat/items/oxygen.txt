@@ -1,0 +1,10 @@
+Creations:
+==========
+Air + Air = Oxygen
+
+Usages:
+=======
+Oxygen + Ocean = Life
+Oxygen + Atmosphere = Air
+Oxygen + Mud = Dirt
+Oxygen + Fire = Combustion
