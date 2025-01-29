@@ -1,9 +1,10 @@
-Marine Sanctuary
+==================================
+= Marine Sanctuary
 ==================================
 
 created by:
 ===========
-Mermaid + Aquatic Garden = Marine Sanctuary
+Mermaid + Aquatic Garden
 
 Usages:
 =======

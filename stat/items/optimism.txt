@@ -1,9 +1,10 @@
-Optimism
+==================================
+= Optimism
 ==================================
 
 created by:
 ===========
-Hope + Perspective = Optimism
+Hope + Perspective
 
 Usages:
 =======

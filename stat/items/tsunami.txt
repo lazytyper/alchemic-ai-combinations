@@ -1,9 +1,10 @@
-Tsunami
+==================================
+= Tsunami
 ==================================
 
 created by:
 ===========
-Inferno + Ocean = Tsunami
+Inferno + Ocean
 
 Usages:
 =======

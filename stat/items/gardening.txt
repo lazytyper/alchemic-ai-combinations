@@ -1,9 +1,10 @@
-Gardening
+==================================
+= Gardening
 ==================================
 
 created by:
 ===========
-Human + Pollination = Gardening
+Human + Pollination
 
 Usages:
 =======

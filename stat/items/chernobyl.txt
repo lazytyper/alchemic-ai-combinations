@@ -1,9 +1,10 @@
-Chernobyl
+==================================
+= Chernobyl
 ==================================
 
 created by:
 ===========
-Nuclear Disaster + Chimney = Chernobyl
+Nuclear Disaster + Chimney
 
 Usages:
 =======

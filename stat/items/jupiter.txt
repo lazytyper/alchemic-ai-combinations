@@ -1,9 +1,10 @@
-Jupiter
+==================================
+= Jupiter
 ==================================
 
 created by:
 ===========
-Planet + Religion = Jupiter
+Planet + Religion
 
 Usages:
 =======

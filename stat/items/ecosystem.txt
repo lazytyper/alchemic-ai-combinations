@@ -1,9 +1,10 @@
-Ecosystem
+==================================
+= Ecosystem
 ==================================
 
 created by:
 ===========
-Biosphere + Nature = Ecosystem
+Biosphere + Nature
 
 Usages:
 =======

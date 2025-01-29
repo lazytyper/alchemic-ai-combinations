@@ -1,9 +1,10 @@
-Cyclone
+==================================
+= Cyclone
 ==================================
 
 created by:
 ===========
-Wind + Samsara = Cyclone
+Wind + Samsara
 
 Usages:
 =======

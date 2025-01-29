@@ -1,10 +1,11 @@
-Smoke
+==================================
+= Smoke
 ==================================
 
 created by:
 ===========
-Air + Fire = Smoke
-Air + Volcano = Smoke
+Air + Fire
+Air + Volcano
 
 Usages:
 =======

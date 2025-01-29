@@ -1,9 +1,10 @@
-Allergy
+==================================
+= Allergy
 ==================================
 
 created by:
 ===========
-Pollen + Human = Allergy
+Pollen + Human
 
 Usages:
 =======

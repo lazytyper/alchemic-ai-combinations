@@ -1,9 +1,10 @@
-Turbine
+==================================
+= Turbine
 ==================================
 
 created by:
 ===========
-Combustion + Wind = Turbine
+Combustion + Wind
 
 Usages:
 =======

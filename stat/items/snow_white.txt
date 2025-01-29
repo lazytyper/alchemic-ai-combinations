@@ -1,9 +1,10 @@
-Snow White
+==================================
+= Snow White
 ==================================
 
 created by:
 ===========
-Mirror + Mirror = Snow White
+Mirror + Mirror
 
 Usages:
 =======

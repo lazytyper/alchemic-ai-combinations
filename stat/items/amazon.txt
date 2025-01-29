@@ -1,9 +1,10 @@
-Amazon
+==================================
+= Amazon
 ==================================
 
 created by:
 ===========
-Jungle + Tribe = Amazon
+Jungle + Tribe
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Geyser
+==================================
+= Geyser
 ==================================
 
 created by:
 ===========
-Earth + Steam = Geyser
+Earth + Steam
 
 Usages:
 =======

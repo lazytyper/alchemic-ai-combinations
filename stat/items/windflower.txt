@@ -1,9 +1,10 @@
-Windflower
+==================================
+= Windflower
 ==================================
 
 created by:
 ===========
-Turbine + Vase = Windflower
+Turbine + Vase
 
 Usages:
 =======

@@ -1,10 +1,11 @@
-Sauna
+==================================
+= Sauna
 ==================================
 
 created by:
 ===========
-Steam + Fish = Sauna
-Sweat Lodge + Steam Room = Sauna
+Steam + Fish
+Sweat Lodge + Steam Room
 
 Usages:
 =======

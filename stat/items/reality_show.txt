@@ -1,9 +1,10 @@
-Reality Show
+==================================
+= Reality Show
 ==================================
 
 created by:
 ===========
-Survivor + Survivor = Reality Show
+Survivor + Survivor
 
 Usages:
 =======

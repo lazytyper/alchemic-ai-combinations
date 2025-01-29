@@ -1,9 +1,10 @@
-Homo Sapiens
+==================================
+= Homo Sapiens
 ==================================
 
 created by:
 ===========
-Evolution + Human = Homo Sapiens
+Evolution + Human
 
 Usages:
 =======

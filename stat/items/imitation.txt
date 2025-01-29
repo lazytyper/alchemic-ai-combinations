@@ -1,10 +1,11 @@
-Imitation
+==================================
+= Imitation
 ==================================
 
 created by:
 ===========
-Copy + Copycat = Imitation
-Copycat + Ecosystem = Imitation
+Copy + Copycat
+Copycat + Ecosystem
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Shipwreck
+==================================
+= Shipwreck
 ==================================
 
 created by:
 ===========
-Island + Storm = Shipwreck
+Island + Storm
 
 Usages:
 =======

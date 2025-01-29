@@ -1,9 +1,10 @@
-Magma Lamp
+==================================
+= Magma Lamp
 ==================================
 
 created by:
 ===========
-Lava Lamp + Clay Soil = Magma Lamp
+Lava Lamp + Clay Soil
 
 Usages:
 =======

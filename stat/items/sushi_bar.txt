@@ -1,9 +1,10 @@
-Sushi Bar
+==================================
+= Sushi Bar
 ==================================
 
 created by:
 ===========
-Fish + Steam Room = Sushi Bar
+Fish + Steam Room
 
 Usages:
 =======

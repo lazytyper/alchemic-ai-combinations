@@ -1,9 +1,10 @@
-Mudskipper
+==================================
+= Mudskipper
 ==================================
 
 created by:
 ===========
-Life + Swamp = Mudskipper
+Life + Swamp
 
 Usages:
 =======

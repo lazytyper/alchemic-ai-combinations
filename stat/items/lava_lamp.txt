@@ -1,9 +1,10 @@
-Lava Lamp
+==================================
+= Lava Lamp
 ==================================
 
 created by:
 ===========
-Ocean + Volcano = Lava Lamp
+Ocean + Volcano
 
 Usages:
 =======

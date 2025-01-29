@@ -1,9 +1,10 @@
-View
+==================================
+= View
 ==================================
 
 created by:
 ===========
-Horizon + Landscape = View
+Horizon + Landscape
 
 Usages:
 =======

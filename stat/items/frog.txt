@@ -1,9 +1,10 @@
-Frog
+==================================
+= Frog
 ==================================
 
 created by:
 ===========
-Island + Amphibian = Frog
+Island + Amphibian
 
 Usages:
 =======

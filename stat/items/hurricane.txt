@@ -1,9 +1,10 @@
-Hurricane
+==================================
+= Hurricane
 ==================================
 
 created by:
 ===========
-Wind + Wind = Hurricane
+Wind + Wind
 
 Usages:
 =======

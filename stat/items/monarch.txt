@@ -1,9 +1,10 @@
-Monarch
+==================================
+= Monarch
 ==================================
 
 created by:
 ===========
-Human + Queen = Monarch
+Human + Queen
 
 Usages:
 =======

@@ -1,10 +1,11 @@
-Garden
+==================================
+= Garden
 ==================================
 
 created by:
 ===========
-Sacrifice + Eden = Garden
-Earth + Paradise = Garden
+Sacrifice + Eden
+Earth + Paradise
 
 Usages:
 =======

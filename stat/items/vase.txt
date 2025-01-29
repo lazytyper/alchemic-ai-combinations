@@ -1,9 +1,10 @@
-Vase
+==================================
+= Vase
 ==================================
 
 created by:
 ===========
-Pottery + Turbine = Vase
+Pottery + Turbine
 
 Usages:
 =======

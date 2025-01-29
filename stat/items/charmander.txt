@@ -1,9 +1,10 @@
-Charmander
+==================================
+= Charmander
 ==================================
 
 created by:
 ===========
-Fire + Evolution = Charmander
+Fire + Evolution
 
 Usages:
 =======

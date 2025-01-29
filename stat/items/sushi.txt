@@ -1,9 +1,10 @@
-Sushi
+==================================
+= Sushi
 ==================================
 
 created by:
 ===========
-Fish + Sushi Bar = Sushi
+Fish + Sushi Bar
 
 Usages:
 =======

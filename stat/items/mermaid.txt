@@ -1,9 +1,10 @@
-Mermaid
+==================================
+= Mermaid
 ==================================
 
 created by:
 ===========
-Fish + Human = Mermaid
+Fish + Human
 
 Usages:
 =======

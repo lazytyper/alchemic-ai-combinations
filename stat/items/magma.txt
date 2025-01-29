@@ -1,9 +1,10 @@
-Magma
+==================================
+= Magma
 ==================================
 
 created by:
 ===========
-Earth + Earth + Fire = Magma
+Earth + Earth + Fire
 
 Usages:
 =======

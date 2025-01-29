@@ -1,9 +1,10 @@
-Horizon
+==================================
+= Horizon
 ==================================
 
 created by:
 ===========
-Earth + Sky = Horizon
+Earth + Sky
 
 Usages:
 =======

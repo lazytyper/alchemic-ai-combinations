@@ -1,9 +1,10 @@
-Fire
+==================================
+= Fire
 ==================================
 
 created by:
 ===========
-Combustion + Atmosphere = Fire
+Combustion + Atmosphere
 
 Usages:
 =======

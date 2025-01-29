@@ -1,9 +1,10 @@
-Eden
+==================================
+= Eden
 ==================================
 
 created by:
 ===========
-Air + Paradise = Eden
+Air + Paradise
 
 Usages:
 =======

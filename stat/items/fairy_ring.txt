@@ -1,9 +1,10 @@
-Fairy Ring
+==================================
+= Fairy Ring
 ==================================
 
 created by:
 ===========
-Garden + Toadstool = Fairy Ring
+Garden + Toadstool
 
 Usages:
 =======

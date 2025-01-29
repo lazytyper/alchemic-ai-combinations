@@ -1,10 +1,11 @@
-Witch
+==================================
+= Witch
 ==================================
 
 created by:
 ===========
-Human + Toadstool = Witch
-Fire + Life + Swamp = Witch
+Human + Toadstool
+Fire + Life + Swamp
 
 Usages:
 =======

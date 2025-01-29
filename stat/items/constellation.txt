@@ -1,9 +1,10 @@
-Constellation
+==================================
+= Constellation
 ==================================
 
 created by:
 ===========
-Sky + Family = Constellation
+Sky + Family
 
 Usages:
 =======

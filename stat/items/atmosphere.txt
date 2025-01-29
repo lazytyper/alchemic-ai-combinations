@@ -1,9 +1,10 @@
-Atmosphere
+==================================
+= Atmosphere
 ==================================
 
 created by:
 ===========
-Air + Wind = Atmosphere
+Air + Wind
 
 Usages:
 =======

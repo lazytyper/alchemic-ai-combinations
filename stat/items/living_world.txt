@@ -1,9 +1,10 @@
-Living World
+==================================
+= Living World
 ==================================
 
 created by:
 ===========
-Life + Planet = Living World
+Life + Planet
 
 Usages:
 =======

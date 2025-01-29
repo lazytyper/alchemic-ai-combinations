@@ -1,9 +1,10 @@
-Aquarium
+==================================
+= Aquarium
 ==================================
 
 created by:
 ===========
-Fish + Environment = Aquarium
+Fish + Environment
 
 Usages:
 =======

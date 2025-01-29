@@ -1,9 +1,10 @@
-Copycat
+==================================
+= Copycat
 ==================================
 
 created by:
 ===========
-Nature + Copy = Copycat
+Nature + Copy
 
 Usages:
 =======

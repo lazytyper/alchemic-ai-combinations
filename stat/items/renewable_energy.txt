@@ -1,9 +1,10 @@
-Renewable Energy
+==================================
+= Renewable Energy
 ==================================
 
 created by:
 ===========
-Solar Panel + Solar Panel = Renewable Energy
+Solar Panel + Solar Panel
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Planet
+==================================
+= Planet
 ==================================
 
 created by:
 ===========
-Earth + Earth = Planet
+Earth + Earth
 
 Usages:
 =======

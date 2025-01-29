@@ -1,9 +1,10 @@
-Muad'dib
+==================================
+= Muad'dib
 ==================================
 
 created by:
 ===========
-Fire + Blue Planet = Muad'dib
+Fire + Blue Planet
 
 Usages:
 =======

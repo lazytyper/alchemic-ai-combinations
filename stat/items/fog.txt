@@ -1,11 +1,12 @@
-Fog
+==================================
+= Fog
 ==================================
 
 created by:
 ===========
-Ocean + Mist = Fog
-Mist + Hurricane = Fog
-Air + Mist = Fog
+Ocean + Mist
+Mist + Hurricane
+Air + Mist
 
 Usages:
 =======

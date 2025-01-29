@@ -1,9 +1,10 @@
-Jungle
+==================================
+= Jungle
 ==================================
 
 created by:
 ===========
-Life + Marsupilami = Jungle
+Life + Marsupilami
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Wildfire
+==================================
+= Wildfire
 ==================================
 
 created by:
 ===========
-Fire + Biosphere = Wildfire
+Fire + Biosphere
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Horoscope
+==================================
+= Horoscope
 ==================================
 
 created by:
 ===========
-Venus + Astrology = Horoscope
+Venus + Astrology
 
 Usages:
 =======

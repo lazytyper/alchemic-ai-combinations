@@ -1,9 +1,10 @@
-Cloudscape
+==================================
+= Cloudscape
 ==================================
 
 created by:
 ===========
-Island + Sky = Cloudscape
+Island + Sky
 
 Usages:
 =======

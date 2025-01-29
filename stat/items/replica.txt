@@ -1,9 +1,10 @@
-Replica
+==================================
+= Replica
 ==================================
 
 created by:
 ===========
-Copycat + Imitation = Replica
+Copycat + Imitation
 
 Usages:
 =======

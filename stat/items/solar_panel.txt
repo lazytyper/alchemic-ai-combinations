@@ -1,9 +1,10 @@
-Solar Panel
+==================================
+= Solar Panel
 ==================================
 
 created by:
 ===========
-Sun + Mirror = Solar Panel
+Sun + Mirror
 
 Usages:
 =======

@@ -1,12 +1,13 @@
-Eruption
+==================================
+= Eruption
 ==================================
 
 created by:
 ===========
-Fire + Volcano = Eruption
-Volcano + Disaster = Eruption
-Life + Volcano = Eruption
-Volcano + Monarch = Eruption
+Fire + Volcano
+Volcano + Disaster
+Life + Volcano
+Volcano + Monarch
 
 Usages:
 =======

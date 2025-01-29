@@ -1,9 +1,10 @@
-Dragon Cult
+==================================
+= Dragon Cult
 ==================================
 
 created by:
 ===========
-Society + Charizard = Dragon Cult
+Society + Charizard
 
 Usages:
 =======

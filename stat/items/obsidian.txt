@@ -1,9 +1,10 @@
-Obsidian
+==================================
+= Obsidian
 ==================================
 
 created by:
 ===========
-Lava + Mud = Obsidian
+Lava + Mud
 
 Usages:
 =======

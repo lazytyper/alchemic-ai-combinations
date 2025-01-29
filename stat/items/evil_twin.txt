@@ -1,9 +1,10 @@
-Evil Twin
+==================================
+= Evil Twin
 ==================================
 
 created by:
 ===========
-Reflection + Satan = Evil Twin
+Reflection + Satan
 
 Usages:
 =======

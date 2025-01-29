@@ -1,9 +1,10 @@
-Toadstool
+==================================
+= Toadstool
 ==================================
 
 created by:
 ===========
-Cloudscape + Toad = Toadstool
+Cloudscape + Toad
 
 Usages:
 =======

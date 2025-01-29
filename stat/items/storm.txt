@@ -1,9 +1,10 @@
-Storm
+==================================
+= Storm
 ==================================
 
 created by:
 ===========
-Wind + Weather = Storm
+Wind + Weather
 
 Usages:
 =======

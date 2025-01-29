@@ -1,9 +1,10 @@
-Volcano Roll
+==================================
+= Volcano Roll
 ==================================
 
 created by:
 ===========
-Sushi Bar + Magma = Volcano Roll
+Sushi Bar + Magma
 
 Usages:
 =======

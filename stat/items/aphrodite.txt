@@ -1,9 +1,10 @@
-Aphrodite
+==================================
+= Aphrodite
 ==================================
 
 created by:
 ===========
-Venus + Venus = Aphrodite
+Venus + Venus
 
 Usages:
 =======

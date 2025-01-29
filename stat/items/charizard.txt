@@ -1,9 +1,10 @@
-Charizard
+==================================
+= Charizard
 ==================================
 
 created by:
 ===========
-Fire + Evolution = Charizard
+Fire + Evolution
 
 Usages:
 =======

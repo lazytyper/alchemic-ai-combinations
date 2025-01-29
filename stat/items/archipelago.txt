@@ -1,9 +1,10 @@
-Archipelago
+==================================
+= Archipelago
 ==================================
 
 created by:
 ===========
-Island + Island = Archipelago
+Island + Island
 
 Usages:
 =======

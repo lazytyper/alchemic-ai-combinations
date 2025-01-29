@@ -1,10 +1,11 @@
-Pottery
+==================================
+= Pottery
 ==================================
 
 created by:
 ===========
-Clay + Nature = Pottery
-Fire + Clay = Pottery
+Clay + Nature
+Fire + Clay
 
 Usages:
 =======

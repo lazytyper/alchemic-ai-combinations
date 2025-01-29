@@ -1,9 +1,10 @@
-Ocean Vista
+==================================
+= Ocean Vista
 ==================================
 
 created by:
 ===========
-View + Poseidon = Ocean Vista
+View + Poseidon
 
 Usages:
 =======

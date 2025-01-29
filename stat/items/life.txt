@@ -1,10 +1,11 @@
-Life
+==================================
+= Life
 ==================================
 
 created by:
 ===========
-Oxygen + Ocean = Life
-Planet + Evolution = Life
+Oxygen + Ocean
+Planet + Evolution
 
 Usages:
 =======

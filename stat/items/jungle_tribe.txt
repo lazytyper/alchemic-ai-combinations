@@ -1,9 +1,10 @@
-Jungle Tribe
+==================================
+= Jungle Tribe
 ==================================
 
 created by:
 ===========
-Community + Tarzan = Jungle Tribe
+Community + Tarzan
 
 Usages:
 =======

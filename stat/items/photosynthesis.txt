@@ -1,9 +1,10 @@
-Photosynthesis
+==================================
+= Photosynthesis
 ==================================
 
 created by:
 ===========
-Life + Sun = Photosynthesis
+Life + Sun
 
 Usages:
 =======

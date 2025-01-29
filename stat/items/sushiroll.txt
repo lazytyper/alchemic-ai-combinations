@@ -1,9 +1,10 @@
-Sushiroll
+==================================
+= Sushiroll
 ==================================
 
 created by:
 ===========
-Mudskipper + Sushi = Sushiroll
+Mudskipper + Sushi
 
 Usages:
 =======

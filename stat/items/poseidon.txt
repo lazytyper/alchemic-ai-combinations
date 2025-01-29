@@ -1,9 +1,10 @@
-Poseidon
+==================================
+= Poseidon
 ==================================
 
 created by:
 ===========
-Aquarium + Olympus = Poseidon
+Aquarium + Olympus
 
 Usages:
 =======

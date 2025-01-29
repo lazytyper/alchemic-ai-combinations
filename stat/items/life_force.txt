@@ -1,9 +1,10 @@
-Life Force
+==================================
+= Life Force
 ==================================
 
 created by:
 ===========
-Human + Energy = Life Force
+Human + Energy
 
 Usages:
 =======

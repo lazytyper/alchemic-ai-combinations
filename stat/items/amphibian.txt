@@ -1,9 +1,10 @@
-Amphibian
+==================================
+= Amphibian
 ==================================
 
 created by:
 ===========
-Mud + Evolution = Amphibian
+Mud + Evolution
 
 Usages:
 =======

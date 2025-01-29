@@ -1,9 +1,10 @@
-Spell
+==================================
+= Spell
 ==================================
 
 created by:
 ===========
-Smoke + Witch = Spell
+Smoke + Witch
 
 Usages:
 =======

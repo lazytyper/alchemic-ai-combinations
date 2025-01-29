@@ -1,10 +1,11 @@
-Firestorm
+==================================
+= Firestorm
 ==================================
 
 created by:
 ===========
-Combustion + Storm = Firestorm
-Cloud + Salamander = Firestorm
+Combustion + Storm
+Cloud + Salamander
 
 Usages:
 =======

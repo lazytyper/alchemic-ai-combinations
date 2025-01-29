@@ -1,9 +1,10 @@
-Combustion
+==================================
+= Combustion
 ==================================
 
 created by:
 ===========
-Oxygen + Fire = Combustion
+Oxygen + Fire
 
 Usages:
 =======

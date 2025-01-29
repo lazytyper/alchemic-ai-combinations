@@ -1,9 +1,10 @@
-Fake Flower
+==================================
+= Fake Flower
 ==================================
 
 created by:
 ===========
-Anemone + Replica = Fake Flower
+Anemone + Replica
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Cupid
+==================================
+= Cupid
 ==================================
 
 created by:
 ===========
-Aphrodite + Love Potion = Cupid
+Aphrodite + Love Potion
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Duplicate
+==================================
+= Duplicate
 ==================================
 
 created by:
 ===========
-Anemone + Anemone = Duplicate
+Anemone + Anemone
 
 Usages:
 =======

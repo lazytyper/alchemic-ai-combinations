@@ -1,10 +1,11 @@
-Island
+==================================
+= Island
 ==================================
 
 created by:
 ===========
-Ocean + Paradise = Island
-Earth + Ocean = Island
+Ocean + Paradise
+Earth + Ocean
 
 Usages:
 =======

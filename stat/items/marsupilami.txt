@@ -1,9 +1,10 @@
-Marsupilami
+==================================
+= Marsupilami
 ==================================
 
 created by:
 ===========
-Planet + Reincarnation = Marsupilami
+Planet + Reincarnation
 
 Usages:
 =======

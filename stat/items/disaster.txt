@@ -1,11 +1,12 @@
-Disaster
+==================================
+= Disaster
 ==================================
 
 created by:
 ===========
-Air Quality + Tsunami = Disaster
-Hurricane + Ecosystem = Disaster
-Chernobyl + Chernobyl = Disaster
+Air Quality + Tsunami
+Hurricane + Ecosystem
+Chernobyl + Chernobyl
 
 Usages:
 =======

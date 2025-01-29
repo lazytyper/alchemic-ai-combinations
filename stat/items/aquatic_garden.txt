@@ -1,9 +1,10 @@
-Aquatic Garden
+==================================
+= Aquatic Garden
 ==================================
 
 created by:
 ===========
-Horticulture + Mermaid = Aquatic Garden
+Horticulture + Mermaid
 
 Usages:
 =======

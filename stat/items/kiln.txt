@@ -1,9 +1,10 @@
-Kiln
+==================================
+= Kiln
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+Fire + Mudbrick
 
 Usages:
 =======

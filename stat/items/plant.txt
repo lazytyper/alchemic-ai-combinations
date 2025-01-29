@@ -1,9 +1,10 @@
-Plant
+==================================
+= Plant
 ==================================
 
 created by:
 ===========
-Soil + Fertilizer = Plant
+Soil + Fertilizer
 
 Usages:
 =======

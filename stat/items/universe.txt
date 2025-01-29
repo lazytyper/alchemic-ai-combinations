@@ -1,9 +1,10 @@
-Universe
+==================================
+= Universe
 ==================================
 
 created by:
 ===========
-Galaxy + Galaxy = Universe
+Galaxy + Galaxy
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Hot Springs
+==================================
+= Hot Springs
 ==================================
 
 created by:
 ===========
-Volcano + Steam = Hot Springs
+Volcano + Steam
 
 Usages:
 =======

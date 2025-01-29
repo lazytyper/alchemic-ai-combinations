@@ -1,9 +1,10 @@
-Weather
+==================================
+= Weather
 ==================================
 
 created by:
 ===========
-Atmosphere + Wind = Weather
+Atmosphere + Wind
 
 Usages:
 =======

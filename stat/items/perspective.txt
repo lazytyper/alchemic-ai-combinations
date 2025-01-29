@@ -1,9 +1,10 @@
-Perspective
+==================================
+= Perspective
 ==================================
 
 created by:
 ===========
-View + Corruption = Perspective
+View + Corruption
 
 Usages:
 =======

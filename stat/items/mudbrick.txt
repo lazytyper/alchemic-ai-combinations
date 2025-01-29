@@ -1,9 +1,10 @@
-Mudbrick
+==================================
+= Mudbrick
 ==================================
 
 created by:
 ===========
-Sun + Adobe = Mudbrick
+Sun + Adobe
 
 Usages:
 =======

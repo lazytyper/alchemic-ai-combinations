@@ -1,9 +1,10 @@
-Milky Way
+==================================
+= Milky Way
 ==================================
 
 created by:
 ===========
-Arrow + Galaxy = Milky Way
+Arrow + Galaxy
 
 Usages:
 =======

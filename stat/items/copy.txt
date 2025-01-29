@@ -1,9 +1,10 @@
-Copy
+==================================
+= Copy
 ==================================
 
 created by:
 ===========
-Duplicate + Duplicate = Copy
+Duplicate + Duplicate
 
 Usages:
 =======

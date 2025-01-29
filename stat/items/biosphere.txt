@@ -1,10 +1,11 @@
-Biosphere
+==================================
+= Biosphere
 ==================================
 
 created by:
 ===========
-Earth + Atmosphere = Biosphere
-Living World + Living World = Biosphere
+Earth + Atmosphere
+Living World + Living World
 
 Usages:
 =======

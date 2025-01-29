@@ -1,9 +1,10 @@
-Energy
+==================================
+= Energy
 ==================================
 
 created by:
 ===========
-Fire + Biofuel = Energy
+Fire + Biofuel
 
 Usages:
 =======

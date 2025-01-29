@@ -1,9 +1,10 @@
-Sweat Lodge
+==================================
+= Sweat Lodge
 ==================================
 
 created by:
 ===========
-Reincarnation + Sauna = Sweat Lodge
+Reincarnation + Sauna
 
 Usages:
 =======

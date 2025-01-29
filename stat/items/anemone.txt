@@ -1,9 +1,10 @@
-Anemone
+==================================
+= Anemone
 ==================================
 
 created by:
 ===========
-Nature + Windflower = Anemone
+Nature + Windflower
 
 Usages:
 =======

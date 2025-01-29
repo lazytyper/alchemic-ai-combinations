@@ -166,7 +166,8 @@ itemIds.forEach(id => {
     const combinations = listCombinationsWith(name);
 
     let content = [
-        formatElement(name),
+        '==================================',
+        '= ' + formatElement(name),
         '==================================',
         ''
     ];
@@ -174,7 +175,7 @@ itemIds.forEach(id => {
     content.push('created by:');
     content.push('===========')
     for (let c of combinations.creations) {
-        content.push(c.names.map(formatElement).join(' + ') + ' = ' + formatElement(c.resultName));
+        content.push(c.names.map(formatElement).join(' + '));
     }
     content.push('');
     content.push('Usages:');

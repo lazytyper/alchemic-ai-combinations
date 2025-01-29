@@ -1,9 +1,10 @@
-Reflection
+==================================
+= Reflection
 ==================================
 
 created by:
 ===========
-Fukushima + Mirror = Reflection
+Fukushima + Mirror
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Lost City
+==================================
+= Lost City
 ==================================
 
 created by:
 ===========
-Marine Biologist + Atlantis = Lost City
+Marine Biologist + Atlantis
 
 Usages:
 =======

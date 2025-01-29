@@ -1,9 +1,10 @@
-Inferno
+==================================
+= Inferno
 ==================================
 
 created by:
 ===========
-Fire + Fire = Inferno
+Fire + Fire
 
 Usages:
 =======

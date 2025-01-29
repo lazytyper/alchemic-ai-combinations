@@ -1,9 +1,10 @@
-Bribery
+==================================
+= Bribery
 ==================================
 
 created by:
 ===========
-Corruption + Society = Bribery
+Corruption + Society
 
 Usages:
 =======

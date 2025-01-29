@@ -1,9 +1,10 @@
-Pollination
+==================================
+= Pollination
 ==================================
 
 created by:
 ===========
-Wind + Pollen = Pollination
+Wind + Pollen
 
 Usages:
 =======

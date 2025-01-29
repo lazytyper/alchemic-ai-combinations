@@ -1,9 +1,10 @@
-Agriculture
+==================================
+= Agriculture
 ==================================
 
 created by:
 ===========
-Life + Farmland = Agriculture
+Life + Farmland
 
 Usages:
 =======

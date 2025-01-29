@@ -1,9 +1,10 @@
-Cosmic Expanse
+==================================
+= Cosmic Expanse
 ==================================
 
 created by:
 ===========
-Solar System + Universe = Cosmic Expanse
+Solar System + Universe
 
 Usages:
 =======

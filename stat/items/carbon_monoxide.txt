@@ -1,9 +1,10 @@
-Carbon Monoxide
+==================================
+= Carbon Monoxide
 ==================================
 
 created by:
 ===========
-Fire + Carbon Dioxide = Carbon Monoxide
+Fire + Carbon Dioxide
 
 Usages:
 =======

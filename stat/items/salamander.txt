@@ -1,9 +1,10 @@
-Salamander
+==================================
+= Salamander
 ==================================
 
 created by:
 ===========
-Homo Sapiens + Charmander = Salamander
+Homo Sapiens + Charmander
 
 Usages:
 =======

@@ -1,11 +1,12 @@
-Galaxy
+==================================
+= Galaxy
 ==================================
 
 created by:
 ===========
-Arrow + Milky Way = Galaxy
-Solar System + Solar System = Galaxy
-Milky Way + Hot Spring = Galaxy
+Arrow + Milky Way
+Solar System + Solar System
+Milky Way + Hot Spring
 
 Usages:
 =======

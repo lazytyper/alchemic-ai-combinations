@@ -1,9 +1,10 @@
-Love Potion
+==================================
+= Love Potion
 ==================================
 
 created by:
 ===========
-Aphrodite + Fireball = Love Potion
+Aphrodite + Fireball
 
 Usages:
 =======

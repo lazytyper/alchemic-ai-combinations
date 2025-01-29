@@ -1,9 +1,10 @@
-Hot Spring
+==================================
+= Hot Spring
 ==================================
 
 created by:
 ===========
-Pottery + Geyser = Hot Spring
+Pottery + Geyser
 
 Usages:
 =======

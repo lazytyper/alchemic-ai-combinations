@@ -1,9 +1,10 @@
-Queen
+==================================
+= Queen
 ==================================
 
 created by:
 ===========
-Evil + Snow White = Queen
+Evil + Snow White
 
 Usages:
 =======

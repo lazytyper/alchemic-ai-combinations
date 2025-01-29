@@ -1,9 +1,10 @@
-Fireball
+==================================
+= Fireball
 ==================================
 
 created by:
 ===========
-Flame + Flame = Fireball
+Flame + Flame
 
 Usages:
 =======

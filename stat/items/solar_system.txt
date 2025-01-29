@@ -1,9 +1,10 @@
-Solar System
+==================================
+= Solar System
 ==================================
 
 created by:
 ===========
-Earth + Sun = Solar System
+Earth + Sun
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Zeus
+==================================
+= Zeus
 ==================================
 
 created by:
 ===========
-Faith + Jupiter = Zeus
+Faith + Jupiter
 
 Usages:
 =======

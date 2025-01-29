@@ -1,9 +1,10 @@
-Fukushima
+==================================
+= Fukushima
 ==================================
 
 created by:
 ===========
-Tsunami + Disaster = Fukushima
+Tsunami + Disaster
 
 Usages:
 =======

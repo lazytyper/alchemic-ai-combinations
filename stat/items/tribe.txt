@@ -1,9 +1,10 @@
-Tribe
+==================================
+= Tribe
 ==================================
 
 created by:
 ===========
-Community + Survivor = Tribe
+Community + Survivor
 
 Usages:
 =======

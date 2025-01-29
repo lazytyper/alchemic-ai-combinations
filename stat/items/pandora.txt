@@ -1,9 +1,10 @@
-Pandora
+==================================
+= Pandora
 ==================================
 
 created by:
 ===========
-Planet + Jungle = Pandora
+Planet + Jungle
 
 Usages:
 =======

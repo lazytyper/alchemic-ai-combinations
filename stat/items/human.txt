@@ -1,9 +1,10 @@
-Human
+==================================
+= Human
 ==================================
 
 created by:
 ===========
-Fire + Evolution = Human
+Fire + Evolution
 
 Usages:
 =======

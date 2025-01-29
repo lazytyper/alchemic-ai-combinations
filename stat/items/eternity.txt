@@ -1,9 +1,10 @@
-Eternity
+==================================
+= Eternity
 ==================================
 
 created by:
 ===========
-Life + Life = Eternity
+Life + Life
 
 Usages:
 =======

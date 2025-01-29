@@ -1,9 +1,10 @@
-Survivor
+==================================
+= Survivor
 ==================================
 
 created by:
 ===========
-Island + Shipwreck = Survivor
+Island + Shipwreck
 
 Usages:
 =======

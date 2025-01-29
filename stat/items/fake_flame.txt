@@ -1,9 +1,10 @@
-Fake Flame
+==================================
+= Fake Flame
 ==================================
 
 created by:
 ===========
-Fire + Imitation = Fake Flame
+Fire + Imitation
 
 Usages:
 =======

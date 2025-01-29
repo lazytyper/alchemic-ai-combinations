@@ -1,9 +1,10 @@
-Lovebirds
+==================================
+= Lovebirds
 ==================================
 
 created by:
 ===========
-Cupid + Rainforest = Lovebirds
+Cupid + Rainforest
 
 Usages:
 =======

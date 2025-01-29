@@ -1,9 +1,10 @@
-Eco-friendly Cuisine
+==================================
+= Eco-friendly Cuisine
 ==================================
 
 created by:
 ===========
-Sushi + Environment = Eco-friendly Cuisine
+Sushi + Environment
 
 Usages:
 =======

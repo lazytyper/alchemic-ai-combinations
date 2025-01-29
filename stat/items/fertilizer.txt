@@ -1,9 +1,10 @@
-Fertilizer
+==================================
+= Fertilizer
 ==================================
 
 created by:
 ===========
-Soil + Fish = Fertilizer
+Soil + Fish
 
 Usages:
 =======

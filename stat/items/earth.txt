@@ -1,9 +1,10 @@
-Earth
+==================================
+= Earth
 ==================================
 
 created by:
 ===========
-Water + Blue Planet = Earth
+Water + Blue Planet
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Greenpeace
+==================================
+= Greenpeace
 ==================================
 
 created by:
 ===========
-Nature + Sushi = Greenpeace
+Nature + Sushi
 
 Usages:
 =======

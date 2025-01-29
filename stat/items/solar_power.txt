@@ -1,9 +1,10 @@
-Solar Power
+==================================
+= Solar Power
 ==================================
 
 created by:
 ===========
-Wind + Renewable Energy = Solar Power
+Wind + Renewable Energy
 
 Usages:
 =======

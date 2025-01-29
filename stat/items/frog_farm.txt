@@ -1,9 +1,10 @@
-Frog Farm
+==================================
+= Frog Farm
 ==================================
 
 created by:
 ===========
-Island + Amphibian + Agribusiness = Frog Farm
+Island + Amphibian + Agribusiness
 
 Usages:
 =======

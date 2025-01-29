@@ -1,9 +1,10 @@
-Shamanism
+==================================
+= Shamanism
 ==================================
 
 created by:
 ===========
-Jungle Tribe + Mysticism = Shamanism
+Jungle Tribe + Mysticism
 
 Usages:
 =======

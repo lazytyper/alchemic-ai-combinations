@@ -1,9 +1,10 @@
-Chimney
+==================================
+= Chimney
 ==================================
 
 created by:
 ===========
-Evolution + Smoke = Chimney
+Evolution + Smoke
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Olympus
+==================================
+= Olympus
 ==================================
 
 created by:
 ===========
-View + Zeus = Olympus
+View + Zeus
 
 Usages:
 =======

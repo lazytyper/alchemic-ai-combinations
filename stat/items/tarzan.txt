@@ -1,9 +1,10 @@
-Tarzan
+==================================
+= Tarzan
 ==================================
 
 created by:
 ===========
-Jungle + Shipwreck = Tarzan
+Jungle + Shipwreck
 
 Usages:
 =======

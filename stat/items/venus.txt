@@ -1,9 +1,10 @@
-Venus
+==================================
+= Venus
 ==================================
 
 created by:
 ===========
-Inferno + Planet = Venus
+Inferno + Planet
 
 Usages:
 =======

@@ -1,9 +1,10 @@
-Arrow
+==================================
+= Arrow
 ==================================
 
 created by:
 ===========
-Cupid + Love = Arrow
+Cupid + Love
 
 Usages:
 =======

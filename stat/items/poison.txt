@@ -1,9 +1,10 @@
-Poison
+==================================
+= Poison
 ==================================
 
 created by:
 ===========
-Arrow + Toadstool = Poison
+Arrow + Toadstool
 
 Usages:
 =======

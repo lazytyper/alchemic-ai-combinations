@@ -1,9 +1,10 @@
-Atlantis
+==================================
+= Atlantis
 ==================================
 
 created by:
 ===========
-Ocean + Lost Civilization = Atlantis
+Ocean + Lost Civilization
 
 Usages:
 =======

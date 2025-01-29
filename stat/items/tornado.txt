@@ -1,9 +1,10 @@
-Tornado
+==================================
+= Tornado
 ==================================
 
 created by:
 ===========
-Nature + Wind = Tornado
+Nature + Wind
 
 Usages:
 =======

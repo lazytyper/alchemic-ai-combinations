@@ -1,10 +1,11 @@
-Steam
+==================================
+= Steam
 ==================================
 
 created by:
 ===========
-Volcano + Water = Steam
-Fire + Ocean = Steam
+Volcano + Water
+Fire + Ocean
 
 Usages:
 =======

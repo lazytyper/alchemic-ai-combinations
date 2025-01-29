@@ -1,9 +1,10 @@
-Firebender
+==================================
+= Firebender
 ==================================
 
 created by:
 ===========
-Human + Flame = Firebender
+Human + Flame
 
 Usages:
 =======
