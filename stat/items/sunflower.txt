@@ -1,12 +1,11 @@
 ==================================
-= Bicycle
+= Sunflower
 ==================================
 
 created by:
 ===========
-Carbon Dioxide + Skycycle
+Sun + Flower
 
 Usages:
 =======
-Human + Bicycle = Cyclist
-Energy + Bicycle = Pedal
+Photosynthesis + Sunflower = Energy Production

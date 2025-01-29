@@ -9,3 +9,4 @@ Soil + Fish
 Usages:
 =======
 Soil + Fertilizer = Plant
+Fertilizer + Plant = Flower

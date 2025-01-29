@@ -1,12 +1,11 @@
 ==================================
-= Bicycle
+= Flower
 ==================================
 
 created by:
 ===========
-Carbon Dioxide + Skycycle
+Fertilizer + Plant
 
 Usages:
 =======
-Human + Bicycle = Cyclist
-Energy + Bicycle = Pedal
+Sun + Flower = Sunflower

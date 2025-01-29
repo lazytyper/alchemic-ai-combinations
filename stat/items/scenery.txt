@@ -1,12 +1,11 @@
 ==================================
-= Bicycle
+= Scenery
 ==================================
 
 created by:
 ===========
-Carbon Dioxide + Skycycle
+View + Landscape
 
 Usages:
 =======
-Human + Bicycle = Cyclist
-Energy + Bicycle = Pedal
+Cyclist + Scenery = Bicycle Tour

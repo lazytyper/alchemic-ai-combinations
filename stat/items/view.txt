@@ -12,3 +12,4 @@ God + View = Deity
 View + Zeus = Olympus
 View + Corruption = Perspective
 View + Poseidon = Ocean Vista
+View + Landscape = Scenery

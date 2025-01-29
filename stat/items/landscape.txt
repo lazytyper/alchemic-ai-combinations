@@ -10,3 +10,4 @@ Usages:
 =======
 Horizon + Landscape = View
 Steam + Landscape = Geysers
+View + Landscape = Scenery

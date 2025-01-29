@@ -1,12 +1,10 @@
 ==================================
-= Bicycle
+= Pedal
 ==================================
 
 created by:
 ===========
-Carbon Dioxide + Skycycle
+Energy + Bicycle
 
 Usages:
 =======
-Human + Bicycle = Cyclist
-Energy + Bicycle = Pedal

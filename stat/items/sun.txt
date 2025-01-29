@@ -16,3 +16,4 @@ Mud + Sun = Adobe
 Sun + Sky = Farmland
 Sun + Soul = Spirituality
 Sun + Spirituality = Yoga
+Sun + Flower = Sunflower

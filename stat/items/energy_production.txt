@@ -1,12 +1,10 @@
 ==================================
-= Bicycle
+= Energy Production
 ==================================
 
 created by:
 ===========
-Carbon Dioxide + Skycycle
+Photosynthesis + Sunflower
 
 Usages:
 =======
-Human + Bicycle = Cyclist
-Energy + Bicycle = Pedal

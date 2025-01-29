@@ -10,3 +10,4 @@ Usages:
 =======
 Plant + Renewable Energy = Biofuel
 Plant + Plant = Tree
+Fertilizer + Plant = Flower

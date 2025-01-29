@@ -10,3 +10,4 @@ Usages:
 =======
 Fire + Energy = Heat
 Human + Energy = Life Force
+Energy + Bicycle = Pedal

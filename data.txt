@@ -255,3 +255,10 @@ skycycle,carbon_dioxide,bicycle
 atmosphere,motorcycle,skycycle
 mudskipper,replica,motorcycle
 bicycle,human,cyclist
+cyclist,scenery,bicycle_tour
+landscape,view,scenery
+bicycle,energy,pedal
+cyclist,cyclist,race
+photosynthesis,sunflower,energy_production
+flower,sun,sunflower
+fertilizer,plant,flower

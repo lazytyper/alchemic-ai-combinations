@@ -8,3 +8,5 @@ Human + Bicycle
 
 Usages:
 =======
+Cyclist + Scenery = Bicycle Tour
+Cyclist + Cyclist = Race
