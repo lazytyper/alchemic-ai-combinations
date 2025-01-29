@@ -311,3 +311,5 @@ dirtbike,rainforest,jungle_ride
 everest,human,sherpa
 sherpa,sherpa,mountaineer
 sherpa,stone,mountain_guide
+sherpa,religion,spiritual_guide
+sherpa,mountain,everest
