@@ -1,12 +1,10 @@
 ==================================
-= Aquarium
+= Flower Garden
 ==================================
 
 created by:
 ===========
-Fish + Environment
+Plant + Rainbow
 
 Usages:
 =======
-Aquarium + Olympus = Poseidon
-Aquarium + Sunset = Horizon

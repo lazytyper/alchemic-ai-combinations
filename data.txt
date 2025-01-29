@@ -277,3 +277,6 @@ olympus,olympus,mountain
 mountain,eruption,volcano
 mountain,human,climber
 human,human,society
+heaven,earth,paradise
+rainbow,plant,flower_garden
+sunset,aquarium,horizon
