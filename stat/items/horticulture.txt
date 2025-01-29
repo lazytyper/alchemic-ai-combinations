@@ -9,3 +9,4 @@ Human + Gardening = Horticulture
 Usages:
 =======
 Horticulture + Mermaid = Aquatic Garden
+Horticulture + Castaway = Island Garden

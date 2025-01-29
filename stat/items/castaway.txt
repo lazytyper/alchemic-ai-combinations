@@ -9,3 +9,4 @@ Life + Island = Castaway
 Usages:
 =======
 Love + Castaway = Loneliness
+Horticulture + Castaway = Island Garden

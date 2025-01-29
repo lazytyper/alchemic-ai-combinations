@@ -322,4 +322,5 @@ jungle_ride,garden,theme_park
 ranger,theme_park,adventureland
 reality_show,mudslide,replica,mudshow
 dirt,tsunami,mudslide
-horticulture,castaway,mudshow
+horticulture,castaway,island_garden
+
