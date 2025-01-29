@@ -1,12 +1,11 @@
 ==================================
-= Charmander
+= Bicycle
 ==================================
 
 created by:
 ===========
-Fire + Evolution
+Carbon Dioxide + Skycycle
 
 Usages:
 =======
-Homo Sapiens + Charmander = Salamander
-Charmander + Cloudscape = Fire Sky
+Human + Bicycle = Cyclist

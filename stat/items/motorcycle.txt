@@ -1,12 +1,11 @@
 ==================================
-= Charmander
+= Motorcycle
 ==================================
 
 created by:
 ===========
-Fire + Evolution
+Replica + Mudskipper
 
 Usages:
 =======
-Homo Sapiens + Charmander = Salamander
-Charmander + Cloudscape = Fire Sky
+Atmosphere + Motorcycle = Skycycle

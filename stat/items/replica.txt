@@ -10,3 +10,4 @@ Usages:
 =======
 Anemone + Replica = Fake Flower
 Air + Replica = Wind
+Replica + Mudskipper = Motorcycle

@@ -1,12 +1,10 @@
 ==================================
-= Cloudscape
+= Cyclist
 ==================================
 
 created by:
 ===========
-Island + Sky
+Human + Bicycle
 
 Usages:
 =======
-Cloudscape + Toad = Toadstool
-Charmander + Cloudscape = Fire Sky

@@ -250,3 +250,8 @@ fire,life,swamp,witch
 agribusiness,amphibian,island,frog_farm
 earth,earth,fire,magma
 amazon,farmland,agribusiness
+charmander,cloudscape,fire_sky
+skycycle,carbon_dioxide,bicycle
+atmosphere,motorcycle,skycycle
+mudskipper,replica,motorcycle
+bicycle,human,cyclist

@@ -1,12 +1,10 @@
 ==================================
-= Cloudscape
+= Fire Sky
 ==================================
 
 created by:
 ===========
-Island + Sky
+Charmander + Cloudscape
 
 Usages:
 =======
-Cloudscape + Toad = Toadstool
-Charmander + Cloudscape = Fire Sky

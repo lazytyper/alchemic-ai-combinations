@@ -17,3 +17,4 @@ Evolution + Human = Homo Sapiens
 Human + Toadstool = Witch
 Human + Flame = Firebender
 Human + Energy = Life Force
+Human + Bicycle = Cyclist

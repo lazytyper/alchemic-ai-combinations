@@ -14,3 +14,4 @@ Combustion + Atmosphere = Fire
 Earth + Atmosphere = Biosphere
 Air + Atmosphere = Sky
 Atmosphere + Wind = Weather
+Atmosphere + Motorcycle = Skycycle
