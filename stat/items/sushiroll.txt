@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Mudskipper + Sushi
+Mudskipper + Sushi = Sushiroll
 
 Usages:
 =======

@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Sushi + Roll
+Sushi + Roll = Maki
 
 Usages:
 =======

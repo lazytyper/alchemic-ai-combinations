@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Geyser + National Park
+Geyser + National Park = Yellowstone
 
 Usages:
 =======

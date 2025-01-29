@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Lava + Mud
+Lava + Mud = Obsidian
 
 Usages:
 =======

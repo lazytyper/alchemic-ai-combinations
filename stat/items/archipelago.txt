@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Island + Island
+Island + Island = Archipelago
 
 Usages:
 =======

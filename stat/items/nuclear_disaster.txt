@@ -4,8 +4,13 @@
 
 created by:
 ===========
-Fukushima + Fukushima
-Fukushima + Chernobyl
+Fukushima + Fukushima = Nuclear Disaster
+
+Usages:
+=======
+Greenpeace + Nuclear Disaster = Environmental Activism
+Nuclear Disaster + Chimney = Chernobyl
+Fukushima + Chernobyl = Nuclear Disaster
 
 Usages:
 =======

@@ -4,8 +4,14 @@
 
 created by:
 ===========
-Earth + Atmosphere
-Living World + Living World
+Earth + Atmosphere = Biosphere
+
+Usages:
+=======
+Biosphere + Nature = Ecosystem
+Fire + Biosphere = Wildfire
+Biosphere + Pottery = Clay Soil
+Living World + Living World = Biosphere
 
 Usages:
 =======

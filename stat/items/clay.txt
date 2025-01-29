@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Mud + Mud
+Mud + Mud = Clay
 
 Usages:
 =======

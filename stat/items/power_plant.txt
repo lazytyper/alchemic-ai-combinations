@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Fire + Turbine
+Fire + Turbine = Power Plant
 
 Usages:
 =======

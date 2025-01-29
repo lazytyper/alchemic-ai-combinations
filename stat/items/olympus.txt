@@ -4,8 +4,13 @@
 
 created by:
 ===========
-View + Zeus
-Island + Zeus
+View + Zeus = Olympus
+
+Usages:
+=======
+Aquarium + Olympus = Poseidon
+Olympus + Olympus = Mountain
+Island + Zeus = Olympus
 
 Usages:
 =======

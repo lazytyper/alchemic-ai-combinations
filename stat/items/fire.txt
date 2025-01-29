@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Combustion + Atmosphere
+Combustion + Atmosphere = Fire
 
 Usages:
 =======

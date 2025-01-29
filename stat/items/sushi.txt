@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Fish + Sushi Bar
+Fish + Sushi Bar = Sushi
 
 Usages:
 =======

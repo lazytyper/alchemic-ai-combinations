@@ -4,8 +4,22 @@
 
 created by:
 ===========
-Ocean + Paradise
-Earth + Ocean
+Ocean + Paradise = Island
+
+Usages:
+=======
+Island + Island = Archipelago
+Island + Shipwreck = Survivor
+Island + Storm = Shipwreck
+Island + Family = Community
+Life + Island = Castaway
+Island + Amphibian = Frog
+Island + Sky = Cloudscape
+Island + Geysers = Iceland
+Island + Jungle Tribe = Lost Civilization
+Island + Amphibian + Agribusiness = Frog Farm
+Island + Zeus = Olympus
+Earth + Ocean = Island
 
 Usages:
 =======

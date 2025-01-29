@@ -4,7 +4,7 @@
 
 created by:
 ===========
-View + Poseidon
+View + Poseidon = Ocean Vista
 
 Usages:
 =======

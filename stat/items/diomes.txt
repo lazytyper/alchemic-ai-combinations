@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Biodome + Biodome
+Biodome + Biodome = Diomes
 
 Usages:
 =======

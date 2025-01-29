@@ -4,9 +4,19 @@
 
 created by:
 ===========
-Air Quality + Tsunami
-Hurricane + Ecosystem
-Chernobyl + Chernobyl
+Air Quality + Tsunami = Disaster
+
+Usages:
+=======
+Volcano + Disaster = Eruption
+Tsunami + Disaster = Fukushima
+Hurricane + Ecosystem = Disaster
+
+Usages:
+=======
+Volcano + Disaster = Eruption
+Tsunami + Disaster = Fukushima
+Chernobyl + Chernobyl = Disaster
 
 Usages:
 =======

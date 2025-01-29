@@ -4,9 +4,31 @@
 
 created by:
 ===========
-Earth + Fire
-Earth + Combustion
-Eruption + Mountain
+Earth + Fire = Volcano
+
+Usages:
+=======
+Fire + Volcano = Eruption
+Ocean + Volcano = Lava Lamp
+Volcano + Disaster = Eruption
+Life + Volcano = Eruption
+Volcano + Water = Steam
+Volcano + Monarch = Eruption
+Air + Volcano = Smoke
+Volcano + Steam = Hot Springs
+Earth + Combustion = Volcano
+
+Usages:
+=======
+Fire + Volcano = Eruption
+Ocean + Volcano = Lava Lamp
+Volcano + Disaster = Eruption
+Life + Volcano = Eruption
+Volcano + Water = Steam
+Volcano + Monarch = Eruption
+Air + Volcano = Smoke
+Volcano + Steam = Hot Springs
+Eruption + Mountain = Volcano
 
 Usages:
 =======

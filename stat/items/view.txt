@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Horizon + Landscape
+Horizon + Landscape = View
 
 Usages:
 =======

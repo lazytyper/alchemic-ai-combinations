@@ -4,8 +4,16 @@
 
 created by:
 ===========
-Volcano + Water
-Fire + Ocean
+Volcano + Water = Steam
+
+Usages:
+=======
+Steam + Fish = Sauna
+Earth + Steam = Geyser
+Air + Steam = Cloud
+Volcano + Steam = Hot Springs
+Steam + Landscape = Geysers
+Fire + Ocean = Steam
 
 Usages:
 =======

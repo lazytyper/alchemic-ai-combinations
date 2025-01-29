@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Galaxy + Galaxy
+Galaxy + Galaxy = Universe
 
 Usages:
 =======

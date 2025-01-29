@@ -4,8 +4,13 @@
 
 created by:
 ===========
-Human + Toadstool
-Fire + Life + Swamp
+Human + Toadstool = Witch
+
+Usages:
+=======
+Sacrifice + Witch = Witchcraft
+Smoke + Witch = Spell
+Fire + Life + Swamp = Witch
 
 Usages:
 =======

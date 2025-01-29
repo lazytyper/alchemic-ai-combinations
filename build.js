@@ -172,18 +172,17 @@ itemIds.forEach(id => {
     content.push('created by:');
     content.push('===========')
     for (let c of combinations.creations) {
-        content.push(c.names.map(formatElement).join(' + '));
-    }
-    content.push('');
-    content.push('Usages:');
-    content.push('=======')
-    for (let c of combinations.usages) {
         content.push(c.names.map(formatElement).join(' + ') + ' = ' + formatElement(c.resultName));
+        content.push('');
+        content.push('Usages:');
+        content.push('=======')
+        for (let c of combinations.usages) {
+            content.push(c.names.map(formatElement).join(' + ') + ' = ' + formatElement(c.resultName));
+        }
+
+        fs.writeFileSync(`stat/items/${name}.txt`, content.join('\n'));
     }
-
-    fs.writeFileSync(`stat/items/${name}.txt`, content.join('\n'));
 });
-
 
 // create file for unknown items
 const missing = getMissingCombinations();

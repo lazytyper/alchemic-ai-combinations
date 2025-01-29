@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Race + Tourist Attraction
+Race + Tourist Attraction = Racecourse
 
 Usages:
 =======

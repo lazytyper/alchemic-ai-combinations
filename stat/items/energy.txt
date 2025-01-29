@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Fire + Biofuel
+Fire + Biofuel = Energy
 
 Usages:
 =======

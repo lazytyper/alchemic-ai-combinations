@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Cyclist + Cyclist
+Cyclist + Cyclist = Race
 
 Usages:
 =======

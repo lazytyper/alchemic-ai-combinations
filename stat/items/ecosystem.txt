@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Biosphere + Nature
+Biosphere + Nature = Ecosystem
 
 Usages:
 =======

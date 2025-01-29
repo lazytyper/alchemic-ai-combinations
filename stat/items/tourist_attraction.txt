@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Human + Yellowstone
+Human + Yellowstone = Tourist Attraction
 
 Usages:
 =======

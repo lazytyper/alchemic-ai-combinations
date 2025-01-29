@@ -4,9 +4,15 @@
 
 created by:
 ===========
-Ocean + Mist
-Mist + Hurricane
-Air + Mist
+Ocean + Mist = Fog
+
+Usages:
+=======
+Mist + Hurricane = Fog
+
+Usages:
+=======
+Air + Mist = Fog
 
 Usages:
 =======

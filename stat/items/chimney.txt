@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Evolution + Smoke
+Evolution + Smoke = Chimney
 
 Usages:
 =======

@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Soil + Fish
+Soil + Fish = Fertilizer
 
 Usages:
 =======

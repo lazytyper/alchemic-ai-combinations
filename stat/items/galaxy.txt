@@ -4,9 +4,19 @@
 
 created by:
 ===========
-Arrow + Milky Way
-Solar System + Solar System
-Milky Way + Hot Spring
+Arrow + Milky Way = Galaxy
+
+Usages:
+=======
+Galaxy + Galaxy = Universe
+Arrow + Galaxy = Milky Way
+Solar System + Solar System = Galaxy
+
+Usages:
+=======
+Galaxy + Galaxy = Universe
+Arrow + Galaxy = Milky Way
+Milky Way + Hot Spring = Galaxy
 
 Usages:
 =======

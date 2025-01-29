@@ -298,3 +298,4 @@ dice,dice,roll
 biodome,biodome,diomes
 farming,agribusiness,agriculture
 faith,salamander,fire_spirit
+lava,water,stone

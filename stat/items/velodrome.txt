@@ -4,8 +4,11 @@
 
 created by:
 ===========
-Bicycle + Racecourse
-Bicycle + Racetrack
+Bicycle + Racecourse = Velodrome
+
+Usages:
+=======
+Bicycle + Racetrack = Velodrome
 
 Usages:
 =======

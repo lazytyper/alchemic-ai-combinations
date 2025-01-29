@@ -4,8 +4,14 @@
 
 created by:
 ===========
-Clay + Nature
-Fire + Clay
+Clay + Nature = Pottery
+
+Usages:
+=======
+Pottery + Turbine = Vase
+Biosphere + Pottery = Clay Soil
+Pottery + Geyser = Hot Spring
+Fire + Clay = Pottery
 
 Usages:
 =======

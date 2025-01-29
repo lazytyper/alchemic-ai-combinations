@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Isolation + Greenhouse
+Isolation + Greenhouse = Biodome
 
 Usages:
 =======

@@ -4,8 +4,11 @@
 
 created by:
 ===========
-Combustion + Storm
-Cloud + Salamander
+Combustion + Storm = Firestorm
+
+Usages:
+=======
+Cloud + Salamander = Firestorm
 
 Usages:
 =======

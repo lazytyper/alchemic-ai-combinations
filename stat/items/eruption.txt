@@ -4,10 +4,22 @@
 
 created by:
 ===========
-Fire + Volcano
-Volcano + Disaster
-Life + Volcano
-Volcano + Monarch
+Fire + Volcano = Eruption
+
+Usages:
+=======
+Eruption + Mountain = Volcano
+Volcano + Disaster = Eruption
+
+Usages:
+=======
+Eruption + Mountain = Volcano
+Life + Volcano = Eruption
+
+Usages:
+=======
+Eruption + Mountain = Volcano
+Volcano + Monarch = Eruption
 
 Usages:
 =======

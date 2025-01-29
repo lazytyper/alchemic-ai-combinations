@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Plant + Rainbow
+Plant + Rainbow = Flower Garden
 
 Usages:
 =======

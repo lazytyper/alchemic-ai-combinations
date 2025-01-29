@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Cloudscape + Toad
+Cloudscape + Toad = Toadstool
 
 Usages:
 =======

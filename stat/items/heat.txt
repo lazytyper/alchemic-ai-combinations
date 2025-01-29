@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Fire + Energy
+Fire + Energy = Heat
 
 Usages:
 =======

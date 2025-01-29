@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Roll + Sacrifice
+Roll + Sacrifice = Dice
 
 Usages:
 =======

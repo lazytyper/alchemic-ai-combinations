@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Air + Soil
+Air + Soil = Plants
 
 Usages:
 =======

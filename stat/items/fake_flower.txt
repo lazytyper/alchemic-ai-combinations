@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Anemone + Replica
+Anemone + Replica = Fake Flower
 
 Usages:
 =======

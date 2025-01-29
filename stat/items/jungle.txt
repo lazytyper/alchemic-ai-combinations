@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Life + Marsupilami
+Life + Marsupilami = Jungle
 
 Usages:
 =======

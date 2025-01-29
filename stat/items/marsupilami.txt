@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Planet + Reincarnation
+Planet + Reincarnation = Marsupilami
 
 Usages:
 =======

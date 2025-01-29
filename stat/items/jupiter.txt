@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Planet + Religion
+Planet + Religion = Jupiter
 
 Usages:
 =======

@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Sushi + Environment
+Sushi + Environment = Eco-friendly Cuisine
 
 Usages:
 =======

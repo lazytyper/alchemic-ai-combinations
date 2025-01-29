@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Fukushima + Mirror
+Fukushima + Mirror = Reflection
 
 Usages:
 =======

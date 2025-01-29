@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Sushi Bar + Magma
+Sushi Bar + Magma = Volcano Roll
 
 Usages:
 =======

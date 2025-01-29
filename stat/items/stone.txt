@@ -1,11 +1,10 @@
 ==================================
-= Love Potion
+= Stone
 ==================================
 
 created by:
 ===========
-Aphrodite + Fireball = Love Potion
+Lava + Water = Stone
 
 Usages:
 =======
-Aphrodite + Love Potion = Cupid

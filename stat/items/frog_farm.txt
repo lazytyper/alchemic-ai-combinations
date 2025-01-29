@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Island + Amphibian + Agribusiness
+Island + Amphibian + Agribusiness = Frog Farm
 
 Usages:
 =======

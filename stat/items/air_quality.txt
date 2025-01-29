@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Atmosphere + Atmosphere
+Atmosphere + Atmosphere = Air Quality
 
 Usages:
 =======

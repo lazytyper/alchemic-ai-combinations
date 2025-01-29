@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Garden + Farmer
+Garden + Farmer = Crop Yield
 
 Usages:
 =======

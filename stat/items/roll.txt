@@ -4,8 +4,13 @@
 
 created by:
 ===========
-Sushi + Sushi
-Dice + Dice
+Sushi + Sushi = Roll
+
+Usages:
+=======
+Sushi + Roll = Maki
+Roll + Sacrifice = Dice
+Dice + Dice = Roll
 
 Usages:
 =======

@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Sun + Flower
+Sun + Flower = Sunflower
 
 Usages:
 =======

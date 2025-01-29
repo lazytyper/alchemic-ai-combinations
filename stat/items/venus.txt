@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Inferno + Planet
+Inferno + Planet = Venus
 
 Usages:
 =======

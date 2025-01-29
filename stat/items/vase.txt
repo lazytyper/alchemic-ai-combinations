@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Pottery + Turbine
+Pottery + Turbine = Vase
 
 Usages:
 =======

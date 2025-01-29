@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Arrow + Toadstool
+Arrow + Toadstool = Poison
 
 Usages:
 =======

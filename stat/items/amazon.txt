@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Jungle + Tribe
+Jungle + Tribe = Amazon
 
 Usages:
 =======

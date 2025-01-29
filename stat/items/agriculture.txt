@@ -4,9 +4,15 @@
 
 created by:
 ===========
-Life + Farmland
-Farmer + Farming
-Agribusiness + Farming
+Life + Farmland = Agriculture
+
+Usages:
+=======
+Farmer + Farming = Agriculture
+
+Usages:
+=======
+Agribusiness + Farming = Agriculture
 
 Usages:
 =======

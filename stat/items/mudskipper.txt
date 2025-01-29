@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Life + Swamp
+Life + Swamp = Mudskipper
 
 Usages:
 =======

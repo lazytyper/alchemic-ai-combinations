@@ -4,8 +4,9 @@
 
 created by:
 ===========
-Earth + Fire
+Earth + Fire = Lava
 
 Usages:
 =======
 Lava + Mud = Obsidian
+Lava + Water = Stone

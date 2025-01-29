@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Pottery + Geyser
+Pottery + Geyser = Hot Spring
 
 Usages:
 =======

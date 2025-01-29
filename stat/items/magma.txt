@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Earth + Earth + Fire
+Earth + Earth + Fire = Magma
 
 Usages:
 =======

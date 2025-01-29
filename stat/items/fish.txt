@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Mudskipper + Mudskipper
+Mudskipper + Mudskipper = Fish
 
 Usages:
 =======

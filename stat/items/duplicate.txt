@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Anemone + Anemone
+Anemone + Anemone = Duplicate
 
 Usages:
 =======

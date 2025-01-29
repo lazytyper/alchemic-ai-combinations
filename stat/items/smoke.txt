@@ -4,8 +4,13 @@
 
 created by:
 ===========
-Air + Fire
-Air + Volcano
+Air + Fire = Smoke
+
+Usages:
+=======
+Smoke + Witch = Spell
+Evolution + Smoke = Chimney
+Air + Volcano = Smoke
 
 Usages:
 =======

@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Turbine + Vase
+Turbine + Vase = Windflower
 
 Usages:
 =======

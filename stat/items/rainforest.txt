@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Amazon + Amazon
+Amazon + Amazon = Rainforest
 
 Usages:
 =======
