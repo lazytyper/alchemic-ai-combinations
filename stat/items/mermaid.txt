@@ -1,5 +1,8 @@
-Creations:
-==========
+Mermaid
+==================================
+
+created by:
+===========
 Fish + Human = Mermaid
 
 Usages:

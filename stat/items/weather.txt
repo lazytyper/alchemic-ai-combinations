@@ -1,5 +1,8 @@
-Creations:
-==========
+Weather
+==================================
+
+created by:
+===========
 Atmosphere + Wind = Weather
 
 Usages:

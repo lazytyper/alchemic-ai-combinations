@@ -1,5 +1,8 @@
-Creations:
-==========
+Fire
+==================================
+
+created by:
+===========
 Combustion + Atmosphere = Fire
 
 Usages:
@@ -24,3 +27,5 @@ Fire + Paradise = Hell
 Oxygen + Fire = Combustion
 Fire + Carbon Dioxide = Carbon Monoxide
 Fire + Blue Planet = Muad'dib
+Fire + Life + Swamp = Witch
+Earth + Earth + Fire = Magma

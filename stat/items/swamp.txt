@@ -1,7 +1,11 @@
-Creations:
-==========
+Swamp
+==================================
+
+created by:
+===========
 Mud + Mist = Swamp
 
 Usages:
 =======
 Life + Swamp = Mudskipper
+Fire + Life + Swamp = Witch

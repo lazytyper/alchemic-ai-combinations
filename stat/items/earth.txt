@@ -1,5 +1,8 @@
-Creations:
-==========
+Earth
+==================================
+
+created by:
+===========
 Water + Blue Planet = Earth
 
 Usages:
@@ -18,3 +21,4 @@ Earth + Water = Mud
 Earth + Faith = Religion
 Earth + Sky = Horizon
 Earth + Paradise = Garden
+Earth + Earth + Fire = Magma

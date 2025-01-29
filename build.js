@@ -113,7 +113,7 @@ function getUnusedItems() {
     return result;
 }
 
-function printUnknownCombinations() {
+function getMissingCombinations() {
 
     let itemSet = new Set();
     for (let key in itemNames) {
@@ -131,9 +131,7 @@ function printUnknownCombinations() {
         }
     }
 
-    for (let id of itemSet) {
-        console.log(items[id]);
-    }
+    return Array.from(itemSet).map(id => items[id]);
 }
 
 function a(string) {
@@ -167,9 +165,14 @@ itemIds.forEach(id => {
     const name = items[id];
     const combinations = listCombinationsWith(name);
 
-    let content = [];
-    content.push('Creations:');
-    content.push('==========')
+    let content = [
+        formatElement(name),
+        '==================================',
+        ''
+    ];
+
+    content.push('created by:');
+    content.push('===========')
     for (let c of combinations.creations) {
         content.push(c.names.map(formatElement).join(' + ') + ' = ' + formatElement(c.resultName));
     }
@@ -183,5 +186,5 @@ itemIds.forEach(id => {
     fs.writeFileSync(`stat/items/${name}.txt`, content.join('\n'));
 });
 
-//printUnknownCombinations();
+console.log(getMissingCombinations());
 

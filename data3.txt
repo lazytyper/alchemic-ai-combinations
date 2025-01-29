@@ -1,3 +1,0 @@
-fire,life,swamp:witch
-agribusiness,amphibian,island:frog_farm
-earth,earth,fire:magma

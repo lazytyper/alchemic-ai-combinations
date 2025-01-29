@@ -1,5 +1,8 @@
-Creations:
-==========
+Horoscope
+==================================
+
+created by:
+===========
 Venus + Astrology = Horoscope
 
 Usages:

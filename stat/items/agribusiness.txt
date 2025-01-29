@@ -1,11 +1,10 @@
-Amphibian
+Agribusiness
 ==================================
 
 created by:
 ===========
-Mud + Evolution = Amphibian
+Amazon + Farmland = Agribusiness
 
 Usages:
 =======
-Island + Amphibian = Frog
 Island + Amphibian + Agribusiness = Frog Farm

@@ -1,5 +1,8 @@
-Creations:
-==========
+Fog
+==================================
+
+created by:
+===========
 Ocean + Mist = Fog
 Mist + Hurricane = Fog
 Air + Mist = Fog

@@ -1,5 +1,8 @@
-Creations:
-==========
+Solar Panel
+==================================
+
+created by:
+===========
 Sun + Mirror = Solar Panel
 
 Usages:

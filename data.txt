@@ -246,3 +246,7 @@ environmental_activism,sky,blue_planet
 evolution,smoke,chimney
 blue_planet,water,earth
 fire,blue_planet,Muad'dib
+fire,life,swamp,witch
+agribusiness,amphibian,island,frog_farm
+earth,earth,fire,magma
+amazon,farmland,agribusiness
