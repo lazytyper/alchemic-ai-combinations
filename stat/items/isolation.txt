@@ -9,3 +9,4 @@ Community + Loneliness
 Usages:
 =======
 Isolation + Greenhouse = Biodome
+Isolation + Flower = Solitude

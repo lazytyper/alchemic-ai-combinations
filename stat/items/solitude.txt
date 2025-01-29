@@ -1,11 +1,10 @@
 ==================================
-= Dice
+= Solitude
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice
+Isolation + Flower
 
 Usages:
 =======
-Dice + Dice = Roll

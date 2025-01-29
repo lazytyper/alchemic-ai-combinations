@@ -1,11 +1,10 @@
 ==================================
-= Dice
+= Diomes
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice
+Biodome + Biodome
 
 Usages:
 =======
-Dice + Dice = Roll

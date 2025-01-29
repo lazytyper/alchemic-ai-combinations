@@ -9,3 +9,4 @@ Amazon + Farmland
 Usages:
 =======
 Island + Amphibian + Agribusiness = Frog Farm
+Agribusiness + Farming = Agriculture

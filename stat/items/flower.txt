@@ -9,3 +9,4 @@ Fertilizer + Plant
 Usages:
 =======
 Sun + Flower = Sunflower
+Isolation + Flower = Solitude

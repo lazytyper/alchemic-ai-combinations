@@ -293,3 +293,8 @@ farmer,garden,crop_yield
 crop_yield,human,farming
 farmer,farming,agriculture
 sacrifice,roll,dice
+flower,isolation,solitude
+dice,dice,roll
+biodome,biodome,diomes
+farming,agribusiness,agriculture
+faith,salamander,fire_spirit

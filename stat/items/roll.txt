@@ -5,6 +5,7 @@
 created by:
 ===========
 Sushi + Sushi
+Dice + Dice
 
 Usages:
 =======

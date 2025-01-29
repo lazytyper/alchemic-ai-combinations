@@ -1,11 +1,10 @@
 ==================================
-= Dice
+= Fire Spirit
 ==================================
 
 created by:
 ===========
-Roll + Sacrifice
+Faith + Salamander
 
 Usages:
 =======
-Dice + Dice = Roll

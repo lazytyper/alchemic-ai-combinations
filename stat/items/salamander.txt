@@ -9,3 +9,4 @@ Homo Sapiens + Charmander
 Usages:
 =======
 Cloud + Salamander = Firestorm
+Faith + Salamander = Fire Spirit

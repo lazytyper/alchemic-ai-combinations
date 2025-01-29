@@ -8,3 +8,4 @@ Isolation + Greenhouse
 
 Usages:
 =======
+Biodome + Biodome = Diomes
