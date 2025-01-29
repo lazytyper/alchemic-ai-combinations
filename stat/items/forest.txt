@@ -9,3 +9,4 @@ Tree + Tree
 Usages:
 =======
 Human + Forest = Ranger
+Forest + Ranger = National Park

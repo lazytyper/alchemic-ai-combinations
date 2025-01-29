@@ -134,32 +134,29 @@ function getMissingCombinations() {
     return Array.from(itemSet).map(id => items[id]);
 }
 
-function a(string) {
-    /*
-    const [name1, name2, resultName] = string.split(',').map(s => s.trim());
-    addCombination(name1, name2, resultName);
-    */
-    let names = string.split(',');
-    let resultName = names.pop();
-    names = names.sort();
-
-    addCombination(names, resultName);
-
-}
-
 function formatElement(name) {
     return name.split('_').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
 }
 
+
+function addline(string) {
+    let names = string.split(',');
+    let resultName = names.pop();
+    names = names.sort();
+    addCombination(names, resultName);
+}
+
+// read data file
 const dataContent = require('fs').readFileSync('data.txt', 'utf-8');
 const lines = dataContent.split('\n');
 for (let line of lines) {
     line = line.trim();
     if (line.startsWith('#')) continue;
     if (line === '') continue;
-    a(line);
+    addline(line);
 }
 
+// create item files
 const itemIds = Object.keys(items);
 itemIds.forEach(id => {
     const name = items[id];
@@ -188,6 +185,7 @@ itemIds.forEach(id => {
 });
 
 
+// create file for unknown items
 const missing = getMissingCombinations();
 let content;
 if (missing.length) {

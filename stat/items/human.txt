@@ -19,3 +19,4 @@ Human + Flame = Firebender
 Human + Energy = Life Force
 Human + Bicycle = Cyclist
 Human + Forest = Ranger
+Human + Yellowstone = Tourist Attraction

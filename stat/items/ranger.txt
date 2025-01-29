@@ -8,3 +8,4 @@ Human + Forest
 
 Usages:
 =======
+Forest + Ranger = National Park

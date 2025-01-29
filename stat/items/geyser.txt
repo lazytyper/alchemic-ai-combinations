@@ -9,3 +9,4 @@ Earth + Steam
 Usages:
 =======
 Pottery + Geyser = Hot Spring
+Geyser + National Park = Yellowstone

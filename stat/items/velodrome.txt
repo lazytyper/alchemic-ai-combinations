@@ -1,12 +1,10 @@
 ==================================
-= Race
+= Velodrome
 ==================================
 
 created by:
 ===========
-Cyclist + Cyclist
+Bicycle + Racecourse
 
 Usages:
 =======
-Scenery + Race = Road Trip
-Race + Tourist Attraction = Racecourse

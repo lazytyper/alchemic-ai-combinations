@@ -1,12 +1,12 @@
 ==================================
-= Race
+= Racecourse
 ==================================
 
 created by:
 ===========
-Cyclist + Cyclist
+Race + Tourist Attraction
 
 Usages:
 =======
-Scenery + Race = Road Trip
-Race + Tourist Attraction = Racecourse
+Bicycle + Racecourse = Velodrome
+Motorcycle + Racecourse = Racetrack

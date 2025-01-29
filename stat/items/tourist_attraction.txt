@@ -1,12 +1,11 @@
 ==================================
-= Race
+= Tourist Attraction
 ==================================
 
 created by:
 ===========
-Cyclist + Cyclist
+Human + Yellowstone
 
 Usages:
 =======
-Scenery + Race = Road Trip
 Race + Tourist Attraction = Racecourse

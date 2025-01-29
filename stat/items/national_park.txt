@@ -1,12 +1,11 @@
 ==================================
-= Race
+= National Park
 ==================================
 
 created by:
 ===========
-Cyclist + Cyclist
+Forest + Ranger
 
 Usages:
 =======
-Scenery + Race = Road Trip
-Race + Tourist Attraction = Racecourse
+Geyser + National Park = Yellowstone

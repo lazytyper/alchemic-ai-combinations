@@ -265,3 +265,9 @@ fertilizer,plant,flower
 race,scenery,road_trip
 tree,tree,forest
 forest,human,ranger
+ranger,forest,national_park
+national_park,geyser,yellowstone
+yellowstone,human,tourist_attraction
+tourist_attraction,race,racecourse
+racecourse,bicycle,velodrome
+racecourse,motorcycle,racetrack

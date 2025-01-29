@@ -9,3 +9,4 @@ Replica + Mudskipper
 Usages:
 =======
 Atmosphere + Motorcycle = Skycycle
+Motorcycle + Racecourse = Racetrack
