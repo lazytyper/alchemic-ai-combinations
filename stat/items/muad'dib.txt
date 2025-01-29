@@ -1,12 +1,10 @@
 ==================================
-= Tree
+= Muad'dib
 ==================================
 
 created by:
 ===========
-Plant + Plant = Tree
+Fire + Blue Planet = Muad'dib
 
 Usages:
 =======
-Tree + Tree = Forest
-Life + Tree = Nature

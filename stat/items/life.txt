@@ -33,6 +33,8 @@ Life + Love = Romance
 Life + Farmland = Agriculture
 Fire + Life + Swamp = Witch
 Life + Cosmos = Existence
+Life + Soul = Spirit
+Life + Tree = Nature
 Planet + Evolution = Life
 
 Usages:
@@ -62,3 +64,5 @@ Life + Love = Romance
 Life + Farmland = Agriculture
 Fire + Life + Swamp = Witch
 Life + Cosmos = Existence
+Life + Soul = Spirit
+Life + Tree = Nature
