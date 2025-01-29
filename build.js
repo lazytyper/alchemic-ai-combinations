@@ -146,6 +146,93 @@ function addline(string) {
     addCombination(names, resultName);
 }
 
+function createHTML() {
+    const itemIds = Object.keys(itemNames).sort().map(key => itemNames[key]);
+    function ref(name) {
+        return '<a href="#' + name + '">' + name.split('_').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ') + '</a>';
+    }
+    const preHTML = `
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alchemy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        h1 {
+            font-size: 1.5em;
+            text-decoration: underline;
+        }
+        h2 {
+            text-decoration: underline;
+            font-size: 1.2em;
+        }
+        h3 {
+            font-size: 1em;
+        }
+        .index a { margin-left: 5px; margin-right: 5px; }
+    </style>
+</head>
+<body>`;
+
+    const blocks = [];
+
+    blocks.push('<h1>AlchemicAI Combination List</h1>');
+    blocks.push('<div class="index">');
+    blocks.push(`<h2>Index (${itemIds.length} Items)</h2>`);
+
+    for (let id of itemIds) {
+        const name = items[id];
+        blocks.push(`<a class="element" href="#${name}">${formatElement(name)}</a>`);
+    }
+
+    blocks.push('</div>');
+
+    for (let id of itemIds) {
+        const name = items[id];
+        const combinations = listCombinationsWith(name);
+
+        let content = [
+            `
+            <a name="${name}"></a>
+            <h2>${formatElement(name)}</h2>`,
+            '<h3>Created by:</h3>',
+            '<ul>'
+        ];
+        for (let c of combinations.creations) {
+            content.push(`<li>${c.names.map(ref).join(' + ')} = ${ref(c.resultName)}</li>`);
+        }
+        content.push('</ul>');
+        if (combinations.usages.length > 0) {
+            content.push('<h3>Usages:</h3>');
+            content.push('<ul>');
+            for (let c of combinations.usages) {
+                content.push(`<li>${c.names.map(ref).join(' + ')} = ${ref(c.resultName)}</li>`);
+            }
+            content.push('</ul>');
+        }
+
+        blocks.push(content.join('\n'));
+    }
+
+    const postHTML = '</body></html>';
+
+    fs.writeFileSync('stat/index.html', preHTML + blocks.join('\n') + postHTML);
+}
+
 // read data file
 const dataContent = require('fs').readFileSync('data.txt', 'utf-8');
 const lines = dataContent.split('\n');
@@ -194,4 +281,4 @@ if (missing.length) {
 }
 fs.writeFileSync('stat/missing.txt', content);
 
-
+createHTML();
