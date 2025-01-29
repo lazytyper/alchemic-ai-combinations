@@ -151,8 +151,8 @@ function formatElement(name) {
     return name.split('_').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
 }
 
-const content = require('fs').readFileSync('data.txt', 'utf-8');
-const lines = content.split('\n');
+const dataContent = require('fs').readFileSync('data.txt', 'utf-8');
+const lines = dataContent.split('\n');
 for (let line of lines) {
     line = line.trim();
     if (line.startsWith('#')) continue;
@@ -187,5 +187,14 @@ itemIds.forEach(id => {
     fs.writeFileSync(`stat/items/${name}.txt`, content.join('\n'));
 });
 
-console.log(getMissingCombinations());
+
+const missing = getMissingCombinations();
+let content;
+if (missing.length) {
+    content = getMissingCombinations().map(formatElement).join('\n');
+} else {
+    content = 'No missing combinations';
+}
+fs.writeFileSync('stat/missing.txt', content);
+
 
