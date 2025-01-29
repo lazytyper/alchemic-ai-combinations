@@ -1,12 +1,11 @@
 ==================================
-= Rainforest
+= Pebble
 ==================================
 
 created by:
 ===========
-Amazon + Amazon = Rainforest
+Stone + Rock = Pebble
 
 Usages:
 =======
-Cupid + Rainforest = Lovebirds
-Rainforest + Dirtbike = Jungle Ride
+Pebble + Pebble = Stone

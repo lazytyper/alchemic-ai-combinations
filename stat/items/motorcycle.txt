@@ -10,3 +10,4 @@ Usages:
 =======
 Atmosphere + Motorcycle = Skycycle
 Motorcycle + Racecourse = Racetrack
+Motorcycle + Mountain = Dirtbike

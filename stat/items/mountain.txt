@@ -10,3 +10,6 @@ Usages:
 =======
 Eruption + Mountain = Volcano
 Human + Mountain = Climber
+Mountain + Rock = Everest
+Bicycle + Mountain = Mountainbike
+Motorcycle + Mountain = Dirtbike

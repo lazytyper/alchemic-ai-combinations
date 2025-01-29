@@ -1,12 +1,11 @@
 ==================================
-= Rainforest
+= Dirtbike
 ==================================
 
 created by:
 ===========
-Amazon + Amazon = Rainforest
+Motorcycle + Mountain = Dirtbike
 
 Usages:
 =======
-Cupid + Rainforest = Lovebirds
 Rainforest + Dirtbike = Jungle Ride

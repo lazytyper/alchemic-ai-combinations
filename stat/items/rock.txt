@@ -1,20 +1,20 @@
 ==================================
-= Stone
+= Rock
 ==================================
 
 created by:
 ===========
-Lava + Water = Stone
+Stone + Stone = Rock
 
 Usages:
 =======
-Stone + Stone = Rock
 Stone + Rock = Pebble
-Stone + Sherpa = Mountain Guide
-Pebble + Pebble = Stone
+Rock + Rock = Hard Place
+Mountain + Rock = Everest
+Human + Hard Place = Rock
 
 Usages:
 =======
-Stone + Stone = Rock
 Stone + Rock = Pebble
-Stone + Sherpa = Mountain Guide
+Rock + Rock = Hard Place
+Mountain + Rock = Everest

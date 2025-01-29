@@ -25,3 +25,5 @@ Human + Human = Society
 Human + Flower Garden = Botanist
 Human + Garden = Farmer
 Human + Crop Yield = Farming
+Human + Hard Place = Rock
+Human + Everest = Sherpa

@@ -299,3 +299,15 @@ biodome,biodome,diomes
 farming,agribusiness,agriculture
 faith,salamander,fire_spirit
 lava,water,stone
+stone,stone,rock
+stone,rock,pebble
+pebble,pebble,stone
+rock,rock,hard_place
+hard_place,human,rock
+rock,mountain,everest
+mountain,bicycle,mountainbike
+mountain,motorcycle,dirtbike
+dirtbike,rainforest,jungle_ride
+everest,human,sherpa
+sherpa,sherpa,mountaineer
+sherpa,stone,mountain_guide
