@@ -9,4 +9,4 @@ Planet + Reincarnation = Marsupilami
 Usages:
 =======
 Life + Marsupilami = Jungle
-Marsupilami + Desert = Oasis
+Marsupilami + Oasis = Desert

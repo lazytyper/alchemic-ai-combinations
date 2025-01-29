@@ -12,7 +12,7 @@ Ocean + Paradise = Island
 Earth + Paradise = Garden
 Air + Paradise = Eden
 Fire + Paradise = Hell
-Paradise + Oasis = Water
+Water + Paradise = Oasis
 Earth + Heaven = Paradise
 
 Usages:
@@ -21,4 +21,4 @@ Ocean + Paradise = Island
 Earth + Paradise = Garden
 Air + Paradise = Eden
 Fire + Paradise = Hell
-Paradise + Oasis = Water
+Water + Paradise = Oasis
