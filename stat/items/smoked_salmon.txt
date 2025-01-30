@@ -8,4 +8,4 @@ Fish + Fireplace = Smoked Salmon
 
 Usages:
 =======
-Human + Smoked Salmon = Lax
+Human + Smoked Salmon = Lox

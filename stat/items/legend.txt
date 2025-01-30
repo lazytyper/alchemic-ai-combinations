@@ -12,3 +12,5 @@ Human + Legend = Hercules
 Legend + Bullseye = Daredevil
 Legend + Bullseye = Robin Hood
 Arrow + Legend = Robinhood
+Legend + Legend = Mythology
+Myth + Legend = Hero

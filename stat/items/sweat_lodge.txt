@@ -10,3 +10,4 @@ Usages:
 =======
 Sauna + Sweat Lodge = Steam Room
 Sweat Lodge + Steam Room = Sauna
+Sweat Lodge + Mistress = Healing Ceremony

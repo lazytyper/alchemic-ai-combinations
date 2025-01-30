@@ -13,6 +13,6 @@ Usages:
 Smoke + Witch = Spell
 Evolution + Smoke = Chimney
 Smoke + Nymph = Mistress
-Smoke + Lax = Salmon
+Smoke + Lox = Salmon
 Fire + Smoke = Heat Wave
 Fire + Smoke = Bonfire

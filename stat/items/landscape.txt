@@ -14,3 +14,4 @@ Steam + Landscape = Geysers
 View + Landscape = Scenery
 Landscape + Universe = Cosmos
 Landscape + Nature Guardian = Dryad
+Landscape + Fairy Tale = Story Book

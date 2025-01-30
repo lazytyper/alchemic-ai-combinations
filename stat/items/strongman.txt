@@ -8,3 +8,5 @@ Hercules + Athlete = Strongman
 
 Usages:
 =======
+Anarchy + Strongman = Dictatorship
+Strongman + Wonder Woman = Superhero

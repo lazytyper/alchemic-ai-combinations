@@ -14,3 +14,5 @@ Landscape + Universe = Cosmos
 Universe + Stargazing = Astronomy
 Universe + Astronomy = Cosmology
 Universe + Existence = Cosmic Reality
+Universe + Superman = Justice League
+Universe + Superhero = Marvel

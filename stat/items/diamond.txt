@@ -11,3 +11,4 @@ Usages:
 =======
 Human + Diamond = Engagement Ring
 Mountain + Diamond = Peak
+Demonic Ritual + Diamond = Soul Gem

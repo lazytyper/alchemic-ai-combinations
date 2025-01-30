@@ -10,3 +10,4 @@ Cinderella + Castle = Fairy Tale
 Usages:
 =======
 Loneliness + Fairy Tale = Happily Ever After
+Landscape + Fairy Tale = Story Book

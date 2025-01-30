@@ -9,3 +9,4 @@ Nature + Garden = Park
 Usages:
 =======
 Firestorm + Park = Firefighter
+Park + Hercules = Heroics

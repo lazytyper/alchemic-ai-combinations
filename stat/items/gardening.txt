@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Gardening = Horticulture
 Gardening + Dirt = Planting
+Gardening + Energy Production = Sustainable Farming

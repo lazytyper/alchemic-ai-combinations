@@ -8,3 +8,4 @@ Life + Lava Lamp = Earthquake
 
 Usages:
 =======
+Tourist Attraction + Earthquake = Fault Line

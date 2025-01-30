@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Hercules = Demigod
 Hercules + Athlete = Strongman
+Park + Hercules = Heroics

@@ -8,3 +8,4 @@ Hell + Jungle Tribe = Demonic Ritual
 
 Usages:
 =======
+Demonic Ritual + Diamond = Soul Gem

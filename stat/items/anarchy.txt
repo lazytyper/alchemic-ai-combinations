@@ -11,3 +11,4 @@ Usages:
 Motorcycle + Anarchy = Outlaw
 Anarchy + Runner = Anarchist
 Anarchy + Bladerunner = Cyberpunk
+Anarchy + Strongman = Dictatorship

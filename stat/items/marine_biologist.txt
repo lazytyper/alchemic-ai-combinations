@@ -9,3 +9,4 @@ Ocean + Life = Marine Biologist
 Usages:
 =======
 Marine Biologist + Atlantis = Lost City
+Marine Biologist + Jungle Tribe = Oceanographer

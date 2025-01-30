@@ -8,3 +8,4 @@ Wizard + Enlightenment = Gandalf
 
 Usages:
 =======
+Gandalf + Fireplace = Wizardry
