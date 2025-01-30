@@ -9,6 +9,7 @@ Oxygen + Atmosphere = Air
 Usages:
 =======
 Air + Air = Oxygen
+Air + Air = Wind
 Air + Mist = Fog
 Air + Replica = Wind
 Air + Water = Mist
@@ -23,3 +24,4 @@ Air + Atmosphere = Sky
 Air + Soil = Plants
 Air + Paradise = Eden
 Air + Wave = Sound
+Air + Lava Wave = Smoke

@@ -36,6 +36,9 @@ Life + Cosmos = Existence
 Life + Soul = Spirit
 Life + Tree = Nature
 Life + Forest = Nature
+Life + Eternity = Infinity
+Life + Eternity = Immortility
+Life + Ashes = Death
 Planet + Evolution = Life
 
 Usages:
@@ -68,3 +71,6 @@ Life + Cosmos = Existence
 Life + Soul = Spirit
 Life + Tree = Nature
 Life + Forest = Nature
+Life + Eternity = Infinity
+Life + Eternity = Immortility
+Life + Ashes = Death

@@ -1,0 +1,14 @@
+==================================
+= Pirate
+==================================
+
+created by:
+===========
+Island + Ship = Pirate
+
+Usages:
+=======
+Island + Pirate = Treasure
+Ship + Pirate = Blackbeard
+Ship + Pirate = Captain
+Ship + Pirate = Captain Hook

@@ -10,3 +10,4 @@ Usages:
 =======
 Horticulture + Mermaid = Aquatic Garden
 Horticulture + Castaway = Island Garden
+Horticulture + Cinderella = Garden Fairy

@@ -12,3 +12,4 @@ Earth + Combustion = Volcano
 Combustion + Atmosphere = Fire
 Combustion + Wind = Turbine
 Combustion + Storm = Firestorm
+Combustion + Pebble = Fireplace

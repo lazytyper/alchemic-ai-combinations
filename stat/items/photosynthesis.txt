@@ -10,3 +10,4 @@ Usages:
 =======
 Nature + Photosynthesis = Carbon Dioxide
 Photosynthesis + Sunflower = Energy Production
+Mist + Photosynthesis = Fogbow

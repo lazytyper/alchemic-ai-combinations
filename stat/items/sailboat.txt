@@ -1,0 +1,12 @@
+==================================
+= Sailboat
+==================================
+
+created by:
+===========
+Ocean + Wind = Sailboat
+
+Usages:
+=======
+Sailboat + Sailboat = Yacht
+Sailboat + Sailboat = Fleet

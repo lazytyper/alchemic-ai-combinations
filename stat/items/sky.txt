@@ -11,5 +11,6 @@ Usages:
 Earth + Sky = Horizon
 Island + Sky = Cloudscape
 Sun + Sky = Farmland
+Sun + Sky = Day
 Sky + Family = Constellation
 Sky + Environmental Activism = Blue Planet

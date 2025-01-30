@@ -10,3 +10,4 @@ Usages:
 =======
 Forest + Dryad = Nymph
 Dryad + Elixir = Health Potion
+Charizard + Dryad = Dragonwood

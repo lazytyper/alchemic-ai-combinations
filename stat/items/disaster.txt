@@ -28,3 +28,11 @@ Volcano + Disaster = Eruption
 Tsunami + Disaster = Fukushima
 Disaster + Godzilla = Chaos
 Disaster + Dystopia = Catastrophe
+Hurricane + Hard Place = Disaster
+
+Usages:
+=======
+Volcano + Disaster = Eruption
+Tsunami + Disaster = Fukushima
+Disaster + Godzilla = Chaos
+Disaster + Dystopia = Catastrophe

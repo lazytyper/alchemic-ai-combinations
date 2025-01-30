@@ -8,3 +8,4 @@ Smoke + Witch = Spell
 
 Usages:
 =======
+Obsidian + Spell = Magic Stone

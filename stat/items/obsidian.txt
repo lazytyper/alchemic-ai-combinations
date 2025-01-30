@@ -9,3 +9,4 @@ Lava + Mud = Obsidian
 Usages:
 =======
 Obsidian + Obsidian = Mirror
+Obsidian + Spell = Magic Stone

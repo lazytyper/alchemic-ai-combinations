@@ -9,3 +9,4 @@ Flame + Flame = Fireball
 Usages:
 =======
 Aphrodite + Fireball = Love Potion
+Fireball + Elephant Communication = Thunderstorm

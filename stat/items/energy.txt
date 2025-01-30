@@ -11,3 +11,6 @@ Usages:
 Fire + Energy = Heat
 Human + Energy = Life Force
 Energy + Bicycle = Pedal
+Mud + Energy = Fossil Fuel
+Mud + Energy = Battery
+Energy + Fossil = Coal

@@ -10,3 +10,4 @@ Usages:
 =======
 Island + Jungle Tribe = Lost Civilization
 Jungle Tribe + Mysticism = Shamanism
+Hell + Jungle Tribe = Demonic Ritual

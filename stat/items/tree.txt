@@ -9,6 +9,8 @@ Plant + Plant = Tree
 Usages:
 =======
 Tree + Tree = Forest
+Tree + Tree = Forest
 Life + Tree = Nature
 Human + Tree = Druid
 Tree + Desert = Oasis
+Tree + Forest = Woodland

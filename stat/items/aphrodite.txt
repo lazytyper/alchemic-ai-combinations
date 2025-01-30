@@ -10,3 +10,4 @@ Usages:
 =======
 Aphrodite + Love Potion = Cupid
 Aphrodite + Fireball = Love Potion
+Aphrodite + Thunder = Love Storm

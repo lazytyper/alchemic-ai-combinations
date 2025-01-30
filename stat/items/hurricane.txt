@@ -10,3 +10,4 @@ Usages:
 =======
 Mist + Hurricane = Fog
 Hurricane + Ecosystem = Disaster
+Hurricane + Hard Place = Disaster

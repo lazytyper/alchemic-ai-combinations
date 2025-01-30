@@ -8,3 +8,4 @@ Island + Amphibian + Agribusiness = Frog Farm
 
 Usages:
 =======
+Frog Farm + Phoenix = Rebirth

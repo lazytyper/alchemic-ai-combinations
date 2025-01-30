@@ -1,0 +1,12 @@
+==================================
+= Coal
+==================================
+
+created by:
+===========
+Energy + Fossil = Coal
+
+Usages:
+=======
+Fire + Coal = Diamond
+Coal + Coal = Diamond

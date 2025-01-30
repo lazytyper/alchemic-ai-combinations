@@ -1,0 +1,11 @@
+==================================
+= Gambler
+==================================
+
+created by:
+===========
+Dice + Outlaw = Gambler
+
+Usages:
+=======
+Human + Gambler = Risk-taker

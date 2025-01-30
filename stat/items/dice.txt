@@ -11,3 +11,4 @@ Usages:
 Dice + Dice = Roll
 Hope + Dice = Chance
 Human + Dice = Gambling
+Dice + Outlaw = Gambler

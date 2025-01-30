@@ -9,3 +9,4 @@ Air + Paradise = Eden
 Usages:
 =======
 Sacrifice + Eden = Garden
+Bribery + Eden = Paradise Lost

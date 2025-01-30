@@ -8,3 +8,4 @@ Energy + Bicycle = Pedal
 
 Usages:
 =======
+Pedal + Race = Bicycle

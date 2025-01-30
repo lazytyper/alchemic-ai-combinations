@@ -36,40 +36,6 @@ function addCombination(names, resultName) {
     } else {
         combinations[key].push(resultId);
     }
-
-
-}
-
-function getCombination(name1, name2) {
-    let id1 = itemNames[name1];
-    let id2 = itemNames[name2];
-
-    if (id2 > id1) {
-        let tmp = id1;
-        id1 = id2;
-        id2 = tmp;
-    }
-
-    let key = id1 + '_' + id2;
-
-    return combinations[key];
-}
-
-function listCombinations() {
-    let result = [];
-    for (let key in combinations) {
-        let ids = key.split('_');
-        let name1 = Object.keys(itemNames).find(key => itemNames[key] == ids[0]);
-        let name2 = Object.keys(itemNames).find(key => itemNames[key] == ids[1]);
-
-        let resultIds = combinations[key];
-
-        for (let resultId of resultIds) {
-            let resultName = Object.keys(itemNames).find(key => itemNames[key] == resultId);
-            result.push({ name1, name2, resultName });
-        }
-    }
-    return result;
 }
 
 function listCombinationsWith(name) {
@@ -86,8 +52,10 @@ function listCombinationsWith(name) {
         }
 
         if (ids.includes(id)) {
-            let usage = { names: resultNames, resultName: Object.keys(itemNames).find(key => itemNames[key] == resultIds[0]) };
-            result.usages.push(usage);
+            for (let resultId of resultIds) {
+                let usage = { names: resultNames, resultName: items[resultId] };
+                result.usages.push(usage);
+            }
         }
 
     }

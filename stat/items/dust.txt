@@ -9,3 +9,4 @@ Air + Earth = Dust
 Usages:
 =======
 Air + Dust = Pollen
+Fire + Dust = Ashes

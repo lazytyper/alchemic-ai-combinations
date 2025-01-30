@@ -12,3 +12,5 @@ Oxygen + Ocean = Life
 Oxygen + Atmosphere = Air
 Oxygen + Mud = Dirt
 Oxygen + Fire = Combustion
+Oxygen + Climate Change = Global Warming
+Oxygen + Nature = Trees

@@ -15,3 +15,4 @@ Bicycle + Mountain = Mountainbike
 Motorcycle + Mountain = Dirtbike
 Mountain + Druid = Nature Guardian
 Mountain + Wave = Surfing
+Mountain + Diamond = Peak

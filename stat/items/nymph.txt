@@ -9,3 +9,4 @@ Forest + Dryad = Nymph
 Usages:
 =======
 Religion + Nymph = Nympholepsy
+Smoke + Nymph = Mistress

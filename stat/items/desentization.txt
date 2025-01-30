@@ -9,3 +9,4 @@ Allergy + Antidote = Desentization
 Usages:
 =======
 Desentization + Kaiju = Monster Suit
+Agriculture + Desentization = Farn Therapy

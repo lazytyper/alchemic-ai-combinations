@@ -10,6 +10,8 @@ Usages:
 =======
 Planet + Evolution = Life
 Fire + Evolution = Human
+Fire + Evolution = Charmander
+Fire + Evolution = Charizard
 Evolution + Human = Homo Sapiens
 Mud + Evolution = Amphibian
 Evolution + Smoke = Chimney

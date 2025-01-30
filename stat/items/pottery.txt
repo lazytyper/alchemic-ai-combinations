@@ -11,6 +11,7 @@ Usages:
 Pottery + Turbine = Vase
 Biosphere + Pottery = Clay Soil
 Pottery + Geyser = Hot Spring
+Pottery + Cloud = Vase
 Fire + Clay = Pottery
 
 Usages:
@@ -18,3 +19,4 @@ Usages:
 Pottery + Turbine = Vase
 Biosphere + Pottery = Clay Soil
 Pottery + Geyser = Hot Spring
+Pottery + Cloud = Vase

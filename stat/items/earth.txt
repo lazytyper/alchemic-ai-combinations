@@ -9,6 +9,7 @@ Water + Blue Planet = Earth
 Usages:
 =======
 Earth + Fire = Lava
+Earth + Fire = Volcano
 Earth + Mud = Soil
 Earth + Combustion = Volcano
 Earth + Atmosphere = Biosphere
@@ -24,3 +25,6 @@ Earth + Sky = Horizon
 Earth + Paradise = Garden
 Earth + Earth + Fire = Magma
 Earth + Heaven = Paradise
+Earth + Battery = Electricity
+Earth + Eternity = Fossil
+Earth + Eternity = Time

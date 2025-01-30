@@ -12,6 +12,7 @@ Sacrifice + Witch = Witchcraft
 Smoke + Witch = Spell
 Love + Witch = Potion
 Witch + Potion = Magic Spell
+Witch + Gossip = Rumor
 Fire + Life + Swamp = Witch
 
 Usages:
@@ -20,6 +21,7 @@ Sacrifice + Witch = Witchcraft
 Smoke + Witch = Spell
 Love + Witch = Potion
 Witch + Potion = Magic Spell
+Witch + Gossip = Rumor
 Human + Spellcaster = Witch
 
 Usages:
@@ -28,3 +30,4 @@ Sacrifice + Witch = Witchcraft
 Smoke + Witch = Spell
 Love + Witch = Potion
 Witch + Potion = Magic Spell
+Witch + Gossip = Rumor

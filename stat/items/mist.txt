@@ -12,3 +12,4 @@ Ocean + Mist = Fog
 Mist + Hurricane = Fog
 Mud + Mist = Swamp
 Air + Mist = Fog
+Mist + Photosynthesis = Fogbow

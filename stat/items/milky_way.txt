@@ -10,3 +10,4 @@ Usages:
 =======
 Arrow + Milky Way = Galaxy
 Milky Way + Hot Spring = Galaxy
+Milky Way + Contemplation = Stargazing

@@ -9,3 +9,4 @@ Atmosphere + Motorcycle = Skycycle
 Usages:
 =======
 Carbon Dioxide + Skycycle = Bicycle
+Skycycle + Day = Daydream

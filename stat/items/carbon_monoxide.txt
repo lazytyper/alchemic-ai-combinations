@@ -8,3 +8,4 @@ Fire + Carbon Dioxide = Carbon Monoxide
 
 Usages:
 =======
+Storm + Carbon Monoxide = Danger

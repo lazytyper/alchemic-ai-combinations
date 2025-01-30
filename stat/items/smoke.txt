@@ -10,9 +10,18 @@ Usages:
 =======
 Smoke + Witch = Spell
 Evolution + Smoke = Chimney
+Smoke + Nymph = Mistress
 Air + Volcano = Smoke
 
 Usages:
 =======
 Smoke + Witch = Spell
 Evolution + Smoke = Chimney
+Smoke + Nymph = Mistress
+Air + Lava Wave = Smoke
+
+Usages:
+=======
+Smoke + Witch = Spell
+Evolution + Smoke = Chimney
+Smoke + Nymph = Mistress

@@ -11,3 +11,5 @@ Usages:
 Solar System + Universe = Cosmic Expanse
 Life + Universe = Existence
 Landscape + Universe = Cosmos
+Universe + Stargazing = Astronomy
+Universe + Astronomy = Cosmology

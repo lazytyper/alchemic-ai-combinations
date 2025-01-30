@@ -9,3 +9,8 @@ Sunflower + Rain = Rainbow
 Usages:
 =======
 Plant + Rainbow = Flower Garden
+Thunder + Fogbow = Rainbow
+
+Usages:
+=======
+Plant + Rainbow = Flower Garden

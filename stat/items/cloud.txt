@@ -13,3 +13,4 @@ Cloud + Salamander = Firestorm
 Cloud + Soul = Heaven
 Volcano + Cloud = Ash
 Cloud + Storm = Thunderstorm
+Pottery + Cloud = Vase

@@ -13,6 +13,7 @@ Garden + Botanist = Greenhouse
 Human + Garden = Farmer
 Garden + Farmer = Crop Yield
 Garden + Jungle Ride = Theme Park
+Garden + Sorcery = Herbology
 Earth + Paradise = Garden
 
 Usages:
@@ -22,3 +23,4 @@ Garden + Botanist = Greenhouse
 Human + Garden = Farmer
 Garden + Farmer = Crop Yield
 Garden + Jungle Ride = Theme Park
+Garden + Sorcery = Herbology

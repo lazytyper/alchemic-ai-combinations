@@ -10,6 +10,7 @@ Usages:
 =======
 Fire + Volcano = Eruption
 Ocean + Volcano = Lava Lamp
+Ocean + Volcano = Lava Wave
 Volcano + Disaster = Eruption
 Life + Volcano = Eruption
 Volcano + Water = Steam
@@ -23,6 +24,7 @@ Usages:
 =======
 Fire + Volcano = Eruption
 Ocean + Volcano = Lava Lamp
+Ocean + Volcano = Lava Wave
 Volcano + Disaster = Eruption
 Life + Volcano = Eruption
 Volcano + Water = Steam
@@ -36,6 +38,7 @@ Usages:
 =======
 Fire + Volcano = Eruption
 Ocean + Volcano = Lava Lamp
+Ocean + Volcano = Lava Wave
 Volcano + Disaster = Eruption
 Life + Volcano = Eruption
 Volcano + Water = Steam

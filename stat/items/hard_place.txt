@@ -9,3 +9,4 @@ Rock + Rock = Hard Place
 Usages:
 =======
 Human + Hard Place = Rock
+Hurricane + Hard Place = Disaster

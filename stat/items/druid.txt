@@ -12,6 +12,7 @@ Mountain + Druid = Nature Guardian
 Druid + Magic Spell = Incantation
 Religion + Druid = Nature Worship
 Druid + Incantation = Magic
+Druid + Herbology = Herbalist
 Human + Tree = Druid
 
 Usages:
@@ -20,3 +21,4 @@ Mountain + Druid = Nature Guardian
 Druid + Magic Spell = Incantation
 Religion + Druid = Nature Worship
 Druid + Incantation = Magic
+Druid + Herbology = Herbalist

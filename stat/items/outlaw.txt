@@ -9,3 +9,4 @@ Motorcycle + Anarchy = Outlaw
 Usages:
 =======
 Hate + Outlaw = Vigilante
+Dice + Outlaw = Gambler

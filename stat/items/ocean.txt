@@ -11,6 +11,7 @@ Usages:
 Oxygen + Ocean = Life
 Ocean + Mist = Fog
 Ocean + Volcano = Lava Lamp
+Ocean + Volcano = Lava Wave
 Inferno + Ocean = Tsunami
 Fire + Ocean = Steam
 Ocean + Paradise = Island
@@ -18,3 +19,24 @@ Earth + Ocean = Island
 Ocean + Life = Marine Biologist
 Ocean + Lost Civilization = Atlantis
 Ocean + Tsunami = Wave
+Ocean + Wind = Waves
+Ocean + Wind = Sailboat
+Ocean + Wind = Sailing
+Waves + Waves = Ocean
+
+Usages:
+=======
+Oxygen + Ocean = Life
+Ocean + Mist = Fog
+Ocean + Volcano = Lava Lamp
+Ocean + Volcano = Lava Wave
+Inferno + Ocean = Tsunami
+Fire + Ocean = Steam
+Ocean + Paradise = Island
+Earth + Ocean = Island
+Ocean + Life = Marine Biologist
+Ocean + Lost Civilization = Atlantis
+Ocean + Tsunami = Wave
+Ocean + Wind = Waves
+Ocean + Wind = Sailboat
+Ocean + Wind = Sailing

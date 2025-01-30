@@ -9,3 +9,4 @@ Human + Flower Garden = Botanist
 Usages:
 =======
 Garden + Botanist = Greenhouse
+Botanist + Oasis = Plantation

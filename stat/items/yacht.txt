@@ -1,0 +1,11 @@
+==================================
+= Yacht
+==================================
+
+created by:
+===========
+Sailboat + Sailboat = Yacht
+
+Usages:
+=======
+Yacht + Yacht = Boat

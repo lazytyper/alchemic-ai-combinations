@@ -10,3 +10,6 @@ Usages:
 =======
 God + Thunder = Zeus
 Thunder + Silence = Whisper
+Thunder + Thunder = Lightning
+Thunder + Fogbow = Rainbow
+Aphrodite + Thunder = Love Storm

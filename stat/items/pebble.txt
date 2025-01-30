@@ -9,3 +9,4 @@ Stone + Rock = Pebble
 Usages:
 =======
 Pebble + Pebble = Stone
+Combustion + Pebble = Fireplace

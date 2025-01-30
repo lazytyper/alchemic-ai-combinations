@@ -9,3 +9,4 @@ Fire + Paradise = Hell
 Usages:
 =======
 Deity + Hell = Satan
+Hell + Jungle Tribe = Demonic Ritual

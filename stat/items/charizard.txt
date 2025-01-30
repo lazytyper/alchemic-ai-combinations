@@ -9,3 +9,4 @@ Fire + Evolution = Charizard
 Usages:
 =======
 Society + Charizard = Dragon Cult
+Charizard + Dryad = Dragonwood

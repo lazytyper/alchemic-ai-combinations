@@ -16,3 +16,5 @@ Life + Mud = Evolution
 Oxygen + Mud = Dirt
 Mud + Evolution = Amphibian
 Mud + Sun = Adobe
+Mud + Energy = Fossil Fuel
+Mud + Energy = Battery

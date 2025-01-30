@@ -9,6 +9,7 @@ Combustion + Atmosphere = Fire
 Usages:
 =======
 Earth + Fire = Lava
+Earth + Fire = Volcano
 Fire + Fire = Inferno
 Fire + Volcano = Eruption
 Fire + Clay = Pottery
@@ -22,6 +23,8 @@ Fire + Energy = Heat
 Fire + Biofuel = Energy
 Fire + Turbine = Power Plant
 Fire + Evolution = Human
+Fire + Evolution = Charmander
+Fire + Evolution = Charizard
 Fire + Religion = Sacrifice
 Fire + Mudbrick = Kiln
 Fire + Paradise = Hell
@@ -30,3 +33,5 @@ Fire + Carbon Dioxide = Carbon Monoxide
 Fire + Blue Planet = Muad'dib
 Fire + Life + Swamp = Witch
 Earth + Earth + Fire = Magma
+Fire + Dust = Ashes
+Fire + Coal = Diamond

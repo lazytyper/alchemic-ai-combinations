@@ -9,3 +9,4 @@ Tarzan + Speech = Elephant Communication
 Usages:
 =======
 Jungle + Elephant Communication = Trumpet Vine
+Fireball + Elephant Communication = Thunderstorm
