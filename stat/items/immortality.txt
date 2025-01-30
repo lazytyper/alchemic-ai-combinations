@@ -11,3 +11,4 @@ Usages:
 Human + Immortality = Vampire
 Immortality + Mortality = Life Cycle
 Contemplation + Immortality = Philosophy
+Immortality + Whisper = Secret

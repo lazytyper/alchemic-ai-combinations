@@ -10,3 +10,4 @@ Usages:
 =======
 Bird + Fire = Phoenix
 Bird + Bird = Phoenix
+Bird + Treehouse = Robin

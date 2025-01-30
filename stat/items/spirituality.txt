@@ -12,3 +12,4 @@ Atlantis + Spirituality = Mysticism
 Spirituality + Sun = Yoga
 Planet + Spirituality = Astrology
 Garden Fairy + Spirituality = Fairy Magic
+Evil Twin + Spirituality = Shadow Self

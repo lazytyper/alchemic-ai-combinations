@@ -9,3 +9,4 @@ Buddhism + Human = Enlightenment
 Usages:
 =======
 Enlightenment + Wizard = Gandalf
+Earth + Enlightenment = Zen

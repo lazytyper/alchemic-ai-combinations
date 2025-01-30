@@ -13,3 +13,4 @@ Copycat + Imitation = Replica
 Copycat + Ecosystem = Imitation
 Contemplation + Copycat = Mimicry
 Amazon + Copycat = Knockoff
+Archipelago + Copycat = Imitator

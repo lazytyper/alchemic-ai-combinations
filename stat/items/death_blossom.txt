@@ -9,3 +9,4 @@ Fake Flower + Poison = Death Blossom
 Usages:
 =======
 Death Blossom + Herbalist = Herbicide
+Amphibian + Death Blossom = Frogger

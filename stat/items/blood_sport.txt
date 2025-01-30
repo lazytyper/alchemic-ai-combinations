@@ -1,11 +1,11 @@
 ==================================
-= Vampire Hero
+= Blood Sport
 ==================================
 
 created by:
 ===========
-Justice League + Twilight = Vampire Hero
+Racecourse + Vampire Hero = Blood Sport
 
 Usages:
 =======
-Racecourse + Vampire Hero = Blood Sport
+Blood Sport + Human = Gladiator

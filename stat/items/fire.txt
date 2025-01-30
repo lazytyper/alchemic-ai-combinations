@@ -57,3 +57,4 @@ Air + Earth + Fire + Nature = Elements
 Fire + Ghost = Poltergeist
 Fire + Fire Magic = Pyromancy
 Bird + Fire = Phoenix
+Charcoal + Fire = Embers

@@ -9,3 +9,4 @@ Vampire + Vampire = Dracula
 Usages:
 =======
 Blood + Dracula = Vampire
+Dracula + Lightning = Vampire Bat

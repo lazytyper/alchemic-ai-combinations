@@ -19,3 +19,4 @@ Plant Growth + Time = Photosynthesis
 Life Force + Time = Eternal Youth
 Apocalypse + Time = End Times
 Spell + Time = Chronomancy
+Egg + Time = Omelette

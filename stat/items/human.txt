@@ -80,3 +80,4 @@ Hero + Human = Superman
 Fossil Fuel + Human = Carbon Emissions
 Agribusiness + Human = Agrarian
 Human + Space = Astronaut
+Blood Sport + Human = Gladiator

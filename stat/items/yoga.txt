@@ -9,3 +9,4 @@ Spirituality + Sun = Yoga
 Usages:
 =======
 Yoga = Turbine.wind Flow
+Spell + Yoga = Spellcasting

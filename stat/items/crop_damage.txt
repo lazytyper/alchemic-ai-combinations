@@ -8,3 +8,4 @@ Farming + Thunderstorm = Crop Damage
 
 Usages:
 =======
+Crop Damage + Life Force = Blight

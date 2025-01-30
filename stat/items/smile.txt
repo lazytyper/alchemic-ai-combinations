@@ -9,3 +9,4 @@ Human + Teeth = Smile
 Usages:
 =======
 Human + Smile = Happiness
+Crop Yield + Smile = Happy Harvest

@@ -1,11 +1,12 @@
 ==================================
-= Vampire Hero
+= Egg
 ==================================
 
 created by:
 ===========
-Justice League + Twilight = Vampire Hero
+Nest + Robin = Egg
 
 Usages:
 =======
-Racecourse + Vampire Hero = Blood Sport
+Egg + Time = Omelette
+Egg + Egg = Omelette

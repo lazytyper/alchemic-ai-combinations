@@ -9,3 +9,4 @@ Eco-Friendly + Soil = Compost
 Usages:
 =======
 Compost + Time = Fertilizer
+Charmander + Compost = Charcoal

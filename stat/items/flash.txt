@@ -10,3 +10,4 @@ Usages:
 =======
 Flash + Lightning = Thor
 Flash + Sailboat = Speedboat
+Flash + Oxygen = Spark

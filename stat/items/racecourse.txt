@@ -10,3 +10,4 @@ Usages:
 =======
 Bicycle + Racecourse = Velodrome
 Motorcycle + Racecourse = Racetrack
+Racecourse + Vampire Hero = Blood Sport

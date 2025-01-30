@@ -9,3 +9,4 @@ Human + Smile = Happiness
 Usages:
 =======
 Happiness + Love = Joy
+Dollhouse + Happiness = Playhouse

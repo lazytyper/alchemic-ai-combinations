@@ -9,3 +9,4 @@ Community + Survivor = Tribe
 Usages:
 =======
 Jungle + Tribe = Amazon
+Tribe + Wreckage = Tribalism

@@ -10,3 +10,4 @@ Usages:
 =======
 Life Force + Time = Eternal Youth
 Hopeful Cynicism + Life Force = Existencialism
+Crop Damage + Life Force = Blight

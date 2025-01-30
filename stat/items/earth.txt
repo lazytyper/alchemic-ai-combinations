@@ -33,3 +33,4 @@ Earth + Eternity = Time
 Earth + Eternity = Fossil
 Earth + Eternity = Time
 Air + Earth + Fire + Nature = Elements
+Earth + Enlightenment = Zen

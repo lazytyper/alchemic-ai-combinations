@@ -9,3 +9,4 @@ Farmer + Garden = Crop Yield
 Usages:
 =======
 Crop Yield + Human = Farming
+Crop Yield + Smile = Happy Harvest

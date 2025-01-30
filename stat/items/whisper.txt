@@ -9,3 +9,4 @@ Silence + Thunder = Whisper
 Usages:
 =======
 Human + Whisper = Gossip
+Immortality + Whisper = Secret

@@ -9,3 +9,4 @@ Fireplace + Fish = Smoked Salmon
 Usages:
 =======
 Human + Smoked Salmon = Lox
+Devil's Advocate + Smoked Salmon = Schmear

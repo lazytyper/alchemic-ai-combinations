@@ -11,3 +11,4 @@ Usages:
 =======
 Hate + Outlaw = Vigilante
 Dice + Outlaw = Gambler
+Outlaw + Vase = Banditry
