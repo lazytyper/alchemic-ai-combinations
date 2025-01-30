@@ -10,3 +10,4 @@ Usages:
 =======
 Sacrifice + Eden = Garden
 Bribery + Eden = Paradise Lost
+Eden + Snake = Original Sin

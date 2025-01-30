@@ -15,3 +15,4 @@ Fish + Race = Marathon
 Human + Race = Runner
 Human + Race = Marathon
 Blue Planet + Race = Earthrace
+Race + Ship = Regatta

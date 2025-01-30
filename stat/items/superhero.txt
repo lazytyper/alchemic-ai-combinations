@@ -9,3 +9,4 @@ Strongman + Wonder Woman = Superhero
 Usages:
 =======
 Universe + Superhero = Marvel
+Strongman + Superhero = Powerhouse

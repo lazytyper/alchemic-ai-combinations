@@ -10,3 +10,4 @@ Usages:
 =======
 Anarchy + Strongman = Dictatorship
 Strongman + Wonder Woman = Superhero
+Strongman + Superhero = Powerhouse

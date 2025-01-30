@@ -14,3 +14,4 @@ Energy + Bicycle = Pedal
 Mud + Energy = Fossil Fuel
 Mud + Energy = Battery
 Energy + Fossil = Coal
+Air + Turbine + Energy = Wind Power

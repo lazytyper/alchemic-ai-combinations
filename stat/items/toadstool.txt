@@ -11,3 +11,4 @@ Usages:
 Garden + Toadstool = Fairy Ring
 Human + Toadstool = Witch
 Arrow + Toadstool = Poison
+Toadstool + Eco-Friendly = Mushroom

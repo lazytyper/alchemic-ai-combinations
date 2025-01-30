@@ -9,3 +9,4 @@ Anemone + Anemone = Duplicate
 Usages:
 =======
 Duplicate + Duplicate = Copy
+Duplicate + Rock = Gemstone

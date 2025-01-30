@@ -43,3 +43,4 @@ Fire + Firefighter = Rescue Squad
 Fire + Forest = Wildfire
 Fire + Trees = Wildfire
 Fire + Tree = Ash
+Air + Earth + Fire + Nature = Elements

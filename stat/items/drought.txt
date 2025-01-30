@@ -11,3 +11,4 @@ Usages:
 Farmland + Drought = Desertification
 Lost Civilization + Drought = Atlantis
 Water + Drought = Thirst
+Catastrophe + Drought = Famine

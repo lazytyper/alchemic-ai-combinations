@@ -10,3 +10,4 @@ Usages:
 =======
 Cloudscape + Toad = Toadstool
 Charmander + Cloudscape = Fire Sky
+Cloudscape + Kingdom = Skyland

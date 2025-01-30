@@ -8,3 +8,5 @@ Life + Lava Lamp = Volcanic Eruption
 
 Usages:
 =======
+Volcanic Eruption + Apple Pie = Apple Turnover
+Climber + Volcanic Eruption = Lava Flow

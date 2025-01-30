@@ -8,3 +8,4 @@ Faith + Salamander = Fire Spirit
 
 Usages:
 =======
+Fire Spirit + Risk-Taker = Firebrand

@@ -13,3 +13,4 @@ Monarch + Queen = Sovereign
 Monarch + Queen + Castle = Royalty
 Queen + Castle = Throne
 Queen + Heroics = Wonder Woman
+Queen + Society = Monarchy

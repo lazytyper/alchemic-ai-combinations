@@ -12,3 +12,4 @@ Usages:
 Stone + Stone = Rock
 Stone + Rock = Pebble
 Stone + Sherpa = Mountain Guide
+Stone + Boat = Anchor

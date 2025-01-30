@@ -22,3 +22,4 @@ Wind + Wind = Hurricane
 Ocean + Wind = Waves
 Ocean + Wind = Sailboat
 Ocean + Wind = Sailing
+Wind + Seascape = Breeze

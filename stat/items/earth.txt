@@ -28,3 +28,4 @@ Earth + Heaven = Paradise
 Earth + Battery = Electricity
 Earth + Eternity = Fossil
 Earth + Eternity = Time
+Air + Earth + Fire + Nature = Elements

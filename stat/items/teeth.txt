@@ -9,3 +9,4 @@ Human + Jaws = Teeth
 Usages:
 =======
 Human + Teeth = Smile
+Fairy Ring + Teeth = Tooth Fairy

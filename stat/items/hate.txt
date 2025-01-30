@@ -12,3 +12,5 @@ Human + Hate = Prejudice
 Hate + Hate = Anger
 Society + Hate = Dystopia
 Hate + Outlaw = Vigilante
+Atlantis + Hate = Lost Love
+Love + Hate = Conflict

@@ -8,3 +8,4 @@ Love + Butterfly = Flutter Heart
 
 Usages:
 =======
+Replica + Flutter Heart = Love Token

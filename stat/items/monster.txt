@@ -10,3 +10,4 @@ Usages:
 =======
 Monster + Monster = Godzilla
 Monster + Shark = Jaws
+Aquarium + Monster = Kraken

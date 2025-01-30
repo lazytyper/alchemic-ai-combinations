@@ -9,3 +9,5 @@ Arrow + Toadstool = Poison
 Usages:
 =======
 Poison + Potion = Elixir
+Jungle + Poison = Snake
+Fake Flower + Poison = Death Blossom

@@ -10,3 +10,4 @@ Usages:
 =======
 Pebble + Pebble = Stone
 Combustion + Pebble = Fireplace
+Amazon + Pebble = River

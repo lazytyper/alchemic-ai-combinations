@@ -9,3 +9,4 @@ Garden + Toadstool = Fairy Ring
 Usages:
 =======
 Fairy Ring + Fairy Magic = Fairy Circle
+Fairy Ring + Teeth = Tooth Fairy

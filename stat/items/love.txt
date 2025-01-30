@@ -20,3 +20,5 @@ Love + Ash = Cinderella
 Love + Potion = Love Potion
 Love + Butterfly = Flutter Heart
 Love + Happiness = Joy
+Love + God = Eros
+Love + Hate = Conflict

@@ -10,3 +10,4 @@ Usages:
 =======
 Farmer + Farming = Agriculture
 Agribusiness + Farming = Agriculture
+Farming + Thunderstorm = Crop Damage

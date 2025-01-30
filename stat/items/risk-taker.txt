@@ -9,3 +9,4 @@ Human + Gambler = Risk-Taker
 Usages:
 =======
 Everest + Risk-Taker = Adventurer
+Fire Spirit + Risk-Taker = Firebrand

@@ -8,3 +8,4 @@ Human + Flame = Firebender
 
 Usages:
 =======
+Evil + Firebender = Firelord

@@ -9,3 +9,4 @@ Mirror + Mirror = Snow White
 Usages:
 =======
 Evil + Snow White = Queen
+Snow White + Snow White = Apple Pie

@@ -11,3 +11,4 @@ Usages:
 =======
 Turbine + Vase = Windflower
 Vase + Destruction = Shatter
+Vase + Plants = Flower Arrangement

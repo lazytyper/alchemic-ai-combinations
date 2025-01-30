@@ -16,3 +16,4 @@ Life + Time = Existence
 Time + Plant Growth = Photosynthesis
 Life Force + Time = Eternal Youth
 Time + Apocalypse = End Times
+Spell + Time = Chronomancy

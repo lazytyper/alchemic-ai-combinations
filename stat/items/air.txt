@@ -26,3 +26,5 @@ Air + Soil = Plants
 Air + Paradise = Eden
 Air + Wave = Sound
 Air + Lava Wave = Smoke
+Air + Turbine + Energy = Wind Power
+Air + Earth + Fire + Nature = Elements

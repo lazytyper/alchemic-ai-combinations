@@ -9,3 +9,4 @@ Smoke + Witch = Spell
 Usages:
 =======
 Obsidian + Spell = Magic Stone
+Spell + Time = Chronomancy

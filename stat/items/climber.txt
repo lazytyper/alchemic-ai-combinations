@@ -8,3 +8,4 @@ Human + Mountain = Climber
 
 Usages:
 =======
+Climber + Volcanic Eruption = Lava Flow

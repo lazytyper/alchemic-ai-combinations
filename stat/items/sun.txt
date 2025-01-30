@@ -19,3 +19,5 @@ Sun + Soul = Spirituality
 Sun + Spirituality = Yoga
 Sun + Flower = Sunflower
 Fish + Sun = Sunset
+Sun + National Park = Hiking
+Sun + Political Corruption = Sunshine Law

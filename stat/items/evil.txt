@@ -11,3 +11,4 @@ Usages:
 Evil + Snow White = Queen
 Evil + Society = Corruption
 Love + Evil = Hate
+Evil + Firebender = Firelord

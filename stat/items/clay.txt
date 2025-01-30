@@ -10,3 +10,4 @@ Usages:
 =======
 Clay + Nature = Pottery
 Fire + Clay = Pottery
+Clay + Breath = Sculpture

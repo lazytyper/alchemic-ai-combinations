@@ -13,3 +13,4 @@ Corruption + Society = Bribery
 Evil + Society = Corruption
 Society + Charizard = Dragon Cult
 Society + Hate = Dystopia
+Queen + Society = Monarchy

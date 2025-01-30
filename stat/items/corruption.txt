@@ -10,3 +10,5 @@ Usages:
 =======
 View + Corruption = Perspective
 Corruption + Society = Bribery
+Oceanic Paradise + Corruption = Coral Reef
+Corruption + Gossip = Scandal

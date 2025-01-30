@@ -9,3 +9,4 @@ Forest + Ranger = National Park
 Usages:
 =======
 Geyser + National Park = Yellowstone
+Sun + National Park = Hiking

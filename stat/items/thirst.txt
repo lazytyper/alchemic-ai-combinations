@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Thirst = Dehydration
 Water + Thirst = Hydration
+Thirst + Conflict = Warrior

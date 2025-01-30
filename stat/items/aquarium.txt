@@ -10,3 +10,4 @@ Usages:
 =======
 Aquarium + Olympus = Poseidon
 Aquarium + Sunset = Horizon
+Aquarium + Monster = Kraken

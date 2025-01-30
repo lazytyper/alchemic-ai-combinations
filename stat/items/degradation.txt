@@ -9,3 +9,4 @@ Ecosystem + Desertification = Degradation
 Usages:
 =======
 Captain + Degradation = Captaincy
+Blue Planet + Degradation = Earth Crisis

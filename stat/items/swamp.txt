@@ -12,3 +12,4 @@ Life + Swamp = Mudskipper
 Life + Swamp = Bog Creature
 Life + Swamp = Shrek
 Fire + Life + Swamp = Witch
+Swamp + Plant = Mangrove

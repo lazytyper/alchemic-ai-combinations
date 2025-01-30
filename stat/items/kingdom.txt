@@ -8,3 +8,4 @@ Castle + Castle = Kingdom
 
 Usages:
 =======
+Cloudscape + Kingdom = Skyland

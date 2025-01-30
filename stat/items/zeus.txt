@@ -13,3 +13,4 @@ Life + Zeus = God
 View + Zeus = Olympus
 Island + Zeus = Olympus
 Aphrodite + Zeus = Hera
+Zeus + Sculpture = Statue

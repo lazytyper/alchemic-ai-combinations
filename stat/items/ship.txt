@@ -12,3 +12,4 @@ Island + Ship = Pirate
 Ship + Pirate = Blackbeard
 Ship + Pirate = Captain
 Ship + Pirate = Captain Hook
+Race + Ship = Regatta

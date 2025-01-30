@@ -15,3 +15,4 @@ Jungle + Shipwreck = Tarzan
 Jungle + Nature Guardian = Tarzan
 Jungle + Elephant Communication = Trumpet Vine
 Human + Jungle = Tarzan
+Jungle + Poison = Snake

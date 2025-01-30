@@ -10,3 +10,4 @@ Usages:
 =======
 Sherpa + Sherpa = Mountaineer
 Stone + Sherpa = Mountain Guide
+Religion + Sherpa = Spiritual Guide

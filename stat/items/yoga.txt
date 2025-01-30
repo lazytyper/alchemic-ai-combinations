@@ -8,3 +8,4 @@ Sun + Spirituality = Yoga
 
 Usages:
 =======
+Yoga = Turbine.wind Flow

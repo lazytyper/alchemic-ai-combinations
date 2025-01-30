@@ -11,3 +11,4 @@ Usages:
 =======
 Sound + Thunderstorm = Noise
 Thunderstorm + Noise = Thunder
+Farming + Thunderstorm = Crop Damage

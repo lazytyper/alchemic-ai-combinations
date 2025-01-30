@@ -8,3 +8,4 @@ Mud + Energy = Fossil Fuel
 
 Usages:
 =======
+Human + Fossil Fuel = Carbon Emissions

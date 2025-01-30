@@ -9,3 +9,5 @@ Living World + Destruction = Apocalypse
 Usages:
 =======
 Time + Apocalypse = End Times
+Apocalypse + Monarchy = Feudalism
+Apocalypse + Lava Flow = Doomsday

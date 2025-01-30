@@ -1,0 +1,10 @@
+==================================
+= Love Token
+==================================
+
+created by:
+===========
+Replica + Flutter Heart = Love Token
+
+Usages:
+=======

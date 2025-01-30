@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Underworld = Hades
 Underworld + Plant Spirit = Shaman
+Underworld + Underwater World = Abyss
