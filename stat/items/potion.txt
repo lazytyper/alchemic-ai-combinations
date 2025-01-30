@@ -10,3 +10,5 @@ Usages:
 =======
 Poison + Potion = Elixir
 Witch + Potion = Magic Spell
+Love + Potion = Love Potion
+Potion + Plant Growth = Herbology

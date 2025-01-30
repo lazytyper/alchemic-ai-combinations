@@ -1,0 +1,13 @@
+==================================
+= Plant Growth
+==================================
+
+created by:
+===========
+Soil + Fertilizer = Plant Growth
+
+Usages:
+=======
+Time + Plant Growth = Photosynthesis
+Plant Growth + Plant Growth = Photosynthesis
+Potion + Plant Growth = Herbology

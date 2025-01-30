@@ -5,11 +5,6 @@
 created by:
 ===========
 Steam + Fish = Sauna
-
-Usages:
-=======
-Reincarnation + Sauna = Sweat Lodge
-Sauna + Sweat Lodge = Steam Room
 Sweat Lodge + Steam Room = Sauna
 
 Usages:

@@ -5,23 +5,8 @@
 created by:
 ===========
 Fire + Volcano = Eruption
-
-Usages:
-=======
-Eruption + Mountain = Volcano
-Eruption + Pollination = Flowering
 Volcano + Disaster = Eruption
-
-Usages:
-=======
-Eruption + Mountain = Volcano
-Eruption + Pollination = Flowering
 Life + Volcano = Eruption
-
-Usages:
-=======
-Eruption + Mountain = Volcano
-Eruption + Pollination = Flowering
 Volcano + Monarch = Eruption
 
 Usages:

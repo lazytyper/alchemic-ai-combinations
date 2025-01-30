@@ -13,3 +13,4 @@ Life + Universe = Existence
 Landscape + Universe = Cosmos
 Universe + Stargazing = Astronomy
 Universe + Astronomy = Cosmology
+Universe + Existence = Cosmic Reality

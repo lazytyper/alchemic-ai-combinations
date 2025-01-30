@@ -8,3 +8,4 @@ Life + Adobe = Creative Suite
 
 Usages:
 =======
+Replica + Creative Suite = Photoshop

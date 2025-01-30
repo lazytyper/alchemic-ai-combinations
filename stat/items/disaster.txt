@@ -5,29 +5,8 @@
 created by:
 ===========
 Air Quality + Tsunami = Disaster
-
-Usages:
-=======
-Volcano + Disaster = Eruption
-Tsunami + Disaster = Fukushima
-Disaster + Godzilla = Chaos
-Disaster + Dystopia = Catastrophe
 Hurricane + Ecosystem = Disaster
-
-Usages:
-=======
-Volcano + Disaster = Eruption
-Tsunami + Disaster = Fukushima
-Disaster + Godzilla = Chaos
-Disaster + Dystopia = Catastrophe
 Chernobyl + Chernobyl = Disaster
-
-Usages:
-=======
-Volcano + Disaster = Eruption
-Tsunami + Disaster = Fukushima
-Disaster + Godzilla = Chaos
-Disaster + Dystopia = Catastrophe
 Hurricane + Hard Place = Disaster
 
 Usages:

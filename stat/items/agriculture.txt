@@ -5,17 +5,10 @@
 created by:
 ===========
 Life + Farmland = Agriculture
-
-Usages:
-=======
-Agriculture + Desentization = Farn Therapy
 Farmer + Farming = Agriculture
-
-Usages:
-=======
-Agriculture + Desentization = Farn Therapy
 Agribusiness + Farming = Agriculture
 
 Usages:
 =======
-Agriculture + Desentization = Farn Therapy
+Agriculture + Desentization = Farm Therapy
+Volcano + Agriculture = Fertile Soil

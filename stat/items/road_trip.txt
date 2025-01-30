@@ -8,3 +8,4 @@ Scenery + Race = Road Trip
 
 Usages:
 =======
+Road Trip + Jaws = Sharknado

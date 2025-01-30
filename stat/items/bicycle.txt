@@ -5,16 +5,6 @@
 created by:
 ===========
 Carbon Dioxide + Skycycle = Bicycle
-
-Usages:
-=======
-Human + Bicycle = Cyclist
-Energy + Bicycle = Pedal
-Bicycle + Racecourse = Velodrome
-Bicycle + Racetrack = Velodrome
-Bicycle + Mountain = Mountainbike
-Bicycle + Electricity = E-bike
-Bicycle + Bicycle = Tandem
 Pedal + Race = Bicycle
 
 Usages:
@@ -24,5 +14,5 @@ Energy + Bicycle = Pedal
 Bicycle + Racecourse = Velodrome
 Bicycle + Racetrack = Velodrome
 Bicycle + Mountain = Mountainbike
-Bicycle + Electricity = E-bike
+Bicycle + Electricity = E-Bike
 Bicycle + Bicycle = Tandem

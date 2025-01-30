@@ -5,40 +5,6 @@
 created by:
 ===========
 Oxygen + Ocean = Life
-
-Usages:
-=======
-Life + Volcano = Eruption
-Earth + Life = Nature
-Life + Swamp = Mudskipper
-Life + Lava Lamp = Reincarnation
-Life + Reincarnation = Samsara
-Life + Sun = Photosynthesis
-Life + Mud = Evolution
-Life + Planet = Living World
-Life + Adobe = Creative Suite
-Air + Life = Breath
-Life + Heaven = Paradise
-Life + Marsupilami = Jungle
-Life + Pandora = Hope
-Life + Breath = Soul
-Life + Zeus = God
-Life + Marriage = Family
-Life + Venus = Love
-Ocean + Life = Marine Biologist
-Life + Island = Castaway
-Life + Universe = Existence
-Life + Life = Eternity
-Life + Love = Romance
-Life + Farmland = Agriculture
-Fire + Life + Swamp = Witch
-Life + Cosmos = Existence
-Life + Soul = Spirit
-Life + Tree = Nature
-Life + Forest = Nature
-Life + Eternity = Infinity
-Life + Eternity = Immortility
-Life + Ashes = Death
 Planet + Evolution = Life
 
 Usages:
@@ -46,7 +12,13 @@ Usages:
 Life + Volcano = Eruption
 Earth + Life = Nature
 Life + Swamp = Mudskipper
+Life + Swamp = Bog Creature
+Life + Swamp = Shrek
 Life + Lava Lamp = Reincarnation
+Life + Lava Lamp = Earthquake
+Life + Lava Lamp = Eternal Flame
+Life + Lava Lamp = Vital Fluid
+Life + Lava Lamp = Volcanic Eruption
 Life + Reincarnation = Samsara
 Life + Sun = Photosynthesis
 Life + Mud = Evolution
@@ -74,3 +46,4 @@ Life + Forest = Nature
 Life + Eternity = Infinity
 Life + Eternity = Immortility
 Life + Ashes = Death
+Life + Time = Existence

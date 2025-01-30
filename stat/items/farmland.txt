@@ -10,3 +10,4 @@ Usages:
 =======
 Life + Farmland = Agriculture
 Amazon + Farmland = Agribusiness
+Farmland + Drought = Desertification

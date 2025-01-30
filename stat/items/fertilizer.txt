@@ -5,8 +5,10 @@
 created by:
 ===========
 Soil + Fish = Fertilizer
+Time + Compost = Fertilizer
 
 Usages:
 =======
 Soil + Fertilizer = Plant
+Soil + Fertilizer = Plant Growth
 Fertilizer + Plant = Flower

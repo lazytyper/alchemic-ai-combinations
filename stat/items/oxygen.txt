@@ -11,6 +11,7 @@ Usages:
 Oxygen + Ocean = Life
 Oxygen + Atmosphere = Air
 Oxygen + Mud = Dirt
+Oxygen + Mud = Soil
 Oxygen + Fire = Combustion
 Oxygen + Climate Change = Global Warming
 Oxygen + Nature = Trees

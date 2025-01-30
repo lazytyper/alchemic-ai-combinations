@@ -5,33 +5,7 @@
 created by:
 ===========
 Earth + Fire = Volcano
-
-Usages:
-=======
-Fire + Volcano = Eruption
-Ocean + Volcano = Lava Lamp
-Ocean + Volcano = Lava Wave
-Volcano + Disaster = Eruption
-Life + Volcano = Eruption
-Volcano + Water = Steam
-Volcano + Monarch = Eruption
-Air + Volcano = Smoke
-Volcano + Steam = Hot Springs
-Volcano + Cloud = Ash
 Earth + Combustion = Volcano
-
-Usages:
-=======
-Fire + Volcano = Eruption
-Ocean + Volcano = Lava Lamp
-Ocean + Volcano = Lava Wave
-Volcano + Disaster = Eruption
-Life + Volcano = Eruption
-Volcano + Water = Steam
-Volcano + Monarch = Eruption
-Air + Volcano = Smoke
-Volcano + Steam = Hot Springs
-Volcano + Cloud = Ash
 Eruption + Mountain = Volcano
 
 Usages:
@@ -46,3 +20,4 @@ Volcano + Monarch = Eruption
 Air + Volcano = Smoke
 Volcano + Steam = Hot Springs
 Volcano + Cloud = Ash
+Volcano + Agriculture = Fertile Soil

@@ -5,17 +5,7 @@
 created by:
 ===========
 Water + Paradise = Oasis
-
-Usages:
-=======
-Marsupilami + Oasis = Desert
-Botanist + Oasis = Plantation
 Tree + Desert = Oasis
-
-Usages:
-=======
-Marsupilami + Oasis = Desert
-Botanist + Oasis = Plantation
 Water + Desert = Oasis
 
 Usages:

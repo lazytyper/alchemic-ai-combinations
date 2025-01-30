@@ -12,3 +12,5 @@ Island + Pirate = Treasure
 Ship + Pirate = Blackbeard
 Ship + Pirate = Captain
 Ship + Pirate = Captain Hook
+Pirate + Pirate = Crewmate
+Pirate + Captain = Hook

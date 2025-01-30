@@ -9,4 +9,4 @@ Mountain + Rock = Everest
 Usages:
 =======
 Human + Everest = Sherpa
-Everest + Risk-taker = Adventurer
+Everest + Risk-Taker = Adventurer

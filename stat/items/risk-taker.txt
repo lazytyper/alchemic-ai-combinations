@@ -1,11 +1,11 @@
 ==================================
-= Risk-taker
+= Risk-Taker
 ==================================
 
 created by:
 ===========
-Human + Gambler = Risk-taker
+Human + Gambler = Risk-Taker
 
 Usages:
 =======
-Everest + Risk-taker = Adventurer
+Everest + Risk-Taker = Adventurer

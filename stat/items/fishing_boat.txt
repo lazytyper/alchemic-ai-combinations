@@ -1,0 +1,11 @@
+==================================
+= Fishing Boat
+==================================
+
+created by:
+===========
+Sailing + Angler = Fishing Boat
+
+Usages:
+=======
+Ocean + Fishing Boat = Fisherman

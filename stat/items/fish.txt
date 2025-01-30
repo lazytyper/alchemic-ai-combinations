@@ -15,3 +15,6 @@ Fish + Sushi Bar = Sushi
 Fish + Human = Mermaid
 Fish + Environment = Aquarium
 Fish + Sun = Sunset
+Fish + Hook = Fishing
+Fish + Fireplace = Smoked Salmon
+Ocean + Fish = Shark

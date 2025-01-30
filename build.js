@@ -34,6 +34,10 @@ function addCombination(names, resultName) {
     if (combinations[key] === undefined) {
         combinations[key] = [resultId];
     } else {
+        if (combinations[key].includes(resultId)) {
+            console.warn(`Duplicate combination: ${names.join(' + ')} = ${resultName}`);
+
+        }
         combinations[key].push(resultId);
     }
 }
@@ -103,6 +107,7 @@ function getMissingCombinations() {
 }
 
 function formatElement(name) {
+    name = name.split('-').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join('-');
     return name.split('_').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
 }
 
@@ -228,15 +233,15 @@ itemIds.forEach(id => {
     content.push('===========')
     for (let c of combinations.creations) {
         content.push(c.names.map(formatElement).join(' + ') + ' = ' + formatElement(c.resultName));
-        content.push('');
-        content.push('Usages:');
-        content.push('=======')
-        for (let c of combinations.usages) {
-            content.push(c.names.map(formatElement).join(' + ') + ' = ' + formatElement(c.resultName));
-        }
-
-        fs.writeFileSync(`stat/items/${name}.txt`, content.join('\n'));
     }
+    content.push('');
+    content.push('Usages:');
+    content.push('=======')
+    for (let c of combinations.usages) {
+        content.push(c.names.map(formatElement).join(' + ') + ' = ' + formatElement(c.resultName));
+    }
+
+    fs.writeFileSync(`stat/items/${name}.txt`, content.join('\n'));
 });
 
 // create file for unknown items

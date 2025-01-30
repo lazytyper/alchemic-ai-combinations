@@ -5,15 +5,6 @@
 created by:
 ===========
 Sacrifice + Eden = Garden
-
-Usages:
-=======
-Garden + Toadstool = Fairy Ring
-Garden + Botanist = Greenhouse
-Human + Garden = Farmer
-Garden + Farmer = Crop Yield
-Garden + Jungle Ride = Theme Park
-Garden + Sorcery = Herbology
 Earth + Paradise = Garden
 
 Usages:

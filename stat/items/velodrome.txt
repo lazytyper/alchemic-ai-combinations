@@ -5,9 +5,6 @@
 created by:
 ===========
 Bicycle + Racecourse = Velodrome
-
-Usages:
-=======
 Bicycle + Racetrack = Velodrome
 
 Usages:

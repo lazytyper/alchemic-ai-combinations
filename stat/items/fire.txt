@@ -35,3 +35,5 @@ Fire + Life + Swamp = Witch
 Earth + Earth + Fire = Magma
 Fire + Dust = Ashes
 Fire + Coal = Diamond
+Fire + Smoke = Heat Wave
+Fire + Smoke = Bonfire

@@ -5,12 +5,6 @@
 created by:
 ===========
 Lava + Water = Stone
-
-Usages:
-=======
-Stone + Stone = Rock
-Stone + Rock = Pebble
-Stone + Sherpa = Mountain Guide
 Pebble + Pebble = Stone
 
 Usages:

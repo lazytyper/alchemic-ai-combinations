@@ -5,11 +5,6 @@
 created by:
 ===========
 Cloud + Storm = Thunderstorm
-
-Usages:
-=======
-Sound + Thunderstorm = Noise
-Thunderstorm + Noise = Thunder
 Fireball + Elephant Communication = Thunderstorm
 
 Usages:

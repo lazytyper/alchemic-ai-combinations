@@ -9,7 +9,7 @@ Fish + Sushi Bar = Sushi
 Usages:
 =======
 Sushi + Sushi = Roll
-Sushi + Environment = Eco-friendly Cuisine
+Sushi + Environment = Eco-Friendly Cuisine
 Sushi + Roll = Maki
 Mudskipper + Sushi = Sushiroll
 Nature + Sushi = Greenpeace

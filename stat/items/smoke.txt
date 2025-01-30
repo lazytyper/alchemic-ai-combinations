@@ -5,19 +5,7 @@
 created by:
 ===========
 Air + Fire = Smoke
-
-Usages:
-=======
-Smoke + Witch = Spell
-Evolution + Smoke = Chimney
-Smoke + Nymph = Mistress
 Air + Volcano = Smoke
-
-Usages:
-=======
-Smoke + Witch = Spell
-Evolution + Smoke = Chimney
-Smoke + Nymph = Mistress
 Air + Lava Wave = Smoke
 
 Usages:
@@ -25,3 +13,6 @@ Usages:
 Smoke + Witch = Spell
 Evolution + Smoke = Chimney
 Smoke + Nymph = Mistress
+Smoke + Lax = Salmon
+Fire + Smoke = Heat Wave
+Fire + Smoke = Bonfire

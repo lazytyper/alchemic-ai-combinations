@@ -5,10 +5,13 @@
 created by:
 ===========
 Earth + Mud = Soil
+Oxygen + Mud = Soil
 
 Usages:
 =======
 Soil + Fish = Fertilizer
 Soil + Fertilizer = Plant
+Soil + Fertilizer = Plant Growth
 Air + Soil = Plants
 Soil + Perspective = Landscape
+Soil + Eco-Friendly = Compost

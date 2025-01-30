@@ -8,3 +8,5 @@ Ship + Pirate = Captain
 
 Usages:
 =======
+Pirate + Captain = Hook
+Captain + Degradation = Captaincy

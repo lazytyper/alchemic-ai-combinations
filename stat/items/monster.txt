@@ -9,3 +9,4 @@ Human + Hulk = Monster
 Usages:
 =======
 Monster + Monster = Godzilla
+Monster + Shark = Jaws

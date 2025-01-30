@@ -8,3 +8,4 @@ Life + Ashes = Death
 
 Usages:
 =======
+Human + Death = Mortality

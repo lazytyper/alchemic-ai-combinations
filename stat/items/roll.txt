@@ -5,11 +5,6 @@
 created by:
 ===========
 Sushi + Sushi = Roll
-
-Usages:
-=======
-Sushi + Roll = Maki
-Roll + Sacrifice = Dice
 Dice + Dice = Roll
 
 Usages:

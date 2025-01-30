@@ -12,3 +12,4 @@ Anemone + Replica = Fake Flower
 Air + Replica = Wind
 Replica + Mudskipper = Motorcycle
 Replica + Reality Show + Mudslide = Mudshow
+Replica + Creative Suite = Photoshop

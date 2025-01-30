@@ -5,13 +5,6 @@
 created by:
 ===========
 Clay + Nature = Pottery
-
-Usages:
-=======
-Pottery + Turbine = Vase
-Biosphere + Pottery = Clay Soil
-Pottery + Geyser = Hot Spring
-Pottery + Cloud = Vase
 Fire + Clay = Pottery
 
 Usages:

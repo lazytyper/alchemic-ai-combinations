@@ -5,10 +5,6 @@
 created by:
 ===========
 Pottery + Turbine = Vase
-
-Usages:
-=======
-Turbine + Vase = Windflower
 Pottery + Cloud = Vase
 
 Usages:

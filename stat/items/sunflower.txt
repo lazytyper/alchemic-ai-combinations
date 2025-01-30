@@ -10,3 +10,4 @@ Usages:
 =======
 Photosynthesis + Sunflower = Energy Production
 Sunflower + Rain = Rainbow
+Environment + Sunflower = Eco-Friendly

@@ -1,10 +1,10 @@
 ==================================
-= E-bike
+= E-Bike
 ==================================
 
 created by:
 ===========
-Bicycle + Electricity = E-bike
+Bicycle + Electricity = E-Bike
 
 Usages:
 =======

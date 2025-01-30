@@ -5,12 +5,6 @@
 created by:
 ===========
 Stone + Stone = Rock
-
-Usages:
-=======
-Stone + Rock = Pebble
-Rock + Rock = Hard Place
-Mountain + Rock = Everest
 Human + Hard Place = Rock
 
 Usages:

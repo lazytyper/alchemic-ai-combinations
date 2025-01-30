@@ -5,11 +5,6 @@
 created by:
 ===========
 Solar Panel + Solar Panel = Renewable Energy
-
-Usages:
-=======
-Plant + Renewable Energy = Biofuel
-Wind + Renewable Energy = Solar Power
 Solar Panel + Wave = Renewable Energy
 
 Usages:

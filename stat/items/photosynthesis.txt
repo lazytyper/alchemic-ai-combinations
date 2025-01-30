@@ -5,6 +5,8 @@
 created by:
 ===========
 Life + Sun = Photosynthesis
+Time + Plant Growth = Photosynthesis
+Plant Growth + Plant Growth = Photosynthesis
 
 Usages:
 =======

@@ -10,3 +10,5 @@ Usages:
 =======
 Copycat + Ecosystem = Imitation
 Hurricane + Ecosystem = Disaster
+Ecosystem + Heat Wave = Drought
+Ecosystem + Desertification = Degradation

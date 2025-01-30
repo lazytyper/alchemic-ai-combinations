@@ -9,4 +9,6 @@ Mud + Mist = Swamp
 Usages:
 =======
 Life + Swamp = Mudskipper
+Life + Swamp = Bog Creature
+Life + Swamp = Shrek
 Fire + Life + Swamp = Witch
