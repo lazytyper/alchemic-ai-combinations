@@ -18,3 +18,4 @@ Fish + Sun = Sunset
 Fish + Hook = Fishing
 Fish + Fireplace = Smoked Salmon
 Ocean + Fish = Shark
+Fish + Race = Marathon

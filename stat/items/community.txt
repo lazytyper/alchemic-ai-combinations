@@ -12,3 +12,4 @@ Community + Family = Society
 Community + Survivor = Tribe
 Community + Loneliness = Isolation
 Community + Tarzan = Jungle Tribe
+Community + Romance = Love Story

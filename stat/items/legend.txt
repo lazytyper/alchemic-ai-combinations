@@ -9,3 +9,6 @@ Myth + Myth = Legend
 Usages:
 =======
 Human + Legend = Hercules
+Legend + Bullseye = Daredevil
+Legend + Bullseye = Robin Hood
+Arrow + Legend = Robinhood

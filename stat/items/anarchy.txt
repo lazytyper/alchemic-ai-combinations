@@ -9,3 +9,5 @@ Human + Chaos = Anarchy
 Usages:
 =======
 Motorcycle + Anarchy = Outlaw
+Anarchy + Runner = Anarchist
+Anarchy + Bladerunner = Cyberpunk

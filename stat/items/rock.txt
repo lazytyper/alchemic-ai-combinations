@@ -12,3 +12,4 @@ Usages:
 Stone + Rock = Pebble
 Rock + Rock = Hard Place
 Mountain + Rock = Everest
+Reflection + Rock = Echo

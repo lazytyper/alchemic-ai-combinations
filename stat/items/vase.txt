@@ -10,3 +10,4 @@ Pottery + Cloud = Vase
 Usages:
 =======
 Turbine + Vase = Windflower
+Vase + Destruction = Shatter

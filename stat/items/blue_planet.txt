@@ -10,3 +10,4 @@ Usages:
 =======
 Water + Blue Planet = Earth
 Fire + Blue Planet = Muad'dib
+Blue Planet + Race = Earthrace

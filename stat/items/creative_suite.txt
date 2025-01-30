@@ -9,3 +9,4 @@ Life + Adobe = Creative Suite
 Usages:
 =======
 Replica + Creative Suite = Photoshop
+Disaster + Creative Suite = Design Failure

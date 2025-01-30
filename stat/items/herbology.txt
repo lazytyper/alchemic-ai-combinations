@@ -10,3 +10,4 @@ Potion + Plant Growth = Herbology
 Usages:
 =======
 Druid + Herbology = Herbalist
+Flower Garden + Herbology = Botanical Garden

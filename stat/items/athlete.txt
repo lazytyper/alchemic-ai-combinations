@@ -1,0 +1,13 @@
+==================================
+= Athlete
+==================================
+
+created by:
+===========
+Human + Runner = Athlete
+
+Usages:
+=======
+Hercules + Athlete = Strongman
+Dystopia + Athlete = Survivor
+Athlete + Dartboard = Bullseye

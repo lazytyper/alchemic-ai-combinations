@@ -7,8 +7,10 @@ created by:
 Water + Paradise = Oasis
 Tree + Desert = Oasis
 Water + Desert = Oasis
+Life + Desert = Oasis
 
 Usages:
 =======
 Marsupilami + Oasis = Desert
 Botanist + Oasis = Plantation
+Steam + Oasis = Sauna

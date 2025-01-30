@@ -9,3 +9,4 @@ Pirate + Captain = Hook
 Usages:
 =======
 Fish + Hook = Fishing
+Frog Farm + Hook = Frog Giggling

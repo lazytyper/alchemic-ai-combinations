@@ -8,3 +8,4 @@ Island + Pirate = Treasure
 
 Usages:
 =======
+Hopeful Cynicism + Treasure = Fool's Gold

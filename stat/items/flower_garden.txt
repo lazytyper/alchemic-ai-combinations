@@ -9,3 +9,4 @@ Plant + Rainbow = Flower Garden
 Usages:
 =======
 Human + Flower Garden = Botanist
+Flower Garden + Herbology = Botanical Garden

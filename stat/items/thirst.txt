@@ -1,0 +1,12 @@
+==================================
+= Thirst
+==================================
+
+created by:
+===========
+Water + Drought = Thirst
+
+Usages:
+=======
+Human + Thirst = Dehydration
+Water + Thirst = Hydration

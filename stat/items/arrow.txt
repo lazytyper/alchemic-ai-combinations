@@ -11,3 +11,5 @@ Usages:
 Arrow + Milky Way = Galaxy
 Arrow + Galaxy = Milky Way
 Arrow + Toadstool = Poison
+Arrow + Chance = Dartboard
+Arrow + Legend = Robinhood

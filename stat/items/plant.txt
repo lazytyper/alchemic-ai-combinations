@@ -14,3 +14,4 @@ Fertilizer + Plant = Flower
 Plant + Rainbow = Flower Garden
 Plant + Joy = Flower
 Fog + Plant = Moss
+Plant + Desert = Cactus

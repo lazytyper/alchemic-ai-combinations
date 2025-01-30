@@ -6,6 +6,7 @@ created by:
 ===========
 Steam + Fish = Sauna
 Sweat Lodge + Steam Room = Sauna
+Steam + Oasis = Sauna
 
 Usages:
 =======

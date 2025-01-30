@@ -14,3 +14,5 @@ Druid + Magic Spell = Incantation
 Religion + Druid = Nature Worship
 Druid + Incantation = Magic
 Druid + Herbology = Herbalist
+Druid + Fairy Circle = Nature Magic
+Druid + Matchmaker = Love Spell

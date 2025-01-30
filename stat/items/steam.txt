@@ -14,3 +14,4 @@ Earth + Steam = Geyser
 Air + Steam = Cloud
 Volcano + Steam = Hot Springs
 Steam + Landscape = Geysers
+Steam + Oasis = Sauna

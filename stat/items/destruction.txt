@@ -8,3 +8,5 @@ Tsunami + Godzilla = Destruction
 
 Usages:
 =======
+Living World + Destruction = Apocalypse
+Vase + Destruction = Shatter

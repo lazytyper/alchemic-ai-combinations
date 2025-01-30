@@ -17,3 +17,5 @@ Lava + Water = Stone
 Water + Paradise = Oasis
 Water + Desert = Oasis
 Water + Firefighter = Fire Hose
+Water + Drought = Thirst
+Water + Thirst = Hydration

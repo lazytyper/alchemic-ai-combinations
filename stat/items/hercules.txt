@@ -9,3 +9,4 @@ Human + Legend = Hercules
 Usages:
 =======
 Human + Hercules = Demigod
+Hercules + Athlete = Strongman

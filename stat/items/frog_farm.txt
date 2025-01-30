@@ -9,3 +9,4 @@ Island + Amphibian + Agribusiness = Frog Farm
 Usages:
 =======
 Frog Farm + Phoenix = Rebirth
+Frog Farm + Hook = Frog Giggling

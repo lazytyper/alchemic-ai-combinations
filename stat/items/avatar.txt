@@ -9,3 +9,4 @@ Human + Digital Art = Avatar
 Usages:
 =======
 Shrek + Avatar = Animation
+Cyclone + Avatar = Aang

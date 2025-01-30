@@ -9,3 +9,6 @@ Society + Hate = Dystopia
 Usages:
 =======
 Disaster + Dystopia = Catastrophe
+Dystopia + Runner = Bladerunner
+Dystopia + Runner = Replicant
+Dystopia + Athlete = Survivor

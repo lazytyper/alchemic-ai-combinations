@@ -10,3 +10,6 @@ Usages:
 =======
 Tree + Desert = Oasis
 Water + Desert = Oasis
+Plant + Desert = Cactus
+Desert + Cactus = Sandstorm
+Life + Desert = Oasis

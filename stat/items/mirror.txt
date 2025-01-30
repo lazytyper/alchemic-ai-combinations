@@ -11,3 +11,4 @@ Usages:
 Fukushima + Mirror = Reflection
 Sun + Mirror = Solar Panel
 Mirror + Mirror = Snow White
+Mirror + Design Failure = Reflection Error

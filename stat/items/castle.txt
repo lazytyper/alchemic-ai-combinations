@@ -14,3 +14,4 @@ Castle + Castle = Kingdom
 Monarch + Castle = Palace
 Queen + Castle = Throne
 Atlantis + Castle = Myth
+Castle + Robin Hood = Sherwood

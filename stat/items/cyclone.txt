@@ -8,3 +8,4 @@ Wind + Samsara = Cyclone
 
 Usages:
 =======
+Cyclone + Avatar = Aang

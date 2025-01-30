@@ -9,3 +9,4 @@ Life + Planet = Living World
 Usages:
 =======
 Living World + Living World = Biosphere
+Living World + Destruction = Apocalypse
