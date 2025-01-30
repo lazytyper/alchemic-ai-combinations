@@ -1,12 +1,11 @@
 ==================================
-= Chimney
+= Smokestack
 ==================================
 
 created by:
 ===========
-Evolution + Smoke = Chimney
+Chimney + E-Bike = Smokestack
 
 Usages:
 =======
-Nuclear Disaster + Chimney = Chernobyl
-Chimney + E-Bike = Smokestack
+Pollution + Smokestack = Emissions

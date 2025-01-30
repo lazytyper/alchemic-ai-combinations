@@ -759,3 +759,6 @@ sorcery,combustion,fire_magic
 fire_magic,fire,pyromancy
 fire_magic,witch,firewitch
 immortality,contemplation,philosophy
+bicycle,rebirth,cycle
+chimney,e-bike,smokestack
+smokestack,pollution,emissions

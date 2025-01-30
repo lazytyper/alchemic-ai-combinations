@@ -8,3 +8,4 @@ Smoke + Energy Production = Pollution
 
 Usages:
 =======
+Pollution + Smokestack = Emissions

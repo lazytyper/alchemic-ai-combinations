@@ -1,11 +1,10 @@
 ==================================
-= Rebirth
+= Emissions
 ==================================
 
 created by:
 ===========
-Frog Farm + Phoenix = Rebirth
+Pollution + Smokestack = Emissions
 
 Usages:
 =======
-Bicycle + Rebirth = Cycle

@@ -8,3 +8,4 @@ Bicycle + Electricity = E-Bike
 
 Usages:
 =======
+Chimney + E-Bike = Smokestack

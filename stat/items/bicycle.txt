@@ -16,3 +16,4 @@ Bicycle + Racetrack = Velodrome
 Bicycle + Mountain = Mountainbike
 Bicycle + Electricity = E-Bike
 Bicycle + Bicycle = Tandem
+Bicycle + Rebirth = Cycle
