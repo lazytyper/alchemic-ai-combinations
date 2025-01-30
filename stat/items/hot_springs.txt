@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Volcano + Steam = Hot Springs
+Steam + Volcano = Hot Springs
 
 Usages:
 =======
+Ecosystem + Hot Springs = Geothermal Field

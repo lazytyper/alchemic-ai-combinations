@@ -34,3 +34,4 @@ Lava Lamp + Life = Earthquake
 Lava Lamp + Life = Eternal Flame
 Lava Lamp + Life = Vital Fluid
 Lava Lamp + Life = Volcanic Eruption
+Lava Lamp + Underwater World = Aquarium Lamp

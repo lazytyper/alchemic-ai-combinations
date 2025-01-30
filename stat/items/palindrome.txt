@@ -1,0 +1,11 @@
+==================================
+= Palindrome
+==================================
+
+created by:
+===========
+Racecar + Racecar = Palindrome
+
+Usages:
+=======
+Human + Palindrome = Civic

@@ -1,0 +1,11 @@
+==================================
+= Racecar
+==================================
+
+created by:
+===========
+Racer + Racer = Racecar
+
+Usages:
+=======
+Racecar + Racecar = Palindrome

@@ -10,3 +10,5 @@ Usages:
 =======
 Duplicate + Duplicate = Copy
 Duplicate + Rock = Gemstone
+Duplicate + Farming = Cloning
+Duplicate + Mars = Twin

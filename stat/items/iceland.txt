@@ -4,8 +4,9 @@
 
 created by:
 ===========
-Island + Geysers = Iceland
-Island + Geyser = Iceland
+Geysers + Island = Iceland
+Geyser + Island = Iceland
 
 Usages:
 =======
+Iceland + Sky = Northern Lights

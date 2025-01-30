@@ -11,3 +11,5 @@ Usages:
 Everest + Human = Sherpa
 Everest + Risk-Taker = Adventurer
 Digital Art + Everest = Media Summit
+Adventure + Everest = Expedition
+Everest + Journey = Expedition

@@ -9,3 +9,4 @@ Flame + Human = Firebender
 Usages:
 =======
 Evil + Firebender = Firelord
+Antidote + Firebender = Phoenix Feather

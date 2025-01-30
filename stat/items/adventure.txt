@@ -1,0 +1,13 @@
+==================================
+= Adventure
+==================================
+
+created by:
+===========
+Explorer + History = Adventure
+
+Usages:
+=======
+Adventure + Human = Explorer
+Adventure + Everest = Expedition
+Adventure + Yellowstone = Exploration

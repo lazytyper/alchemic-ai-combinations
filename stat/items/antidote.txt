@@ -9,3 +9,6 @@ Allergy + Health Potion = Antidote
 Usages:
 =======
 Allergy + Antidote = Desentization
+Adobe + Antidote = Mortar
+Antidote + Exploration = Discovery
+Antidote + Firebender = Phoenix Feather

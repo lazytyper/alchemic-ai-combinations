@@ -201,10 +201,10 @@ function createHTML() {
 
 // missing items
 const itemsWithNoCreate = itemsSorted.filter(item => item.create.length === 0 && !(['air', 'earth', 'fire', 'water'].includes(item.name)));
-
-
-const content = itemsWithNoCreate.map(item => item.name).join('\n');
+let content = itemsWithNoCreate.map(item => formatElement(item.name)).join('\n');
 fs.writeFileSync('stat/missing.txt', content);
 
-
+const itemsWithNoUsage = itemsSorted.filter(item => item.use.length < 1);
+content = itemsWithNoUsage.map(item => formatElement(item.name)).join('\n');
+fs.writeFileSync('stat/unused.txt', content);
 createHTML();

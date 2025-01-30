@@ -8,3 +8,4 @@ Ranger + Theme Park = Adventureland
 
 Usages:
 =======
+Adventureland + Human = Explorer

@@ -34,3 +34,6 @@ Ocean + Volcano = Lava Wave
 Fishing Boat + Ocean = Fisherman
 Fish + Ocean = Shark
 Digital Art + Ocean = Seascape
+Expedition + Ocean = Voyage
+Ocean + Swimmer = Dolphin
+Bird + Ocean = Seagull

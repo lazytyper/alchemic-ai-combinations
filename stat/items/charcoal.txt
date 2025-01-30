@@ -9,3 +9,4 @@ Charmander + Compost = Charcoal
 Usages:
 =======
 Charcoal + Fire = Embers
+Charcoal + Rumor = Smoke Signal

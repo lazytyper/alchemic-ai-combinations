@@ -10,3 +10,4 @@ Usages:
 =======
 Adobe + Animation = Flash
 Animation + Throne = Animatron
+Animation + Constellation = Starry Night

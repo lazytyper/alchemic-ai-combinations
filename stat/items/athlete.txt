@@ -12,3 +12,5 @@ Athlete + Hercules = Strongman
 Athlete + Dystopia = Survivor
 Athlete + Dartboard = Bullseye
 Athlete + Waterplay = Swimmer
+Athlete + Driver = Racer
+Athlete + Vampire Hero = Blade

@@ -9,3 +9,4 @@ Poltergeist + Soul = Haunting
 Usages:
 =======
 Chance + Haunting = Ghost Story
+Guardsman + Haunting = Ghostbuster

@@ -9,3 +9,5 @@ Athlete + Waterplay = Swimmer
 Usages:
 =======
 Race + Swimmer = Triathlete
+Rescue Squad + Swimmer = Lifeguard
+Ocean + Swimmer = Dolphin

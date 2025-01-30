@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Witch + Gossip = Rumor
+Gossip + Witch = Rumor
 
 Usages:
 =======
+Charcoal + Rumor = Smoke Signal

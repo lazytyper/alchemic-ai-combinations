@@ -11,3 +11,4 @@ Usages:
 =======
 Roll + Sushi = Maki
 Roll + Sacrifice = Dice
+Herbicide + Roll = Turf

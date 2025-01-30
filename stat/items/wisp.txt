@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Witch + Mangrove = Wisp
+Mangrove + Witch = Wisp
 
 Usages:
 =======
+Hate + Wisp = Hatred

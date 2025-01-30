@@ -26,3 +26,4 @@ God + Love = Eros
 Hate + Love = Conflict
 Love + Mermaids = Ariel
 Love + National Park = Yosemite
+Love + Seagull = Wings

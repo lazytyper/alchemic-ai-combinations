@@ -1,0 +1,11 @@
+==================================
+= Civic
+==================================
+
+created by:
+===========
+Human + Palindrome = Civic
+
+Usages:
+=======
+Civic + Race = Civil Rights

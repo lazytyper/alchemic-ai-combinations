@@ -20,3 +20,7 @@ Blue Planet + Race = Earthrace
 Race + Ship = Regatta
 Race + Speedboat = Powerboat
 Race + Swimmer = Triathlete
+24 Hours + Race = Daytona
+Daytona + Race = Nascar
+Nascar + Race = Driver
+Civic + Race = Civil Rights

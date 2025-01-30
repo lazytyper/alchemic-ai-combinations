@@ -8,3 +8,4 @@ Solar System + Universe = Cosmic Expanse
 
 Usages:
 =======
+Cosmic Expanse + Zeus = Sky God

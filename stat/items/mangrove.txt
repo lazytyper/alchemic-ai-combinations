@@ -10,3 +10,4 @@ Usages:
 =======
 Mangrove + Witch = Wisp
 Farm Guide + Mangrove = Eco-Tourism
+Cloud + Mangrove = Cloudforest

@@ -14,3 +14,4 @@ Ecosystem + Heat Wave = Drought
 Desertification + Ecosystem = Degradation
 Ecosystem + Wreckage = Biodegradation
 Ecosystem + Herbicide = Biodiversity Loss
+Ecosystem + Hot Springs = Geothermal Field

@@ -10,3 +10,4 @@ Usages:
 =======
 Living World + Living World = Biosphere
 Destruction + Living World = Apocalypse
+Living World + Soul = Nature Spirit

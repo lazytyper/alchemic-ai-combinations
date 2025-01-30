@@ -9,3 +9,4 @@ Fairy Tale + Landscape = Storybook
 Usages:
 =======
 Marvel + Storybook = Fairytale
+Adobe + Storybook = Illustration

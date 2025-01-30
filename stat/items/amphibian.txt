@@ -11,3 +11,4 @@ Usages:
 Amphibian + Island = Frog
 Agribusiness + Amphibian + Island = Frog Farm
 Amphibian + Death Blossom = Frogger
+Amphibian + Greenpeace = Eco-Warrior

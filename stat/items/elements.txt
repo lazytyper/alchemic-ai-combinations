@@ -8,3 +8,4 @@ Air + Earth + Fire + Nature = Elements
 
 Usages:
 =======
+Elements + Tooth Fairy = Tooth Mouse

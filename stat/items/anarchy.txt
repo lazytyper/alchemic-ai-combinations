@@ -12,3 +12,4 @@ Anarchy + Motorcycle = Outlaw
 Anarchy + Runner = Anarchist
 Anarchy + Bladerunner = Cyberpunk
 Anarchy + Strongman = Dictatorship
+Anarchy + Civil Rights = Libertarianism

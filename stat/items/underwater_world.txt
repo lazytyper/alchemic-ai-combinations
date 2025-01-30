@@ -9,3 +9,4 @@ Coral Reef + Fish = Underwater World
 Usages:
 =======
 Underwater World + Underworld = Abyss
+Lava Lamp + Underwater World = Aquarium Lamp

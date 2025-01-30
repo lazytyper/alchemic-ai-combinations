@@ -8,3 +8,4 @@ Human + Magic = Sorcerer
 
 Usages:
 =======
+Hydration + Sorcerer = Water Mage

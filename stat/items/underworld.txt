@@ -11,3 +11,4 @@ Usages:
 Human + Underworld = Hades
 Plant Spirit + Underworld = Shaman
 Underwater World + Underworld = Abyss
+Northern Lights + Underworld = Aurora Borealis

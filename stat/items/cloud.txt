@@ -14,3 +14,4 @@ Cloud + Soul = Heaven
 Cloud + Volcano = Ash
 Cloud + Storm = Thunderstorm
 Cloud + Pottery = Vase
+Cloud + Mangrove = Cloudforest

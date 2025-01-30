@@ -9,3 +9,7 @@ Childhood + Playhouse = Treehouse
 Usages:
 =======
 Bird + Treehouse = Robin
+Bird + Treehouse = Nest
+Bird + Treehouse = Robin
+Bird + Treehouse = Nest
+Fool's Gold + Treehouse = Fool's Paradise

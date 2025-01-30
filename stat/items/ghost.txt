@@ -9,3 +9,4 @@ Soul + Spirit = Ghost
 Usages:
 =======
 Fire + Ghost = Poltergeist
+Ghost + Hopeful Cynicism = Ghostwriter

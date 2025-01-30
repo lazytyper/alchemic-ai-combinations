@@ -1,0 +1,11 @@
+==================================
+= Blight
+==================================
+
+created by:
+===========
+Crop Damage + Life Force = Blight
+
+Usages:
+=======
+Blight + Time = Timeworn

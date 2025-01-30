@@ -8,3 +8,4 @@ Human + Time = History
 
 Usages:
 =======
+Explorer + History = Adventure

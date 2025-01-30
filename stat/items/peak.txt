@@ -9,3 +9,4 @@ Diamond + Mountain = Peak
 Usages:
 =======
 Mountain + Peak = Summit
+Mudshow + Peak = Circus

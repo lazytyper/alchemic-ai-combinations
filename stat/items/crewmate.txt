@@ -8,3 +8,4 @@ Pirate + Pirate = Crewmate
 
 Usages:
 =======
+Crewmate + Religion = Meme

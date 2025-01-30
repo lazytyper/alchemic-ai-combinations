@@ -9,3 +9,4 @@ Bird + Treehouse = Robin
 Usages:
 =======
 Nest + Robin = Egg
+Clay + Robin = Claymation

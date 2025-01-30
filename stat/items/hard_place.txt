@@ -10,3 +10,4 @@ Usages:
 =======
 Hard Place + Human = Rock
 Hard Place + Hurricane = Disaster
+Hard Place + Plant = Rockrose

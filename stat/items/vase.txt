@@ -13,3 +13,4 @@ Turbine + Vase = Windflower
 Destruction + Vase = Shatter
 Plants + Vase = Flower Arrangement
 Outlaw + Vase = Banditry
+Hurricane + Vase = Windbreak

@@ -9,3 +9,4 @@ Planet + Spirituality = Astrology
 Usages:
 =======
 Astrology + Venus = Horoscope
+Astrology + Twin = Gemini

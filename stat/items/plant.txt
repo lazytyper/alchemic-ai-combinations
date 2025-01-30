@@ -16,3 +16,4 @@ Joy + Plant = Flower
 Fog + Plant = Moss
 Desert + Plant = Cactus
 Plant + Swamp = Mangrove
+Hard Place + Plant = Rockrose

@@ -9,3 +9,4 @@ Agriculture + Moss = Terrarium
 Usages:
 =======
 Dryad + Terrarium = Plant Spirit
+Nest + Terrarium = Habitat

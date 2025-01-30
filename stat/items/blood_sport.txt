@@ -9,3 +9,4 @@ Racecourse + Vampire Hero = Blood Sport
 Usages:
 =======
 Blood Sport + Human = Gladiator
+Agribusiness + Blood Sport = Blood Farming

@@ -10,3 +10,4 @@ Usages:
 =======
 Cupid + Rainforest = Lovebirds
 Dirtbike + Rainforest = Jungle Ride
+Rainforest + Wishcraft = Magical Jungle

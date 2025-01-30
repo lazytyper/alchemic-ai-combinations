@@ -9,3 +9,4 @@ Hopeful Cynicism + Treasure = Fool's Gold
 Usages:
 =======
 Fool's Gold + Human = Pyrite
+Fool's Gold + Treehouse = Fool's Paradise

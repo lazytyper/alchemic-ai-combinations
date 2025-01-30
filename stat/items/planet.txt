@@ -16,3 +16,6 @@ Planet + Reincarnation = Marsupilami
 Jungle + Planet = Pandora
 Planet + Religion = Jupiter
 Planet + Spirituality = Astrology
+Adobe + Planet = Mars
+Desert + Planet = Mars
+Planet + Wave = Neptune

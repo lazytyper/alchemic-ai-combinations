@@ -11,3 +11,4 @@ Usages:
 Solar System + Solar System = Galaxy
 Solar System + Universe = Cosmic Expanse
 Sky + Solar System = Space
+Firewitch + Solar System = Star Mage

@@ -1,0 +1,12 @@
+==================================
+= Expedition
+==================================
+
+created by:
+===========
+Adventure + Everest = Expedition
+Everest + Journey = Expedition
+
+Usages:
+=======
+Expedition + Ocean = Voyage

@@ -22,3 +22,4 @@ Evolution + Fire = Charmander
 Evolution + Fire = Charizard
 Evolution + Smoke = Chimney
 Dinosaur + Evolution = Bird
+Evolution + Paradise Lost = Darwin

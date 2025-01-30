@@ -1,0 +1,12 @@
+==================================
+= Explorer
+==================================
+
+created by:
+===========
+Adventureland + Human = Explorer
+Adventure + Human = Explorer
+
+Usages:
+=======
+Explorer + History = Adventure

@@ -10,3 +10,4 @@ Usages:
 =======
 Coal + Fire = Diamond
 Coal + Coal = Diamond
+Coal + Sustainable Farming = Biochar

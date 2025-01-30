@@ -14,3 +14,6 @@ Dystopia + Runner = Replicant
 Dystopia + Runner = Bladerunner
 Dystopia + Runner = Replicant
 Athlete + Dystopia = Survivor
+Crop Damage + Dystopia = Wasteland
+Dystopia + Reality Show = Hunger Games
+Dystopia + Hunger Games = Oppression

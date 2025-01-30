@@ -14,3 +14,4 @@ Hate + Society = Dystopia
 Hate + Outlaw = Vigilante
 Atlantis + Hate = Lost Love
 Hate + Love = Conflict
+Hate + Wisp = Hatred

@@ -17,3 +17,4 @@ Earth + Eternity = Fossil
 Earth + Eternity = Time
 Earth + Eternity = Fossil
 Earth + Eternity = Time
+Essentialism + Eternity = Timelessness

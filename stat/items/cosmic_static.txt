@@ -8,3 +8,4 @@ Galaxy + Noise = Cosmic Static
 
 Usages:
 =======
+Cosmic Static + Demonic Ritual = Chaos Magic

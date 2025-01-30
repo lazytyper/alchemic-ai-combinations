@@ -9,3 +9,4 @@ Amphibian + Island = Frog
 Usages:
 =======
 Frog + Frog = Toad
+Arrow + Frog = Dartfrog

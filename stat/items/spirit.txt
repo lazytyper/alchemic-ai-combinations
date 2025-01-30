@@ -11,3 +11,6 @@ Usages:
 =======
 Soul + Spirit = Ghost
 Nature + Spirit = Druid
+Poison + Spirit = Venom
+Journey + Spirit = Soulsearching
+Powerhouse + Spirit = Dynamo

@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Monarch + Castle = Palace
+Castle + Monarch = Palace
 
 Usages:
 =======
+Flipper + Palace = Dolphinarium

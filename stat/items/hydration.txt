@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Water + Thirst = Hydration
+Thirst + Water = Hydration
 
 Usages:
 =======
+Hydration + Sorcerer = Water Mage

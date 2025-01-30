@@ -1,0 +1,12 @@
+==================================
+= Omelette
+==================================
+
+created by:
+===========
+Egg + Time = Omelette
+Egg + Egg = Omelette
+
+Usages:
+=======
+Omelette + Omelette = Frittata

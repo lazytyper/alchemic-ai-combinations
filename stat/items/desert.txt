@@ -13,3 +13,4 @@ Desert + Water = Oasis
 Desert + Plant = Cactus
 Cactus + Desert = Sandstorm
 Desert + Life = Oasis
+Desert + Planet = Mars

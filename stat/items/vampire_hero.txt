@@ -9,3 +9,4 @@ Justice League + Twilight = Vampire Hero
 Usages:
 =======
 Racecourse + Vampire Hero = Blood Sport
+Athlete + Vampire Hero = Blade

@@ -15,3 +15,4 @@ Charizard + Society = Dragon Cult
 Hate + Society = Dystopia
 Queen + Society = Monarchy
 Marine Sanctuary + Society = Ocean Community
+Conflict + Society = Strife

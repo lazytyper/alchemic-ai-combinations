@@ -9,3 +9,5 @@ Fire + Firefighter = Rescue Squad
 Usages:
 =======
 Kelpie + Rescue Squad = Water Rescue
+Rescue Squad + Swimmer = Lifeguard
+Dolphin + Rescue Squad = Flipper

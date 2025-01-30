@@ -9,3 +9,4 @@ Bicycle + Racetrack = Velodrome
 
 Usages:
 =======
+Journey + Velodrome = Cycling

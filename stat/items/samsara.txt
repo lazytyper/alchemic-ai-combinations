@@ -9,4 +9,7 @@ Life + Reincarnation = Samsara
 Usages:
 =======
 Samsara + Wind = Cyclone
+Samsara + Wind = Prayer Flag
 Monarch + Samsara = Reincarnation
+Samsara + Wind = Cyclone
+Samsara + Wind = Prayer Flag

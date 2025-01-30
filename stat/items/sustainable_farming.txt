@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Gardening + Energy Production = Sustainable Farming
+Energy Production + Gardening = Sustainable Farming
 
 Usages:
 =======
+Coal + Sustainable Farming = Biochar

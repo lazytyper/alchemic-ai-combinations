@@ -11,3 +11,4 @@ Usages:
 Agribusiness + Amphibian + Island = Frog Farm
 Agribusiness + Farming = Agriculture
 Agribusiness + Human = Agrarian
+Agribusiness + Blood Sport = Blood Farming

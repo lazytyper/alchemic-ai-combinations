@@ -12,3 +12,4 @@ Usages:
 =======
 Firefighter + Wildfire = Smokejumper
 Moral Ambiguity + Wildfire = Forest Fire
+Vampire Bat + Wildfire = Firebat

@@ -12,3 +12,6 @@ Adobe + Life = Creative Suite
 Adobe + Sun = Mudbrick
 Adobe + Animation = Flash
 Adobe + Shipwreck = Wreckage
+Adobe + Antidote = Mortar
+Adobe + Planet = Mars
+Adobe + Storybook = Illustration

@@ -9,3 +9,4 @@ Fossil + Fossil = Dinosaur
 Usages:
 =======
 Dinosaur + Evolution = Bird
+Dinosaur + Universe = Jurassic Park

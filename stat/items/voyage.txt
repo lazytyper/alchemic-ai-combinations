@@ -1,0 +1,11 @@
+==================================
+= Voyage
+==================================
+
+created by:
+===========
+Expedition + Ocean = Voyage
+
+Usages:
+=======
+Voyage + Voyage = Journey

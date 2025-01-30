@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Underworld + Plant Spirit = Shaman
+Plant Spirit + Underworld = Shaman
 
 Usages:
 =======
+Mountain + Shaman = Sacred Site

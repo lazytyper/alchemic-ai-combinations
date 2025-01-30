@@ -11,6 +11,7 @@ Usages:
 =======
 Nature + Wind = Tornado
 Samsara + Wind = Cyclone
+Samsara + Wind = Prayer Flag
 Pollen + Wind = Pollination
 Air + Wind = Atmosphere
 Air + Wind = Whirlwind
@@ -31,3 +32,5 @@ Ocean + Wind = Sailing
 Air + Wind = Atmosphere
 Air + Wind = Whirlwind
 Seascape + Wind = Breeze
+Samsara + Wind = Cyclone
+Samsara + Wind = Prayer Flag

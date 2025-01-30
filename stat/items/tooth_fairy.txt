@@ -8,3 +8,4 @@ Fairy Ring + Teeth = Tooth Fairy
 
 Usages:
 =======
+Elements + Tooth Fairy = Tooth Mouse

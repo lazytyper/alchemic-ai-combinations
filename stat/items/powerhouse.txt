@@ -8,3 +8,4 @@ Strongman + Superhero = Powerhouse
 
 Usages:
 =======
+Powerhouse + Spirit = Dynamo

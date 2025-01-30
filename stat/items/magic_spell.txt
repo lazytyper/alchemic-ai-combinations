@@ -10,3 +10,4 @@ Usages:
 =======
 Hulk + Magic Spell = Charmander
 Druid + Magic Spell = Incantation
+Magic Spell + Strife = Hexagon

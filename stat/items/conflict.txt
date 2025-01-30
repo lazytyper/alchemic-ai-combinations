@@ -9,3 +9,4 @@ Hate + Love = Conflict
 Usages:
 =======
 Conflict + Thirst = Warrior
+Conflict + Society = Strife

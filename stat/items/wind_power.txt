@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Air + Turbine + Energy = Wind Power
+Air + Energy + Turbine = Wind Power
 
 Usages:
 =======
+Nature Guardian + Wind Power = Green Energy

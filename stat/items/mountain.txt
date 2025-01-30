@@ -17,3 +17,4 @@ Druid + Mountain = Nature Guardian
 Mountain + Wave = Surfing
 Diamond + Mountain = Peak
 Mountain + Peak = Summit
+Mountain + Shaman = Sacred Site
