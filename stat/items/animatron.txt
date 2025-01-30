@@ -1,12 +1,10 @@
 ==================================
-= Ash
+= Animatron
 ==================================
 
 created by:
 ===========
-Volcano + Cloud = Ash
-Fire + Tree = Ash
+Animation + Throne = Animatron
 
 Usages:
 =======
-Love + Ash = Cinderella

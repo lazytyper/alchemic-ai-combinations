@@ -12,3 +12,4 @@ Usages:
 =======
 Agriculture + Desentization = Farm Therapy
 Volcano + Agriculture = Fertile Soil
+Agriculture + Moss = Terrarium

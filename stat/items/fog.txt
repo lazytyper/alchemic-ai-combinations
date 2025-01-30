@@ -10,3 +10,4 @@ Air + Mist = Fog
 
 Usages:
 =======
+Fog + Plant = Moss

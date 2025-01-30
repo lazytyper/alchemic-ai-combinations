@@ -1,12 +1,10 @@
 ==================================
-= Ash
+= Smokejumper
 ==================================
 
 created by:
 ===========
-Volcano + Cloud = Ash
-Fire + Tree = Ash
+Wildfire + Firefighter = Smokejumper
 
 Usages:
 =======
-Love + Ash = Cinderella

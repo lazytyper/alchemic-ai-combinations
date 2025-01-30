@@ -9,3 +9,5 @@ Brick + Brick = Wall
 Usages:
 =======
 Poseidon + Wall = Atlantis
+Wall + Wall = Fortress
+Human + Wall = Mural

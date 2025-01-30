@@ -1,12 +1,11 @@
 ==================================
-= Ash
+= Moss
 ==================================
 
 created by:
 ===========
-Volcano + Cloud = Ash
-Fire + Tree = Ash
+Fog + Plant = Moss
 
 Usages:
 =======
-Love + Ash = Cinderella
+Agriculture + Moss = Terrarium

@@ -1,12 +1,10 @@
 ==================================
-= Ash
+= Rescue Squad
 ==================================
 
 created by:
 ===========
-Volcano + Cloud = Ash
-Fire + Tree = Ash
+Fire + Firefighter = Rescue Squad
 
 Usages:
 =======
-Love + Ash = Cinderella

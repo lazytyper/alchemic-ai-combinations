@@ -39,3 +39,7 @@ Fire + Smoke = Heat Wave
 Fire + Smoke = Bonfire
 Fire + Mud = Brick
 Fire + Seaweed = Kelpie
+Fire + Firefighter = Rescue Squad
+Fire + Forest = Wildfire
+Fire + Trees = Wildfire
+Fire + Tree = Ash

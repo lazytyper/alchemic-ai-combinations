@@ -22,3 +22,4 @@ Nature + Sushi = Greenpeace
 Nature + Photosynthesis = Carbon Dioxide
 Nature + Spirit = Druid
 Oxygen + Nature = Trees
+Nature + Garden = Park

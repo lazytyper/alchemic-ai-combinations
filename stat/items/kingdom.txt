@@ -1,12 +1,10 @@
 ==================================
-= Ash
+= Kingdom
 ==================================
 
 created by:
 ===========
-Volcano + Cloud = Ash
-Fire + Tree = Ash
+Castle + Castle = Kingdom
 
 Usages:
 =======
-Love + Ash = Cinderella

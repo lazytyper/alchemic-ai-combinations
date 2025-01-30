@@ -12,3 +12,4 @@ Incantation + Cinderella = Magic
 Cinderella + Spellcaster = Fairy Godmother
 Cinderella + Miracle = Fairy Tale
 Horticulture + Cinderella = Garden Fairy
+Cinderella + Castle = Fairy Tale

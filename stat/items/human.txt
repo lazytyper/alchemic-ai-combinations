@@ -66,3 +66,6 @@ Human + Blood = Vampire
 Human + Photoshop = Digital Art
 Human + Digital Art = Avatar
 Human + Butterfly = Metamorphosis
+Human + Wall = Mural
+Human + Legend = Hercules
+Human + Hercules = Demigod

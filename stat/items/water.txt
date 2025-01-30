@@ -16,3 +16,4 @@ Water + Weather = Rain
 Lava + Water = Stone
 Water + Paradise = Oasis
 Water + Desert = Oasis
+Water + Firefighter = Fire Hose

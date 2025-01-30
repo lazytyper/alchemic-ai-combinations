@@ -9,3 +9,4 @@ Shrek + Avatar = Animation
 Usages:
 =======
 Adobe + Animation = Flash
+Animation + Throne = Animatron

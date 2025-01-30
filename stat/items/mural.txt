@@ -1,12 +1,10 @@
 ==================================
-= Ash
+= Mural
 ==================================
 
 created by:
 ===========
-Volcano + Cloud = Ash
-Fire + Tree = Ash
+Human + Wall = Mural
 
 Usages:
 =======
-Love + Ash = Cinderella

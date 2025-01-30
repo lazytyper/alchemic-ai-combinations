@@ -1,12 +1,11 @@
 ==================================
-= Ash
+= Fortress
 ==================================
 
 created by:
 ===========
-Volcano + Cloud = Ash
-Fire + Tree = Ash
+Wall + Wall = Fortress
 
 Usages:
 =======
-Love + Ash = Cinderella
+Monarch + Fortress = Castle

@@ -1,12 +1,11 @@
 ==================================
-= Ash
+= Throne
 ==================================
 
 created by:
 ===========
-Volcano + Cloud = Ash
-Fire + Tree = Ash
+Queen + Castle = Throne
 
 Usages:
 =======
-Love + Ash = Cinderella
+Animation + Throne = Animatron

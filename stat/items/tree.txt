@@ -13,3 +13,4 @@ Life + Tree = Nature
 Human + Tree = Druid
 Tree + Desert = Oasis
 Tree + Forest = Woodland
+Fire + Tree = Ash

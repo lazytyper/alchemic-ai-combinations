@@ -8,3 +8,4 @@ Oxygen + Nature = Trees
 
 Usages:
 =======
+Fire + Trees = Wildfire
