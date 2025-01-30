@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Mud + Energy = Battery
+Energy + Mud = Battery
 
 Usages:
 =======
-Earth + Battery = Electricity
+Battery + Earth = Electricity

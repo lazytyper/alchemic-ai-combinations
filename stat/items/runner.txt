@@ -11,4 +11,6 @@ Usages:
 Human + Runner = Athlete
 Dystopia + Runner = Bladerunner
 Dystopia + Runner = Replicant
+Dystopia + Runner = Bladerunner
+Dystopia + Runner = Replicant
 Anarchy + Runner = Anarchist

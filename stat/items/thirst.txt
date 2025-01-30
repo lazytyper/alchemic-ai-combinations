@@ -4,10 +4,10 @@
 
 created by:
 ===========
-Water + Drought = Thirst
+Drought + Water = Thirst
 
 Usages:
 =======
 Human + Thirst = Dehydration
-Water + Thirst = Hydration
-Thirst + Conflict = Warrior
+Thirst + Water = Hydration
+Conflict + Thirst = Warrior

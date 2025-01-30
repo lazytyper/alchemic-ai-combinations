@@ -8,5 +8,5 @@ Environment + Sunflower = Eco-Friendly
 
 Usages:
 =======
-Soil + Eco-Friendly = Compost
-Toadstool + Eco-Friendly = Mushroom
+Eco-Friendly + Soil = Compost
+Eco-Friendly + Toadstool = Mushroom

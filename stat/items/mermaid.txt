@@ -9,7 +9,7 @@ Fish + Human = Mermaid
 Usages:
 =======
 Horticulture + Mermaid = Aquatic Garden
-Mermaid + Aquatic Garden = Marine Sanctuary
-Mermaid + Flower = Seaweed
+Aquatic Garden + Mermaid = Marine Sanctuary
+Flower + Mermaid = Seaweed
 Mermaid + Sharknado = Merman
 Mermaid + Merman = Merfolk

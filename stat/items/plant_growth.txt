@@ -4,10 +4,10 @@
 
 created by:
 ===========
-Soil + Fertilizer = Plant Growth
+Fertilizer + Soil = Plant Growth
 
 Usages:
 =======
-Time + Plant Growth = Photosynthesis
+Plant Growth + Time = Photosynthesis
 Plant Growth + Plant Growth = Photosynthesis
-Potion + Plant Growth = Herbology
+Plant Growth + Potion = Herbology

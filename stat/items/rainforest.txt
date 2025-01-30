@@ -9,4 +9,4 @@ Amazon + Amazon = Rainforest
 Usages:
 =======
 Cupid + Rainforest = Lovebirds
-Rainforest + Dirtbike = Jungle Ride
+Dirtbike + Rainforest = Jungle Ride

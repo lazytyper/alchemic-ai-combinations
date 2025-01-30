@@ -8,5 +8,5 @@ Sauna + Sweat Lodge = Steam Room
 
 Usages:
 =======
-Sweat Lodge + Steam Room = Sauna
+Steam Room + Sweat Lodge = Sauna
 Fish + Steam Room = Sushi Bar

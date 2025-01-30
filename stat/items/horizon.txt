@@ -10,4 +10,4 @@ Aquarium + Sunset = Horizon
 Usages:
 =======
 Horizon + Landscape = View
-Nature + Horizon = Landscape
+Horizon + Nature = Landscape

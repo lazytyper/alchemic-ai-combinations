@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Perspective + Evil Twin = Moral Ambiguity
+Evil Twin + Perspective = Moral Ambiguity
 
 Usages:
 =======
 Bribery + Moral Ambiguity = Political Corruption
-Wildfire + Moral Ambiguity = Forest Fire
+Moral Ambiguity + Wildfire = Forest Fire

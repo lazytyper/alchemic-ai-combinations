@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Mountain + Diamond = Peak
+Diamond + Mountain = Peak
 
 Usages:
 =======

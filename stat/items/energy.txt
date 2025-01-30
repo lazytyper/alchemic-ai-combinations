@@ -4,14 +4,16 @@
 
 created by:
 ===========
-Fire + Biofuel = Energy
+Biofuel + Fire = Energy
 
 Usages:
 =======
-Fire + Energy = Heat
-Human + Energy = Life Force
-Energy + Bicycle = Pedal
-Mud + Energy = Fossil Fuel
-Mud + Energy = Battery
+Energy + Fire = Heat
+Energy + Human = Life Force
+Bicycle + Energy = Pedal
+Energy + Mud = Fossil Fuel
+Energy + Mud = Battery
+Energy + Mud = Fossil Fuel
+Energy + Mud = Battery
 Energy + Fossil = Coal
-Air + Turbine + Energy = Wind Power
+Air + Energy + Turbine = Wind Power

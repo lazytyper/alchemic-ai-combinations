@@ -4,11 +4,11 @@
 
 created by:
 ===========
-Human + Chaos = Anarchy
+Chaos + Human = Anarchy
 
 Usages:
 =======
-Motorcycle + Anarchy = Outlaw
+Anarchy + Motorcycle = Outlaw
 Anarchy + Runner = Anarchist
 Anarchy + Bladerunner = Cyberpunk
 Anarchy + Strongman = Dictatorship

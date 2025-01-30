@@ -9,9 +9,9 @@ Air + Wind = Atmosphere
 Usages:
 =======
 Atmosphere + Atmosphere = Air Quality
-Oxygen + Atmosphere = Air
-Combustion + Atmosphere = Fire
-Earth + Atmosphere = Biosphere
+Atmosphere + Oxygen = Air
+Atmosphere + Combustion = Fire
+Atmosphere + Earth = Biosphere
 Air + Atmosphere = Sky
 Atmosphere + Wind = Weather
 Atmosphere + Motorcycle = Skycycle

@@ -8,7 +8,7 @@ Evil + Society = Corruption
 
 Usages:
 =======
-View + Corruption = Perspective
+Corruption + View = Perspective
 Corruption + Society = Bribery
-Oceanic Paradise + Corruption = Coral Reef
+Corruption + Oceanic Paradise = Coral Reef
 Corruption + Gossip = Scandal

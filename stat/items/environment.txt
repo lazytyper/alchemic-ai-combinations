@@ -8,7 +8,7 @@ Nature + Nature = Environment
 
 Usages:
 =======
-Sushi + Environment = Eco-Friendly Cuisine
-Fish + Environment = Aquarium
+Environment + Sushi = Eco-Friendly Cuisine
+Environment + Fish = Aquarium
 Environment + Environmental Activism = Sustainability
 Environment + Sunflower = Eco-Friendly

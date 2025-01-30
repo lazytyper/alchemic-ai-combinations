@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Ocean + Fish = Shark
+Fish + Ocean = Shark
 
 Usages:
 =======
 Monster + Shark = Jaws
-View + Shark = Sharknado
+Shark + View = Sharknado

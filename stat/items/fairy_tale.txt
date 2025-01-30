@@ -5,9 +5,9 @@
 created by:
 ===========
 Cinderella + Miracle = Fairy Tale
-Cinderella + Castle = Fairy Tale
+Castle + Cinderella = Fairy Tale
 
 Usages:
 =======
-Loneliness + Fairy Tale = Happily Ever After
-Landscape + Fairy Tale = Storybook
+Fairy Tale + Loneliness = Happily Ever After
+Fairy Tale + Landscape = Storybook

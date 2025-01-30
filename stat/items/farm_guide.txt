@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Sherpa + Agrarian = Farm Guide
+Agrarian + Sherpa = Farm Guide
 
 Usages:
 =======
-Mangrove + Farm Guide = Eco-Tourism
+Farm Guide + Mangrove = Eco-Tourism

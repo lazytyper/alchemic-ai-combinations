@@ -8,4 +8,4 @@ Motorcycle + Mountain = Dirtbike
 
 Usages:
 =======
-Rainforest + Dirtbike = Jungle Ride
+Dirtbike + Rainforest = Jungle Ride

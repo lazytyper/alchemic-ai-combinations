@@ -8,10 +8,12 @@ Air + Air = Oxygen
 
 Usages:
 =======
-Oxygen + Ocean = Life
-Oxygen + Atmosphere = Air
-Oxygen + Mud = Dirt
-Oxygen + Mud = Soil
-Oxygen + Fire = Combustion
-Oxygen + Climate Change = Global Warming
-Oxygen + Nature = Trees
+Ocean + Oxygen = Life
+Atmosphere + Oxygen = Air
+Mud + Oxygen = Dirt
+Mud + Oxygen = Soil
+Fire + Oxygen = Combustion
+Climate Change + Oxygen = Global Warming
+Nature + Oxygen = Trees
+Mud + Oxygen = Dirt
+Mud + Oxygen = Soil

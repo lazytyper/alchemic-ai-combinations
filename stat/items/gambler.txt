@@ -8,4 +8,4 @@ Dice + Outlaw = Gambler
 
 Usages:
 =======
-Human + Gambler = Risk-Taker
+Gambler + Human = Risk-Taker

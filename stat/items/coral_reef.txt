@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Oceanic Paradise + Corruption = Coral Reef
+Corruption + Oceanic Paradise = Coral Reef
 Oceanic Paradise + Twilight = Coral Reef
 
 Usages:
 =======
-Fish + Coral Reef = Underwater World
+Coral Reef + Fish = Underwater World

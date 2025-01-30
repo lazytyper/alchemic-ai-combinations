@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Human + Digital Art = Avatar
+Digital Art + Human = Avatar
 
 Usages:
 =======
-Shrek + Avatar = Animation
-Cyclone + Avatar = Aang
+Avatar + Shrek = Animation
+Avatar + Cyclone = Aang

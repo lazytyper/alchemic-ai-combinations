@@ -8,9 +8,29 @@ Ocean + Volcano = Lava Lamp
 
 Usages:
 =======
-Life + Lava Lamp = Reincarnation
-Life + Lava Lamp = Earthquake
-Life + Lava Lamp = Eternal Flame
-Life + Lava Lamp = Vital Fluid
-Life + Lava Lamp = Volcanic Eruption
-Lava Lamp + Clay Soil = Magma Lamp
+Lava Lamp + Life = Reincarnation
+Lava Lamp + Life = Earthquake
+Lava Lamp + Life = Eternal Flame
+Lava Lamp + Life = Vital Fluid
+Lava Lamp + Life = Volcanic Eruption
+Clay Soil + Lava Lamp = Magma Lamp
+Lava Lamp + Life = Reincarnation
+Lava Lamp + Life = Earthquake
+Lava Lamp + Life = Eternal Flame
+Lava Lamp + Life = Vital Fluid
+Lava Lamp + Life = Volcanic Eruption
+Lava Lamp + Life = Reincarnation
+Lava Lamp + Life = Earthquake
+Lava Lamp + Life = Eternal Flame
+Lava Lamp + Life = Vital Fluid
+Lava Lamp + Life = Volcanic Eruption
+Lava Lamp + Life = Reincarnation
+Lava Lamp + Life = Earthquake
+Lava Lamp + Life = Eternal Flame
+Lava Lamp + Life = Vital Fluid
+Lava Lamp + Life = Volcanic Eruption
+Lava Lamp + Life = Reincarnation
+Lava Lamp + Life = Earthquake
+Lava Lamp + Life = Eternal Flame
+Lava Lamp + Life = Vital Fluid
+Lava Lamp + Life = Volcanic Eruption

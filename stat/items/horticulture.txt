@@ -4,10 +4,10 @@
 
 created by:
 ===========
-Human + Gardening = Horticulture
+Gardening + Human = Horticulture
 
 Usages:
 =======
 Horticulture + Mermaid = Aquatic Garden
-Horticulture + Castaway = Island Garden
-Horticulture + Cinderella = Garden Fairy
+Castaway + Horticulture = Island Garden
+Cinderella + Horticulture = Garden Fairy

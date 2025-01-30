@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Human + Crop Yield = Farming
+Crop Yield + Human = Farming
 
 Usages:
 =======

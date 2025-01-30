@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Mud + Mist = Swamp
+Mist + Mud = Swamp
 
 Usages:
 =======
@@ -12,4 +12,10 @@ Life + Swamp = Mudskipper
 Life + Swamp = Bog Creature
 Life + Swamp = Shrek
 Fire + Life + Swamp = Witch
-Swamp + Plant = Mangrove
+Life + Swamp = Mudskipper
+Life + Swamp = Bog Creature
+Life + Swamp = Shrek
+Life + Swamp = Mudskipper
+Life + Swamp = Bog Creature
+Life + Swamp = Shrek
+Plant + Swamp = Mangrove

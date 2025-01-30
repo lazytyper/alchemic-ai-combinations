@@ -8,6 +8,6 @@ Air + Paradise = Eden
 
 Usages:
 =======
-Sacrifice + Eden = Garden
+Eden + Sacrifice = Garden
 Bribery + Eden = Paradise Lost
 Eden + Snake = Original Sin

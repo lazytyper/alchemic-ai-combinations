@@ -5,8 +5,8 @@
 created by:
 ===========
 Human + Immortality = Vampire
-Dracula + Blood = Vampire
-Human + Blood = Vampire
+Blood + Dracula = Vampire
+Blood + Human = Vampire
 
 Usages:
 =======

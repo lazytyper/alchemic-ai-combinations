@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Garden + Botanist = Greenhouse
+Botanist + Garden = Greenhouse
 
 Usages:
 =======
-Isolation + Greenhouse = Biodome
+Greenhouse + Isolation = Biodome

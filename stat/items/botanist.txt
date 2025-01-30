@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Human + Flower Garden = Botanist
+Flower Garden + Human = Botanist
 
 Usages:
 =======
-Garden + Botanist = Greenhouse
+Botanist + Garden = Greenhouse
 Botanist + Oasis = Plantation

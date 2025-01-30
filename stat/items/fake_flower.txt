@@ -8,5 +8,5 @@ Anemone + Replica = Fake Flower
 
 Usages:
 =======
-Imitation + Fake Flower = Silk Flower
+Fake Flower + Imitation = Silk Flower
 Fake Flower + Poison = Death Blossom

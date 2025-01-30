@@ -8,10 +8,12 @@ Cyclist + Cyclist = Race
 
 Usages:
 =======
-Scenery + Race = Road Trip
+Race + Scenery = Road Trip
 Race + Tourist Attraction = Racecourse
 Pedal + Race = Bicycle
 Fish + Race = Marathon
+Human + Race = Runner
+Human + Race = Marathon
 Human + Race = Runner
 Human + Race = Marathon
 Blue Planet + Race = Earthrace

@@ -4,12 +4,12 @@
 
 created by:
 ===========
-Life + Farmland = Agriculture
+Farmland + Life = Agriculture
 Farmer + Farming = Agriculture
 Agribusiness + Farming = Agriculture
 
 Usages:
 =======
 Agriculture + Desentization = Farm Therapy
-Volcano + Agriculture = Fertile Soil
+Agriculture + Volcano = Fertile Soil
 Agriculture + Moss = Terrarium

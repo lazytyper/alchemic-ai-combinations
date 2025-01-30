@@ -9,4 +9,4 @@ Atlantis + Castle = Myth
 Usages:
 =======
 Myth + Myth = Legend
-Myth + Legend = Hero
+Legend + Myth = Hero

@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Monarch + Metamorphosis = Butterfly
+Metamorphosis + Monarch = Butterfly
 
 Usages:
 =======
-Human + Butterfly = Metamorphosis
-Love + Butterfly = Flutter Heart
+Butterfly + Human = Metamorphosis
+Butterfly + Love = Flutter Heart

@@ -12,8 +12,10 @@ Usages:
 =======
 Smoke + Witch = Spell
 Evolution + Smoke = Chimney
-Smoke + Nymph = Mistress
-Smoke + Lox = Salmon
+Nymph + Smoke = Mistress
+Lox + Smoke = Salmon
 Fire + Smoke = Heat Wave
 Fire + Smoke = Bonfire
-Smoke + Energy Production = Pollution
+Fire + Smoke = Heat Wave
+Fire + Smoke = Bonfire
+Energy Production + Smoke = Pollution

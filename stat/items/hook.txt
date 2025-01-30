@@ -4,10 +4,10 @@
 
 created by:
 ===========
-Pirate + Captain = Hook
+Captain + Pirate = Hook
 
 Usages:
 =======
 Fish + Hook = Fishing
 Frog Farm + Hook = Frog Giggling
-Hook + Fountain Of Youth = Peter Pan
+Fountain Of Youth + Hook = Peter Pan

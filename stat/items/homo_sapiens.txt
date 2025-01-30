@@ -8,4 +8,4 @@ Evolution + Human = Homo Sapiens
 
 Usages:
 =======
-Homo Sapiens + Charmander = Salamander
+Charmander + Homo Sapiens = Salamander

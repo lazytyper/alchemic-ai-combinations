@@ -10,13 +10,17 @@ Usages:
 =======
 Earth + Mud = Soil
 Mud + Mud = Clay
-Mud + Mist = Swamp
+Mist + Mud = Swamp
 Lava + Mud = Obsidian
 Life + Mud = Evolution
-Oxygen + Mud = Dirt
-Oxygen + Mud = Soil
-Mud + Evolution = Amphibian
+Mud + Oxygen = Dirt
+Mud + Oxygen = Soil
+Evolution + Mud = Amphibian
 Mud + Sun = Adobe
-Mud + Energy = Fossil Fuel
-Mud + Energy = Battery
+Energy + Mud = Fossil Fuel
+Energy + Mud = Battery
+Energy + Mud = Fossil Fuel
+Energy + Mud = Battery
+Mud + Oxygen = Dirt
+Mud + Oxygen = Soil
 Fire + Mud = Brick

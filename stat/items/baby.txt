@@ -4,10 +4,12 @@
 
 created by:
 ===========
-Human + Birth = Baby
+Birth + Human = Baby
 
 Usages:
 =======
-Time + Baby = Infant Mortality
-Time + Baby = Childhood
+Baby + Time = Infant Mortality
+Baby + Time = Childhood
+Baby + Time = Infant Mortality
+Baby + Time = Childhood
 Baby + Eternal Youth = Fountain Of Youth

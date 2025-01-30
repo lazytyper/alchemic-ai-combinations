@@ -8,4 +8,4 @@ Fire + Ghost = Poltergeist
 
 Usages:
 =======
-Soul + Poltergeist = Haunting
+Poltergeist + Soul = Haunting

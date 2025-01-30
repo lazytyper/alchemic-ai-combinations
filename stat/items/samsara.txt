@@ -8,5 +8,5 @@ Life + Reincarnation = Samsara
 
 Usages:
 =======
-Wind + Samsara = Cyclone
-Samsara + Monarch = Reincarnation
+Samsara + Wind = Cyclone
+Monarch + Samsara = Reincarnation

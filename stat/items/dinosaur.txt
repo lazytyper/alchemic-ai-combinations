@@ -8,4 +8,4 @@ Fossil + Fossil = Dinosaur
 
 Usages:
 =======
-Evolution + Dinosaur = Bird
+Dinosaur + Evolution = Bird

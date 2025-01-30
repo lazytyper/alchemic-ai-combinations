@@ -10,7 +10,7 @@ Usages:
 =======
 Human + Queen = Monarch
 Monarch + Queen = Sovereign
-Monarch + Queen + Castle = Royalty
-Queen + Castle = Throne
-Queen + Heroics = Wonder Woman
+Castle + Monarch + Queen = Royalty
+Castle + Queen = Throne
+Heroics + Queen = Wonder Woman
 Queen + Society = Monarchy

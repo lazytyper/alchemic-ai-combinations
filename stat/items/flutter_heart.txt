@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Love + Butterfly = Flutter Heart
+Butterfly + Love = Flutter Heart
 
 Usages:
 =======
-Replica + Flutter Heart = Love Token
+Flutter Heart + Replica = Love Token

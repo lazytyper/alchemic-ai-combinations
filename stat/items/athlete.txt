@@ -8,7 +8,7 @@ Human + Runner = Athlete
 
 Usages:
 =======
-Hercules + Athlete = Strongman
-Dystopia + Athlete = Survivor
+Athlete + Hercules = Strongman
+Athlete + Dystopia = Survivor
 Athlete + Dartboard = Bullseye
 Athlete + Waterplay = Swimmer

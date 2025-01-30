@@ -9,6 +9,6 @@ Love + Witch = Potion
 Usages:
 =======
 Poison + Potion = Elixir
-Witch + Potion = Magic Spell
+Potion + Witch = Magic Spell
 Love + Potion = Love Potion
-Potion + Plant Growth = Herbology
+Plant Growth + Potion = Herbology

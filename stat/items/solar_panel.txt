@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Sun + Mirror = Solar Panel
+Mirror + Sun = Solar Panel
 
 Usages:
 =======

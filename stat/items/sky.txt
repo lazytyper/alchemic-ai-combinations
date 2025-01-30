@@ -10,8 +10,10 @@ Usages:
 =======
 Earth + Sky = Horizon
 Island + Sky = Cloudscape
-Sun + Sky = Farmland
-Sun + Sky = Day
-Sky + Family = Constellation
-Sky + Environmental Activism = Blue Planet
-Solar System + Sky = Space
+Sky + Sun = Farmland
+Sky + Sun = Day
+Family + Sky = Constellation
+Environmental Activism + Sky = Blue Planet
+Sky + Sun = Farmland
+Sky + Sun = Day
+Sky + Solar System = Space

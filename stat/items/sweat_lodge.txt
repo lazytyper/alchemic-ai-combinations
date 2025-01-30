@@ -9,5 +9,5 @@ Reincarnation + Sauna = Sweat Lodge
 Usages:
 =======
 Sauna + Sweat Lodge = Steam Room
-Sweat Lodge + Steam Room = Sauna
-Sweat Lodge + Mistress = Healing Ceremony
+Steam Room + Sweat Lodge = Sauna
+Mistress + Sweat Lodge = Healing Ceremony

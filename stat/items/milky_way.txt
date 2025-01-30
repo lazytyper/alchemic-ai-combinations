@@ -9,5 +9,5 @@ Arrow + Galaxy = Milky Way
 Usages:
 =======
 Arrow + Milky Way = Galaxy
-Milky Way + Hot Spring = Galaxy
-Milky Way + Contemplation = Stargazing
+Hot Spring + Milky Way = Galaxy
+Contemplation + Milky Way = Stargazing

@@ -13,7 +13,7 @@ Usages:
 Sacrifice + Witch = Witchcraft
 Smoke + Witch = Spell
 Love + Witch = Potion
-Witch + Potion = Magic Spell
-Witch + Gossip = Rumor
-Witch + Mangrove = Wisp
-Witch + Fire Magic = Firewitch
+Potion + Witch = Magic Spell
+Gossip + Witch = Rumor
+Mangrove + Witch = Wisp
+Fire Magic + Witch = Firewitch

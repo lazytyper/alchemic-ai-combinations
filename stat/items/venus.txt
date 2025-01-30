@@ -10,4 +10,4 @@ Usages:
 =======
 Life + Venus = Love
 Venus + Venus = Aphrodite
-Venus + Astrology = Horoscope
+Astrology + Venus = Horoscope

@@ -8,6 +8,6 @@ Druid + Magic Spell = Incantation
 
 Usages:
 =======
-Incantation + Cinderella = Magic
+Cinderella + Incantation = Magic
 Druid + Incantation = Magic
 Human + Incantation = Spellcaster

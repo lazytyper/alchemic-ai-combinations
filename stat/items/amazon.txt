@@ -10,5 +10,5 @@ Usages:
 =======
 Amazon + Amazon = Rainforest
 Amazon + Farmland = Agribusiness
-Copycat + Amazon = Knockoff
+Amazon + Copycat = Knockoff
 Amazon + Pebble = River

@@ -8,6 +8,6 @@ Firestorm + Park = Firefighter
 
 Usages:
 =======
-Water + Firefighter = Fire Hose
+Firefighter + Water = Fire Hose
 Fire + Firefighter = Rescue Squad
-Wildfire + Firefighter = Smokejumper
+Firefighter + Wildfire = Smokejumper

@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Mermaid + Flower = Seaweed
+Flower + Mermaid = Seaweed
 
 Usages:
 =======

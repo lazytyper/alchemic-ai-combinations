@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Human + Hero = Superman
+Hero + Human = Superman
 
 Usages:
 =======
-Universe + Superman = Justice League
+Superman + Universe = Justice League

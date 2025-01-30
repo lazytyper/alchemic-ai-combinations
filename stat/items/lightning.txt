@@ -9,4 +9,4 @@ Thunder + Thunder = Lightning
 Usages:
 =======
 Human + Lightning = Thor
-Lightning + Flash = Thor
+Flash + Lightning = Thor

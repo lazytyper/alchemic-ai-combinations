@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Human + Forest = Ranger
+Forest + Human = Ranger
 
 Usages:
 =======

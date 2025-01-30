@@ -9,20 +9,28 @@ Waves + Waves = Ocean
 
 Usages:
 =======
-Oxygen + Ocean = Life
-Ocean + Mist = Fog
+Ocean + Oxygen = Life
+Mist + Ocean = Fog
 Ocean + Volcano = Lava Lamp
 Ocean + Volcano = Lava Wave
 Inferno + Ocean = Tsunami
 Fire + Ocean = Steam
 Ocean + Paradise = Island
 Earth + Ocean = Island
-Ocean + Life = Marine Biologist
-Ocean + Lost Civilization = Atlantis
+Life + Ocean = Marine Biologist
+Lost Civilization + Ocean = Atlantis
 Ocean + Tsunami = Wave
 Ocean + Wind = Waves
 Ocean + Wind = Sailboat
 Ocean + Wind = Sailing
-Ocean + Fishing Boat = Fisherman
-Ocean + Fish = Shark
-Ocean + Digital Art = Seascape
+Ocean + Wind = Waves
+Ocean + Wind = Sailboat
+Ocean + Wind = Sailing
+Ocean + Wind = Waves
+Ocean + Wind = Sailboat
+Ocean + Wind = Sailing
+Ocean + Volcano = Lava Lamp
+Ocean + Volcano = Lava Wave
+Fishing Boat + Ocean = Fisherman
+Fish + Ocean = Shark
+Digital Art + Ocean = Seascape

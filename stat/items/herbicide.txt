@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Herbalist + Death Blossom = Herbicide
+Death Blossom + Herbalist = Herbicide
 
 Usages:
 =======

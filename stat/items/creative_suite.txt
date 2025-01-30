@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Life + Adobe = Creative Suite
+Adobe + Life = Creative Suite
 
 Usages:
 =======
-Replica + Creative Suite = Photoshop
-Disaster + Creative Suite = Design Failure
+Creative Suite + Replica = Photoshop
+Creative Suite + Disaster = Design Failure

@@ -8,5 +8,5 @@ Sound + Thunderstorm = Noise
 
 Usages:
 =======
-Thunderstorm + Noise = Thunder
+Noise + Thunderstorm = Thunder
 Galaxy + Noise = Cosmic Static

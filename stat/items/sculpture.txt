@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Clay + Breath = Sculpture
+Breath + Clay = Sculpture
 
 Usages:
 =======
-Zeus + Sculpture = Statue
+Sculpture + Zeus = Statue

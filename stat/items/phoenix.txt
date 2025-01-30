@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Reincarnation + Firestorm = Phoenix
-Fire + Bird = Phoenix
+Firestorm + Reincarnation = Phoenix
+Bird + Fire = Phoenix
 Bird + Bird = Phoenix
 
 Usages:

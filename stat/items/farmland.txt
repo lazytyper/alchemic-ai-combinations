@@ -4,10 +4,10 @@
 
 created by:
 ===========
-Sun + Sky = Farmland
+Sky + Sun = Farmland
 
 Usages:
 =======
-Life + Farmland = Agriculture
+Farmland + Life = Agriculture
 Amazon + Farmland = Agribusiness
-Farmland + Drought = Desertification
+Drought + Farmland = Desertification

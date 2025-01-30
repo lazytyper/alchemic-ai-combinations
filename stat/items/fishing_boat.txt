@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Sailing + Angler = Fishing Boat
+Angler + Sailing = Fishing Boat
 
 Usages:
 =======
-Ocean + Fishing Boat = Fisherman
+Fishing Boat + Ocean = Fisherman

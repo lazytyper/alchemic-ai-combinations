@@ -4,9 +4,9 @@
 
 created by:
 ===========
-View + Landscape = Scenery
+Landscape + View = Scenery
 
 Usages:
 =======
 Cyclist + Scenery = Bicycle Tour
-Scenery + Race = Road Trip
+Race + Scenery = Road Trip

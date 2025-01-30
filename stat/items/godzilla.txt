@@ -9,5 +9,5 @@ Monster + Monster = Godzilla
 Usages:
 =======
 Disaster + Godzilla = Chaos
-Tsunami + Godzilla = Destruction
-Hulk + Godzilla = Kaiju
+Godzilla + Tsunami = Destruction
+Godzilla + Hulk = Kaiju

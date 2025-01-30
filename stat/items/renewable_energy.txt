@@ -10,5 +10,5 @@ Solar Panel + Wave = Renewable Energy
 Usages:
 =======
 Plant + Renewable Energy = Biofuel
-Wind + Renewable Energy = Solar Power
-Renewable Energy + Dragonair = Dragon Energy
+Renewable Energy + Wind = Solar Power
+Dragonair + Renewable Energy = Dragon Energy

@@ -11,5 +11,5 @@ Human + Jungle = Tarzan
 Usages:
 =======
 Community + Tarzan = Jungle Tribe
-Tarzan + Speech = Elephant Communication
-Tarzan + Hades = Underworld King
+Speech + Tarzan = Elephant Communication
+Hades + Tarzan = Underworld King

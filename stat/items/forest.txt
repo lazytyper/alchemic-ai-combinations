@@ -8,11 +8,11 @@ Tree + Tree = Forest
 
 Usages:
 =======
-Human + Forest = Ranger
+Forest + Human = Ranger
 Forest + Ranger = National Park
-Forest + Dryad = Nymph
-Life + Forest = Nature
+Dryad + Forest = Nymph
+Forest + Life = Nature
 Forest + Forest = Jungle
-Tree + Forest = Woodland
+Forest + Tree = Woodland
 Fire + Forest = Wildfire
 Forest + Robin Hood = Outlaw

@@ -8,4 +8,4 @@ Water + Weather = Rain
 
 Usages:
 =======
-Sunflower + Rain = Rainbow
+Rain + Sunflower = Rainbow

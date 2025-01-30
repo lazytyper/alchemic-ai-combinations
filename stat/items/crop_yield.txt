@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Garden + Farmer = Crop Yield
+Farmer + Garden = Crop Yield
 
 Usages:
 =======
-Human + Crop Yield = Farming
+Crop Yield + Human = Farming

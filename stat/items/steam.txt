@@ -9,9 +9,9 @@ Fire + Ocean = Steam
 
 Usages:
 =======
-Steam + Fish = Sauna
+Fish + Steam = Sauna
 Earth + Steam = Geyser
 Air + Steam = Cloud
-Volcano + Steam = Hot Springs
-Steam + Landscape = Geysers
-Steam + Oasis = Sauna
+Steam + Volcano = Hot Springs
+Landscape + Steam = Geysers
+Oasis + Steam = Sauna

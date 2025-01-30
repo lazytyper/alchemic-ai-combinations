@@ -4,11 +4,13 @@
 
 created by:
 ===========
-Society + Hate = Dystopia
+Hate + Society = Dystopia
 
 Usages:
 =======
 Disaster + Dystopia = Catastrophe
 Dystopia + Runner = Bladerunner
 Dystopia + Runner = Replicant
-Dystopia + Athlete = Survivor
+Dystopia + Runner = Bladerunner
+Dystopia + Runner = Replicant
+Athlete + Dystopia = Survivor

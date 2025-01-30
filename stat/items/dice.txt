@@ -9,6 +9,6 @@ Roll + Sacrifice = Dice
 Usages:
 =======
 Dice + Dice = Roll
-Hope + Dice = Chance
-Human + Dice = Gambling
+Dice + Hope = Chance
+Dice + Human = Gambling
 Dice + Outlaw = Gambler

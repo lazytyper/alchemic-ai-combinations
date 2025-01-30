@@ -8,6 +8,6 @@ Amazon + Farmland = Agribusiness
 
 Usages:
 =======
-Island + Amphibian + Agribusiness = Frog Farm
+Agribusiness + Amphibian + Island = Frog Farm
 Agribusiness + Farming = Agriculture
-Human + Agribusiness = Agrarian
+Agribusiness + Human = Agrarian

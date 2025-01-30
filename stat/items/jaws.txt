@@ -9,4 +9,4 @@ Monster + Shark = Jaws
 Usages:
 =======
 Human + Jaws = Teeth
-Road Trip + Jaws = Sharknado
+Jaws + Road Trip = Sharknado

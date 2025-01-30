@@ -10,4 +10,4 @@ Usages:
 =======
 Mudskipper + Mudskipper = Fish
 Mudskipper + Sushi = Sushiroll
-Replica + Mudskipper = Motorcycle
+Mudskipper + Replica = Motorcycle

@@ -9,4 +9,4 @@ Galaxy + Sound = Silence
 Usages:
 =======
 Human + Silence = Meditation
-Thunder + Silence = Whisper
+Silence + Thunder = Whisper

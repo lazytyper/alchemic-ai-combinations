@@ -8,8 +8,8 @@ Marsupilami + Oasis = Desert
 
 Usages:
 =======
-Tree + Desert = Oasis
-Water + Desert = Oasis
-Plant + Desert = Cactus
-Desert + Cactus = Sandstorm
-Life + Desert = Oasis
+Desert + Tree = Oasis
+Desert + Water = Oasis
+Desert + Plant = Cactus
+Cactus + Desert = Sandstorm
+Desert + Life = Oasis

@@ -8,4 +8,4 @@ Vampire + Vampire = Dracula
 
 Usages:
 =======
-Dracula + Blood = Vampire
+Blood + Dracula = Vampire

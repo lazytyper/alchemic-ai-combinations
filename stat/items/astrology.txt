@@ -8,4 +8,4 @@ Planet + Spirituality = Astrology
 
 Usages:
 =======
-Venus + Astrology = Horoscope
+Astrology + Venus = Horoscope

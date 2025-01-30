@@ -5,7 +5,7 @@
 created by:
 ===========
 Garden + Sorcery = Herbology
-Potion + Plant Growth = Herbology
+Plant Growth + Potion = Herbology
 
 Usages:
 =======

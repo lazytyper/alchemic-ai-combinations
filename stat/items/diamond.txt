@@ -4,11 +4,11 @@
 
 created by:
 ===========
-Fire + Coal = Diamond
+Coal + Fire = Diamond
 Coal + Coal = Diamond
 
 Usages:
 =======
-Human + Diamond = Engagement Ring
-Mountain + Diamond = Peak
+Diamond + Human = Engagement Ring
+Diamond + Mountain = Peak
 Demonic Ritual + Diamond = Soul Gem

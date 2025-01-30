@@ -4,12 +4,12 @@
 
 created by:
 ===========
-Sun + Sky = Day
+Sky + Sun = Day
 
 Usages:
 =======
-Skycycle + Day = Daydream
-Reflection + Day = Contemplation
+Day + Skycycle = Daydream
+Day + Reflection = Contemplation
 Day + Media Summit = Daydream
 Day + Day = Night
 Day + Night = 24 Hours

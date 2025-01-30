@@ -5,9 +5,9 @@
 created by:
 ===========
 Fire + Volcano = Eruption
-Volcano + Disaster = Eruption
+Disaster + Volcano = Eruption
 Life + Volcano = Eruption
-Volcano + Monarch = Eruption
+Monarch + Volcano = Eruption
 
 Usages:
 =======

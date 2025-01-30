@@ -9,6 +9,6 @@ Obsidian + Obsidian = Mirror
 Usages:
 =======
 Fukushima + Mirror = Reflection
-Sun + Mirror = Solar Panel
+Mirror + Sun = Solar Panel
 Mirror + Mirror = Snow White
-Mirror + Design Failure = Reflection Error
+Design Failure + Mirror = Reflection Error

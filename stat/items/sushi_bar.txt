@@ -9,4 +9,4 @@ Fish + Steam Room = Sushi Bar
 Usages:
 =======
 Fish + Sushi Bar = Sushi
-Sushi Bar + Magma = Volcano Roll
+Magma + Sushi Bar = Volcano Roll

@@ -8,6 +8,6 @@ Mountain + Rock = Everest
 
 Usages:
 =======
-Human + Everest = Sherpa
+Everest + Human = Sherpa
 Everest + Risk-Taker = Adventurer
-Everest + Digital Art = Media Summit
+Digital Art + Everest = Media Summit

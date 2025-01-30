@@ -8,8 +8,8 @@ Air + Water = Mist
 
 Usages:
 =======
-Ocean + Mist = Fog
-Mist + Hurricane = Fog
-Mud + Mist = Swamp
+Mist + Ocean = Fog
+Hurricane + Mist = Fog
+Mist + Mud = Swamp
 Air + Mist = Fog
 Mist + Photosynthesis = Fogbow

@@ -8,5 +8,5 @@ Human + Smoked Salmon = Lox
 
 Usages:
 =======
-Smoke + Lox = Salmon
-Lox + Eternal Youth = Ambrosia
+Lox + Smoke = Salmon
+Eternal Youth + Lox = Ambrosia

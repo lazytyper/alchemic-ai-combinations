@@ -4,12 +4,12 @@
 
 created by:
 ===========
-Oxygen + Fire = Combustion
+Fire + Oxygen = Combustion
 
 Usages:
 =======
-Earth + Combustion = Volcano
-Combustion + Atmosphere = Fire
+Combustion + Earth = Volcano
+Atmosphere + Combustion = Fire
 Combustion + Wind = Turbine
 Combustion + Storm = Firestorm
 Combustion + Pebble = Fireplace

@@ -8,4 +8,4 @@ Dryad + Terrarium = Plant Spirit
 
 Usages:
 =======
-Underworld + Plant Spirit = Shaman
+Plant Spirit + Underworld = Shaman

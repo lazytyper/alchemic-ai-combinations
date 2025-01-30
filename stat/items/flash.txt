@@ -8,5 +8,5 @@ Adobe + Animation = Flash
 
 Usages:
 =======
-Lightning + Flash = Thor
-Sailboat + Flash = Speedboat
+Flash + Lightning = Thor
+Flash + Sailboat = Speedboat

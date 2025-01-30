@@ -9,5 +9,5 @@ Life + Marriage = Family
 Usages:
 =======
 Community + Family = Society
-Island + Family = Community
-Sky + Family = Constellation
+Family + Island = Community
+Family + Sky = Constellation

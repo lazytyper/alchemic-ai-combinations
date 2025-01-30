@@ -8,7 +8,7 @@ Wind + Wind = Hurricane
 
 Usages:
 =======
-Mist + Hurricane = Fog
-Hurricane + Ecosystem = Disaster
-Hurricane + Hard Place = Disaster
-Hurricane + Heaven = Windsong
+Hurricane + Mist = Fog
+Ecosystem + Hurricane = Disaster
+Hard Place + Hurricane = Disaster
+Heaven + Hurricane = Windsong

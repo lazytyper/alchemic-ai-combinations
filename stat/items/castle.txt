@@ -4,14 +4,14 @@
 
 created by:
 ===========
-Monarch + Fortress = Castle
+Fortress + Monarch = Castle
 
 Usages:
 =======
-Cinderella + Castle = Fairy Tale
-Monarch + Queen + Castle = Royalty
+Castle + Cinderella = Fairy Tale
+Castle + Monarch + Queen = Royalty
 Castle + Castle = Kingdom
-Monarch + Castle = Palace
-Queen + Castle = Throne
+Castle + Monarch = Palace
+Castle + Queen = Throne
 Atlantis + Castle = Myth
 Castle + Robin Hood = Sherwood

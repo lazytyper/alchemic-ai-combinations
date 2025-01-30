@@ -8,4 +8,4 @@ Earth + Earth + Fire = Magma
 
 Usages:
 =======
-Sushi Bar + Magma = Volcano Roll
+Magma + Sushi Bar = Volcano Roll

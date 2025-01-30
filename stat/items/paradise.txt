@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Life + Heaven = Paradise
+Heaven + Life = Paradise
 Earth + Heaven = Paradise
 
 Usages:
@@ -13,4 +13,4 @@ Ocean + Paradise = Island
 Earth + Paradise = Garden
 Air + Paradise = Eden
 Fire + Paradise = Hell
-Water + Paradise = Oasis
+Paradise + Water = Oasis

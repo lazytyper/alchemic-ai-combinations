@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Steam + Fish = Sauna
-Sweat Lodge + Steam Room = Sauna
-Steam + Oasis = Sauna
+Fish + Steam = Sauna
+Steam Room + Sweat Lodge = Sauna
+Oasis + Steam = Sauna
 
 Usages:
 =======

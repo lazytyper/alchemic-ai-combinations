@@ -8,4 +8,4 @@ Druid + Herbology = Herbalist
 
 Usages:
 =======
-Herbalist + Death Blossom = Herbicide
+Death Blossom + Herbalist = Herbicide

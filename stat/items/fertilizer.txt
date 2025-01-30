@@ -4,11 +4,13 @@
 
 created by:
 ===========
-Soil + Fish = Fertilizer
-Time + Compost = Fertilizer
+Fish + Soil = Fertilizer
+Compost + Time = Fertilizer
 
 Usages:
 =======
-Soil + Fertilizer = Plant
-Soil + Fertilizer = Plant Growth
+Fertilizer + Soil = Plant
+Fertilizer + Soil = Plant Growth
 Fertilizer + Plant = Flower
+Fertilizer + Soil = Plant
+Fertilizer + Soil = Plant Growth

@@ -9,7 +9,13 @@ Boat + Boat = Ship
 Usages:
 =======
 Island + Ship = Pirate
-Ship + Pirate = Blackbeard
-Ship + Pirate = Captain
-Ship + Pirate = Captain Hook
+Pirate + Ship = Blackbeard
+Pirate + Ship = Captain
+Pirate + Ship = Captain Hook
+Pirate + Ship = Blackbeard
+Pirate + Ship = Captain
+Pirate + Ship = Captain Hook
+Pirate + Ship = Blackbeard
+Pirate + Ship = Captain
+Pirate + Ship = Captain Hook
 Race + Ship = Regatta

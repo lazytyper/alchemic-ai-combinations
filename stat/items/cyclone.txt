@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Wind + Samsara = Cyclone
+Samsara + Wind = Cyclone
 
 Usages:
 =======
-Cyclone + Avatar = Aang
+Avatar + Cyclone = Aang

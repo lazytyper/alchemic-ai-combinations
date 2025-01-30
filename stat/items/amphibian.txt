@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Mud + Evolution = Amphibian
+Evolution + Mud = Amphibian
 
 Usages:
 =======
-Island + Amphibian = Frog
-Island + Amphibian + Agribusiness = Frog Farm
+Amphibian + Island = Frog
+Agribusiness + Amphibian + Island = Frog Farm

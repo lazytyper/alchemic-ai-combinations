@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Steam + Landscape = Geysers
+Landscape + Steam = Geysers
 
 Usages:
 =======
-Island + Geysers = Iceland
+Geysers + Island = Iceland

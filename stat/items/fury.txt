@@ -8,4 +8,4 @@ Rage + Rage = Fury
 
 Usages:
 =======
-Human + Fury = Hulk
+Fury + Human = Hulk

@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Human + Diamond = Engagement Ring
+Diamond + Human = Engagement Ring
 
 Usages:
 =======
-Human + Engagement Ring = Proposal
+Engagement Ring + Human = Proposal

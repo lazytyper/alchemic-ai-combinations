@@ -4,10 +4,10 @@
 
 created by:
 ===========
-Nuclear Disaster + Chimney = Chernobyl
+Chimney + Nuclear Disaster = Chernobyl
 
 Usages:
 =======
-Fukushima + Chernobyl = Nuclear Disaster
+Chernobyl + Fukushima = Nuclear Disaster
 Chernobyl + Chernobyl = Disaster
-Oceanic Paradise + Chernobyl = Underworld
+Chernobyl + Oceanic Paradise = Underworld

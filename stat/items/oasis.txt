@@ -4,13 +4,13 @@
 
 created by:
 ===========
-Water + Paradise = Oasis
-Tree + Desert = Oasis
-Water + Desert = Oasis
-Life + Desert = Oasis
+Paradise + Water = Oasis
+Desert + Tree = Oasis
+Desert + Water = Oasis
+Desert + Life = Oasis
 
 Usages:
 =======
 Marsupilami + Oasis = Desert
 Botanist + Oasis = Plantation
-Steam + Oasis = Sauna
+Oasis + Steam = Sauna

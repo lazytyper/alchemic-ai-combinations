@@ -10,9 +10,9 @@ Usages:
 =======
 Inferno + Planet = Venus
 Fire + Planet = Sun
-Planet + Evolution = Life
+Evolution + Planet = Life
 Life + Planet = Living World
 Planet + Reincarnation = Marsupilami
-Planet + Jungle = Pandora
+Jungle + Planet = Pandora
 Planet + Religion = Jupiter
 Planet + Spirituality = Astrology

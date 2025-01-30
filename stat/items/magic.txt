@@ -4,11 +4,13 @@
 
 created by:
 ===========
-Incantation + Cinderella = Magic
+Cinderella + Incantation = Magic
 Druid + Incantation = Magic
 
 Usages:
 =======
+Magic + Magic = Sorcery
+Magic + Magic = Wizard
 Magic + Magic = Sorcery
 Magic + Magic = Wizard
 God + Magic = Miracle

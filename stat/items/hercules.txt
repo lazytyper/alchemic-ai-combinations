@@ -8,6 +8,6 @@ Human + Legend = Hercules
 
 Usages:
 =======
-Human + Hercules = Demigod
-Hercules + Athlete = Strongman
-Park + Hercules = Heroics
+Hercules + Human = Demigod
+Athlete + Hercules = Strongman
+Hercules + Park = Heroics

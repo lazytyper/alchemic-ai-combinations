@@ -9,5 +9,5 @@ Mud + Mud = Clay
 Usages:
 =======
 Clay + Nature = Pottery
-Fire + Clay = Pottery
-Clay + Breath = Sculpture
+Clay + Fire = Pottery
+Breath + Clay = Sculpture

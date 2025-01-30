@@ -8,4 +8,4 @@ Air + Soil = Plants
 
 Usages:
 =======
-Vase + Plants = Flower Arrangement
+Plants + Vase = Flower Arrangement

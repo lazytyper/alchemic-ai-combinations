@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Landscape + Fairy Tale = Storybook
+Fairy Tale + Landscape = Storybook
 
 Usages:
 =======
-Storybook + Marvel = Fairytale
+Marvel + Storybook = Fairytale

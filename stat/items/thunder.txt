@@ -4,12 +4,12 @@
 
 created by:
 ===========
-Thunderstorm + Noise = Thunder
+Noise + Thunderstorm = Thunder
 
 Usages:
 =======
 God + Thunder = Zeus
-Thunder + Silence = Whisper
+Silence + Thunder = Whisper
 Thunder + Thunder = Lightning
-Thunder + Fogbow = Rainbow
+Fogbow + Thunder = Rainbow
 Aphrodite + Thunder = Love Storm

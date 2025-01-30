@@ -9,8 +9,14 @@ Island + Ship = Pirate
 Usages:
 =======
 Island + Pirate = Treasure
-Ship + Pirate = Blackbeard
-Ship + Pirate = Captain
-Ship + Pirate = Captain Hook
+Pirate + Ship = Blackbeard
+Pirate + Ship = Captain
+Pirate + Ship = Captain Hook
+Pirate + Ship = Blackbeard
+Pirate + Ship = Captain
+Pirate + Ship = Captain Hook
+Pirate + Ship = Blackbeard
+Pirate + Ship = Captain
+Pirate + Ship = Captain Hook
 Pirate + Pirate = Crewmate
-Pirate + Captain = Hook
+Captain + Pirate = Hook

@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Combustion + Atmosphere = Fire
+Atmosphere + Combustion = Fire
 
 Usages:
 =======
@@ -12,29 +12,39 @@ Earth + Fire = Lava
 Earth + Fire = Volcano
 Fire + Fire = Inferno
 Fire + Volcano = Eruption
-Fire + Clay = Pottery
+Earth + Fire = Lava
+Earth + Fire = Volcano
+Clay + Fire = Pottery
 Fire + Ocean = Steam
-Fire + Biosphere = Wildfire
+Biosphere + Fire = Wildfire
 Fire + Planet = Sun
 Air + Fire = Smoke
 Fire + Imitation = Fake Flame
 Fire + Heat = Flame
-Fire + Energy = Heat
-Fire + Biofuel = Energy
+Energy + Fire = Heat
+Biofuel + Fire = Energy
 Fire + Turbine = Power Plant
-Fire + Evolution = Human
-Fire + Evolution = Charmander
-Fire + Evolution = Charizard
+Evolution + Fire = Human
+Evolution + Fire = Charmander
+Evolution + Fire = Charizard
+Evolution + Fire = Human
+Evolution + Fire = Charmander
+Evolution + Fire = Charizard
 Fire + Religion = Sacrifice
 Fire + Mudbrick = Kiln
 Fire + Paradise = Hell
-Oxygen + Fire = Combustion
-Fire + Carbon Dioxide = Carbon Monoxide
-Fire + Blue Planet = Muad'dib
+Fire + Oxygen = Combustion
+Evolution + Fire = Human
+Evolution + Fire = Charmander
+Evolution + Fire = Charizard
+Carbon Dioxide + Fire = Carbon Monoxide
+Blue Planet + Fire = Muad'dib
 Fire + Life + Swamp = Witch
 Earth + Earth + Fire = Magma
-Fire + Dust = Ashes
-Fire + Coal = Diamond
+Dust + Fire = Ashes
+Coal + Fire = Diamond
+Fire + Smoke = Heat Wave
+Fire + Smoke = Bonfire
 Fire + Smoke = Heat Wave
 Fire + Smoke = Bonfire
 Fire + Mud = Brick
@@ -46,4 +56,4 @@ Fire + Tree = Ash
 Air + Earth + Fire + Nature = Elements
 Fire + Ghost = Poltergeist
 Fire + Fire Magic = Pyromancy
-Fire + Bird = Phoenix
+Bird + Fire = Phoenix

@@ -5,11 +5,11 @@
 created by:
 ===========
 Stone + Stone = Rock
-Human + Hard Place = Rock
+Hard Place + Human = Rock
 
 Usages:
 =======
-Stone + Rock = Pebble
+Rock + Stone = Pebble
 Rock + Rock = Hard Place
 Mountain + Rock = Everest
 Reflection + Rock = Echo

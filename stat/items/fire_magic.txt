@@ -9,4 +9,4 @@ Combustion + Sorcery = Fire Magic
 Usages:
 =======
 Fire + Fire Magic = Pyromancy
-Witch + Fire Magic = Firewitch
+Fire Magic + Witch = Firewitch

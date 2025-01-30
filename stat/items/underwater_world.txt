@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Fish + Coral Reef = Underwater World
+Coral Reef + Fish = Underwater World
 
 Usages:
 =======
-Underworld + Underwater World = Abyss
+Underwater World + Underworld = Abyss

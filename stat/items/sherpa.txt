@@ -4,11 +4,11 @@
 
 created by:
 ===========
-Human + Everest = Sherpa
+Everest + Human = Sherpa
 
 Usages:
 =======
 Sherpa + Sherpa = Mountaineer
-Stone + Sherpa = Mountain Guide
+Sherpa + Stone = Mountain Guide
 Religion + Sherpa = Spiritual Guide
-Sherpa + Agrarian = Farm Guide
+Agrarian + Sherpa = Farm Guide

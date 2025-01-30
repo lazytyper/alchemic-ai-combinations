@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Ocean + Mist = Fog
-Mist + Hurricane = Fog
+Mist + Ocean = Fog
+Hurricane + Mist = Fog
 Air + Mist = Fog
 
 Usages:

@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Swamp + Plant = Mangrove
+Plant + Swamp = Mangrove
 
 Usages:
 =======
-Witch + Mangrove = Wisp
-Mangrove + Farm Guide = Eco-Tourism
+Mangrove + Witch = Wisp
+Farm Guide + Mangrove = Eco-Tourism

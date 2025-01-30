@@ -8,6 +8,6 @@ Earth + Steam = Geyser
 
 Usages:
 =======
-Pottery + Geyser = Hot Spring
+Geyser + Pottery = Hot Spring
 Geyser + National Park = Yellowstone
-Island + Geyser = Iceland
+Geyser + Island = Iceland

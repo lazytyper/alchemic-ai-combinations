@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Human + Fishing = Angler
+Fishing + Human = Angler
 
 Usages:
 =======
-Sailing + Angler = Fishing Boat
+Angler + Sailing = Fishing Boat

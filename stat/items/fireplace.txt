@@ -8,5 +8,5 @@ Combustion + Pebble = Fireplace
 
 Usages:
 =======
-Fish + Fireplace = Smoked Salmon
-Gandalf + Fireplace = Wizardry
+Fireplace + Fish = Smoked Salmon
+Fireplace + Gandalf = Wizardry

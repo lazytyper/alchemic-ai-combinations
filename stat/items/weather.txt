@@ -8,6 +8,6 @@ Atmosphere + Wind = Weather
 
 Usages:
 =======
-Wind + Weather = Storm
+Weather + Wind = Storm
 Imitation + Weather = Climate Change
 Water + Weather = Rain

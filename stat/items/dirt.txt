@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Oxygen + Mud = Dirt
+Mud + Oxygen = Dirt
 
 Usages:
 =======
-Tsunami + Dirt = Mudslide
-Gardening + Dirt = Planting
+Dirt + Tsunami = Mudslide
+Dirt + Gardening = Planting

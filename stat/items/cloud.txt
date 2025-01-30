@@ -8,9 +8,9 @@ Air + Steam = Cloud
 
 Usages:
 =======
-Monarch + Cloud = Cloudberry
+Cloud + Monarch = Cloudberry
 Cloud + Salamander = Firestorm
 Cloud + Soul = Heaven
-Volcano + Cloud = Ash
+Cloud + Volcano = Ash
 Cloud + Storm = Thunderstorm
-Pottery + Cloud = Vase
+Cloud + Pottery = Vase

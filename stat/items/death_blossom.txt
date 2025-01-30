@@ -8,4 +8,4 @@ Fake Flower + Poison = Death Blossom
 
 Usages:
 =======
-Herbalist + Death Blossom = Herbicide
+Death Blossom + Herbalist = Herbicide

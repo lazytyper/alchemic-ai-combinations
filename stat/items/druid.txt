@@ -9,9 +9,9 @@ Human + Tree = Druid
 
 Usages:
 =======
-Mountain + Druid = Nature Guardian
+Druid + Mountain = Nature Guardian
 Druid + Magic Spell = Incantation
-Religion + Druid = Nature Worship
+Druid + Religion = Nature Worship
 Druid + Incantation = Magic
 Druid + Herbology = Herbalist
 Druid + Fairy Circle = Nature Magic

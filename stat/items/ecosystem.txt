@@ -9,8 +9,8 @@ Biosphere + Nature = Ecosystem
 Usages:
 =======
 Copycat + Ecosystem = Imitation
-Hurricane + Ecosystem = Disaster
+Ecosystem + Hurricane = Disaster
 Ecosystem + Heat Wave = Drought
-Ecosystem + Desertification = Degradation
+Desertification + Ecosystem = Degradation
 Ecosystem + Wreckage = Biodegradation
 Ecosystem + Herbicide = Biodiversity Loss

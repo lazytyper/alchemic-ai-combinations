@@ -5,10 +5,10 @@
 created by:
 ===========
 Fertilizer + Plant = Flower
-Plant + Joy = Flower
+Joy + Plant = Flower
 
 Usages:
 =======
-Sun + Flower = Sunflower
-Isolation + Flower = Solitude
-Mermaid + Flower = Seaweed
+Flower + Sun = Sunflower
+Flower + Isolation = Solitude
+Flower + Mermaid = Seaweed

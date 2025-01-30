@@ -8,5 +8,5 @@ Energy + Fossil = Coal
 
 Usages:
 =======
-Fire + Coal = Diamond
+Coal + Fire = Diamond
 Coal + Coal = Diamond

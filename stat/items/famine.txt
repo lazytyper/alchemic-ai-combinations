@@ -8,4 +8,4 @@ Catastrophe + Drought = Famine
 
 Usages:
 =======
-Hades + Famine = Pluto
+Famine + Hades = Pluto

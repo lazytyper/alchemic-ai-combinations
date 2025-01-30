@@ -4,8 +4,8 @@
 
 created by:
 ===========
+Combustion + Earth = Volcano
 Earth + Fire = Volcano
-Earth + Combustion = Volcano
 Eruption + Mountain = Volcano
 
 Usages:
@@ -13,11 +13,13 @@ Usages:
 Fire + Volcano = Eruption
 Ocean + Volcano = Lava Lamp
 Ocean + Volcano = Lava Wave
-Volcano + Disaster = Eruption
+Disaster + Volcano = Eruption
 Life + Volcano = Eruption
 Volcano + Water = Steam
-Volcano + Monarch = Eruption
+Monarch + Volcano = Eruption
 Air + Volcano = Smoke
-Volcano + Steam = Hot Springs
-Volcano + Cloud = Ash
-Volcano + Agriculture = Fertile Soil
+Steam + Volcano = Hot Springs
+Cloud + Volcano = Ash
+Ocean + Volcano = Lava Lamp
+Ocean + Volcano = Lava Wave
+Agriculture + Volcano = Fertile Soil

@@ -8,4 +8,4 @@ Imitation + Weather = Climate Change
 
 Usages:
 =======
-Oxygen + Climate Change = Global Warming
+Climate Change + Oxygen = Global Warming

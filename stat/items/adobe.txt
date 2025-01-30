@@ -8,7 +8,7 @@ Mud + Sun = Adobe
 
 Usages:
 =======
-Life + Adobe = Creative Suite
-Sun + Adobe = Mudbrick
+Adobe + Life = Creative Suite
+Adobe + Sun = Mudbrick
 Adobe + Animation = Flash
 Adobe + Shipwreck = Wreckage

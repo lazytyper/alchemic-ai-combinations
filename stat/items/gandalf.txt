@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Wizard + Enlightenment = Gandalf
+Enlightenment + Wizard = Gandalf
 
 Usages:
 =======
-Gandalf + Fireplace = Wizardry
+Fireplace + Gandalf = Wizardry

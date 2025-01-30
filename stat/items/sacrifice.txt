@@ -9,5 +9,5 @@ Fire + Religion = Sacrifice
 Usages:
 =======
 Sacrifice + Witch = Witchcraft
-Sacrifice + Eden = Garden
+Eden + Sacrifice = Garden
 Roll + Sacrifice = Dice

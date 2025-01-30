@@ -8,5 +8,5 @@ Hate + Hate = Anger
 
 Usages:
 =======
-Human + Anger = Rage
+Anger + Human = Rage
 Anger + Anger = Rage

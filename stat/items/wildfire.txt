@@ -4,11 +4,11 @@
 
 created by:
 ===========
-Fire + Biosphere = Wildfire
+Biosphere + Fire = Wildfire
 Fire + Forest = Wildfire
 Fire + Trees = Wildfire
 
 Usages:
 =======
-Wildfire + Firefighter = Smokejumper
-Wildfire + Moral Ambiguity = Forest Fire
+Firefighter + Wildfire = Smokejumper
+Moral Ambiguity + Wildfire = Forest Fire

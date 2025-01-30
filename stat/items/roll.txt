@@ -9,5 +9,5 @@ Dice + Dice = Roll
 
 Usages:
 =======
-Sushi + Roll = Maki
+Roll + Sushi = Maki
 Roll + Sacrifice = Dice

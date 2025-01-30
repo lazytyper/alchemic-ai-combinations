@@ -8,6 +8,6 @@ Human + Pollination = Gardening
 
 Usages:
 =======
-Human + Gardening = Horticulture
-Gardening + Dirt = Planting
-Gardening + Energy Production = Sustainable Farming
+Gardening + Human = Horticulture
+Dirt + Gardening = Planting
+Energy Production + Gardening = Sustainable Farming

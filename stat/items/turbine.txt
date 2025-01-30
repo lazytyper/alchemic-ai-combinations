@@ -11,4 +11,4 @@ Usages:
 Pottery + Turbine = Vase
 Turbine + Vase = Windflower
 Fire + Turbine = Power Plant
-Air + Turbine + Energy = Wind Power
+Air + Energy + Turbine = Wind Power

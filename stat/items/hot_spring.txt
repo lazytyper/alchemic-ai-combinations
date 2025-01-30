@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Pottery + Geyser = Hot Spring
+Geyser + Pottery = Hot Spring
 
 Usages:
 =======
-Milky Way + Hot Spring = Galaxy
+Hot Spring + Milky Way = Galaxy

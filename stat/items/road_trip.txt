@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Scenery + Race = Road Trip
+Race + Scenery = Road Trip
 
 Usages:
 =======
-Road Trip + Jaws = Sharknado
+Jaws + Road Trip = Sharknado

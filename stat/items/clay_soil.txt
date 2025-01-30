@@ -8,4 +8,4 @@ Biosphere + Pottery = Clay Soil
 
 Usages:
 =======
-Lava Lamp + Clay Soil = Magma Lamp
+Clay Soil + Lava Lamp = Magma Lamp

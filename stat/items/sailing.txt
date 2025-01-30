@@ -8,4 +8,4 @@ Ocean + Wind = Sailing
 
 Usages:
 =======
-Sailing + Angler = Fishing Boat
+Angler + Sailing = Fishing Boat

@@ -8,5 +8,7 @@ Athlete + Dartboard = Bullseye
 
 Usages:
 =======
-Legend + Bullseye = Daredevil
-Legend + Bullseye = Robin Hood
+Bullseye + Legend = Daredevil
+Bullseye + Legend = Robin Hood
+Bullseye + Legend = Daredevil
+Bullseye + Legend = Robin Hood

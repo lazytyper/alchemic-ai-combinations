@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Plant + Desert = Cactus
+Desert + Plant = Cactus
 
 Usages:
 =======
-Desert + Cactus = Sandstorm
+Cactus + Desert = Sandstorm

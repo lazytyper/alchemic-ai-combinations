@@ -9,4 +9,4 @@ Yacht + Yacht = Boat
 Usages:
 =======
 Boat + Boat = Ship
-Stone + Boat = Anchor
+Boat + Stone = Anchor

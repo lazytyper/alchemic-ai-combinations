@@ -8,4 +8,4 @@ Catastrophe + Electricity = Blackout
 
 Usages:
 =======
-Electricity + Blackout = Power Outage
+Blackout + Electricity = Power Outage

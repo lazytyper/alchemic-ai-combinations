@@ -8,5 +8,5 @@ Evolution + Smoke = Chimney
 
 Usages:
 =======
-Nuclear Disaster + Chimney = Chernobyl
+Chimney + Nuclear Disaster = Chernobyl
 Chimney + E-Bike = Smokestack

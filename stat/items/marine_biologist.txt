@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Ocean + Life = Marine Biologist
+Life + Ocean = Marine Biologist
 
 Usages:
 =======
-Marine Biologist + Atlantis = Lost City
-Marine Biologist + Jungle Tribe = Oceanographer
+Atlantis + Marine Biologist = Lost City
+Jungle Tribe + Marine Biologist = Oceanographer

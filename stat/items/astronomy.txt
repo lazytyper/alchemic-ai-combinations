@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Universe + Stargazing = Astronomy
+Stargazing + Universe = Astronomy
 
 Usages:
 =======
-Universe + Astronomy = Cosmology
+Astronomy + Universe = Cosmology

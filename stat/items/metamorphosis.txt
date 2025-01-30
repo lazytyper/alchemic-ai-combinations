@@ -5,8 +5,8 @@
 created by:
 ===========
 Life Cycle + Life Cycle = Metamorphosis
-Human + Butterfly = Metamorphosis
+Butterfly + Human = Metamorphosis
 
 Usages:
 =======
-Monarch + Metamorphosis = Butterfly
+Metamorphosis + Monarch = Butterfly

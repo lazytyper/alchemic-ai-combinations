@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Fish + Fireplace = Smoked Salmon
+Fireplace + Fish = Smoked Salmon
 
 Usages:
 =======

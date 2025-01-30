@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Fire + Carbon Dioxide = Carbon Monoxide
+Carbon Dioxide + Fire = Carbon Monoxide
 
 Usages:
 =======
-Storm + Carbon Monoxide = Danger
+Carbon Monoxide + Storm = Danger

@@ -4,10 +4,10 @@
 
 created by:
 ===========
-View + Corruption = Perspective
+Corruption + View = Perspective
 
 Usages:
 =======
 Hope + Perspective = Optimism
-Perspective + Evil Twin = Moral Ambiguity
-Soil + Perspective = Landscape
+Evil Twin + Perspective = Moral Ambiguity
+Perspective + Soil = Landscape

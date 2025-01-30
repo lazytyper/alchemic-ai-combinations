@@ -8,5 +8,5 @@ Air + Life = Breath
 
 Usages:
 =======
-Life + Breath = Soul
-Clay + Breath = Sculpture
+Breath + Life = Soul
+Breath + Clay = Sculpture

@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Island + Amphibian = Frog
+Amphibian + Island = Frog
 
 Usages:
 =======

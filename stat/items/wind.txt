@@ -4,22 +4,30 @@
 
 created by:
 ===========
-Air + Air = Wind
 Air + Replica = Wind
+Air + Air = Wind
 
 Usages:
 =======
 Nature + Wind = Tornado
-Wind + Samsara = Cyclone
-Wind + Pollen = Pollination
+Samsara + Wind = Cyclone
+Pollen + Wind = Pollination
 Air + Wind = Atmosphere
 Air + Wind = Whirlwind
 Combustion + Wind = Turbine
-Wind + Weather = Storm
+Weather + Wind = Storm
 Atmosphere + Wind = Weather
-Wind + Renewable Energy = Solar Power
+Renewable Energy + Wind = Solar Power
 Wind + Wind = Hurricane
 Ocean + Wind = Waves
 Ocean + Wind = Sailboat
 Ocean + Wind = Sailing
-Wind + Seascape = Breeze
+Ocean + Wind = Waves
+Ocean + Wind = Sailboat
+Ocean + Wind = Sailing
+Ocean + Wind = Waves
+Ocean + Wind = Sailboat
+Ocean + Wind = Sailing
+Air + Wind = Atmosphere
+Air + Wind = Whirlwind
+Seascape + Wind = Breeze

@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Tsunami + Godzilla = Destruction
+Godzilla + Tsunami = Destruction
 
 Usages:
 =======
-Living World + Destruction = Apocalypse
-Vase + Destruction = Shatter
+Destruction + Living World = Apocalypse
+Destruction + Vase = Shatter

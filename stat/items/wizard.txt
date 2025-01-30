@@ -9,4 +9,4 @@ Magic + Magic = Wizard
 Usages:
 =======
 Wizard + Wizard = Merlin
-Wizard + Enlightenment = Gandalf
+Enlightenment + Wizard = Gandalf

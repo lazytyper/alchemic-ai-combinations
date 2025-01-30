@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Ship + Pirate = Captain Hook
+Pirate + Ship = Captain Hook
 
 Usages:
 =======

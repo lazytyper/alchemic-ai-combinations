@@ -8,4 +8,4 @@ Wall + Wall = Fortress
 
 Usages:
 =======
-Monarch + Fortress = Castle
+Fortress + Monarch = Castle

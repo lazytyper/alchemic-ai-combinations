@@ -10,7 +10,7 @@ Usages:
 =======
 God + View = Deity
 View + Zeus = Olympus
-View + Corruption = Perspective
-View + Poseidon = Ocean Vista
-View + Landscape = Scenery
-View + Shark = Sharknado
+Corruption + View = Perspective
+Poseidon + View = Ocean Vista
+Landscape + View = Scenery
+Shark + View = Sharknado

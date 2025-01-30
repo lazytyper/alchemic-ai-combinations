@@ -8,5 +8,5 @@ Human + Whisper = Gossip
 
 Usages:
 =======
-Witch + Gossip = Rumor
+Gossip + Witch = Rumor
 Corruption + Gossip = Scandal

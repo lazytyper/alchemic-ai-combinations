@@ -8,5 +8,5 @@ Aquarium + Olympus = Poseidon
 
 Usages:
 =======
-View + Poseidon = Ocean Vista
+Poseidon + View = Ocean Vista
 Poseidon + Wall = Atlantis

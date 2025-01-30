@@ -9,5 +9,5 @@ Day + Day = Night
 Usages:
 =======
 Day + Night = 24 Hours
-Sun + Night = Moon
+Night + Sun = Moon
 Night + Yosemite = Moonlight

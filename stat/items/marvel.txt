@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Universe + Superhero = Marvel
+Superhero + Universe = Marvel
 
 Usages:
 =======
-Storybook + Marvel = Fairytale
+Marvel + Storybook = Fairytale

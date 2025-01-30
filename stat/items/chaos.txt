@@ -8,4 +8,4 @@ Disaster + Godzilla = Chaos
 
 Usages:
 =======
-Human + Chaos = Anarchy
+Chaos + Human = Anarchy

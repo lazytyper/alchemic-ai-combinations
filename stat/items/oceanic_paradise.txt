@@ -8,6 +8,6 @@ Marine Sanctuary + Pandora = Oceanic Paradise
 
 Usages:
 =======
-Oceanic Paradise + Chernobyl = Underworld
-Oceanic Paradise + Corruption = Coral Reef
+Chernobyl + Oceanic Paradise = Underworld
+Corruption + Oceanic Paradise = Coral Reef
 Oceanic Paradise + Twilight = Coral Reef

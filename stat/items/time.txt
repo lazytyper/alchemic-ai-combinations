@@ -9,11 +9,13 @@ Earth + Eternity = Time
 Usages:
 =======
 Human + Time = History
-Time + Baby = Infant Mortality
-Time + Baby = Childhood
-Time + Compost = Fertilizer
+Baby + Time = Infant Mortality
+Baby + Time = Childhood
+Baby + Time = Infant Mortality
+Baby + Time = Childhood
+Compost + Time = Fertilizer
 Life + Time = Existence
-Time + Plant Growth = Photosynthesis
+Plant Growth + Time = Photosynthesis
 Life Force + Time = Eternal Youth
-Time + Apocalypse = End Times
+Apocalypse + Time = End Times
 Spell + Time = Chronomancy

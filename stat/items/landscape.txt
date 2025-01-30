@@ -4,14 +4,14 @@
 
 created by:
 ===========
-Nature + Horizon = Landscape
-Soil + Perspective = Landscape
+Horizon + Nature = Landscape
+Perspective + Soil = Landscape
 
 Usages:
 =======
 Horizon + Landscape = View
-Steam + Landscape = Geysers
-View + Landscape = Scenery
+Landscape + Steam = Geysers
+Landscape + View = Scenery
 Landscape + Universe = Cosmos
 Landscape + Nature Guardian = Dryad
-Landscape + Fairy Tale = Storybook
+Fairy Tale + Landscape = Storybook

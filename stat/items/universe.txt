@@ -11,8 +11,8 @@ Usages:
 Solar System + Universe = Cosmic Expanse
 Life + Universe = Existence
 Landscape + Universe = Cosmos
-Universe + Stargazing = Astronomy
-Universe + Astronomy = Cosmology
-Universe + Existence = Cosmic Reality
-Universe + Superman = Justice League
-Universe + Superhero = Marvel
+Stargazing + Universe = Astronomy
+Astronomy + Universe = Cosmology
+Existence + Universe = Cosmic Reality
+Superman + Universe = Justice League
+Superhero + Universe = Marvel

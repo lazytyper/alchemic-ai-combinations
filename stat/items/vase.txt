@@ -5,10 +5,10 @@
 created by:
 ===========
 Pottery + Turbine = Vase
-Pottery + Cloud = Vase
+Cloud + Pottery = Vase
 
 Usages:
 =======
 Turbine + Vase = Windflower
-Vase + Destruction = Shatter
-Vase + Plants = Flower Arrangement
+Destruction + Vase = Shatter
+Plants + Vase = Flower Arrangement

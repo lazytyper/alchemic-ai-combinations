@@ -4,11 +4,11 @@
 
 created by:
 ===========
-Earth + Battery = Electricity
+Battery + Earth = Electricity
 
 Usages:
 =======
-Human + Electricity = Lightning Person
+Electricity + Human = Lightning Person
 Bicycle + Electricity = E-Bike
 Catastrophe + Electricity = Blackout
-Electricity + Blackout = Power Outage
+Blackout + Electricity = Power Outage

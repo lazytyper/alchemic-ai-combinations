@@ -8,11 +8,11 @@ Human + Queen = Monarch
 
 Usages:
 =======
-Volcano + Monarch = Eruption
-Monarch + Cloud = Cloudberry
-Samsara + Monarch = Reincarnation
-Monarch + Metamorphosis = Butterfly
-Monarch + Fortress = Castle
+Monarch + Volcano = Eruption
+Cloud + Monarch = Cloudberry
+Monarch + Samsara = Reincarnation
+Metamorphosis + Monarch = Butterfly
+Fortress + Monarch = Castle
 Monarch + Queen = Sovereign
-Monarch + Queen + Castle = Royalty
-Monarch + Castle = Palace
+Castle + Monarch + Queen = Royalty
+Castle + Monarch = Palace

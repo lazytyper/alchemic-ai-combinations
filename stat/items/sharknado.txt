@@ -4,8 +4,8 @@
 
 created by:
 ===========
-View + Shark = Sharknado
-Road Trip + Jaws = Sharknado
+Shark + View = Sharknado
+Jaws + Road Trip = Sharknado
 
 Usages:
 =======

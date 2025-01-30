@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Tarzan + Speech = Elephant Communication
+Speech + Tarzan = Elephant Communication
 
 Usages:
 =======
-Jungle + Elephant Communication = Trumpet Vine
-Fireball + Elephant Communication = Thunderstorm
+Elephant Communication + Jungle = Trumpet Vine
+Elephant Communication + Fireball = Thunderstorm

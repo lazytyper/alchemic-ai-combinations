@@ -8,11 +8,17 @@ Life + Mud = Evolution
 
 Usages:
 =======
-Planet + Evolution = Life
-Fire + Evolution = Human
-Fire + Evolution = Charmander
-Fire + Evolution = Charizard
+Evolution + Planet = Life
+Evolution + Fire = Human
+Evolution + Fire = Charmander
+Evolution + Fire = Charizard
 Evolution + Human = Homo Sapiens
-Mud + Evolution = Amphibian
+Evolution + Fire = Human
+Evolution + Fire = Charmander
+Evolution + Fire = Charizard
+Evolution + Mud = Amphibian
+Evolution + Fire = Human
+Evolution + Fire = Charmander
+Evolution + Fire = Charizard
 Evolution + Smoke = Chimney
-Evolution + Dinosaur = Bird
+Dinosaur + Evolution = Bird

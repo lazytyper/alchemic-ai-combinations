@@ -5,10 +5,10 @@
 created by:
 ===========
 Cloud + Storm = Thunderstorm
-Fireball + Elephant Communication = Thunderstorm
+Elephant Communication + Fireball = Thunderstorm
 
 Usages:
 =======
 Sound + Thunderstorm = Noise
-Thunderstorm + Noise = Thunder
+Noise + Thunderstorm = Thunder
 Farming + Thunderstorm = Crop Damage

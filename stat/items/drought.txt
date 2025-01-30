@@ -8,7 +8,7 @@ Ecosystem + Heat Wave = Drought
 
 Usages:
 =======
-Farmland + Drought = Desertification
-Lost Civilization + Drought = Atlantis
-Water + Drought = Thirst
+Drought + Farmland = Desertification
+Drought + Lost Civilization = Atlantis
+Drought + Water = Thirst
 Catastrophe + Drought = Famine

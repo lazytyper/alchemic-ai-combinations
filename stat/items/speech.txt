@@ -8,4 +8,4 @@ Human + Sound = Speech
 
 Usages:
 =======
-Tarzan + Speech = Elephant Communication
+Speech + Tarzan = Elephant Communication

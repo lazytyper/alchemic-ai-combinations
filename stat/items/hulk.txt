@@ -4,10 +4,10 @@
 
 created by:
 ===========
-Human + Fury = Hulk
+Fury + Human = Hulk
 
 Usages:
 =======
-Human + Hulk = Monster
-Hulk + Godzilla = Kaiju
+Hulk + Human = Monster
+Godzilla + Hulk = Kaiju
 Hulk + Magic Spell = Charmander

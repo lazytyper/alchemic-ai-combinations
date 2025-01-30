@@ -8,5 +8,5 @@ Human + Vital Fluid = Blood
 
 Usages:
 =======
-Dracula + Blood = Vampire
-Human + Blood = Vampire
+Blood + Dracula = Vampire
+Blood + Human = Vampire

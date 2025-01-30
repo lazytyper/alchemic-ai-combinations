@@ -6,21 +6,21 @@ created by:
 ===========
 Earth + Life = Nature
 Life + Tree = Nature
-Life + Forest = Nature
+Forest + Life = Nature
 
 Usages:
 =======
 Clay + Nature = Pottery
 Nature + Windflower = Anemone
-Nature + Copy = Copycat
+Copy + Nature = Copycat
 Biosphere + Nature = Ecosystem
 Nature + Wind = Tornado
 Nature + Nature = Environment
-Nature + Horizon = Landscape
+Horizon + Nature = Landscape
 Nature + Soul = Spirit
 Nature + Sushi = Greenpeace
 Nature + Photosynthesis = Carbon Dioxide
 Nature + Spirit = Druid
-Oxygen + Nature = Trees
-Nature + Garden = Park
+Nature + Oxygen = Trees
+Garden + Nature = Park
 Air + Earth + Fire + Nature = Elements

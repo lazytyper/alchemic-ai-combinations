@@ -8,15 +8,15 @@ Mudskipper + Mudskipper = Fish
 
 Usages:
 =======
-Soil + Fish = Fertilizer
-Steam + Fish = Sauna
+Fish + Soil = Fertilizer
+Fish + Steam = Sauna
 Fish + Steam Room = Sushi Bar
 Fish + Sushi Bar = Sushi
 Fish + Human = Mermaid
-Fish + Environment = Aquarium
+Environment + Fish = Aquarium
 Fish + Sun = Sunset
 Fish + Hook = Fishing
-Fish + Fireplace = Smoked Salmon
-Ocean + Fish = Shark
+Fireplace + Fish = Smoked Salmon
+Fish + Ocean = Shark
 Fish + Race = Marathon
-Fish + Coral Reef = Underwater World
+Coral Reef + Fish = Underwater World

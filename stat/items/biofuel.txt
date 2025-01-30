@@ -8,4 +8,4 @@ Plant + Renewable Energy = Biofuel
 
 Usages:
 =======
-Fire + Biofuel = Energy
+Biofuel + Fire = Energy

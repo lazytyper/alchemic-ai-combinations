@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Life + Island = Castaway
+Island + Life = Castaway
 
 Usages:
 =======
-Love + Castaway = Loneliness
-Horticulture + Castaway = Island Garden
+Castaway + Love = Loneliness
+Castaway + Horticulture = Island Garden

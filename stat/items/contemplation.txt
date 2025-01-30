@@ -4,10 +4,10 @@
 
 created by:
 ===========
-Reflection + Day = Contemplation
+Day + Reflection = Contemplation
 
 Usages:
 =======
-Copycat + Contemplation = Mimicry
-Milky Way + Contemplation = Stargazing
+Contemplation + Copycat = Mimicry
+Contemplation + Milky Way = Stargazing
 Contemplation + Immortality = Philosophy

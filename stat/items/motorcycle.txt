@@ -4,12 +4,12 @@
 
 created by:
 ===========
-Replica + Mudskipper = Motorcycle
+Mudskipper + Replica = Motorcycle
 
 Usages:
 =======
 Atmosphere + Motorcycle = Skycycle
 Motorcycle + Racecourse = Racetrack
 Motorcycle + Mountain = Dirtbike
-Motorcycle + Anarchy = Outlaw
+Anarchy + Motorcycle = Outlaw
 Motorcycle + Sound = Vroom

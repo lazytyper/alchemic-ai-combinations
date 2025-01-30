@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Oxygen + Atmosphere = Air
+Atmosphere + Oxygen = Air
 
 Usages:
 =======
@@ -26,5 +26,9 @@ Air + Soil = Plants
 Air + Paradise = Eden
 Air + Wave = Sound
 Air + Lava Wave = Smoke
-Air + Turbine + Energy = Wind Power
+Air + Air = Oxygen
+Air + Air = Wind
+Air + Wind = Atmosphere
+Air + Wind = Whirlwind
+Air + Energy + Turbine = Wind Power
 Air + Earth + Fire + Nature = Elements

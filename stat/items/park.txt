@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Nature + Garden = Park
+Garden + Nature = Park
 
 Usages:
 =======
 Firestorm + Park = Firefighter
-Park + Hercules = Heroics
+Hercules + Park = Heroics

@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Human + Agribusiness = Agrarian
+Agribusiness + Human = Agrarian
 
 Usages:
 =======
-Sherpa + Agrarian = Farm Guide
+Agrarian + Sherpa = Farm Guide

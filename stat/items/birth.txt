@@ -8,4 +8,4 @@ Human + Life Cycle = Birth
 
 Usages:
 =======
-Human + Birth = Baby
+Birth + Human = Baby

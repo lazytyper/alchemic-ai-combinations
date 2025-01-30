@@ -9,4 +9,4 @@ Human + Yellowstone = Tourist Attraction
 Usages:
 =======
 Race + Tourist Attraction = Racecourse
-Tourist Attraction + Earthquake = Fault Line
+Earthquake + Tourist Attraction = Fault Line

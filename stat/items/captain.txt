@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Ship + Pirate = Captain
+Pirate + Ship = Captain
 
 Usages:
 =======
-Pirate + Captain = Hook
+Captain + Pirate = Hook
 Captain + Degradation = Captaincy

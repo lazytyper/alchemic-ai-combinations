@@ -8,5 +8,5 @@ Air + Dust = Pollen
 
 Usages:
 =======
-Pollen + Human = Allergy
-Wind + Pollen = Pollination
+Human + Pollen = Allergy
+Pollen + Wind = Pollination

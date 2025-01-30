@@ -8,4 +8,4 @@ Landscape + Universe = Cosmos
 
 Usages:
 =======
-Life + Cosmos = Existence
+Cosmos + Life = Existence

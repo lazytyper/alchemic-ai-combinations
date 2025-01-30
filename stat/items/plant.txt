@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Soil + Fertilizer = Plant
+Fertilizer + Soil = Plant
 
 Usages:
 =======
@@ -12,7 +12,7 @@ Plant + Renewable Energy = Biofuel
 Plant + Plant = Tree
 Fertilizer + Plant = Flower
 Plant + Rainbow = Flower Garden
-Plant + Joy = Flower
+Joy + Plant = Flower
 Fog + Plant = Moss
-Plant + Desert = Cactus
-Swamp + Plant = Mangrove
+Desert + Plant = Cactus
+Plant + Swamp = Mangrove

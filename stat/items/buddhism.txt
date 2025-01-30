@@ -8,5 +8,5 @@ Human + Meditation = Buddhism
 
 Usages:
 =======
-Human + Buddhism = Enlightenment
+Buddhism + Human = Enlightenment
 Buddhism + Magic Stone = Mantra

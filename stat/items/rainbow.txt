@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Sunflower + Rain = Rainbow
-Thunder + Fogbow = Rainbow
+Rain + Sunflower = Rainbow
+Fogbow + Thunder = Rainbow
 
 Usages:
 =======

@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Life + Ashes = Death
+Ashes + Life = Death
 
 Usages:
 =======
-Human + Death = Mortality
+Death + Human = Mortality

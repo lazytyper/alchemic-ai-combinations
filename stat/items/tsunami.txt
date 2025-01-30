@@ -9,7 +9,7 @@ Inferno + Ocean = Tsunami
 Usages:
 =======
 Air Quality + Tsunami = Disaster
-Tsunami + Disaster = Fukushima
-Tsunami + Dirt = Mudslide
-Tsunami + Godzilla = Destruction
+Disaster + Tsunami = Fukushima
+Dirt + Tsunami = Mudslide
+Godzilla + Tsunami = Destruction
 Ocean + Tsunami = Wave

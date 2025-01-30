@@ -9,4 +9,4 @@ Life Force + Time = Eternal Youth
 Usages:
 =======
 Baby + Eternal Youth = Fountain Of Youth
-Lox + Eternal Youth = Ambrosia
+Eternal Youth + Lox = Ambrosia

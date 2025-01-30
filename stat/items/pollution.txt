@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Smoke + Energy Production = Pollution
+Energy Production + Smoke = Pollution
 
 Usages:
 =======

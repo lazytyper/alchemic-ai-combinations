@@ -8,7 +8,7 @@ Community + Loneliness = Isolation
 
 Usages:
 =======
-Isolation + Greenhouse = Biodome
-Isolation + Flower = Solitude
+Greenhouse + Isolation = Biodome
+Flower + Isolation = Solitude
 Isolation + Rage = Solitude
 Human + Isolation = Loneliness

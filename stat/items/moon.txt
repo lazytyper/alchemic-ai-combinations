@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Sun + Night = Moon
+Night + Sun = Moon
 
 Usages:
 =======
-Sun + Moon = Eclipse
+Moon + Sun = Eclipse

@@ -4,11 +4,11 @@
 
 created by:
 ===========
-Wind + Weather = Storm
+Weather + Wind = Storm
 
 Usages:
 =======
 Island + Storm = Shipwreck
 Combustion + Storm = Firestorm
 Cloud + Storm = Thunderstorm
-Storm + Carbon Monoxide = Danger
+Carbon Monoxide + Storm = Danger

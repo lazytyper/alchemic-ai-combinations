@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Homo Sapiens + Charmander = Salamander
+Charmander + Homo Sapiens = Salamander
 
 Usages:
 =======

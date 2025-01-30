@@ -9,8 +9,8 @@ Pedal + Race = Bicycle
 
 Usages:
 =======
-Human + Bicycle = Cyclist
-Energy + Bicycle = Pedal
+Bicycle + Human = Cyclist
+Bicycle + Energy = Pedal
 Bicycle + Racecourse = Velodrome
 Bicycle + Racetrack = Velodrome
 Bicycle + Mountain = Mountainbike

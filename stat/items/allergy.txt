@@ -4,7 +4,7 @@
 
 created by:
 ===========
-Pollen + Human = Allergy
+Human + Pollen = Allergy
 
 Usages:
 =======

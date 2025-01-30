@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Myth + Legend = Hero
+Legend + Myth = Hero
 
 Usages:
 =======
-Human + Hero = Superman
+Hero + Human = Superman

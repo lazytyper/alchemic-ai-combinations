@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Mud + Energy = Fossil Fuel
+Energy + Mud = Fossil Fuel
 
 Usages:
 =======
-Human + Fossil Fuel = Carbon Emissions
+Fossil Fuel + Human = Carbon Emissions

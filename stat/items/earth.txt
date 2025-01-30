@@ -4,15 +4,17 @@
 
 created by:
 ===========
-Water + Blue Planet = Earth
+Blue Planet + Water = Earth
 
 Usages:
 =======
 Earth + Fire = Lava
 Earth + Fire = Volcano
 Earth + Mud = Soil
-Earth + Combustion = Volcano
-Earth + Atmosphere = Biosphere
+Combustion + Earth = Volcano
+Earth + Fire = Lava
+Earth + Fire = Volcano
+Atmosphere + Earth = Biosphere
 Earth + Life = Nature
 Earth + Earth = Planet
 Air + Earth = Dust
@@ -25,7 +27,9 @@ Earth + Sky = Horizon
 Earth + Paradise = Garden
 Earth + Earth + Fire = Magma
 Earth + Heaven = Paradise
-Earth + Battery = Electricity
+Battery + Earth = Electricity
+Earth + Eternity = Fossil
+Earth + Eternity = Time
 Earth + Eternity = Fossil
 Earth + Eternity = Time
 Air + Earth + Fire + Nature = Elements

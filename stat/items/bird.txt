@@ -4,9 +4,9 @@
 
 created by:
 ===========
-Evolution + Dinosaur = Bird
+Dinosaur + Evolution = Bird
 
 Usages:
 =======
-Fire + Bird = Phoenix
+Bird + Fire = Phoenix
 Bird + Bird = Phoenix

@@ -4,8 +4,8 @@
 
 created by:
 ===========
-Farmland + Drought = Desertification
+Drought + Farmland = Desertification
 
 Usages:
 =======
-Ecosystem + Desertification = Degradation
+Desertification + Ecosystem = Degradation
