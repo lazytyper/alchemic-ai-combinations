@@ -122,7 +122,7 @@ function addline(string) {
 function createHTML() {
     const itemIds = Object.keys(itemNames).sort().map(key => itemNames[key]);
     function ref(name) {
-        return '<a href="#' + name + '">' + name.split('_').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ') + '</a>';
+        return '<a href="#' + name + '">' + formatElement(name) + '</a>';
     }
     const preHTML = `
 <!DOCTYPE html>

@@ -8,3 +8,5 @@ Mermaid + Flower = Seaweed
 
 Usages:
 =======
+Lost City + Seaweed = Atlantis
+Fire + Seaweed = Kelpie

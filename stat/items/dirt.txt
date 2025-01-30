@@ -9,3 +9,4 @@ Oxygen + Mud = Dirt
 Usages:
 =======
 Tsunami + Dirt = Mudslide
+Gardening + Dirt = Planting

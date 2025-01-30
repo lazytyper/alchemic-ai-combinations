@@ -16,3 +16,4 @@ Motorcycle + Mountain = Dirtbike
 Mountain + Druid = Nature Guardian
 Mountain + Wave = Surfing
 Mountain + Diamond = Peak
+Mountain + Peak = Summit

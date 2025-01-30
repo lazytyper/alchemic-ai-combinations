@@ -9,3 +9,4 @@ Human + Pollination = Gardening
 Usages:
 =======
 Human + Gardening = Horticulture
+Gardening + Dirt = Planting

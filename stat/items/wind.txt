@@ -13,6 +13,7 @@ Nature + Wind = Tornado
 Wind + Samsara = Cyclone
 Wind + Pollen = Pollination
 Air + Wind = Atmosphere
+Air + Wind = Whirlwind
 Combustion + Wind = Turbine
 Wind + Weather = Storm
 Atmosphere + Wind = Weather

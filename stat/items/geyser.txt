@@ -10,3 +10,4 @@ Usages:
 =======
 Pottery + Geyser = Hot Spring
 Geyser + National Park = Yellowstone
+Island + Geyser = Iceland

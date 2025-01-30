@@ -1,12 +1,10 @@
 ==================================
-= Anger
+= Wall
 ==================================
 
 created by:
 ===========
-Hate + Hate = Anger
+Brick + Brick = Wall
 
 Usages:
 =======
-Human + Anger = Rage
-Anger + Anger = Rage

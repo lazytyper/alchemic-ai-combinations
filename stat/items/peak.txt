@@ -8,3 +8,4 @@ Mountain + Diamond = Peak
 
 Usages:
 =======
+Mountain + Peak = Summit

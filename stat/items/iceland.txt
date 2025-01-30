@@ -5,6 +5,7 @@
 created by:
 ===========
 Island + Geysers = Iceland
+Island + Geyser = Iceland
 
 Usages:
 =======

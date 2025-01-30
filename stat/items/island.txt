@@ -22,3 +22,4 @@ Island + Amphibian + Agribusiness = Frog Farm
 Island + Zeus = Olympus
 Island + Ship = Pirate
 Island + Pirate = Treasure
+Island + Geyser = Iceland

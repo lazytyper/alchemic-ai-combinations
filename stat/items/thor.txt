@@ -5,6 +5,7 @@
 created by:
 ===========
 Human + Lightning = Thor
+Lightning + Flash = Thor
 
 Usages:
 =======

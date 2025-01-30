@@ -63,3 +63,6 @@ Human + Teeth = Smile
 Human + Smile = Happiness
 Human + Vital Fluid = Blood
 Human + Blood = Vampire
+Human + Photoshop = Digital Art
+Human + Digital Art = Avatar
+Human + Butterfly = Metamorphosis

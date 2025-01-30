@@ -37,3 +37,5 @@ Fire + Dust = Ashes
 Fire + Coal = Diamond
 Fire + Smoke = Heat Wave
 Fire + Smoke = Bonfire
+Fire + Mud = Brick
+Fire + Seaweed = Kelpie

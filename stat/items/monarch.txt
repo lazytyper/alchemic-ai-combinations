@@ -11,3 +11,4 @@ Usages:
 Volcano + Monarch = Eruption
 Monarch + Cloud = Cloudberry
 Samsara + Monarch = Reincarnation
+Monarch + Metamorphosis = Butterfly

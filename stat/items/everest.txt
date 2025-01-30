@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Everest = Sherpa
 Everest + Risk-Taker = Adventurer
+Everest + Digital Art = Media Summit

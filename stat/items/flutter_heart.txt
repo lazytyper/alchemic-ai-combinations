@@ -1,12 +1,10 @@
 ==================================
-= Anger
+= Flutter Heart
 ==================================
 
 created by:
 ===========
-Hate + Hate = Anger
+Love + Butterfly = Flutter Heart
 
 Usages:
 =======
-Human + Anger = Rage
-Anger + Anger = Rage

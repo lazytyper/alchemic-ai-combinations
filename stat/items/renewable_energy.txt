@@ -11,3 +11,4 @@ Usages:
 =======
 Plant + Renewable Energy = Biofuel
 Wind + Renewable Energy = Solar Power
+Renewable Energy + Dragonair = Dragon Energy

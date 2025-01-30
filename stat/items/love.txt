@@ -17,3 +17,4 @@ Love + Witch = Potion
 Love + Catastrophe = Tragic Romance
 Love + Ash = Cinderella
 Love + Potion = Love Potion
+Love + Butterfly = Flutter Heart

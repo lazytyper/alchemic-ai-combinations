@@ -25,3 +25,4 @@ Ocean + Wind = Sailboat
 Ocean + Wind = Sailing
 Ocean + Fishing Boat = Fisherman
 Ocean + Fish = Shark
+Ocean + Digital Art = Seascape

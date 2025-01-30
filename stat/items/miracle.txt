@@ -9,3 +9,4 @@ God + Magic = Miracle
 Usages:
 =======
 Cinderella + Miracle = Fairy Tale
+Life + Miracle = Wonder

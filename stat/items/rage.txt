@@ -5,6 +5,7 @@
 created by:
 ===========
 Human + Anger = Rage
+Anger + Anger = Rage
 
 Usages:
 =======

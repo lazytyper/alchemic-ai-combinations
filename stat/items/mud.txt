@@ -19,3 +19,4 @@ Mud + Evolution = Amphibian
 Mud + Sun = Adobe
 Mud + Energy = Fossil Fuel
 Mud + Energy = Battery
+Fire + Mud = Brick

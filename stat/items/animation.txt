@@ -1,12 +1,11 @@
 ==================================
-= Anger
+= Animation
 ==================================
 
 created by:
 ===========
-Hate + Hate = Anger
+Shrek + Avatar = Animation
 
 Usages:
 =======
-Human + Anger = Rage
-Anger + Anger = Rage
+Adobe + Animation = Flash

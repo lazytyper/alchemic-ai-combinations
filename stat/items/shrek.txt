@@ -8,3 +8,4 @@ Life + Swamp = Shrek
 
 Usages:
 =======
+Shrek + Avatar = Animation

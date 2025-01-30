@@ -8,3 +8,4 @@ Marine Biologist + Atlantis = Lost City
 
 Usages:
 =======
+Lost City + Seaweed = Atlantis

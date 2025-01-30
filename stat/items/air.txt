@@ -19,6 +19,7 @@ Air + Earth = Dust
 Air + Dust = Pollen
 Air + Volcano = Smoke
 Air + Wind = Atmosphere
+Air + Wind = Whirlwind
 Air + Steam = Cloud
 Air + Atmosphere = Sky
 Air + Soil = Plants

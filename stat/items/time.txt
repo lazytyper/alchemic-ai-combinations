@@ -14,3 +14,4 @@ Time + Baby = Childhood
 Time + Compost = Fertilizer
 Life + Time = Existence
 Time + Plant Growth = Photosynthesis
+Life Force + Time = Eternam Youth
