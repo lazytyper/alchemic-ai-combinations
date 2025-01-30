@@ -9,3 +9,4 @@ Oceanic Paradise + Chernobyl = Underworld
 Usages:
 =======
 Human + Underworld = Hades
+Underworld + Plant Spirit = Shaman

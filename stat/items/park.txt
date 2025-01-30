@@ -1,11 +1,10 @@
 ==================================
-= Plant Spirit
+= Park
 ==================================
 
 created by:
 ===========
-Dryad + Terrarium = Plant Spirit
 
 Usages:
 =======
-Underworld + Plant Spirit = Shaman
+Firestorm + Park = Firefighter

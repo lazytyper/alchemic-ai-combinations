@@ -10,3 +10,4 @@ Cloud + Salamander = Firestorm
 Usages:
 =======
 Reincarnation + Firestorm = Phoenix
+Firestorm + Park = Firefighter

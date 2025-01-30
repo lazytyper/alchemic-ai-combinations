@@ -5,6 +5,7 @@
 created by:
 ===========
 Fertilizer + Plant = Flower
+Plant + Joy = Flower
 
 Usages:
 =======

@@ -561,3 +561,8 @@ dirt,gardening,planting
 lost_city,seaweed,atlantis
 seaweed,fire,kelpie
 dragonair,renewable_energy,dragon_energy
+plant,joy,flower
+firestorm,park,firefighter
+poseidon,wall,atlantis
+plant_spirit,underworld,shaman
+happiness,love,joy

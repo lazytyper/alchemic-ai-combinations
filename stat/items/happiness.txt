@@ -8,3 +8,4 @@ Human + Smile = Happiness
 
 Usages:
 =======
+Love + Happiness = Joy

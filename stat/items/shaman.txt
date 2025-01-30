@@ -1,11 +1,10 @@
 ==================================
-= Plant Spirit
+= Shaman
 ==================================
 
 created by:
 ===========
-Dryad + Terrarium = Plant Spirit
+Underworld + Plant Spirit = Shaman
 
 Usages:
 =======
-Underworld + Plant Spirit = Shaman
