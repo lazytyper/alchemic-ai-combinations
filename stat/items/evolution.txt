@@ -15,3 +15,4 @@ Fire + Evolution = Charizard
 Evolution + Human = Homo Sapiens
 Mud + Evolution = Amphibian
 Evolution + Smoke = Chimney
+Evolution + Dinosaur = Bird

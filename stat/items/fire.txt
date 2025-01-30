@@ -46,3 +46,4 @@ Fire + Tree = Ash
 Air + Earth + Fire + Nature = Elements
 Fire + Ghost = Poltergeist
 Fire + Fire Magic = Pyromancy
+Fire + Bird = Phoenix

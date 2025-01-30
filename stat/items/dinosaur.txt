@@ -1,12 +1,11 @@
 ==================================
-= Fossil
+= Dinosaur
 ==================================
 
 created by:
 ===========
-Earth + Eternity = Fossil
+Fossil + Fossil = Dinosaur
 
 Usages:
 =======
-Energy + Fossil = Coal
-Fossil + Fossil = Dinosaur
+Evolution + Dinosaur = Bird

@@ -762,3 +762,7 @@ immortality,contemplation,philosophy
 bicycle,rebirth,cycle
 chimney,e-bike,smokestack
 smokestack,pollution,emissions
+fossil,fossil,dinosaur
+dinosaur,evolution,bird
+bird,fire,phoenix
+bird,bird,phoenix

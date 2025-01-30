@@ -1,12 +1,12 @@
 ==================================
-= Fossil
+= Bird
 ==================================
 
 created by:
 ===========
-Earth + Eternity = Fossil
+Evolution + Dinosaur = Bird
 
 Usages:
 =======
-Energy + Fossil = Coal
-Fossil + Fossil = Dinosaur
+Fire + Bird = Phoenix
+Bird + Bird = Phoenix
