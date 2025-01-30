@@ -16,3 +16,5 @@ Human + Race = Runner
 Human + Race = Marathon
 Blue Planet + Race = Earthrace
 Race + Ship = Regatta
+Race + Speedboat = Powerboat
+Race + Swimmer = Triathlete

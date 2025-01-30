@@ -10,3 +10,4 @@ Usages:
 =======
 Forest + Ranger = National Park
 Ranger + Theme Park = Adventureland
+Ranger + Yellowstone = Smokey Bear

@@ -16,3 +16,4 @@ Love + Witch = Potion
 Witch + Potion = Magic Spell
 Witch + Gossip = Rumor
 Witch + Mangrove = Wisp
+Witch + Fire Magic = Firewitch

@@ -11,3 +11,4 @@ Usages:
 Sherpa + Sherpa = Mountaineer
 Stone + Sherpa = Mountain Guide
 Religion + Sherpa = Spiritual Guide
+Sherpa + Agrarian = Farm Guide

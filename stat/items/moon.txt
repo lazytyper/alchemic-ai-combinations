@@ -1,12 +1,11 @@
 ==================================
-= Immortility
+= Moon
 ==================================
 
 created by:
 ===========
-Life + Eternity = Immortility
+Sun + Night = Moon
 
 Usages:
 =======
-Human + Immortility = Vampire
-Immortility + Mortality = Life Cycle
+Sun + Moon = Eclipse

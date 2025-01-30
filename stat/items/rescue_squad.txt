@@ -8,3 +8,4 @@ Fire + Firefighter = Rescue Squad
 
 Usages:
 =======
+Kelpie + Rescue Squad = Water Rescue

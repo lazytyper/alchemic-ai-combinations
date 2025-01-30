@@ -14,3 +14,4 @@ Sun + Sky = Farmland
 Sun + Sky = Day
 Sky + Family = Constellation
 Sky + Environmental Activism = Blue Planet
+Solar System + Sky = Space

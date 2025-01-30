@@ -8,3 +8,4 @@ Botanist + Oasis = Plantation
 
 Usages:
 =======
+Fairy Godmother + Plantation = Magic Farm

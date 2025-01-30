@@ -10,3 +10,5 @@ Usages:
 =======
 Geyser + National Park = Yellowstone
 Sun + National Park = Hiking
+Archipelago + National Park = Nature Reserve
+Love + National Park = Yosemite

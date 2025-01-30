@@ -8,3 +8,4 @@ Soul + Spirit = Ghost
 
 Usages:
 =======
+Fire + Ghost = Poltergeist

@@ -9,3 +9,4 @@ Human + Underworld = Hades
 Usages:
 =======
 Tarzan + Hades = Underworld King
+Hades + Famine = Pluto

@@ -10,3 +10,4 @@ Usages:
 =======
 Island + Shipwreck = Survivor
 Jungle + Shipwreck = Tarzan
+Adobe + Shipwreck = Wreckage

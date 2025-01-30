@@ -44,3 +44,5 @@ Fire + Forest = Wildfire
 Fire + Trees = Wildfire
 Fire + Tree = Ash
 Air + Earth + Fire + Nature = Elements
+Fire + Ghost = Poltergeist
+Fire + Fire Magic = Pyromancy

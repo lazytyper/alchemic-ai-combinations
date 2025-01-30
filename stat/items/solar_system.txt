@@ -10,3 +10,4 @@ Usages:
 =======
 Solar System + Solar System = Galaxy
 Solar System + Universe = Cosmic Expanse
+Solar System + Sky = Space

@@ -9,3 +9,4 @@ Swamp + Plant = Mangrove
 Usages:
 =======
 Witch + Mangrove = Wisp
+Mangrove + Farm Guide = Eco-Tourism

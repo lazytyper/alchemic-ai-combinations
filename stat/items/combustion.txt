@@ -13,3 +13,4 @@ Combustion + Atmosphere = Fire
 Combustion + Wind = Turbine
 Combustion + Storm = Firestorm
 Combustion + Pebble = Fireplace
+Combustion + Sorcery = Fire Magic

@@ -1,0 +1,11 @@
+==================================
+= Swimmer
+==================================
+
+created by:
+===========
+Athlete + Waterplay = Swimmer
+
+Usages:
+=======
+Race + Swimmer = Triathlete

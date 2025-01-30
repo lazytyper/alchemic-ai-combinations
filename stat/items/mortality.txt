@@ -8,4 +8,4 @@ Human + Death = Mortality
 
 Usages:
 =======
-Immortility + Mortality = Life Cycle
+Immortality + Mortality = Life Cycle

@@ -21,3 +21,5 @@ Sun + Flower = Sunflower
 Fish + Sun = Sunset
 Sun + National Park = Hiking
 Sun + Political Corruption = Sunshine Law
+Sun + Night = Moon
+Sun + Moon = Eclipse

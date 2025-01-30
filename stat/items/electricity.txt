@@ -10,3 +10,5 @@ Usages:
 =======
 Human + Electricity = Lightning Person
 Bicycle + Electricity = E-Bike
+Catastrophe + Electricity = Blackout
+Electricity + Blackout = Power Outage

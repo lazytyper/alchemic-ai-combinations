@@ -12,3 +12,5 @@ Copycat + Ecosystem = Imitation
 Hurricane + Ecosystem = Disaster
 Ecosystem + Heat Wave = Drought
 Ecosystem + Desertification = Degradation
+Ecosystem + Wreckage = Biodegradation
+Ecosystem + Herbicide = Biodiversity Loss

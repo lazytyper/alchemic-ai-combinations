@@ -8,3 +8,4 @@ Cyclist + Scenery = Bicycle Tour
 
 Usages:
 =======
+Bicycle Tour + Love Forever = Maximum Hapiness

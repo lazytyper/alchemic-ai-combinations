@@ -14,3 +14,4 @@ Evil + Society = Corruption
 Society + Charizard = Dragon Cult
 Society + Hate = Dystopia
 Queen + Society = Monarchy
+Marine Sanctuary + Society = Ocean Community

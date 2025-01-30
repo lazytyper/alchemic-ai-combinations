@@ -9,3 +9,4 @@ Perspective + Evil Twin = Moral Ambiguity
 Usages:
 =======
 Bribery + Moral Ambiguity = Political Corruption
+Wildfire + Moral Ambiguity = Forest Fire

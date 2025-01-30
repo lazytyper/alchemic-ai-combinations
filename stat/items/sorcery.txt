@@ -9,3 +9,4 @@ Magic + Magic = Sorcery
 Usages:
 =======
 Garden + Sorcery = Herbology
+Combustion + Sorcery = Fire Magic

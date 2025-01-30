@@ -8,3 +8,4 @@ Ship + Pirate = Captain Hook
 
 Usages:
 =======
+Captain Hook + Peter Pan = Neverland

@@ -11,3 +11,5 @@ Usages:
 Skycycle + Day = Daydream
 Reflection + Day = Contemplation
 Day + Media Summit = Daydream
+Day + Day = Night
+Day + Night = 24 Hours

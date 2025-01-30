@@ -11,3 +11,4 @@ Fire + Trees = Wildfire
 Usages:
 =======
 Wildfire + Firefighter = Smokejumper
+Wildfire + Moral Ambiguity = Forest Fire

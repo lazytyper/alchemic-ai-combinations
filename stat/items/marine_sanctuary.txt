@@ -9,3 +9,4 @@ Mermaid + Aquatic Garden = Marine Sanctuary
 Usages:
 =======
 Marine Sanctuary + Pandora = Oceanic Paradise
+Marine Sanctuary + Society = Ocean Community

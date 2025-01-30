@@ -9,3 +9,4 @@ Hope + Dice = Chance
 Usages:
 =======
 Arrow + Chance = Dartboard
+Chance + Haunting = Ghost Story

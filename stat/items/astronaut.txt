@@ -1,0 +1,11 @@
+==================================
+= Astronaut
+==================================
+
+created by:
+===========
+Human + Space = Astronaut
+
+Usages:
+=======
+Astronaut + Astronaut = Spacewalk

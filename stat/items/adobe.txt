@@ -11,3 +11,4 @@ Usages:
 Life + Adobe = Creative Suite
 Sun + Adobe = Mudbrick
 Adobe + Animation = Flash
+Adobe + Shipwreck = Wreckage

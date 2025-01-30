@@ -9,3 +9,4 @@ Island + Island = Archipelago
 Usages:
 =======
 Archipelago + Lovebirds = Island Romance
+Archipelago + National Park = Nature Reserve

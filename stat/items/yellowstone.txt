@@ -9,3 +9,4 @@ Geyser + National Park = Yellowstone
 Usages:
 =======
 Human + Yellowstone = Tourist Attraction
+Ranger + Yellowstone = Smokey Bear

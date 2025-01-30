@@ -10,3 +10,4 @@ Usages:
 =======
 Copycat + Contemplation = Mimicry
 Milky Way + Contemplation = Stargazing
+Contemplation + Immortality = Philosophy

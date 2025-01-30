@@ -8,3 +8,4 @@ Fire + Seaweed = Kelpie
 
 Usages:
 =======
+Kelpie + Rescue Squad = Water Rescue

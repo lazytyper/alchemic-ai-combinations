@@ -10,3 +10,4 @@ Usages:
 =======
 Love + Catastrophe = Tragic Romance
 Catastrophe + Drought = Famine
+Catastrophe + Electricity = Blackout
