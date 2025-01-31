@@ -12,3 +12,5 @@ Evil + Snow White = Queen
 Evil + Society = Corruption
 Evil + Love = Hate
 Evil + Firebender = Firelord
+Animation + Evil = Maleficent
+Evil + Human = Villain

@@ -1,10 +1,12 @@
 ==================================
-= Supid
+= Batman
 ==================================
 
 created by:
 ===========
+Bat + Human = Batman
 
 Usages:
 =======
-Love + Supid = Eros
+Batman + Dystopia = Gotham
+Batman + Batman = Bruce Wayne

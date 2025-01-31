@@ -9,3 +9,4 @@ Plant Spirit + Underworld = Shaman
 Usages:
 =======
 Mountain + Shaman = Sacred Site
+Shaman + Shaman = Witch Doctor

@@ -10,6 +10,4 @@ Usages:
 =======
 Sailboat + Sailboat = Yacht
 Sailboat + Sailboat = Fleet
-Sailboat + Sailboat = Yacht
-Sailboat + Sailboat = Fleet
 Flash + Sailboat = Speedboat

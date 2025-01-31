@@ -10,3 +10,4 @@ Usages:
 =======
 Crop Damage + Life Force = Blight
 Crop Damage + Dystopia = Wasteland
+Crop Damage + Shadow Self = Shadow Work

@@ -1,12 +1,11 @@
 ==================================
-= Bonfire
+= Mansion
 ==================================
 
 created by:
 ===========
-Fire + Smoke = Bonfire
+House + Wax Figure = Mansion
 
 Usages:
 =======
-Bonfire + Bonfire = Flame Princess
-Bonfire + Glass = Lantern
+Human + Mansion = Butler

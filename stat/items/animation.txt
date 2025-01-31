@@ -12,3 +12,6 @@ Adobe + Animation = Flash
 Animation + Throne = Animatron
 Animation + Constellation = Starry Night
 Animation + Sustainability = Green Films
+Animation + Evil = Maleficent
+Animation + Rainbow Frog = Kermit
+Animation + Candle = Wax Figure

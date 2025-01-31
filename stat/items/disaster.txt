@@ -18,6 +18,4 @@ Disaster + Dystopia = Catastrophe
 Creative Suite + Disaster = Design Failure
 Disaster + Photoshop = Crisis Art
 Disaster + Photoshop = Fiasco
-Disaster + Photoshop = Crisis Art
-Disaster + Photoshop = Fiasco
 Disaster + Powerboat = Capsize

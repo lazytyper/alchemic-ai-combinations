@@ -11,8 +11,6 @@ Usages:
 =======
 Magic + Magic = Sorcery
 Magic + Magic = Wizard
-Magic + Magic = Sorcery
-Magic + Magic = Wizard
 God + Magic = Miracle
 Human + Magic = Sorcerer
 Magic + Religion = Ritual

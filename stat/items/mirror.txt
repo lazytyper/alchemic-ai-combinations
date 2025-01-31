@@ -5,6 +5,7 @@
 created by:
 ===========
 Obsidian + Obsidian = Mirror
+Glass + Glass = Mirror
 
 Usages:
 =======

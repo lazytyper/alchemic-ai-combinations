@@ -9,3 +9,4 @@ Hercules + Park = Heroics
 Usages:
 =======
 Heroics + Queen = Wonder Woman
+Heroics + Motorcycle = Legends

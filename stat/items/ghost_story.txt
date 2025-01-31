@@ -8,3 +8,4 @@ Chance + Haunting = Ghost Story
 
 Usages:
 =======
+Ghost Story + Jupiter = Haunted Planet

@@ -12,5 +12,3 @@ Human + Photoshop = Digital Art
 Media Summit + Photoshop = Design Conference
 Disaster + Photoshop = Crisis Art
 Disaster + Photoshop = Fiasco
-Disaster + Photoshop = Crisis Art
-Disaster + Photoshop = Fiasco

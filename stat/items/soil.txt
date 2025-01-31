@@ -15,5 +15,3 @@ Fertilizer + Soil = Plant Growth
 Air + Soil = Plants
 Perspective + Soil = Landscape
 Eco-Friendly + Soil = Compost
-Fertilizer + Soil = Plant
-Fertilizer + Soil = Plant Growth

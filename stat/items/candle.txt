@@ -1,12 +1,12 @@
 ==================================
-= Bonfire
+= Candle
 ==================================
 
 created by:
 ===========
-Fire + Smoke = Bonfire
+Enlightenment + Fire = Candle
+Fire + Glass = Candle
 
 Usages:
 =======
-Bonfire + Bonfire = Flame Princess
-Bonfire + Glass = Lantern
+Animation + Candle = Wax Figure

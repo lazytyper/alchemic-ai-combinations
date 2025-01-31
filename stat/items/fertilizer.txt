@@ -12,6 +12,4 @@ Usages:
 Fertilizer + Soil = Plant
 Fertilizer + Soil = Plant Growth
 Fertilizer + Plant = Flower
-Fertilizer + Soil = Plant
-Fertilizer + Soil = Plant Growth
 Fertilizer + Magic Stone = Growth Potion

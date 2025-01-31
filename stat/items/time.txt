@@ -11,8 +11,6 @@ Usages:
 Human + Time = History
 Baby + Time = Infant Mortality
 Baby + Time = Childhood
-Baby + Time = Infant Mortality
-Baby + Time = Childhood
 Compost + Time = Fertilizer
 Life + Time = Existence
 Plant Growth + Time = Photosynthesis

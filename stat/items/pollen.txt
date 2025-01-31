@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Pollen = Allergy
 Pollen + Wind = Pollination
+Nature Reserve + Pollen = Biodiversity

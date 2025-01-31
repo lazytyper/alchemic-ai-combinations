@@ -39,7 +39,10 @@ function addCombination(names, resultName) {
     }
     let keyItems2 = Array.from(new Set(keyIds));
     for (let key of keyItems2) {
-        items[key].use.push(combinationKey);
+        const use = items[key].use;
+        if (!use.includes(combinationKey)) {
+            items[key].use.push(combinationKey);
+        }
     }
     items[resultId].create.push(combinationKey);
 }

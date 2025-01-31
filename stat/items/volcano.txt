@@ -20,7 +20,5 @@ Monarch + Volcano = Eruption
 Air + Volcano = Smoke
 Steam + Volcano = Hot Springs
 Cloud + Volcano = Ash
-Ocean + Volcano = Lava Lamp
-Ocean + Volcano = Lava Wave
 Agriculture + Volcano = Fertile Soil
 Nature Worship + Volcano = Pele

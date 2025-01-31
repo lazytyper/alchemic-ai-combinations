@@ -1,12 +1,13 @@
 ==================================
-= Bonfire
+= Glass
 ==================================
 
 created by:
 ===========
-Fire + Smoke = Bonfire
+Fire + Sand = Glass
 
 Usages:
 =======
-Bonfire + Bonfire = Flame Princess
+Glass + Glass = Mirror
 Bonfire + Glass = Lantern
+Fire + Glass = Candle

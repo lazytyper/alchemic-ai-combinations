@@ -11,3 +11,4 @@ Blood + Human = Vampire
 Usages:
 =======
 Vampire + Vampire = Dracula
+Air + Vampire = Bat

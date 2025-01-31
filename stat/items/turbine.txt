@@ -12,3 +12,4 @@ Pottery + Turbine = Vase
 Turbine + Vase = Windflower
 Fire + Turbine = Power Plant
 Air + Energy + Turbine = Wind Power
+Turbine + Yoga = Wind Flow

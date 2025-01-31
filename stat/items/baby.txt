@@ -10,7 +10,6 @@ Usages:
 =======
 Baby + Time = Infant Mortality
 Baby + Time = Childhood
-Baby + Time = Infant Mortality
-Baby + Time = Childhood
 Baby + Eternal Youth = Fountain Of Youth
 Baby + Wreckage = Dollhouse
+Baby + Growth Potion = Instant Formula

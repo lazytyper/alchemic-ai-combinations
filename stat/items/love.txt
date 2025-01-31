@@ -10,6 +10,7 @@ Usages:
 =======
 Cupid + Love = Arrow
 Cupid + Love = Matchmaker
+Cupid + Love = Eros
 Love + Religion = Marriage
 Castaway + Love = Loneliness
 Life + Love = Romance
@@ -20,11 +21,8 @@ Ash + Love = Cinderella
 Love + Potion = Love Potion
 Butterfly + Love = Flutter Heart
 Happiness + Love = Joy
-Cupid + Love = Arrow
-Cupid + Love = Matchmaker
 God + Love = Eros
 Hate + Love = Conflict
 Love + Mermaids = Ariel
 Love + National Park = Yosemite
 Love + Seagull = Wings
-Love + Supid = Eros

@@ -1,12 +1,11 @@
 ==================================
-= Bonfire
+= Dinosaurs
 ==================================
 
 created by:
 ===========
-Fire + Smoke = Bonfire
+Jurassic Park + Ranger = Dinosaurs
 
 Usages:
 =======
-Bonfire + Bonfire = Flame Princess
-Bonfire + Glass = Lantern
+Dinosaurs + Painting = Dino Art

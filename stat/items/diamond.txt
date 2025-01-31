@@ -6,6 +6,7 @@ created by:
 ===========
 Coal + Fire = Diamond
 Coal + Coal = Diamond
+Air + Stone = Diamond
 
 Usages:
 =======

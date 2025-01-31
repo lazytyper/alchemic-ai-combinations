@@ -10,3 +10,4 @@ Usages:
 =======
 Yoga = Turbine.wind Flow
 Spell + Yoga = Spellcasting
+Turbine + Yoga = Wind Flow

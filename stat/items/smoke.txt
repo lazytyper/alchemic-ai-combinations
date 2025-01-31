@@ -16,6 +16,4 @@ Nymph + Smoke = Mistress
 Lox + Smoke = Salmon
 Fire + Smoke = Heat Wave
 Fire + Smoke = Bonfire
-Fire + Smoke = Heat Wave
-Fire + Smoke = Bonfire
 Energy Production + Smoke = Pollution

@@ -1,12 +1,11 @@
 ==================================
-= Bonfire
+= Sand
 ==================================
 
 created by:
 ===========
-Fire + Smoke = Bonfire
+Air + Stone = Sand
 
 Usages:
 =======
-Bonfire + Bonfire = Flame Princess
-Bonfire + Glass = Lantern
+Fire + Sand = Glass

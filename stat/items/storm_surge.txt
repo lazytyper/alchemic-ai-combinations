@@ -9,3 +9,4 @@ Tsunami + Windbreak = Storm Surge
 Usages:
 =======
 Climate Change + Storm Surge = Flood
+Storm Surge + Storm Surge = Flood Wave

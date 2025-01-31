@@ -1,12 +1,12 @@
 ==================================
-= Bonfire
+= Wax Figure
 ==================================
 
 created by:
 ===========
-Fire + Smoke = Bonfire
+Animation + Candle = Wax Figure
 
 Usages:
 =======
-Bonfire + Bonfire = Flame Princess
-Bonfire + Glass = Lantern
+House + Wax Figure = Mansion
+Legends + Wax Figure = Madame Tussauds

@@ -10,3 +10,4 @@ Usages:
 =======
 Faith + Jupiter = Zeus
 Jupiter + Jupiter = Gas Giant
+Ghost Story + Jupiter = Haunted Planet

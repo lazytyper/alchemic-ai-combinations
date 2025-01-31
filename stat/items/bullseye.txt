@@ -10,6 +10,4 @@ Usages:
 =======
 Bullseye + Legend = Daredevil
 Bullseye + Legend = Robin Hood
-Bullseye + Legend = Daredevil
-Bullseye + Legend = Robin Hood
 Bullseye + Cyberpunk = Targeting

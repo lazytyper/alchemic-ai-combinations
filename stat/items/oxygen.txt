@@ -15,6 +15,4 @@ Mud + Oxygen = Soil
 Fire + Oxygen = Combustion
 Climate Change + Oxygen = Global Warming
 Nature + Oxygen = Trees
-Mud + Oxygen = Dirt
-Mud + Oxygen = Soil
 Flash + Oxygen = Spark

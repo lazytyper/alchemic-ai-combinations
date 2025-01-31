@@ -6,6 +6,7 @@ created by:
 ===========
 Stone + Stone = Rock
 Hard Place + Human = Rock
+Air + Stone = Rock
 
 Usages:
 =======

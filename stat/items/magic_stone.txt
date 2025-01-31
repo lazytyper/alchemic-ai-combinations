@@ -10,3 +10,4 @@ Usages:
 =======
 Buddhism + Magic Stone = Mantra
 Fertilizer + Magic Stone = Growth Potion
+Magic Stone + Nature Reserve = Enchanted Forest

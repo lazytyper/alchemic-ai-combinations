@@ -1,12 +1,11 @@
 ==================================
-= Bonfire
+= Bat
 ==================================
 
 created by:
 ===========
-Fire + Smoke = Bonfire
+Air + Vampire = Bat
 
 Usages:
 =======
-Bonfire + Bonfire = Flame Princess
-Bonfire + Glass = Lantern
+Bat + Human = Batman

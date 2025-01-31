@@ -13,3 +13,4 @@ Motorcycle + Racecourse = Racetrack
 Motorcycle + Mountain = Dirtbike
 Anarchy + Motorcycle = Outlaw
 Motorcycle + Sound = Vroom
+Heroics + Motorcycle = Legends

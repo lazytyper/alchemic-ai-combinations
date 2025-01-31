@@ -11,8 +11,6 @@ Usages:
 Human + Legend = Hercules
 Bullseye + Legend = Daredevil
 Bullseye + Legend = Robin Hood
-Bullseye + Legend = Daredevil
-Bullseye + Legend = Robin Hood
 Arrow + Legend = Robinhood
 Legend + Legend = Mythology
 Legend + Myth = Hero

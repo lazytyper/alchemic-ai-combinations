@@ -9,3 +9,4 @@ Art + Landscape = Painting
 Usages:
 =======
 Human + Painting = Mona Lisa
+Dinosaurs + Painting = Dino Art
