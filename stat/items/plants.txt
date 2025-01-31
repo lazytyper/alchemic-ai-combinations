@@ -9,3 +9,4 @@ Air + Soil = Plants
 Usages:
 =======
 Plants + Vase = Flower Arrangement
+Plants + Sand = Cactus Desert

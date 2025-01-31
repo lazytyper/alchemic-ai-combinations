@@ -8,7 +8,8 @@ Marriage + Soulmate = Partner
 
 Usages:
 =======
-Partner + Soulmate = Spouse
 Batman + Partner = Robin
 Aphrodite + Partner = Eros
 Bond + Partner = Couple
+Partner + Soulmate = Spouse
+Blood + Partner = Bloodline

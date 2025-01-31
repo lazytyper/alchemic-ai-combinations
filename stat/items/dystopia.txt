@@ -18,3 +18,4 @@ Dystopia + Hunger Games = Oppression
 Dystopia + Surveillance = 1984
 Batman + Dystopia = Gotham
 Dystopia + Oxygen = Ecology
+Blackout + Dystopia = Collapse

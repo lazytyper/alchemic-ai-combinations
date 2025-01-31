@@ -37,3 +37,4 @@ Air + Stone = Rock
 Air + Stone = Diamond
 Air + Beauty = Fairy
 Air + Charmander = Smogon
+Air + Philosophy = Ethics

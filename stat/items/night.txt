@@ -11,3 +11,5 @@ Usages:
 Day + Night = 24 Hours
 Night + Sun = Moon
 Night + Yosemite = Moonlight
+Civil Rights + Night = Freedom Song
+Night + Sky = Midnight

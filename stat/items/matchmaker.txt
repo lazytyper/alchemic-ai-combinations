@@ -9,3 +9,5 @@ Cupid + Love = Matchmaker
 Usages:
 =======
 Druid + Matchmaker = Love Spell
+Fire Lizard + Matchmaker = Dragon
+Matchmaker + Playdate = Party

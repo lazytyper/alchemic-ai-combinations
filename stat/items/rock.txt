@@ -21,3 +21,5 @@ Love + Rock = Heartache
 Heart + Rock = Heartstone
 Heart + Love + Rock = Rockstar
 Rock + Titanic = Iceberg
+Rock + Rock + Rock + Rock = Mount Rushmore
+Rock + Rock + Rock + Rock = Mountain

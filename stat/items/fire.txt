@@ -53,3 +53,4 @@ Enlightenment + Fire = Buddhism
 Enlightenment + Fire = Candle
 Fire + Sand = Glass
 Fire + Glass = Candle
+Dragon + Fire = Dragonfire

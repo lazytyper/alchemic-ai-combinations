@@ -9,3 +9,4 @@ Fog + Plant = Moss
 Usages:
 =======
 Agriculture + Moss = Terrarium
+Moss + Moss + Moss = Peat Bog

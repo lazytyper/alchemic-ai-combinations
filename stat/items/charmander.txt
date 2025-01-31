@@ -16,3 +16,4 @@ Charmander + Love = Passion
 Animal + Charmander = Pokemon
 Air + Charmander = Smogon
 Charmander + Pokemon = Fire Lizard
+Charmander + Fireplace = Ember

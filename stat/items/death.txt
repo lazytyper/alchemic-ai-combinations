@@ -18,3 +18,4 @@ Death + Death + Death + Death = Ruin
 Death + Death + Death + Death = Darkness
 Death + Rock = Gravedigger
 Death + Gravedigger = Gravekeeper
+Buddhism + Death = Nirvana

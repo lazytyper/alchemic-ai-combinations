@@ -10,3 +10,4 @@ Usages:
 =======
 Rose + Water = Rosewater
 Fairy Tale + Rose = Beauty
+Bouquet + Rose = Flower Shop

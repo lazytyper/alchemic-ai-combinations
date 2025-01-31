@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Jaws = Teeth
 Jaws + Road Trip = Sharknado
+Jaws + Targeting = Shark

@@ -10,3 +10,4 @@ Usages:
 =======
 Cloudscape + Kingdom = Skyland
 Kingdom + Life = Animal
+Bird + Kingdom = Animalia

@@ -10,3 +10,4 @@ Air + Beauty = Fairy
 Usages:
 =======
 Fairy + Healing Ceremony = Wishcraft
+Fairy + Fairy Tale = Pixie Dust

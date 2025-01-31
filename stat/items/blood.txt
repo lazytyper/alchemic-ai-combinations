@@ -10,3 +10,5 @@ Usages:
 =======
 Blood + Dracula = Vampire
 Blood + Human = Vampire
+Blood + Partner = Bloodline
+Biology + Blood = Anatomy

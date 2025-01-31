@@ -9,3 +9,4 @@ Air + Stone = Sand
 Usages:
 =======
 Fire + Sand = Glass
+Plants + Sand = Cactus Desert

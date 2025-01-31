@@ -5,6 +5,7 @@
 created by:
 ===========
 Fish + Ocean = Shark
+Jaws + Targeting = Shark
 
 Usages:
 =======

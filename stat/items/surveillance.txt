@@ -9,3 +9,4 @@ Human + Spycam = Surveillance
 Usages:
 =======
 Dystopia + Surveillance = 1984
+Love + Surveillance = Obsession

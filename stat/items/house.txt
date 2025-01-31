@@ -23,3 +23,4 @@ House + Poker Chip = Casino
 Gambler + House = Casino
 Gambling + House = Casino
 Heartbreak + House = Boarded Up
+Coziness + House = Homeyness

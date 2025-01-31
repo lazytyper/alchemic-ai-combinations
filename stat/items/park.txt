@@ -13,3 +13,4 @@ Hercules + Park = Heroics
 Mist + Park = Mystery
 Echo + Park = Soundpark
 Love + Park = Romantic Stroll
+Fireplace + Park = Fire Pit

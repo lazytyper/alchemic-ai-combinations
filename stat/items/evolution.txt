@@ -16,5 +16,6 @@ Evolution + Human = Homo Sapiens
 Evolution + Mud = Amphibian
 Evolution + Smoke = Chimney
 Dinosaur + Evolution = Bird
+Dinosaur + Evolution = Prehistoric Adaption
 Evolution + Paradise Lost = Darwin
 Evolution + Life = Biology

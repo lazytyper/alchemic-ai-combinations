@@ -10,3 +10,5 @@ Usages:
 =======
 Human + Space = Astronaut
 Space + Spacewalk = Extravehicular
+Enterprise + Space = Star Trek
+Air Force + Space = Spacelink

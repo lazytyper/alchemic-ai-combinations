@@ -13,3 +13,4 @@ Air + Beauty = Fairy
 Beauty + Phoenix = Firebird
 Beauty + Time = Age
 Beauty + Perfume = Fragrance
+Beauty + Obsession = Vanity

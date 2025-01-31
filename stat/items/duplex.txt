@@ -9,3 +9,4 @@ House + House = Duplex
 Usages:
 =======
 Duplex + Smoke = Smokebox
+Aquarium + Duplex = Fish House

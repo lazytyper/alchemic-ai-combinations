@@ -10,3 +10,7 @@ Usages:
 =======
 Fireplace + Fish = Smoked Salmon
 Fireplace + Gandalf = Wizardry
+Charmander + Fireplace = Ember
+Fireplace + Park = Fire Pit
+Fireplace + Romance = Coziness
+Coziness + Fireplace = Warmth

@@ -11,3 +11,4 @@ Usages:
 Energy + Power = Force
 Human + Power = Leader
 Athlete + Power = Champion
+Flower + Power = Blossom

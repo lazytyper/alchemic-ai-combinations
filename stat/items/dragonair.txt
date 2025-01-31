@@ -9,3 +9,4 @@ Atmosphere + Dragonwood = Dragonair
 Usages:
 =======
 Dragonair + Renewable Energy = Dragon Energy
+Airship + Dragonair = Dragonsphere

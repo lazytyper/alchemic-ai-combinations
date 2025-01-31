@@ -9,3 +9,4 @@ Catastrophe + Electricity = Blackout
 Usages:
 =======
 Blackout + Electricity = Power Outage
+Blackout + Dystopia = Collapse

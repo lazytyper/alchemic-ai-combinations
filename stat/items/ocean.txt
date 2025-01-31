@@ -31,3 +31,4 @@ Ocean + Swimmer = Dolphin
 Bird + Ocean = Seagull
 Lifeguard + Ocean = Beach
 Lotus + Ocean = Waterlily
+Blossom + Ocean = Seashell

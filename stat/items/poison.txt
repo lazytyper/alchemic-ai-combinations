@@ -15,3 +15,4 @@ Poison + Spirit = Venom
 Poison + Venom = Toxin
 Poison + Robin = Poisonous Bird
 Plant + Poison = Nightshade
+Poison + Soulmate = Toxic Love
