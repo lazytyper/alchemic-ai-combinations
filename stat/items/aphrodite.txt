@@ -13,3 +13,4 @@ Aphrodite + Love Potion = Cupid
 Aphrodite + Fireball = Love Potion
 Aphrodite + Thunder = Love Storm
 Aphrodite + Zeus = Hera
+Aphrodite + Partner = Eros

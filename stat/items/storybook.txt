@@ -10,3 +10,4 @@ Usages:
 =======
 Marvel + Storybook = Fairytale
 Adobe + Storybook = Illustration
+Poet + Storybook = Verse

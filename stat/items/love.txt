@@ -51,3 +51,6 @@ Love + Ring = Engagement
 Elvis Presley + Love = Heartbreak Hotel
 Disaster + Love = Tragicomedy
 Love + Proposal = Engagement Ring
+Love + Park = Romantic Stroll
+Charmander + Love = Passion
+Love + Partnership = Relationship

@@ -1,12 +1,11 @@
 ==================================
-= Bond
+= Verse
 ==================================
 
 created by:
 ===========
-Family + Love = Bond
+Poet + Storybook = Verse
 
 Usages:
 =======
-Bond + Love = Relationship
-Bond + Partner = Couple
+Poet + Verse = Poetry

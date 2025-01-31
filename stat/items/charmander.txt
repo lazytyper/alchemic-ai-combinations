@@ -12,3 +12,7 @@ Usages:
 Charmander + Homo Sapiens = Salamander
 Charmander + Cloudscape = Fire Sky
 Charmander + Compost = Charcoal
+Charmander + Love = Passion
+Animal + Charmander = Pokemon
+Air + Charmander = Smogon
+Charmander + Pokemon = Fire Lizard

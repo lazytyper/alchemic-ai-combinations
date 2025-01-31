@@ -9,3 +9,5 @@ Night + Yosemite = Moonlight
 Usages:
 =======
 Herbalist + Moonlight = Sorceress
+Heart + Moonlight = Dreams
+Moonlight + Romantic Stroll = Moonlit Walk

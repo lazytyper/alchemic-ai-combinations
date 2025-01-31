@@ -13,3 +13,4 @@ Animal + Coconut = Monkey
 Animal + Jungle = Tiger
 Animal + Farm = Livestock
 Animal + Rainbow = Unicorn
+Animal + Charmander = Pokemon

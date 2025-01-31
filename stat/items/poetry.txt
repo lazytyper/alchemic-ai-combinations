@@ -1,12 +1,12 @@
 ==================================
-= Bond
+= Poetry
 ==================================
 
 created by:
 ===========
-Family + Love = Bond
+Poet + Verse = Poetry
 
 Usages:
 =======
-Bond + Love = Relationship
-Bond + Partner = Couple
+Poetry + Romance = Sonnet
+Poetry + Speech = Rheotric

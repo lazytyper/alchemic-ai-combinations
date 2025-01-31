@@ -1,12 +1,11 @@
 ==================================
-= Bond
+= Pokemon
 ==================================
 
 created by:
 ===========
-Family + Love = Bond
+Animal + Charmander = Pokemon
 
 Usages:
 =======
-Bond + Love = Relationship
-Bond + Partner = Couple
+Charmander + Pokemon = Fire Lizard

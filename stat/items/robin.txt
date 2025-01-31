@@ -5,6 +5,7 @@
 created by:
 ===========
 Bird + Treehouse = Robin
+Batman + Partner = Robin
 
 Usages:
 =======

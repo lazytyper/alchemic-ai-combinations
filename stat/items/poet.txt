@@ -9,3 +9,5 @@ Human + Romanticism = Poet
 Usages:
 =======
 Love + Poet = Sonnet
+Poet + Storybook = Verse
+Poet + Verse = Poetry
