@@ -19,3 +19,5 @@ Plant + Swamp = Mangrove
 Hard Place + Plant = Rockrose
 Plant + Sustainability = Green Living
 Beach + Plant = Palm Tree
+Plant + Poison = Nightshade
+Love + Plant = Rose

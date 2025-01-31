@@ -9,3 +9,4 @@ Athlete + Power = Champion
 Usages:
 =======
 Champion + Race = Winner
+Apocalypse + Champion = Apocalypso

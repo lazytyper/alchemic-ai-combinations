@@ -21,3 +21,4 @@ Egg + Time = Omelette
 Blight + Time = Timeworn
 Grim Reaper + Time = Death Clock
 Death Clock + Time = Countdown Timer
+Chalk + Time = Chalkboard

@@ -13,3 +13,4 @@ Eternity + Heaven = Afterlife
 Earth + Heaven = Paradise
 Heaven + Hurricane = Windsong
 Heaven + Society = Utopia
+Athlete + Heaven = Olympian

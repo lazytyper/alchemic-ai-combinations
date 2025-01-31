@@ -9,3 +9,4 @@ Extraction + Weather = Harvest
 Usages:
 =======
 Harvest + Palm Tree = Coconut
+Harvest + Orchard = Tractor

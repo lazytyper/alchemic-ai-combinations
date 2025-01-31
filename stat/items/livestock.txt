@@ -1,0 +1,12 @@
+==================================
+= Livestock
+==================================
+
+created by:
+===========
+Animal + Farm = Livestock
+
+Usages:
+=======
+Egg + Livestock = Chicken
+Farmer + Livestock = Cattle Ranger

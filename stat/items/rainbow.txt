@@ -10,3 +10,4 @@ Fogbow + Thunder = Rainbow
 Usages:
 =======
 Plant + Rainbow = Flower Garden
+Animal + Rainbow = Unicorn

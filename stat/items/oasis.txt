@@ -14,3 +14,4 @@ Usages:
 Marsupilami + Oasis = Desert
 Botanist + Oasis = Plantation
 Oasis + Steam = Sauna
+Bicycle Tour + Oasis = Desert Ride

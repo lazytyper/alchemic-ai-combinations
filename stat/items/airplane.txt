@@ -1,0 +1,11 @@
+==================================
+= Airplane
+==================================
+
+created by:
+===========
+Wing + Wing = Airplane
+
+Usages:
+=======
+Airplane + Disaster = Crash

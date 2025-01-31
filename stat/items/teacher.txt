@@ -1,0 +1,12 @@
+==================================
+= Teacher
+==================================
+
+created by:
+===========
+Chalkboard + Human = Teacher
+
+Usages:
+=======
+House + Teacher = School
+School + Teacher = Classroom

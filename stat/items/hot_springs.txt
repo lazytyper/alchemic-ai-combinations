@@ -9,3 +9,4 @@ Steam + Volcano = Hot Springs
 Usages:
 =======
 Ecosystem + Hot Springs = Geothermal Field
+Aquaman + Hot Springs = Waterman

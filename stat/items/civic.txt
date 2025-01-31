@@ -9,3 +9,4 @@ Human + Palindrome = Civic
 Usages:
 =======
 Civic + Race = Civil Rights
+Civic + Love = Civility

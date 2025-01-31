@@ -11,3 +11,5 @@ Usages:
 Animal + Human = Centaur
 Animal + Coconut = Monkey
 Animal + Jungle = Tiger
+Animal + Farm = Livestock
+Animal + Rainbow = Unicorn

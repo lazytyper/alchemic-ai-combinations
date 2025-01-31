@@ -11,3 +11,4 @@ Usages:
 Glass + Glass = Mirror
 Bonfire + Glass = Lantern
 Fire + Glass = Candle
+Glass + Rosewater = Perfume

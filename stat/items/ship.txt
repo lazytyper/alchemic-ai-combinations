@@ -13,3 +13,5 @@ Pirate + Ship = Blackbeard
 Pirate + Ship = Captain
 Pirate + Ship = Captain Hook
 Race + Ship = Regatta
+Mariner + Ship = Sailor
+Iceberg + Ship = Titanic

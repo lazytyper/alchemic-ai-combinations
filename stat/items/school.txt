@@ -1,0 +1,12 @@
+==================================
+= School
+==================================
+
+created by:
+===========
+House + Teacher = School
+
+Usages:
+=======
+School + Teacher = Classroom
+House + School = Education

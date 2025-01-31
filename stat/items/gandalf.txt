@@ -9,3 +9,4 @@ Enlightenment + Wizard = Gandalf
 Usages:
 =======
 Fireplace + Gandalf = Wizardry
+Gandalf + Love = Wizards

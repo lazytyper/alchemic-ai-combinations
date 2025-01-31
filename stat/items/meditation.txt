@@ -9,3 +9,4 @@ Human + Silence = Meditation
 Usages:
 =======
 Human + Meditation = Buddhism
+Meditation + Muad'dib = Mindfulness

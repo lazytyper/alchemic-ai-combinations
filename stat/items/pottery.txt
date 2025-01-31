@@ -13,3 +13,5 @@ Pottery + Turbine = Vase
 Biosphere + Pottery = Clay Soil
 Geyser + Pottery = Hot Spring
 Cloud + Pottery = Vase
+Pottery + Steam = Ceramics
+Pottery + Water = Clay Pot

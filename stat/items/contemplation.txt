@@ -11,3 +11,4 @@ Usages:
 Contemplation + Copycat = Mimicry
 Contemplation + Milky Way = Stargazing
 Contemplation + Immortality = Philosophy
+Contemplation + Nascar = Mind Racing

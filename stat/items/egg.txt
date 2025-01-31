@@ -10,3 +10,4 @@ Usages:
 =======
 Egg + Time = Omelette
 Egg + Egg = Omelette
+Egg + Livestock = Chicken

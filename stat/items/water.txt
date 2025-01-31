@@ -19,3 +19,6 @@ Desert + Water = Oasis
 Firefighter + Water = Fire Hose
 Drought + Water = Thirst
 Thirst + Water = Hydration
+Rose + Water = Rosewater
+Calcium Carbonate + Water = Chalk
+Pottery + Water = Clay Pot

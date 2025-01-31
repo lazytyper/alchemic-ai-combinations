@@ -16,3 +16,4 @@ Bird + Freedom = Eagle
 Bird + Ocean = Seagull
 Bird + Tornado = Twister
 Aquarius + Bird = Birdman
+Bird + Scarecrow = Feather

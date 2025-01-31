@@ -11,3 +11,4 @@ Usages:
 Sailboat + Sailboat = Yacht
 Sailboat + Sailboat = Fleet
 Flash + Sailboat = Speedboat
+Fisherman + Sailboat = Mariner

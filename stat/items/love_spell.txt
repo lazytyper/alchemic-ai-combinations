@@ -8,3 +8,4 @@ Druid + Matchmaker = Love Spell
 
 Usages:
 =======
+Human + Love Spell = Enchantment

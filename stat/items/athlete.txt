@@ -16,3 +16,4 @@ Athlete + Driver = Racer
 Athlete + Vampire Hero = Blade
 Athlete + Chariot = Charioteer
 Athlete + Power = Champion
+Athlete + Heaven = Olympian

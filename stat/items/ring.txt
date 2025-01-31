@@ -9,3 +9,4 @@ Diamond + Marriage = Ring
 Usages:
 =======
 Marriage + Ring = Wedding Band
+Love + Ring = Engagement

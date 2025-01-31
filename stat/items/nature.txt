@@ -24,3 +24,4 @@ Nature + Spirit = Druid
 Nature + Oxygen = Trees
 Garden + Nature = Park
 Air + Earth + Fire + Nature = Elements
+Love + Nature = Romanticism

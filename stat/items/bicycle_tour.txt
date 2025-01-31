@@ -9,3 +9,4 @@ Cyclist + Scenery = Bicycle Tour
 Usages:
 =======
 Bicycle Tour + Love Forever = Maximum Happiness
+Bicycle Tour + Oasis = Desert Ride

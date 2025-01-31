@@ -9,3 +9,4 @@ Dollhouse + Happiness = Playhouse
 Usages:
 =======
 Childhood + Playhouse = Treehouse
+Love + Playhouse = Playdate

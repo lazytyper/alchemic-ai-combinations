@@ -9,3 +9,4 @@ Air + Vampire = Bat
 Usages:
 =======
 Bat + Human = Batman
+Bat + Lifeguard = Vampire Hunter

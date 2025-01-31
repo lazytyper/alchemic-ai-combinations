@@ -1,0 +1,13 @@
+==================================
+= Iceberg
+==================================
+
+created by:
+===========
+Rock + Titanic = Iceberg
+
+Usages:
+=======
+Iceberg + Ship = Titanic
+Crash + Iceberg = Titanic
+Iceberg + Iceberg = Titanic

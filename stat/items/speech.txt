@@ -10,3 +10,4 @@ Usages:
 =======
 Speech + Tarzan = Elephant Communication
 Global Warming + Speech = Climate Talk
+Human + Speech = Language

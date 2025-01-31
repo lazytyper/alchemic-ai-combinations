@@ -1,0 +1,11 @@
+==================================
+= Mariner
+==================================
+
+created by:
+===========
+Fisherman + Sailboat = Mariner
+
+Usages:
+=======
+Mariner + Ship = Sailor

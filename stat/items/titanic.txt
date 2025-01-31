@@ -1,0 +1,15 @@
+==================================
+= Titanic
+==================================
+
+created by:
+===========
+Crash + Steamship = Titanic
+Disaster + Steamship = Titanic
+Iceberg + Ship = Titanic
+Crash + Iceberg = Titanic
+Iceberg + Iceberg = Titanic
+
+Usages:
+=======
+Rock + Titanic = Iceberg

@@ -19,3 +19,5 @@ Creative Suite + Disaster = Design Failure
 Disaster + Photoshop = Crisis Art
 Disaster + Photoshop = Fiasco
 Disaster + Powerboat = Capsize
+Airplane + Disaster = Crash
+Disaster + Steamship = Titanic

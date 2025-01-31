@@ -10,3 +10,4 @@ Usages:
 =======
 Farmer + Garden = Crop Yield
 Farmer + Farming = Agriculture
+Farmer + Livestock = Cattle Ranger

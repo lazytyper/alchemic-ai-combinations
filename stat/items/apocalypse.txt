@@ -11,3 +11,4 @@ Usages:
 Apocalypse + Time = End Times
 Apocalypse + Monarchy = Feudalism
 Apocalypse + Lava Flow = Doomsday
+Apocalypse + Champion = Apocalypso

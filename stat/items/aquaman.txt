@@ -9,3 +9,4 @@ Neptune + Spellcasting = Aquaman
 Usages:
 =======
 Aquaman + Tree Spirit = Ent
+Aquaman + Hot Springs = Waterman

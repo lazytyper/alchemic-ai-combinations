@@ -9,3 +9,5 @@ Diamond + Human = Engagement Ring
 Usages:
 =======
 Engagement Ring + Human = Proposal
+Engagement Ring + Love = Proposal
+Engagement + Engagement Ring = Proposal

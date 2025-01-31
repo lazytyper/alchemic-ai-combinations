@@ -9,3 +9,4 @@ Rescue Squad + Swimmer = Lifeguard
 Usages:
 =======
 Lifeguard + Ocean = Beach
+Bat + Lifeguard = Vampire Hunter

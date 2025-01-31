@@ -9,3 +9,4 @@ Daytona + Race = Nascar
 Usages:
 =======
 Nascar + Race = Driver
+Contemplation + Nascar = Mind Racing

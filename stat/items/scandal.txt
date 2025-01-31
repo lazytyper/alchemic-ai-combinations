@@ -8,3 +8,4 @@ Corruption + Gossip = Scandal
 
 Usages:
 =======
+Love + Scandal = Love Affair

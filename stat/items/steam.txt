@@ -16,3 +16,5 @@ Steam + Volcano = Hot Springs
 Landscape + Steam = Geysers
 Oasis + Steam = Sauna
 Poisonous Bird + Steam = Extraction
+Pottery + Steam = Ceramics
+Castaway + Steam = Steamship
