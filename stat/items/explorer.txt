@@ -10,3 +10,5 @@ Adventure + Human = Explorer
 Usages:
 =======
 Explorer + History = Adventure
+Archipelago + Explorer = Magellan
+Everest + Explorer = Hillary

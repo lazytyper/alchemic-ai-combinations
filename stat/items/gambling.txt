@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Human + Dice = Gambling
+Dice + Human = Gambling
 
 Usages:
 =======
+Gambling + Gemstone = Poker Chip

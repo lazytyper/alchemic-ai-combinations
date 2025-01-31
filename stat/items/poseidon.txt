@@ -10,3 +10,4 @@ Usages:
 =======
 Poseidon + View = Ocean Vista
 Poseidon + Wall = Atlantis
+Neptune + Poseidon = Trident

@@ -1,0 +1,11 @@
+==================================
+= Monkey
+==================================
+
+created by:
+===========
+Animal + Coconut = Monkey
+
+Usages:
+=======
+Monkey + Monkey = Chimpanzee

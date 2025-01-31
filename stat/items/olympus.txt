@@ -11,3 +11,5 @@ Usages:
 =======
 Aquarium + Olympus = Poseidon
 Olympus + Olympus = Mountain
+Centaur + Olympus = Chiron
+Olympus + Racecourse = Chariot

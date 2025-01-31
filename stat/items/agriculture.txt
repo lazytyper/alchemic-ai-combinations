@@ -13,3 +13,4 @@ Usages:
 Agriculture + Desentization = Farm Therapy
 Agriculture + Volcano = Fertile Soil
 Agriculture + Moss = Terrarium
+Agriculture + Drought = Irrigation

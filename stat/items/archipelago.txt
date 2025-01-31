@@ -11,3 +11,4 @@ Usages:
 Archipelago + Lovebirds = Island Romance
 Archipelago + National Park = Nature Reserve
 Archipelago + Copycat = Imitator
+Archipelago + Explorer = Magellan

@@ -10,3 +10,4 @@ Usages:
 =======
 Astronaut + Astronaut = Spacewalk
 Astronaut + Hell = Void
+Astronaut + Spacecraft = Neil Armstrong

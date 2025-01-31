@@ -10,3 +10,4 @@ Usages:
 =======
 Fake Flower + Vampire Bat = Blood Rose
 Vampire Bat + Wildfire = Firebat
+Catastrophe + Vampire Bat = Bloodsucker

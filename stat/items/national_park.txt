@@ -12,3 +12,4 @@ Geyser + National Park = Yellowstone
 National Park + Sun = Hiking
 Archipelago + National Park = Nature Reserve
 Love + National Park = Yosemite
+Fiasco + National Park = Disaster Area

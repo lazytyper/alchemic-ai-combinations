@@ -9,3 +9,4 @@ Planet + Wave = Neptune
 Usages:
 =======
 Neptune + Spellcasting = Aquaman
+Neptune + Poseidon = Trident

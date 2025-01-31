@@ -8,3 +8,4 @@ Fire + Smoke = Bonfire
 
 Usages:
 =======
+Bonfire + Bonfire = Flame Princess

@@ -9,3 +9,4 @@ Racer + Racer = Racecar
 Usages:
 =======
 Racecar + Racecar = Palindrome
+Lotus + Racecar = Elise

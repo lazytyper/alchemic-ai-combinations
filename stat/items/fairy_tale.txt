@@ -11,3 +11,4 @@ Usages:
 =======
 Fairy Tale + Loneliness = Happily Ever After
 Fairy Tale + Landscape = Storybook
+Fairy Tale + Grimm = Cinderella

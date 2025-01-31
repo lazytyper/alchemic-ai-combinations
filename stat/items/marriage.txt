@@ -9,3 +9,6 @@ Love + Religion = Marriage
 Usages:
 =======
 Life + Marriage = Family
+Diamond + Marriage = Ring
+Marriage + Ring = Wedding Band
+Marriage + Marriage = Union

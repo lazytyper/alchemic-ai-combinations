@@ -9,3 +9,5 @@ Kingdom + Life = Animal
 Usages:
 =======
 Animal + Human = Centaur
+Animal + Coconut = Monkey
+Animal + Jungle = Tiger

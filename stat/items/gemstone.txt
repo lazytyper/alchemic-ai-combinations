@@ -8,3 +8,4 @@ Duplicate + Rock = Gemstone
 
 Usages:
 =======
+Gambling + Gemstone = Poker Chip

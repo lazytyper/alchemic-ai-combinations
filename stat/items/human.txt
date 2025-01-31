@@ -93,3 +93,6 @@ Animal + Human = Centaur
 Human + Trombone = Saxophonist
 Elixir Of Immortality + Human = Philosopher's Stone
 Human + Spycam = Surveillance
+Human + Realism = Art
+Grim Reaper + Human = Death
+Human + Painting = Mona Lisa

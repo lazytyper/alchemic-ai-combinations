@@ -32,3 +32,4 @@ Air + Wind = Atmosphere
 Air + Wind = Whirlwind
 Air + Energy + Turbine = Wind Power
 Air + Earth + Fire + Nature = Elements
+Air + Brick = House

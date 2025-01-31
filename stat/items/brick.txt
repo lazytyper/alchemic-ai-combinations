@@ -9,3 +9,4 @@ Fire + Mud = Brick
 Usages:
 =======
 Brick + Brick = Wall
+Air + Brick = House

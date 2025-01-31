@@ -9,3 +9,5 @@ Driver + Milky Way = Spacecraft
 Usages:
 =======
 Dorian Gray + Spacecraft = Eternal Voyage
+Astronaut + Spacecraft = Neil Armstrong
+Moon + Spacecraft = Lunar Module

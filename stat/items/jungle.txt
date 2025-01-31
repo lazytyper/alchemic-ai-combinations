@@ -16,3 +16,4 @@ Jungle + Nature Guardian = Tarzan
 Elephant Communication + Jungle = Trumpet Vine
 Human + Jungle = Tarzan
 Jungle + Poison = Snake
+Animal + Jungle = Tiger

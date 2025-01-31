@@ -1,0 +1,12 @@
+==================================
+= Centaur
+==================================
+
+created by:
+===========
+Animal + Human = Centaur
+
+Usages:
+=======
+Centaur + Olympus = Chiron
+Centaur + Centaur = Sagittarius

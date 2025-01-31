@@ -9,3 +9,7 @@ Night + Sun = Moon
 Usages:
 =======
 Moon + Sun = Eclipse
+Moon + Neil Armstrong = Apollo 11
+Apollo 11 + Moon = Lunar Landing
+Moon + Spacecraft = Lunar Module
+Moon + Moon = Lunar Eclipse

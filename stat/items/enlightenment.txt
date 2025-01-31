@@ -10,3 +10,12 @@ Usages:
 =======
 Enlightenment + Wizard = Gandalf
 Earth + Enlightenment = Zen
+Enlightenment + Fire = Buddha
+Enlightenment + Fire = Buddhism
+Enlightenment + Fire = Candle
+Enlightenment + Fire = Buddha
+Enlightenment + Fire = Buddhism
+Enlightenment + Fire = Candle
+Enlightenment + Fire = Buddha
+Enlightenment + Fire = Buddhism
+Enlightenment + Fire = Candle

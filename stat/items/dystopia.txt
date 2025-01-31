@@ -17,3 +17,4 @@ Athlete + Dystopia = Survivor
 Crop Damage + Dystopia = Wasteland
 Dystopia + Reality Show = Hunger Games
 Dystopia + Hunger Games = Oppression
+Dystopia + Surveillance = 1984
