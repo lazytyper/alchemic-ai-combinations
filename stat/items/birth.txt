@@ -9,3 +9,4 @@ Human + Life Cycle = Birth
 Usages:
 =======
 Birth + Human = Baby
+Birth + Cosplay = Costume Party

@@ -16,3 +16,4 @@ Bird + Treehouse = Robin
 Bird + Treehouse = Nest
 Bird + Freedom = Eagle
 Bird + Ocean = Seagull
+Bird + Tornado = Twister

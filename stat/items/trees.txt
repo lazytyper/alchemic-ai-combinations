@@ -9,3 +9,4 @@ Nature + Oxygen = Trees
 Usages:
 =======
 Fire + Trees = Wildfire
+Mimicry + Trees = Camouflage

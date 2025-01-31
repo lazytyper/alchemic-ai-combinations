@@ -9,3 +9,4 @@ Obsidian + Spell = Magic Stone
 Usages:
 =======
 Buddhism + Magic Stone = Mantra
+Fertilizer + Magic Stone = Growth Potion

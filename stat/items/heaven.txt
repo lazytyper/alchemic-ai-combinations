@@ -12,3 +12,4 @@ Heaven + Life = Paradise
 Eternity + Heaven = Afterlife
 Earth + Heaven = Paradise
 Heaven + Hurricane = Windsong
+Heaven + Society = Utopia

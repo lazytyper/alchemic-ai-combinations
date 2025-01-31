@@ -11,3 +11,4 @@ Usages:
 Weather + Wind = Storm
 Imitation + Weather = Climate Change
 Water + Weather = Rain
+Extraction + Weather = Harvest

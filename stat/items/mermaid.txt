@@ -13,3 +13,4 @@ Aquatic Garden + Mermaid = Marine Sanctuary
 Flower + Mermaid = Seaweed
 Mermaid + Sharknado = Merman
 Mermaid + Merman = Merfolk
+Clownfish + Mermaid = Aqualad

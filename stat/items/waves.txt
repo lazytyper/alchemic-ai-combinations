@@ -9,3 +9,4 @@ Ocean + Wind = Waves
 Usages:
 =======
 Waves + Waves = Ocean
+Sorceress + Waves = Sea Witch

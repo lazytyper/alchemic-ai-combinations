@@ -10,3 +10,4 @@ Usages:
 =======
 Steam Room + Sweat Lodge = Sauna
 Fish + Steam Room = Sushi Bar
+Destruction + Steam Room = Steam Explosion

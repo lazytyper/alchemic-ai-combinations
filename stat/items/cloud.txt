@@ -15,3 +15,4 @@ Cloud + Volcano = Ash
 Cloud + Storm = Thunderstorm
 Cloud + Pottery = Vase
 Cloud + Mangrove = Cloudforest
+Cloud + Combustion = Smog

@@ -8,3 +8,4 @@ Arrow + Legend = Robinhood
 
 Usages:
 =======
+Illustration + Robinhood = Cartoon

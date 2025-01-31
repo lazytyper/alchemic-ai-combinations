@@ -16,3 +16,4 @@ Bullseye + Legend = Robin Hood
 Arrow + Legend = Robinhood
 Legend + Legend = Mythology
 Legend + Myth = Hero
+Desentization + Legend = Mythos

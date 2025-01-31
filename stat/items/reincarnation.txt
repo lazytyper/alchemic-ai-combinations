@@ -6,6 +6,7 @@ created by:
 ===========
 Lava Lamp + Life = Reincarnation
 Monarch + Samsara = Reincarnation
+Dust + Samsara = Reincarnation
 
 Usages:
 =======
@@ -13,3 +14,4 @@ Life + Reincarnation = Samsara
 Reincarnation + Sauna = Sweat Lodge
 Planet + Reincarnation = Marsupilami
 Firestorm + Reincarnation = Phoenix
+Hell + Reincarnation = Purgatory

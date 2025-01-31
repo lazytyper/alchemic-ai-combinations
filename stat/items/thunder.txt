@@ -13,3 +13,4 @@ Silence + Thunder = Whisper
 Thunder + Thunder = Lightning
 Fogbow + Thunder = Rainbow
 Aphrodite + Thunder = Love Storm
+Greenpeace + Thunder = Stormwatch

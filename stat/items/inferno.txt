@@ -10,3 +10,4 @@ Usages:
 =======
 Inferno + Ocean = Tsunami
 Inferno + Planet = Venus
+Energy + Inferno = Thermal Power

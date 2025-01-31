@@ -9,3 +9,4 @@ Creative Suite + Disaster = Design Failure
 Usages:
 =======
 Design Failure + Mirror = Reflection Error
+Design Failure + Treasure = Found Object

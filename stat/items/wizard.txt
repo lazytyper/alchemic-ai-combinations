@@ -10,3 +10,4 @@ Usages:
 =======
 Wizard + Wizard = Merlin
 Enlightenment + Wizard = Gandalf
+Catastrophe + Wizard = Cataclysm

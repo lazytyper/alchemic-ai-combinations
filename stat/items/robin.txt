@@ -10,3 +10,4 @@ Usages:
 =======
 Nest + Robin = Egg
 Clay + Robin = Claymation
+Poison + Robin = Poisonous Bird

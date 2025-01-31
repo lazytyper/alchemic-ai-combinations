@@ -9,3 +9,4 @@ Ocean + Wind = Sailing
 Usages:
 =======
 Angler + Sailing = Fishing Boat
+Mudpot + Sailing = Mudslide

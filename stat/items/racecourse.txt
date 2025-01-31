@@ -11,3 +11,5 @@ Usages:
 Bicycle + Racecourse = Velodrome
 Motorcycle + Racecourse = Racetrack
 Racecourse + Vampire Hero = Blood Sport
+Racecourse + Sustainable Farming = Farm-To-Table
+Coal + Racecourse = Cinder Track

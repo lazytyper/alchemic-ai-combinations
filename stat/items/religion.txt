@@ -18,3 +18,4 @@ Druid + Religion = Nature Worship
 Religion + Sherpa = Spiritual Guide
 Magma Lamp + Religion = Spiritual Glow
 Crewmate + Religion = Meme
+Magic + Religion = Ritual

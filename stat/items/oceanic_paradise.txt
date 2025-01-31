@@ -11,3 +11,4 @@ Usages:
 Chernobyl + Oceanic Paradise = Underworld
 Corruption + Oceanic Paradise = Coral Reef
 Oceanic Paradise + Twilight = Coral Reef
+Fireball + Oceanic Paradise = Beach Party

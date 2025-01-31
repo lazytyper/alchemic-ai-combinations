@@ -9,3 +9,4 @@ Gossip + Witch = Rumor
 Usages:
 =======
 Charcoal + Rumor = Smoke Signal
+Earthquake + Rumor = Tremor

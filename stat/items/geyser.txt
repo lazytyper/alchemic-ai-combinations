@@ -11,3 +11,4 @@ Usages:
 Geyser + Pottery = Hot Spring
 Geyser + National Park = Yellowstone
 Geyser + Island = Iceland
+Clay + Geyser = Mudpot

@@ -11,3 +11,4 @@ Usages:
 Horticulture + Mermaid = Aquatic Garden
 Castaway + Horticulture = Island Garden
 Cinderella + Horticulture = Garden Fairy
+Horticulture + Timeworn = Garden History

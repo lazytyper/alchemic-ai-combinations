@@ -9,3 +9,5 @@ Druid + Herbology = Herbalist
 Usages:
 =======
 Death Blossom + Herbalist = Herbicide
+Ghost + Herbalist = Spiritual Healer
+Herbalist + Moonlight = Sorceress

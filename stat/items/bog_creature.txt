@@ -8,3 +8,4 @@ Life + Swamp = Bog Creature
 
 Usages:
 =======
+Bog Creature + Joy = Swamp Monster

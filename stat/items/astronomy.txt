@@ -9,3 +9,4 @@ Stargazing + Universe = Astronomy
 Usages:
 =======
 Astronomy + Universe = Cosmology
+Astronomy + Purgatory = Celestial Realm

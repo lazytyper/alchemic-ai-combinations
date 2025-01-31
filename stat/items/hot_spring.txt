@@ -9,3 +9,4 @@ Geyser + Pottery = Hot Spring
 Usages:
 =======
 Hot Spring + Milky Way = Galaxy
+Fairytale + Hot Spring = Fairy Spring

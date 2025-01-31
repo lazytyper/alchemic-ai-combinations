@@ -10,3 +10,4 @@ Usages:
 =======
 Aphrodite + Fireball = Love Potion
 Elephant Communication + Fireball = Thunderstorm
+Fireball + Oceanic Paradise = Beach Party

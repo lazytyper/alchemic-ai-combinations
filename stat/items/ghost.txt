@@ -10,3 +10,4 @@ Usages:
 =======
 Fire + Ghost = Poltergeist
 Ghost + Hopeful Cynicism = Ghostwriter
+Ghost + Herbalist = Spiritual Healer

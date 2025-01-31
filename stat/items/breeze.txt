@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Wind + Seascape = Breeze
+Seascape + Wind = Breeze
 
 Usages:
 =======
+Breeze + Skyland = Airship

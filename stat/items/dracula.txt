@@ -10,3 +10,4 @@ Usages:
 =======
 Blood + Dracula = Vampire
 Dracula + Lightning = Vampire Bat
+Dracula + Windflower = Bloodroot

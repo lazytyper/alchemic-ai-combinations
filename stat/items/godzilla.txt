@@ -12,3 +12,5 @@ Disaster + Godzilla = Chaos
 Godzilla + Tsunami = Destruction
 Godzilla + Hulk = Kaiju
 Godzilla + Hunger Games = Monster Games
+Godzilla + Mudshow = Monster Truck
+Godzilla + Miracle = Monstrosity

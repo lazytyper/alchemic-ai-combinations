@@ -8,3 +8,5 @@ Human + Monster Suit = Cosplay
 
 Usages:
 =======
+Cosplay + Desentization = Exposure Therapy
+Birth + Cosplay = Costume Party

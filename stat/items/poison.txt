@@ -13,3 +13,4 @@ Jungle + Poison = Snake
 Fake Flower + Poison = Death Blossom
 Poison + Spirit = Venom
 Poison + Venom = Toxin
+Poison + Robin = Poisonous Bird

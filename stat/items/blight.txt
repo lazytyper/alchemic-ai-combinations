@@ -9,3 +9,4 @@ Crop Damage + Life Force = Blight
 Usages:
 =======
 Blight + Time = Timeworn
+Blight + Potion = Plague

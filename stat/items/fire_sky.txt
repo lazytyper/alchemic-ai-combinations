@@ -8,3 +8,4 @@ Charmander + Cloudscape = Fire Sky
 
 Usages:
 =======
+Fire Sky + Mudskipper = Firefly

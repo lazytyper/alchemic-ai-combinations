@@ -9,3 +9,4 @@ Druid + Fairy Circle = Nature Magic
 Usages:
 =======
 Dryad + Nature Magic = Tree Spirit
+Nature Magic + Toxin = Poison Ivy

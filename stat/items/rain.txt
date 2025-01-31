@@ -9,3 +9,4 @@ Water + Weather = Rain
 Usages:
 =======
 Rain + Sunflower = Rainbow
+Gossip + Rain = Drizzle

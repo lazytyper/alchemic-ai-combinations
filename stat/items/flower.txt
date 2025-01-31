@@ -12,3 +12,4 @@ Usages:
 Flower + Sun = Sunflower
 Flower + Isolation = Solitude
 Flower + Mermaid = Seaweed
+Flower + Life = Lotus

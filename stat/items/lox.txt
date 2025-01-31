@@ -10,3 +10,4 @@ Usages:
 =======
 Lox + Smoke = Salmon
 Eternal Youth + Lox = Ambrosia
+Lox + Mudshow = Clownfish

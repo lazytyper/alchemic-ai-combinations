@@ -12,3 +12,4 @@ God + View = Deity
 God + Thunder = Zeus
 God + Magic = Miracle
 God + Love = Eros
+God + Hopeful Cynicism = Cosmic Irony

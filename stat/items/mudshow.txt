@@ -9,3 +9,5 @@ Mudslide + Reality Show + Replica = Mudshow
 Usages:
 =======
 Mudshow + Peak = Circus
+Godzilla + Mudshow = Monster Truck
+Lox + Mudshow = Clownfish

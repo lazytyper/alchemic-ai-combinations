@@ -14,3 +14,4 @@ Dirt + Tsunami = Mudslide
 Godzilla + Tsunami = Destruction
 Ocean + Tsunami = Wave
 Tsunami + Windbreak = Storm Surge
+Desentization + Tsunami = Wave Therapy

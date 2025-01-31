@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Zeus + Sculpture = Statue
+Sculpture + Zeus = Statue
 
 Usages:
 =======
+Eternal Youth + Statue = Dorian Gray

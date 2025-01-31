@@ -17,3 +17,4 @@ Fog + Plant = Moss
 Desert + Plant = Cactus
 Plant + Swamp = Mangrove
 Hard Place + Plant = Rockrose
+Plant + Sustainability = Green Living

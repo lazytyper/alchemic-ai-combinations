@@ -11,3 +11,4 @@ Usages:
 Mudskipper + Mudskipper = Fish
 Mudskipper + Sushi = Sushiroll
 Mudskipper + Replica = Motorcycle
+Fire Sky + Mudskipper = Firefly

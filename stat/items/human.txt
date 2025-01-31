@@ -89,3 +89,7 @@ Activism + Human = Protest
 Human + Libertarianism = Freedom
 Freedom + Human = Rights
 Ghostwriter + Human = Author
+Animal + Human = Centaur
+Human + Trombone = Saxophonist
+Elixir Of Immortality + Human = Philosopher's Stone
+Human + Spycam = Surveillance

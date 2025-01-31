@@ -10,3 +10,5 @@ Usages:
 =======
 Deity + Hell = Satan
 Hell + Jungle Tribe = Demonic Ritual
+Astronaut + Hell = Void
+Hell + Reincarnation = Purgatory

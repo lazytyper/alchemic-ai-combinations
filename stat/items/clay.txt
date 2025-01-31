@@ -12,3 +12,4 @@ Clay + Nature = Pottery
 Clay + Fire = Pottery
 Breath + Clay = Sculpture
 Clay + Robin = Claymation
+Clay + Geyser = Mudpot

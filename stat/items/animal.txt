@@ -1,0 +1,11 @@
+==================================
+= Animal
+==================================
+
+created by:
+===========
+Kingdom + Life = Animal
+
+Usages:
+=======
+Animal + Human = Centaur

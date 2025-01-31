@@ -9,3 +9,4 @@ Hurricane + Vase = Windbreak
 Usages:
 =======
 Tsunami + Windbreak = Storm Surge
+Frog + Windbreak = Tadpole

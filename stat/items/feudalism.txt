@@ -9,3 +9,4 @@ Apocalypse + Monarchy = Feudalism
 Usages:
 =======
 Arrow + Feudalism = Archery
+Eclipse + Feudalism = Dark Ages

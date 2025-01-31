@@ -9,3 +9,4 @@ Turbine + Vase = Windflower
 Usages:
 =======
 Nature + Windflower = Anemone
+Dracula + Windflower = Bloodroot

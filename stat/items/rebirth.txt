@@ -9,3 +9,4 @@ Frog Farm + Phoenix = Rebirth
 Usages:
 =======
 Bicycle + Rebirth = Cycle
+Potion + Rebirth = Elixir Of Immortality

@@ -10,3 +10,4 @@ Usages:
 =======
 Fire + Fire Magic = Pyromancy
 Fire Magic + Witch = Firewitch
+Fire Magic + Theme Park = Fireworks

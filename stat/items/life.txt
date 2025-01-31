@@ -77,3 +77,5 @@ Lava Lamp + Life = Volcanic Eruption
 Life + Time = Existence
 Life + Miracle = Wonder
 Desert + Life = Oasis
+Kingdom + Life = Animal
+Flower + Life = Lotus

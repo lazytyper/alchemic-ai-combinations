@@ -17,3 +17,4 @@ Energy + Mud = Fossil Fuel
 Energy + Mud = Battery
 Energy + Fossil = Coal
 Air + Energy + Turbine = Wind Power
+Energy + Inferno = Thermal Power

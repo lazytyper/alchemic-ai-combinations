@@ -10,3 +10,5 @@ Usages:
 =======
 Firestorm + Park = Firefighter
 Hercules + Park = Heroics
+Mist + Park = Mystery
+Echo + Park = Soundpark

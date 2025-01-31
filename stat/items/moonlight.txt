@@ -8,3 +8,4 @@ Night + Yosemite = Moonlight
 
 Usages:
 =======
+Herbalist + Moonlight = Sorceress

@@ -9,3 +9,4 @@ Dust + Fire = Ashes
 Usages:
 =======
 Ashes + Life = Death
+Ashes + Elements = Alchemy

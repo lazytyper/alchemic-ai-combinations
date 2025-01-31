@@ -5,6 +5,7 @@
 created by:
 ===========
 Dirt + Tsunami = Mudslide
+Mudpot + Sailing = Mudslide
 
 Usages:
 =======

@@ -15,3 +15,4 @@ Adobe + Shipwreck = Wreckage
 Adobe + Antidote = Mortar
 Adobe + Planet = Mars
 Adobe + Storybook = Illustration
+Adobe + Fireworks = Luminaria

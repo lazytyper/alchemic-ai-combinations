@@ -9,3 +9,4 @@ Human + Space = Astronaut
 Usages:
 =======
 Astronaut + Astronaut = Spacewalk
+Astronaut + Hell = Void

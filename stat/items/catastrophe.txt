@@ -11,3 +11,4 @@ Usages:
 Catastrophe + Love = Tragic Romance
 Catastrophe + Drought = Famine
 Catastrophe + Electricity = Blackout
+Catastrophe + Wizard = Cataclysm

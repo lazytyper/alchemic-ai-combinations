@@ -13,3 +13,4 @@ Hurricane + Mist = Fog
 Mist + Mud = Swamp
 Air + Mist = Fog
 Mist + Photosynthesis = Fogbow
+Mist + Park = Mystery

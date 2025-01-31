@@ -4,7 +4,8 @@
 
 created by:
 ===========
-Religion + Druid = Nature Worship
+Druid + Religion = Nature Worship
 
 Usages:
 =======
+Nature Worship + Volcano = Pele

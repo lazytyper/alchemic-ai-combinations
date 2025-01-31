@@ -9,3 +9,5 @@ Blight + Time = Timeworn
 Usages:
 =======
 Hope + Timeworn = Nostalgia
+Horticulture + Timeworn = Garden History
+Photosynthesis + Timeworn = Ancient Energy

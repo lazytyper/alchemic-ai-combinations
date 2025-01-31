@@ -9,3 +9,4 @@ Garden + Jungle Ride = Theme Park
 Usages:
 =======
 Ranger + Theme Park = Adventureland
+Fire Magic + Theme Park = Fireworks

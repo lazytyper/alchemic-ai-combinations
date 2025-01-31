@@ -15,3 +15,4 @@ Combustion + Storm = Firestorm
 Combustion + Pebble = Fireplace
 Combustion + Sorcery = Fire Magic
 Combustion + Eco-Friendly Cuisine = Sustainable Cooking
+Cloud + Combustion = Smog
