@@ -9,3 +9,4 @@ Fiasco + National Park = Disaster Area
 Usages:
 =======
 Disaster Area + Neil Armstrong = Moon Landing
+Disaster Area + Herbalist = Herb Garden

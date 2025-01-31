@@ -10,3 +10,4 @@ Usages:
 =======
 Aang + Growth Potion = Avatar State
 Baby + Growth Potion = Instant Formula
+Chicken + Growth Potion = Plumper

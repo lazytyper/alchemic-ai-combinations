@@ -1,11 +1,12 @@
 ==================================
-= Kiln
+= Juliet
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+Diamond + Romeo = Juliet
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Juliet + Romeo = Tragedy
+Diamond + Juliet = Jewel

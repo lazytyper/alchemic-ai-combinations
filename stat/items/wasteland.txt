@@ -1,11 +1,11 @@
 ==================================
-= Kiln
+= Wasteland
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+Crop Damage + Dystopia = Wasteland
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Sky God + Wasteland = Air Disaster

@@ -1,11 +1,11 @@
 ==================================
-= Kiln
+= Duplex
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+House + House = Duplex
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Duplex + Smoke = Smokebox

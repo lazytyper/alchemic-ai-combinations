@@ -1,11 +1,11 @@
 ==================================
-= Kiln
+= Herb Garden
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+Disaster Area + Herbalist = Herb Garden
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Herb Garden + Herbalist = Apothecary

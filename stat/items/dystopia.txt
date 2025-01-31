@@ -17,3 +17,4 @@ Dystopia + Reality Show = Hunger Games
 Dystopia + Hunger Games = Oppression
 Dystopia + Surveillance = 1984
 Batman + Dystopia = Gotham
+Dystopia + Oxygen = Ecology

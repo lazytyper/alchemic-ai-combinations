@@ -1,11 +1,11 @@
 ==================================
-= Kiln
+= Force
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+Energy + Power = Force
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Force + Force = Pressure

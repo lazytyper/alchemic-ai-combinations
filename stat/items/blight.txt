@@ -11,3 +11,4 @@ Usages:
 Blight + Time = Timeworn
 Blight + Potion = Plague
 Blight + Mountainbike = Trail
+Amphibian + Blight = Frogspawn

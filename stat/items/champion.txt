@@ -1,11 +1,11 @@
 ==================================
-= Kiln
+= Champion
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+Athlete + Power = Champion
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Champion + Race = Winner

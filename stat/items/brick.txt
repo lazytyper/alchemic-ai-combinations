@@ -10,3 +10,4 @@ Usages:
 =======
 Brick + Brick = Wall
 Air + Brick = House
+Atmosphere + Brick = City

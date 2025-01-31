@@ -1,11 +1,13 @@
 ==================================
-= Kiln
+= Power
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+Battery + Energy = Power
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Energy + Power = Force
+Human + Power = Leader
+Athlete + Power = Champion

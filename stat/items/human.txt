@@ -97,3 +97,5 @@ Human + Painting = Mona Lisa
 Bat + Human = Batman
 Human + Mansion = Butler
 Evil + Human = Villain
+Human + Romeo = Lover
+Human + Power = Leader

@@ -16,3 +16,4 @@ Air + Atmosphere = Sky
 Atmosphere + Wind = Weather
 Atmosphere + Motorcycle = Skycycle
 Atmosphere + Dragonwood = Dragonair
+Atmosphere + Brick = City

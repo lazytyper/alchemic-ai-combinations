@@ -22,3 +22,4 @@ Race + Swimmer = Triathlete
 Daytona + Race = Nascar
 Nascar + Race = Driver
 Civic + Race = Civil Rights
+Champion + Race = Winner

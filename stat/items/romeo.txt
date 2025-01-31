@@ -1,11 +1,13 @@
 ==================================
-= Kiln
+= Romeo
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+City + Toad = Romeo
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Human + Romeo = Lover
+Diamond + Romeo = Juliet
+Juliet + Romeo = Tragedy

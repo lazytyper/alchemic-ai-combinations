@@ -1,11 +1,11 @@
 ==================================
-= Kiln
+= Winner
 ==================================
 
 created by:
 ===========
-Fire + Mudbrick = Kiln
+Champion + Race = Winner
 
 Usages:
 =======
-Kiln + Maximum Happiness = Social Liberation
+Winner + Winner = Chicken
