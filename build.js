@@ -147,7 +147,6 @@ function createHTML() {
         h3 {
             font-size: 1em;
         }
-        .index a { margin-left: 5px; margin-right: 5px; }
     </style>
 </head>
 <body>`; // end of preHTML
@@ -158,10 +157,7 @@ function createHTML() {
     blocks.push('<div class="index">');
     blocks.push(`<h2>Index (${itemsSorted.length} Items)</h2>`);
 
-    for (let item of itemsSorted) {
-        const name = item.name;
-        blocks.push(`<a class="element" href="#${name}">${formatElement(name)}</a>`);
-    }
+    blocks.push(itemsSorted.map(item => `<a href="#${item.name}">${formatElement(item.name)}</a>`).join(', '));
 
     blocks.push('</div>');
 
@@ -207,7 +203,11 @@ const itemsWithNoCreate = itemsSorted.filter(item => item.create.length === 0 &&
 let content = itemsWithNoCreate.map(item => formatElement(item.name)).join('\n');
 fs.writeFileSync('stat/missing.txt', content);
 
-const itemsWithNoUsage = itemsSorted.filter(item => item.use.length < 1);
-content = itemsWithNoUsage.map(item => formatElement(item.name)).join('\n');
-fs.writeFileSync('stat/unused.txt', content);
+const itemsSortedByUsage = itemsSorted.sort((a, b) => {
+    if (a.use.length > b.use.length) return 1;
+    if (a.use.length < b.use.length) return -1;
+    return a.name.localeCompare(b.name);
+});
+content = itemsSortedByUsage.map(item => `${formatElement(item.name)}: ${item.use.length}`).join('\n');
+fs.writeFileSync('stat/statistics.txt', content);
 createHTML();

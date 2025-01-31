@@ -696,7 +696,6 @@ drought,catastrophe,famine
 time,spell,chronomancy
 mangrove,witch,wisp
 amazon,pebble,river
-yoga,turbine.wind_flow
 lava_flow,apocalypse,doomsday
 thirst,conflict,warrior
 risk-taker,fire_spirit,firebrand

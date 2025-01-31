@@ -1,0 +1,1189 @@
+Adventurer: 0
+Afterlife: 0
+Age: 0
+Air Disaster: 0
+Alchemy: 0
+Ambrosia: 0
+Anatomy: 0
+Anchor: 0
+Ancient Energy: 0
+Animalia: 0
+Animatron: 0
+Apothecary: 0
+Apple Turnover: 0
+Aqualad: 0
+Aquarium Lamp: 0
+Aquatic Fun: 0
+Archery: 0
+Ariel: 0
+Attraction: 0
+Aurora Park: 0
+Avatar State: 0
+Banditry: 0
+Biochar: 0
+Biodegradation: 0
+Biodiversity: 0
+Biodiversity Loss: 0
+Birdhouse: 0
+Birdman: 0
+Bittersweet: 0
+Black Hole: 0
+Blackbeard: 0
+Bladeless: 0
+Blood Farming: 0
+Bloodline: 0
+Bloodlust: 0
+Bloodroot: 0
+Bloodsucker: 0
+Blue Abyss: 0
+Boarded Up: 0
+Bonding Agent: 0
+Botanical Garden: 0
+Bruce Wayne: 0
+Buddha: 0
+Butler: 0
+Cactus Desert: 0
+Camouflage: 0
+Capsize: 0
+Captaincy: 0
+Carbon Emissions: 0
+Cartoon: 0
+Cataclysm: 0
+Cattle Ranger: 0
+Caveman: 0
+Celestial Love: 0
+Celestial Realm: 0
+Charioteer: 0
+Chimpanzee: 0
+Chiron: 0
+Chocolate Volcano: 0
+Chronomancy: 0
+Cinder Track: 0
+Cinderella's Slip: 0
+Civility: 0
+Claymation: 0
+Clean Transport: 0
+Climate Advocate: 0
+Climate Talk: 0
+Cloning: 0
+Cloudberry: 0
+Collapse: 0
+Cosmic Irony: 0
+Cosmology: 0
+Costume Party: 0
+Countdown Timer: 0
+Cowabunga: 0
+Crisis Art: 0
+Cultivation: 0
+Cycle: 0
+Cycling: 0
+Dance Party: 0
+Danger: 0
+Dark Ages: 0
+Darwin: 0
+Date: 0
+Decay: 0
+Demigod: 0
+Desert Ride: 0
+Design Conference: 0
+Dictatorship: 0
+Dino Art: 0
+Diomes: 0
+Discovery: 0
+Dolphinarium: 0
+Doomsday: 0
+Dragon Worship: 0
+Dragonfire: 0
+Dragonsphere: 0
+Dreaminess: 0
+Dreamlight: 0
+Dreams: 0
+Dreamscape: 0
+Drizzle: 0
+Duplex Mansion: 0
+Dynamo: 0
+Earthkeeper: 0
+Earthrace: 0
+Ecology: 0
+Ecotopia: 0
+Education: 0
+Egghead: 0
+Elise: 0
+Ember: 0
+Embers: 0
+Emissions: 0
+Enchanted Forest: 0
+Ent: 0
+Erosion: 0
+Eternal Life: 0
+Eternal Voyage: 0
+Ethics: 0
+Exhibition: 0
+Exposure Therapy: 0
+Extravehicular: 0
+Fairy Spring: 0
+Fake Flame: 0
+Fanatasy: 0
+Fantasyland: 0
+Farm Therapy: 0
+Farm-To-Table: 0
+Fault Line: 0
+Fertile Soil: 0
+Fire Giant: 0
+Fire Hose: 0
+Fire Pit: 0
+Firebat: 0
+Firebird: 0
+Firebrand: 0
+Firefly: 0
+Firelord: 0
+Fish House: 0
+Flame Princess: 0
+Flameheart: 0
+Fleet: 0
+Flood Wave: 0
+Floodpain: 0
+Flower Arrangement: 0
+Flower Shop: 0
+Flowering: 0
+Fool's Paradise: 0
+Foolishness: 0
+Forest Fire: 0
+Fragrance Mist: 0
+Freedom Fighters: 0
+Frog Giggling: 0
+Frogger: 0
+Frogspawn: 0
+Garden History: 0
+Gas Giant: 0
+Gemini: 0
+Geothermal Field: 0
+Ghostbuster: 0
+Gladiator: 0
+Gotham: 0
+Gothic Novel: 0
+Green Energy: 0
+Green Films: 0
+Green Living: 0
+Grief: 0
+Habitat: 0
+Happy Harvest: 0
+Hatred: 0
+Haunted: 0
+Haunted Planet: 0
+Heartache: 0
+Heartstone: 0
+Heartwarming: 0
+Hera: 0
+Hexagon: 0
+Hiking: 0
+Holy Fire: 0
+Homeyness: 0
+Humanity: 0
+Imitator: 0
+Incence: 0
+Independence: 0
+Infant Mortality: 0
+Instant Formula: 0
+Irrigation: 0
+Island Garden: 0
+Jailhouse Rock: 0
+Jewel: 0
+Kermit: 0
+Knockoff: 0
+Kraken: 0
+Language: 0
+Lantern: 0
+Leader: 0
+Learning Hub: 0
+Lightning Person: 0
+Lost Love: 0
+Love Affair: 0
+Love Me Tender: 0
+Love Motel: 0
+Love Story: 0
+Love Token: 0
+Lover: 0
+Luminaria: 0
+Lunar Eclipse: 0
+Lunar Landing: 0
+Lunar Module: 0
+Madame Tussauds: 0
+Magellan: 0
+Magic Farm: 0
+Magical Jungle: 0
+Maleficent: 0
+Mansionette: 0
+Mantra: 0
+Marathon: 0
+Meme: 0
+Merlin: 0
+Mind Racing: 0
+Mindfulness: 0
+Mirage: 0
+Mona Lisa: 0
+Monster Games: 0
+Monster Truck: 0
+Monstrosity: 0
+Moon Landing: 0
+Moonlit Walk: 0
+Mortar: 0
+Mount Rushmore: 0
+Mountain Guide: 0
+Mugshot: 0
+Mural: 0
+Mushroom: 0
+Mystery: 0
+Mythology: 0
+Mythos: 0
+Natural Selection: 0
+Nature Spirituality: 0
+Nature's Wrath: 0
+Necromancer: 0
+Neighborhood: 0
+Night Breeze: 0
+Nightshade: 0
+Nostalgia: 0
+Ocean Community: 0
+Ocean Vista: 0
+Oceanographer: 0
+Olympian: 0
+Oppression: 0
+Oratory: 0
+Orwell: 0
+Party: 0
+Passion: 0
+Peacekeeper: 0
+Peat Bog: 0
+Pele: 0
+Personhood: 0
+Peterpan: 0
+Phoenix Feather: 0
+Pisces: 0
+Pixie Dust: 0
+Plague: 0
+Playwright: 0
+Plumper: 0
+Poison Ivy: 0
+Poison.cure: 0
+Pollinator Garden: 0
+Potion Seller: 0
+Potpourri: 0
+Power Outage: 0
+Power Plant: 0
+Prayer Flag: 0
+Prehistoric Adaption: 0
+Prejudice: 0
+Protest: 0
+Pyrite: 0
+Pyromancy: 0
+Queen Grimhilde: 0
+Regatta: 0
+Replicant: 0
+Ritual: 0
+River: 0
+Road Tripper: 0
+Rock Bottom: 0
+Rockets: 0
+Rockrose: 0
+Rockstar: 0
+Romance Novel: 0
+Ruin: 0
+Rural Living: 0
+Sacred Site: 0
+Sagittarius: 0
+Sailor: 0
+Salmon: 0
+Sandstorm: 0
+Saxophonist: 0
+Schmear: 0
+Scroll: 0
+Sea Witch: 0
+Seashell: 0
+Secret: 0
+Shadow Work: 0
+Shamanism: 0
+Shatter: 0
+Smogon: 0
+Smoke Signal: 0
+Smokebox: 0
+Smokejumper: 0
+Smokey Bear: 0
+Social Liberation: 0
+Solar Power: 0
+Solitude: 0
+Sonnet: 0
+Soul Gem: 0
+Soulsearching: 0
+Soundpark: 0
+Sovereign: 0
+Spacelink: 0
+Spark: 0
+Spiritual Healer: 0
+Spouse: 0
+Star Mage: 0
+Starfleet Academy: 0
+Steam Explosion: 0
+Stormwatch: 0
+Summit: 0
+Survival: 0
+Sushiroll: 0
+Sustainable Cooking: 0
+Sustainable Paradise: 0
+Swamp Monster: 0
+Tadpole: 0
+Tandem: 0
+Theater: 0
+Theatre: 0
+Thermal Power: 0
+Thor: 0
+Tiger: 0
+Tooth Mouse: 0
+Toxic Love: 0
+Tragicomedy: 0
+Trail: 0
+Transparency: 0
+Triathlete: 0
+Tribalism: 0
+Turf: 0
+Twister: 0
+Underworld King: 0
+Union: 0
+Van Helsing: 0
+Vanity: 0
+Vigilante: 0
+Villain: 0
+Void: 0
+Vroom: 0
+Warmth: 0
+Water Mage: 0
+Water Rescue: 0
+Waterlily: 0
+Waterman: 0
+Wave Therapy: 0
+Wedding Band: 0
+Whirlwind: 0
+Wild Magic: 0
+Windsong: 0
+Wings: 0
+Witch Doctor: 0
+Witchcraft: 0
+Wizardry: 0
+Wizards: 0
+Wonder: 0
+Woodland: 0
+Zen: 0
+1984: 1
+Aang: 1
+Abyss: 1
+Activism: 1
+Adventureland: 1
+Agrarian: 1
+Air Force: 1
+Airplane: 1
+Airship: 1
+Angler: 1
+Apocalypso: 1
+Apollo 11: 1
+Aquarius: 1
+Art: 1
+Artifacts: 1
+Ash: 1
+Author: 1
+Barn: 1
+Beach: 1
+Beach Party: 1
+Biodome: 1
+Biofuel: 1
+Blade: 1
+Bladerunner: 1
+Blood Rose: 1
+Bog Creature: 1
+Bouquet: 1
+Breeze: 1
+Cactus: 1
+Calcium Carbonate: 1
+Candle: 1
+Captain Hook: 1
+Carbon Monoxide: 1
+Casino: 1
+Cave: 1
+Celebration: 1
+Ceramics: 1
+Chalk: 1
+Chalkboard: 1
+Chaos: 1
+Chaos Magic: 1
+Chariot: 1
+Circus: 1
+Classroom: 1
+Clay Pot: 1
+Clay Soil: 1
+Climber: 1
+Cloudforest: 1
+Clownfish: 1
+Coconut: 1
+Constellation: 1
+Coral Reef: 1
+Cosmic Expanse: 1
+Cosmic Reality: 1
+Cosmic Static: 1
+Cosmos: 1
+Couple: 1
+Crewmate: 1
+Cyberpunk: 1
+Cyclone: 1
+Daredevil: 1
+Darkness: 1
+Dartboard: 1
+Dartfrog: 1
+Daydream: 1
+Daytona: 1
+Death Clock: 1
+Decimation: 1
+Dehydration: 1
+Deity: 1
+Demon: 1
+Desertification: 1
+Dinosaurs: 1
+Dirtbike: 1
+Dollhouse: 1
+Dragon: 1
+Dragon Cult: 1
+Dragon Energy: 1
+Dragonwood: 1
+Dreamboat: 1
+Earth Crisis: 1
+Echo: 1
+Eclipse: 1
+Eco-Friendly Cuisine: 1
+Eco-Warrior: 1
+Eggshell: 1
+Elixir: 1
+Elixir Of Immortality: 1
+Enchantment: 1
+End Times: 1
+Enterprise: 1
+Eros: 1
+Essentialism: 1
+Eternal Flame: 1
+Existence: 1
+Existencialism: 1
+Expedition: 1
+Exploration: 1
+Extraction: 1
+Fairy Godmother: 1
+Fairy Magic: 1
+Fairytale: 1
+Famine: 1
+Farm Guide: 1
+Farmhouse: 1
+Feather: 1
+Fiasco: 1
+Fire Lizard: 1
+Fire Performer: 1
+Fire Sky: 1
+Fire Spirit: 1
+Firewitch: 1
+Fireworks: 1
+Fisherman: 1
+Fishing: 1
+Fishing Boat: 1
+Flipper: 1
+Flood: 1
+Flutter Heart: 1
+Fogbow: 1
+Forever: 1
+Fortress: 1
+Fossil Fuel: 1
+Found Object: 1
+Fountain Of Youth: 1
+Fragrance: 1
+Freedom Song: 1
+Fury: 1
+Garden Fairy: 1
+Gemstone: 1
+Geysers: 1
+Ghost Story: 1
+Ghostwriter: 1
+Global Warming: 1
+Gravedigger: 1
+Gravekeeper: 1
+Greenhouse: 1
+Grim Fairytale: 1
+Grimm: 1
+Guardsman: 1
+Happily Ever After: 1
+Healing Ceremony: 1
+Health Potion: 1
+Heartbreak: 1
+Heartbreak Hotel: 1
+Heat: 1
+Heat Wave: 1
+Hellscape: 1
+Herb Garden: 1
+Hero: 1
+Hillary: 1
+History: 1
+Home: 1
+Homo Sapiens: 1
+Horoscope: 1
+Hydration: 1
+Iceland: 1
+Illustration: 1
+Imagination: 1
+Jungle Ride: 1
+Jurassic Park: 1
+Justice League: 1
+Kelpie: 1
+Kiln: 1
+Las Vegas: 1
+Lava Cake: 1
+Lava Flow: 1
+Lava Wave: 1
+Legends: 1
+Libertarianism: 1
+Lost: 1
+Lost City: 1
+Love Forever: 1
+Love Revolution: 1
+Love Spell: 1
+Magic Potion: 1
+Magma: 1
+Magma Lamp: 1
+Maki: 1
+Mariner: 1
+Mars: 1
+Marvel: 1
+Maximum Happiness: 1
+Merfolk: 1
+Mermaids: 1
+Merman: 1
+Metamorphosis: 1
+Midnight: 1
+Mimicry: 1
+Mistake: 1
+Mistress: 1
+Monarchy: 1
+Monkey: 1
+Monster Suit: 1
+Mortality: 1
+Mountainbike: 1
+Mountaineer: 1
+Muad'dib: 1
+Mudbrick: 1
+Mudpot: 1
+Mudslide: 1
+Museum: 1
+Mysticism: 1
+Nature Spirit: 1
+Nature Worship: 1
+Neverland: 1
+Nighttime: 1
+Nirvana: 1
+Nympholepsy: 1
+Obsession: 1
+Orchard: 1
+Original Sin: 1
+Palace: 1
+Palindrome: 1
+Palm Tree: 1
+Paradise Lost: 1
+Pedal: 1
+Peter Pan: 1
+Philosopher's Stone: 1
+Philosophy: 1
+Plant Spirit: 1
+Plantation: 1
+Playdate: 1
+Pluto: 1
+Poisonous Bird: 1
+Pokemon: 1
+Poker Chip: 1
+Pollution: 1
+Poltergeist: 1
+Poultry: 1
+Powerboat: 1
+Powerhouse: 1
+Pressure: 1
+Proposal: 1
+Purgatory: 1
+Racer: 1
+Racetrack: 1
+Rainbow Frog: 1
+Realism: 1
+Reaper: 1
+Reflection Error: 1
+Relationship: 1
+Rheotric: 1
+Rights: 1
+Robinhood: 1
+Romantic Stroll: 1
+Romanticism: 1
+Royalty: 1
+Satanism: 1
+Scandal: 1
+Scarecrow: 1
+Sculpture: 1
+Seagull: 1
+Seascape: 1
+Shadow Self: 1
+Sharknado: 1
+Sherwood: 1
+Shrek: 1
+Silk Flower: 1
+Sky God: 1
+Skyland: 1
+Slipper: 1
+Smog: 1
+Smokestack: 1
+Snake: 1
+Sorcerer: 1
+Sorceress: 1
+Spacewalk: 1
+Speedboat: 1
+Spellcasting: 1
+Spiritual Glow: 1
+Spiritual Guide: 1
+Spycam: 1
+Star Trek: 1
+Stargazing: 1
+Starry Night: 1
+Stars: 1
+Statue: 1
+Strife: 1
+Sunshine Law: 1
+Superman: 1
+Surfing: 1
+Targeting: 1
+Throne: 1
+Timelessness: 1
+Titanic: 1
+Tooth Fairy: 1
+Tornado: 1
+Toxin: 1
+Tractor: 1
+Tragedy: 1
+Tragic Romance: 1
+Tree Spirit: 1
+Tremor: 1
+Trident: 1
+Trombone: 1
+Trumpet Player: 1
+Twin: 1
+Unicorn: 1
+Vampire Hunter: 1
+Velodrome: 1
+Venom: 1
+Verse: 1
+Vital Fluid: 1
+Voyage: 1
+Warrior: 1
+Wasteland: 1
+Wind Flow: 1
+Wind Power: 1
+Wing: 1
+Winner: 1
+Wishcraft: 1
+Wisp: 1
+Wonder Woman: 1
+Yacht: 1
+Yosemite: 1
+24 Hours: 2
+Allergy: 2
+Anarchist: 2
+Anemone: 2
+Anger: 2
+Apple Pie: 2
+Aquaman: 2
+Aquatic Garden: 2
+Astronomy: 2
+Aurora Borealis: 2
+Bat: 2
+Battery: 2
+Bicycle Tour: 2
+Biology: 2
+Birth: 2
+Blackout: 2
+Blood Sport: 2
+Blossom: 2
+Boat: 2
+Bonfire: 2
+Botanist: 2
+Breath: 2
+Bribery: 2
+Bullseye: 2
+Captain: 2
+Carbon Dioxide: 2
+Centaur: 2
+Champion: 2
+Chance: 2
+Charcoal: 2
+Charizard: 2
+Chicken: 2
+Chimney: 2
+City: 2
+Civic: 2
+Compost: 2
+Conflict: 2
+Cosplay: 2
+Creative Suite: 2
+Crop Yield: 2
+Cyclist: 2
+Dark Romance: 2
+Degradation: 2
+Demonic Ritual: 2
+Devil's Advocate: 2
+Devil's Garden: 2
+Dinosaur: 2
+Dirt: 2
+Disaster Area: 2
+Dolphin: 2
+Dorian Gray: 2
+Dragonair: 2
+Driver: 2
+Duplex: 2
+E-Bike: 2
+Eagle: 2
+Earthquake: 2
+Eco-Friendly: 2
+Eco-Tourism: 2
+Elements: 2
+Elephant Communication: 2
+Energy Production: 2
+Engagement: 2
+Eruption: 2
+Fairy: 2
+Fairy Circle: 2
+Feudalism: 2
+Firebender: 2
+Firestorm: 2
+Flame: 2
+Flower Garden: 2
+Fog: 2
+Force: 2
+Freedom: 2
+Frittata: 2
+Frog Farm: 2
+Gambler: 2
+Gambling: 2
+Gandalf: 2
+Grim Reaper: 2
+Hades: 2
+Harvest: 2
+Haunting: 2
+Herbicide: 2
+Herbology: 2
+Heroics: 2
+Horizon: 2
+Hot Spring: 2
+Hot Springs: 2
+Hunger Games: 2
+Infinity: 2
+Island Romance: 2
+Juliet: 2
+Kaiju: 2
+Lava: 2
+Life Cycle: 2
+Lifeguard: 2
+Livestock: 2
+Lost Civilization: 2
+Lotus: 2
+Love Potion: 2
+Love Storm: 2
+Lovebirds: 2
+Mansion: 2
+Marine Biologist: 2
+Marine Sanctuary: 2
+Marsupilami: 2
+Media Summit: 2
+Meditation: 2
+Moral Ambiguity: 2
+Moss: 2
+Myth: 2
+Nascar: 2
+Nature Magic: 2
+Neil Armstrong: 2
+Neptune: 2
+Noise: 2
+Northern Lights: 2
+Nuclear Disaster: 2
+Nymph: 2
+Obsidian: 2
+Omelette: 2
+Painting: 2
+Pandora: 2
+Partnership: 2
+Peak: 2
+Phoenix: 2
+Planting: 2
+Plants: 2
+Poetry: 2
+Political Corruption: 2
+Pollination: 2
+Racecar: 2
+Rage: 2
+Rain: 2
+Rainbow: 2
+Reality Show: 2
+Rebirth: 2
+Ring: 2
+Risk-Taker: 2
+Road Trip: 2
+Robin Hood: 2
+Rosewater: 2
+Rumor: 2
+Sailing: 2
+Sand: 2
+Sauna: 2
+Scenery: 2
+School: 2
+Seaweed: 2
+Shaman: 2
+Shark: 2
+Silence: 2
+Skycycle: 2
+Smile: 2
+Smoked Salmon: 2
+Solar Panel: 2
+Sorcery: 2
+Spellcaster: 2
+Starship: 2
+Steamship: 2
+Storm Surge: 2
+Sunset: 2
+Superhero: 2
+Surveillance: 2
+Survivor: 2
+Sushi Bar: 2
+Sustainability: 2
+Sustainable Farming: 2
+Teacher: 2
+Teeth: 2
+Terrarium: 2
+Toad: 2
+Tourist Attraction: 2
+Treehouse: 2
+Trees: 2
+Tribe: 2
+Trumpet Vine: 2
+Twilight: 2
+Underwater World: 2
+Utopia: 2
+Vampire: 2
+Vampire Hero: 2
+Volcanic Eruption: 2
+Volcano Roll: 2
+Waterplay: 2
+Waves: 2
+Wax Figure: 2
+Whisper: 2
+Windbreak: 2
+Windflower: 2
+Yoga: 2
+Adventure: 3
+Air Quality: 3
+Ashes: 3
+Astrology: 3
+Astronaut: 3
+Batman: 3
+Biosphere: 3
+Bond: 3
+Brick: 3
+Buddhism: 3
+Butterfly: 3
+Castaway: 3
+Chernobyl: 3
+Childhood: 3
+Climate Change: 3
+Cloudscape: 3
+Copy: 3
+Coziness: 3
+Crash: 3
+Crop Damage: 3
+Death Blossom: 3
+Design Failure: 3
+Destruction: 3
+Digital Art: 3
+Dust: 3
+Egg: 3
+Elvis Presley: 3
+Engagement Ring: 3
+Enlightenment: 3
+Environmental Activism: 3
+Eternal Youth: 3
+Evil Twin: 3
+Explorer: 3
+Fairy Ring: 3
+Faith: 3
+Fake Flower: 3
+Farm: 3
+Farmer: 3
+Fertilizer: 3
+Fire Magic: 3
+Fireball: 3
+Firefighter: 3
+Flash: 3
+Fool's Gold: 3
+Fossil: 3
+Frog: 3
+Fukushima: 3
+Gardening: 3
+Ghost: 3
+Growth Potion: 3
+Happiness: 3
+Hook: 3
+Hulk: 3
+Iceberg: 3
+Incantation: 3
+Inferno: 3
+Jaws: 3
+Journey: 3
+Joy: 3
+Jupiter: 3
+Kingdom: 3
+Lava Lamp: 3
+Life Force: 3
+Lightning: 3
+Living World: 3
+Loneliness: 3
+Lox: 3
+Magic Spell: 3
+Magic Stone: 3
+Mangrove: 3
+Matchmaker: 3
+Miracle: 3
+Monster: 3
+Mudshow: 3
+Nature Reserve: 3
+Nest: 3
+Optimism: 3
+Outlaw: 3
+Pebble: 3
+Perfume: 3
+Perspective: 3
+Photoshop: 3
+Plant Growth: 3
+Poet: 3
+Pollen: 3
+Poseidon: 3
+Rainforest: 3
+Renewable Energy: 3
+Rescue Squad: 3
+Robin: 3
+Rose: 3
+Runner: 3
+Sacrifice: 3
+Sailboat: 3
+Salamander: 3
+Samsara: 3
+Shipwreck: 3
+Spacecraft: 3
+Spell: 3
+Steam Room: 3
+Storybook: 3
+Strongman: 3
+Sunflower: 3
+Swamp: 3
+Swimmer: 3
+Thirst: 3
+Thunderstorm: 3
+Timeworn: 3
+Treasure: 3
+Vampire Bat: 3
+Venus: 3
+Wall: 3
+Wildfire: 3
+Wizard: 3
+Wreckage: 3
+Yellowstone: 3
+Agriculture: 4
+Amazon: 4
+Apocalypse: 4
+Archipelago: 4
+Avatar: 4
+Baby: 4
+Blight: 4
+Blood: 4
+Blue Planet: 4
+Civil Rights: 4
+Contemplation: 4
+Corruption: 4
+Cupid: 4
+Dice: 4
+Dracula: 4
+Duplicate: 4
+Eden: 4
+Electricity: 4
+Environment: 4
+Eternity: 4
+Family: 4
+Farming: 4
+Farmland: 4
+Geyser: 4
+Gossip: 4
+Greenpeace: 4
+Hard Place: 4
+Hell: 4
+Hercules: 4
+Hope: 4
+Horticulture: 4
+Imitation: 4
+Immortality: 4
+Isolation: 4
+Magic: 4
+Milky Way: 4
+Mirror: 4
+Moonlight: 4
+Mudskipper: 4
+Nature Guardian: 4
+Oasis: 4
+Oceanic Paradise: 4
+Olympus: 4
+Photosynthesis: 4
+Pirate: 4
+Power: 4
+Reflection: 4
+Roll: 4
+Romance: 4
+Romeo: 4
+Satan: 4
+Sherpa: 4
+Snow White: 4
+Solar System: 4
+Soulmate: 4
+Sound: 4
+Storm: 4
+Sweat Lodge: 4
+Tarzan: 4
+Theme Park: 4
+Toadstool: 4
+Underworld: 4
+Wave: 4
+Weather: 4
+Agribusiness: 5
+Amphibian: 5
+Anarchy: 5
+Antidote: 5
+Aquarium: 5
+Atlantis: 5
+Catastrophe: 5
+Clay: 5
+Coal: 5
+Day: 5
+Drought: 5
+Dryad: 5
+Fairy Tale: 5
+Galaxy: 5
+God: 5
+Heart: 5
+Herbalist: 5
+Hurricane: 5
+Jungle Tribe: 5
+Marriage: 5
+Moon: 5
+National Park: 5
+Paradise: 5
+Partner: 5
+Playhouse: 5
+Ranger: 5
+Reincarnation: 5
+Soil: 5
+Space: 5
+Speech: 5
+Spirit: 5
+Spirituality: 5
+Stone: 5
+Sushi: 5
+Turbine: 5
+Vase: 5
+Animal: 6
+Aphrodite: 6
+Beauty: 6
+Copycat: 6
+Death: 6
+Desentization: 6
+Desert: 6
+Diamond: 6
+Everest: 6
+Evil: 6
+Fireplace: 6
+Flower: 6
+Glass: 6
+Godzilla: 6
+Heaven: 6
+Hopeful Cynicism: 6
+Legend: 6
+Mermaid: 6
+Mist: 6
+Motorcycle: 6
+Night: 6
+Park: 6
+Pottery: 6
+Queen: 6
+Racecourse: 6
+Replica: 6
+Ship: 6
+Thunder: 6
+Tree: 6
+View: 6
+Zeus: 6
+Animation: 7
+Arrow: 7
+Castle: 7
+Community: 7
+Druid: 7
+Ecosystem: 7
+Garden: 7
+Hate: 7
+Landscape: 7
+Potion: 7
+Tsunami: 7
+Adobe: 8
+Bicycle: 8
+Charmander: 8
+Cinderella: 8
+Cloud: 8
+Combustion: 8
+Forest: 8
+Monarch: 8
+Oxygen: 8
+Poison: 8
+Smoke: 8
+Society: 8
+Soul: 8
+Witch: 8
+Athlete: 9
+Atmosphere: 9
+Bird: 9
+Energy: 9
+Jungle: 9
+Universe: 9
+Disaster: 10
+Dystopia: 10
+Mountain: 10
+Mud: 10
+Steam: 10
+Planet: 11
+Rock: 11
+Sky: 11
+Volcano: 11
+Wind: 11
+Fish: 12
+Religion: 12
+Evolution: 13
+House: 13
+Plant: 13
+Race: 14
+Sun: 14
+Island: 15
+Nature: 15
+Time: 15
+Water: 16
+Earth: 20
+Ocean: 21
+Air: 24
+Life: 39
+Fire: 40
+Love: 45
+Human: 97
