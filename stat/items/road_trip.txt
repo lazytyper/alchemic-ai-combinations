@@ -9,3 +9,4 @@ Race + Scenery = Road Trip
 Usages:
 =======
 Jaws + Road Trip = Sharknado
+Road Trip + Space = Road Tripper

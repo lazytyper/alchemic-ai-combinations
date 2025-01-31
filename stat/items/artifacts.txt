@@ -1,10 +1,11 @@
 ==================================
-= Obean
+= Artifacts
 ==================================
 
 created by:
 ===========
+Evolution + Found Object = Artifacts
 
 Usages:
 =======
-Dark Romance + Obean = Blue Abyss
+Artifacts + Evolution = Museum

@@ -13,3 +13,4 @@ Night + Sun = Moon
 Night + Yosemite = Moonlight
 Civil Rights + Night = Freedom Song
 Night + Sky = Midnight
+Museum + Night = Exhibition

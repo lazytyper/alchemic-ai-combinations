@@ -14,3 +14,4 @@ Galaxy + Galaxy = Universe
 Arrow + Galaxy = Milky Way
 Galaxy + Sound = Silence
 Galaxy + Noise = Cosmic Static
+Evolution + Galaxy = Humanity

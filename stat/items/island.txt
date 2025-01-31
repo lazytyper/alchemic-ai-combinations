@@ -23,3 +23,4 @@ Island + Zeus = Olympus
 Island + Ship = Pirate
 Island + Pirate = Treasure
 Geyser + Island = Iceland
+Island + Jungle = Lost

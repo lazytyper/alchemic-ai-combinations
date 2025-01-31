@@ -1049,7 +1049,7 @@ everest,explorer,hillary
 catastrophe,vampire_bat,bloodsucker
 death,death,death,death,grim_reaper
 death,death,death,death,afterlife
-death,death,death,death,decoration
+death,death,death,death,decimation
 death,death,death,death,ruin
 death,death,death,death,darkness
 death,rock,gravedigger
@@ -1280,9 +1280,9 @@ blackout,dystopia,collapse
 flower,power,blossom
 elvis_presley,cupid,love_me_tender
 couple,time,date
-cinderella,glas,slipper
-cinderella,glas,slipper,cinderella's_slip
-dark_romance,obean,blue_abyss
+cinderella,glass,slipper
+cinderella,glass,slipper,cinderella's_slip
+dark_romance,ocean,blue_abyss
 blossom,ocean,seashell
 flower,blossom,bouquet
 bouquet,rose,flower_shop
@@ -1314,3 +1314,12 @@ star_trek,theme_park,starfleet_academy
 philosopher's_stone,philosopher's_stone,eternal_life
 space,air_force,spacelink
 dragonair,airship,dragonsphere
+bond,fossil,bonding_agent
+space,road_trip,road_tripper
+evolution,found_object,artifacts
+evolution,artifacts,museum
+museum,night,exhibition
+evolution,biology,natural_selection
+evolution,galaxy,humanity
+evolution,decimation,survival
+island,jungle,lost

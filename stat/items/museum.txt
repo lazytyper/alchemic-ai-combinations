@@ -1,11 +1,11 @@
 ==================================
-= Glas
+= Museum
 ==================================
 
 created by:
 ===========
+Artifacts + Evolution = Museum
 
 Usages:
 =======
-Cinderella + Glas = Slipper
-Cinderella + Glas + Slipper = Cinderella's Slip
+Museum + Night = Exhibition

@@ -1,11 +1,11 @@
 ==================================
-= Slipper
+= Found Object
 ==================================
 
 created by:
 ===========
-Cinderella + Glass = Slipper
+Design Failure + Treasure = Found Object
 
 Usages:
 =======
-Cinderella + Glass + Slipper = Cinderella's Slip
+Evolution + Found Object = Artifacts

@@ -10,3 +10,4 @@ Usages:
 =======
 Energy + Fossil = Coal
 Fossil + Fossil = Dinosaur
+Bond + Fossil = Bonding Agent
