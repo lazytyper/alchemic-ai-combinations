@@ -9,3 +9,4 @@ Jurassic Park + Ranger = Dinosaurs
 Usages:
 =======
 Dinosaurs + Painting = Dino Art
+Dinosaurs + Pollution = Extinction

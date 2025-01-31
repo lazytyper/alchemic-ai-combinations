@@ -54,3 +54,4 @@ Enlightenment + Fire = Candle
 Fire + Sand = Glass
 Fire + Glass = Candle
 Dragon + Fire = Dragonfire
+Dough + Fire = Bread

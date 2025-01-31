@@ -10,3 +10,4 @@ Usages:
 =======
 Bonfire + Bonfire = Flame Princess
 Bonfire + Glass = Lantern
+Bonfire + Cozy = Campfire

@@ -147,6 +147,17 @@ function createHTML() {
         h3 {
             font-size: 1em;
         }
+        div.index {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            bottom: 10px;
+            width: 300px;
+            border: 1px solid black;
+            padding: 10px;
+            background-color: #f2f2f2;
+            overflow-y: auto;
+        }
     </style>
 </head>
 <body>`; // end of preHTML
@@ -178,17 +189,20 @@ function createHTML() {
         }
         content.push('</ul>');
 
-        content.push('<h3>Usages:</h3>');
-        content.push('<ul>');
-        for (let c of use) {
-            const ids = c.split('_');
-            const names = ids.map(id => items[id].name);
-            const resultNames = combinations[c].map(id => items[id].name);
-            for (let resultName of resultNames) {
-                content.push(`<li>${names.map(ref).join(' + ')} = ${ref(resultName)}</li>`);
+        if (use.length) {
+            content.push('<h3>Usages:</h3>');
+            content.push('<ul>');
+            for (let c of use) {
+                const ids = c.split('_');
+                const names = ids.map(id => items[id].name);
+                const resultNames = combinations[c].map(id => items[id].name);
+                for (let resultName of resultNames) {
+                    content.push(`<li>${names.map(ref).join(' + ')} = ${ref(resultName)}</li>`);
+                }
             }
+            content.push('</ul>');
         }
-        content.push('</ul>');
+        content.push('<hr/>');
 
         blocks.push(content.join('\n'));
     }
@@ -203,7 +217,7 @@ const itemsWithNoCreate = itemsSorted.filter(item => item.create.length === 0 &&
 let content = itemsWithNoCreate.map(item => formatElement(item.name)).join('\n');
 fs.writeFileSync('stat/missing.txt', content);
 
-const itemsSortedByUsage = itemsSorted.sort((a, b) => {
+const itemsSortedByUsage = [...itemsSorted].sort((a, b) => {
     if (a.use.length > b.use.length) return 1;
     if (a.use.length < b.use.length) return -1;
     return a.name.localeCompare(b.name);

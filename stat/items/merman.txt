@@ -9,3 +9,4 @@ Mermaid + Sharknado = Merman
 Usages:
 =======
 Mermaid + Merman = Merfolk
+Hope + Merman = Dreamer

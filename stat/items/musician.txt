@@ -1,0 +1,14 @@
+==================================
+= Musician
+==================================
+
+created by:
+===========
+Rockstar + Songwriter = Musician
+
+Usages:
+=======
+Musician + Soul = Ray Charles
+Ballad + Musician = Singer
+Musician + Rock And Roll = Elvis Presley
+Musician + Silence = Concert

@@ -19,3 +19,5 @@ Mountain + Wave = Surfing
 Diamond + Mountain = Peak
 Mountain + Peak = Summit
 Mountain + Shaman = Sacred Site
+Animal + Mountain = Ibex
+Animalia + Mountain = Goat

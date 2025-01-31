@@ -14,3 +14,7 @@ Charmander + Fireplace = Ember
 Fireplace + Park = Fire Pit
 Fireplace + Romance = Coziness
 Coziness + Fireplace = Warmth
+Dough + Fireplace = Pizza
+Cozy + Fireplace = Hygge
+Cozy + Fireplace + Romance = Candlelight
+Fireplace + Matchmaker = Hot Date

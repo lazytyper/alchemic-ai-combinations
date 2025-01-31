@@ -10,3 +10,4 @@ Usages:
 =======
 Anger + Human = Rage
 Anger + Anger = Rage
+Anger + Evolution = Adaptation

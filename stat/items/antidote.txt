@@ -12,4 +12,4 @@ Allergy + Antidote = Desentization
 Adobe + Antidote = Mortar
 Antidote + Exploration = Discovery
 Antidote + Firebender = Phoenix Feather
-Antidote = Poison.cure
+Antidote + Poison = Cure

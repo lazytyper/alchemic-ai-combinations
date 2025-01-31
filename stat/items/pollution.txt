@@ -9,3 +9,4 @@ Energy Production + Smoke = Pollution
 Usages:
 =======
 Pollution + Smokestack = Emissions
+Dinosaurs + Pollution = Extinction

@@ -1,0 +1,11 @@
+==================================
+= Artist
+==================================
+
+created by:
+===========
+Popstar + Singer = Artist
+
+Usages:
+=======
+Artist + Circus = Clown

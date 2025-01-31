@@ -24,3 +24,7 @@ Death Clock + Time = Countdown Timer
 Chalk + Time = Chalkboard
 Beauty + Time = Age
 Couple + Time = Date
+Bread + Time = Toast
+Time + Toast = Breakfast
+Breakfast + Time = Morning
+Morning + Time = Breakfast

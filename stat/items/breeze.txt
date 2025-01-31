@@ -9,3 +9,4 @@ Seascape + Wind = Breeze
 Usages:
 =======
 Breeze + Skyland = Airship
+Breeze + Diver = Windsurfer

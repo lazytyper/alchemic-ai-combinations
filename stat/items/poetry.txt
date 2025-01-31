@@ -9,4 +9,4 @@ Poet + Verse = Poetry
 Usages:
 =======
 Poetry + Romance = Sonnet
-Poetry + Speech = Rheotric
+Poetry + Speech = Rhetoric

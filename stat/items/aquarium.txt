@@ -5,6 +5,7 @@
 created by:
 ===========
 Environment + Fish = Aquarium
+Fish + Glass = Aquarium
 
 Usages:
 =======

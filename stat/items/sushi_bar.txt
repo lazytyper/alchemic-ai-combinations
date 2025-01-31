@@ -10,3 +10,4 @@ Usages:
 =======
 Fish + Sushi Bar = Sushi
 Magma + Sushi Bar = Volcano Roll
+Fake Flower + Sushi Bar = Floral Sushi

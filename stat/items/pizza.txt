@@ -1,11 +1,11 @@
 ==================================
-= Rheotric
+= Pizza
 ==================================
 
 created by:
 ===========
-Poetry + Speech = Rheotric
+Dough + Fireplace = Pizza
 
 Usages:
 =======
-Rheotric + Speech = Oratory
+House + Pizza = Hut

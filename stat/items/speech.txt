@@ -11,5 +11,5 @@ Usages:
 Speech + Tarzan = Elephant Communication
 Global Warming + Speech = Climate Talk
 Human + Speech = Language
-Poetry + Speech = Rheotric
-Rheotric + Speech = Oratory
+Poetry + Speech = Rhetoric
+Rhetoric + Speech = Oratory

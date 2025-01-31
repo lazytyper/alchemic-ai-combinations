@@ -1,0 +1,12 @@
+==================================
+= Singer
+==================================
+
+created by:
+===========
+Ballad + Musician = Singer
+
+Usages:
+=======
+Rockstar + Singer = Popstar
+Popstar + Singer = Artist

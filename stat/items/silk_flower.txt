@@ -9,3 +9,4 @@ Fake Flower + Imitation = Silk Flower
 Usages:
 =======
 Ranger + Silk Flower = Spycam
+Fertilizer + Silk Flower = Floral Growth

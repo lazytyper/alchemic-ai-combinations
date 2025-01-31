@@ -18,3 +18,5 @@ Human + Jungle = Tarzan
 Jungle + Poison = Snake
 Animal + Jungle = Tiger
 Island + Jungle = Lost
+Jungle + Zoology = Wildlife
+Jungle + Safari = Wilderness

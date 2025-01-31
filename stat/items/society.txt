@@ -17,3 +17,4 @@ Queen + Society = Monarchy
 Marine Sanctuary + Society = Ocean Community
 Conflict + Society = Strife
 Heaven + Society = Utopia
+Echo + Society = Resonance

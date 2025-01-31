@@ -1,0 +1,12 @@
+==================================
+= Hut
+==================================
+
+created by:
+===========
+House + Pizza = Hut
+
+Usages:
+=======
+Hut + Hut = Cabin
+Hut + Witch = Hocus Pocus

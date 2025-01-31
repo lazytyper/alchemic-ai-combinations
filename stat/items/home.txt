@@ -6,7 +6,9 @@ created by:
 ===========
 House + House = Home
 House + Love = Home
+Comfort + House = Home
 
 Usages:
 =======
 Home + Love = Family
+Comfort + Home = Cozy

@@ -16,3 +16,5 @@ Poison + Venom = Toxin
 Poison + Robin = Poisonous Bird
 Plant + Poison = Nightshade
 Poison + Soulmate = Toxic Love
+Antidote + Poison = Cure
+Apple + Poison = Snow White

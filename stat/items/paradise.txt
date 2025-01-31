@@ -14,3 +14,4 @@ Earth + Paradise = Garden
 Air + Paradise = Eden
 Fire + Paradise = Hell
 Paradise + Water = Oasis
+Paradise + Rockstar = Heavenly Star

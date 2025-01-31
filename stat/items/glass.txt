@@ -14,3 +14,6 @@ Fire + Glass = Candle
 Glass + Rosewater = Perfume
 Cinderella + Glass = Slipper
 Cinderella + Glass + Slipper = Cinderella's Slip
+Evolution + Glass = Microscope
+Glass + Nemo = Glassfish
+Fish + Glass = Aquarium

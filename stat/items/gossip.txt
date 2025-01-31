@@ -12,3 +12,4 @@ Gossip + Witch = Rumor
 Corruption + Gossip = Scandal
 Gossip + Rain = Drizzle
 Gossip + Sunshine Law = Transparency
+Gossip + Rockstar = Tabloid

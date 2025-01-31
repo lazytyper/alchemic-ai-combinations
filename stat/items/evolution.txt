@@ -24,3 +24,5 @@ Artifacts + Evolution = Museum
 Biology + Evolution = Natural Selection
 Evolution + Galaxy = Humanity
 Decimation + Evolution = Survival
+Anger + Evolution = Adaptation
+Evolution + Glass = Microscope

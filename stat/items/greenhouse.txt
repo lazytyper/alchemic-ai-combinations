@@ -9,3 +9,4 @@ Botanist + Garden = Greenhouse
 Usages:
 =======
 Greenhouse + Isolation = Biodome
+Greenhouse + Rose = Floriculture

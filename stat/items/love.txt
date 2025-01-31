@@ -56,3 +56,6 @@ Charmander + Love = Passion
 Love + Partnership = Relationship
 Love + Surveillance = Obsession
 Love + Mistake = Heartbreak
+Concert + Love = Music Festival
+Love + Music Festival = Woodstock
+Dreamscape + Love = Fantasia

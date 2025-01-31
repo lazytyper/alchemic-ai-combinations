@@ -24,3 +24,7 @@ Gambler + House = Casino
 Gambling + House = Casino
 Heartbreak + House = Boarded Up
 Coziness + House = Homeyness
+House + Pizza = Hut
+Bread + House = Gingerbread
+Gingerbread + House = Cottage
+Comfort + House = Home

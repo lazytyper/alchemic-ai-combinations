@@ -9,3 +9,4 @@ Force + Force = Pressure
 Usages:
 =======
 Coal + Pressure = Diamond
+Pressure + Wheat = Flour

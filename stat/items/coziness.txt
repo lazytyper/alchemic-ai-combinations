@@ -11,3 +11,4 @@ Usages:
 Coziness + Fireplace = Warmth
 Coziness + House = Homeyness
 Coziness + Moonlight = Dreaminess
+Coziness + Warmth = Comfort

@@ -1,0 +1,11 @@
+==================================
+= Songwriter
+==================================
+
+created by:
+===========
+Ballad + Rockstar = Songwriter
+
+Usages:
+=======
+Rockstar + Songwriter = Musician

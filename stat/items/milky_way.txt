@@ -12,3 +12,4 @@ Arrow + Milky Way = Galaxy
 Hot Spring + Milky Way = Galaxy
 Contemplation + Milky Way = Stargazing
 Driver + Milky Way = Spacecraft
+History + Milky Way = Galactic Empire

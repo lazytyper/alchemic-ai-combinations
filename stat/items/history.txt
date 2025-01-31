@@ -9,3 +9,4 @@ Human + Time = History
 Usages:
 =======
 Explorer + History = Adventure
+History + Milky Way = Galactic Empire

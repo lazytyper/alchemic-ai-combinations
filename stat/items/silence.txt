@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Silence = Meditation
 Silence + Thunder = Whisper
+Musician + Silence = Concert

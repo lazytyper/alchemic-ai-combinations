@@ -9,3 +9,4 @@ Sherpa + Sherpa = Mountaineer
 Usages:
 =======
 Ashes + Kaiju + Mountaineer + Salamander = Fire Giant
+Animalia + Mountaineer = Mountain Goat

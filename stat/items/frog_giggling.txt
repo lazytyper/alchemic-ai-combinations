@@ -8,3 +8,4 @@ Frog Farm + Hook = Frog Giggling
 
 Usages:
 =======
+Frog Giggling + Strongman = Frogman

@@ -11,3 +11,4 @@ Usages:
 Copy + Nature = Copycat
 Copy + Copycat = Imitation
 Copy + Love Storm = Heartbreak
+Copy + Rights = Copyright

@@ -9,3 +9,4 @@ Freedom + Human = Rights
 Usages:
 =======
 Avatar + Rights = Personhood
+Copy + Rights = Copyright
