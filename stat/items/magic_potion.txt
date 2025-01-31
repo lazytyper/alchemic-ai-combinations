@@ -1,12 +1,11 @@
 ==================================
-= Rose
+= Magic Potion
 ==================================
 
 created by:
 ===========
-Love + Plant = Rose
+Enchantment + Life = Magic Potion
 
 Usages:
 =======
-Rose + Water = Rosewater
-Fairy Tale + Rose = Beauty
+Magic Potion + Witch = Potion Seller

@@ -1,12 +1,11 @@
 ==================================
-= Rose
+= Poker Chip
 ==================================
 
 created by:
 ===========
-Love + Plant = Rose
+Gambling + Gemstone = Poker Chip
 
 Usages:
 =======
-Rose + Water = Rosewater
-Fairy Tale + Rose = Beauty
+House + Poker Chip = Casino

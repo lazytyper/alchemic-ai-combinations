@@ -19,3 +19,7 @@ Farm + House = Barn
 Barn + House = Farmhouse
 Demon + House = Haunted
 House + Love = Home
+House + Poker Chip = Casino
+Gambler + House = Casino
+Gambling + House = Casino
+Heartbreak + House = Boarded Up

@@ -53,3 +53,4 @@ Kingdom + Life = Animal
 Flower + Life = Lotus
 Evolution + Life = Biology
 Farmhouse + Life = Rural Living
+Enchantment + Life = Magic Potion

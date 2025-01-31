@@ -18,3 +18,4 @@ Fire + Smoke = Heat Wave
 Fire + Smoke = Bonfire
 Energy Production + Smoke = Pollution
 Duplex + Smoke = Smokebox
+Fragrance + Smoke = Incence

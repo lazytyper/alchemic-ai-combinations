@@ -10,3 +10,4 @@ Usages:
 =======
 Ashes + Life = Death
 Ashes + Elements = Alchemy
+Ashes + Kaiju + Mountaineer + Salamander = Fire Giant

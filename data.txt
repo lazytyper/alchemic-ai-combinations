@@ -1212,7 +1212,7 @@ love,gandalf,wizards
 love,force,attraction
 love,ring,engagement
 engagement,engagement_ring,proposal
-omelett,mansion,mansionette
+omelette,mansion,mansionette
 poker_chip,house,casino
 house,gambler,casino
 house,gambling,casino

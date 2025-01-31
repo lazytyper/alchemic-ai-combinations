@@ -9,3 +9,4 @@ House + Wax Figure = Mansion
 Usages:
 =======
 Human + Mansion = Butler
+Mansion + Omelette = Mansionette

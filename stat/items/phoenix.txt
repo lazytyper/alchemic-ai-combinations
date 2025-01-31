@@ -11,3 +11,4 @@ Bird + Bird = Phoenix
 Usages:
 =======
 Frog Farm + Phoenix = Rebirth
+Beauty + Phoenix = Firebird

@@ -1,12 +1,13 @@
 ==================================
-= City
+= Casino
 ==================================
 
 created by:
 ===========
-Atmosphere + Brick = City
+House + Poker Chip = Casino
+Gambler + House = Casino
+Gambling + House = Casino
 
 Usages:
 =======
-City + Toad = Romeo
 Casino + City = Las Vegas

@@ -1,12 +1,11 @@
 ==================================
-= Rose
+= Enchantment
 ==================================
 
 created by:
 ===========
-Love + Plant = Rose
+Human + Love Spell = Enchantment
 
 Usages:
 =======
-Rose + Water = Rosewater
-Fairy Tale + Rose = Beauty
+Enchantment + Life = Magic Potion

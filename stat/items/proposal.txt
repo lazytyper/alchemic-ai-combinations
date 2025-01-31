@@ -4,7 +4,10 @@
 
 created by:
 ===========
-Human + Engagement Ring = Proposal
+Engagement Ring + Human = Proposal
+Engagement Ring + Love = Proposal
+Engagement + Engagement Ring = Proposal
 
 Usages:
 =======
+Love + Proposal = Engagement Ring

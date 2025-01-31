@@ -10,3 +10,4 @@ Egg + Egg = Omelette
 Usages:
 =======
 Omelette + Omelette = Frittata
+Mansion + Omelette = Mansionette

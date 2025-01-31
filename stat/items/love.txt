@@ -48,3 +48,6 @@ Dark Romance + Love = Gothic Novel
 Gandalf + Love = Wizards
 Force + Love = Attraction
 Love + Ring = Engagement
+Elvis Presley + Love = Heartbreak Hotel
+Disaster + Love = Tragicomedy
+Love + Proposal = Engagement Ring

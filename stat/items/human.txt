@@ -105,3 +105,4 @@ Human + Poultry = Eggshell
 Chalkboard + Human = Teacher
 Cave + Human = Caveman
 Human + Romanticism = Poet
+Human + Las Vegas = Elvis Presley

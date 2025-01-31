@@ -10,3 +10,5 @@ Usages:
 =======
 Heart + Rock = Heartstone
 Heart + Love + Rock = Rockstar
+Heart + Tragedy = Grief
+Crash + Heart = Heartbreak

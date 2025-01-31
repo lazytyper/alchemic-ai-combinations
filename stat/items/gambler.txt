@@ -9,3 +9,4 @@ Dice + Outlaw = Gambler
 Usages:
 =======
 Gambler + Human = Risk-Taker
+Gambler + House = Casino

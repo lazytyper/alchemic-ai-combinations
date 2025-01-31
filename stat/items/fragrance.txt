@@ -1,12 +1,12 @@
 ==================================
-= Rose
+= Fragrance
 ==================================
 
 created by:
 ===========
-Love + Plant = Rose
+Beauty + Perfume = Fragrance
+Perfume + Steam = Fragrance
 
 Usages:
 =======
-Rose + Water = Rosewater
-Fairy Tale + Rose = Beauty
+Fragrance + Smoke = Incence

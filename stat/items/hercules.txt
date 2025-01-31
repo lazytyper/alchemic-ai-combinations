@@ -11,3 +11,4 @@ Usages:
 Hercules + Human = Demigod
 Athlete + Hercules = Strongman
 Hercules + Park = Heroics
+Beauty + Hercules = Aphrodite

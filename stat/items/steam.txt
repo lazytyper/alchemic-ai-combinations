@@ -18,3 +18,4 @@ Oasis + Steam = Sauna
 Poisonous Bird + Steam = Extraction
 Pottery + Steam = Ceramics
 Castaway + Steam = Steamship
+Perfume + Steam = Fragrance
