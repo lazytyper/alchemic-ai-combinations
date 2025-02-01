@@ -5,6 +5,7 @@
 created by:
 ===========
 Explorer + History = Adventure
+Safari + Tourist = Adventure
 
 Usages:
 =======

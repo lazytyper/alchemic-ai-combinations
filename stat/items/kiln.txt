@@ -9,3 +9,4 @@ Fire + Mudbrick = Kiln
 Usages:
 =======
 Kiln + Maximum Happiness = Social Liberation
+Kiln + Warrior = Blacksmith

@@ -15,3 +15,4 @@ Crash + Heart = Heartbreak
 Heart + Moonlight = Dreams
 Heart + Weekend = Lovefest
 Heart + Letter = Love Note
+Heart + Letter = Loveletter

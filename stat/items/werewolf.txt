@@ -1,0 +1,11 @@
+==================================
+= Werewolf
+==================================
+
+created by:
+===========
+Partner + Wolf = Werewolf
+
+Usages:
+=======
+Human + Werewolf = Beast

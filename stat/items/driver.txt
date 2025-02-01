@@ -5,9 +5,11 @@
 created by:
 ===========
 Nascar + Race = Driver
+Car + Race = Driver
 
 Usages:
 =======
 Athlete + Driver = Racer
 Driver + Milky Way = Spacecraft
 Driver + Kelpie = Dogman
+Driver + Taxi = Ride Hailing

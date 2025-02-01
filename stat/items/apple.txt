@@ -21,3 +21,6 @@ Apple + Eden = Sin
 Apple + Internet = Siri
 Apple + Caramel = Candy
 Apple + Baker = Pie
+Apple + Blender = Smoothie
+Apple + Desktop = Macintosh
+Apple + Jobs = Iphone

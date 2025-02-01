@@ -1,0 +1,12 @@
+==================================
+= Taxi
+==================================
+
+created by:
+===========
+Car + Car = Taxi
+
+Usages:
+=======
+Driver + Taxi = Ride Hailing
+Human + Taxi = Uber

@@ -10,3 +10,5 @@ Usages:
 =======
 Art + Landscape = Painting
 Art + History + Knowledge = Culture
+Art + Computer = Digital Painting
+Art + Home = Decor

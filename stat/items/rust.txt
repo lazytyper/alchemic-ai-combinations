@@ -9,3 +9,5 @@ Iron Oxide + Oxygen = Rust
 Usages:
 =======
 Rust + Time = Corrosion
+Blacksmith + Rust = Forge
+Forge + Rust = Metal

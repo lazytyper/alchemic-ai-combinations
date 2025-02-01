@@ -12,3 +12,6 @@ Monument + Rock = Stonehenge
 Monument + Rock = Statue
 Monument + Mountain = Mount Rushmore
 Monument + Pyramid = Obelisk
+Los Angeles + Monument = Hollywood
+Monument + New York = Statue Of Liberty
+Hollywood + Monument = Walk Of Fame

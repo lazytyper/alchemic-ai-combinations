@@ -5,6 +5,7 @@
 created by:
 ===========
 Race + Scenery = Road Trip
+Car + Tourist = Road Trip
 
 Usages:
 =======

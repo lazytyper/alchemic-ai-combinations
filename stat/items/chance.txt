@@ -10,3 +10,5 @@ Usages:
 =======
 Arrow + Chance = Dartboard
 Chance + Haunting = Ghost Story
+Chance + Wordplay = Punctuation
+Chance + Letter + Wordplay = Scrabble

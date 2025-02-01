@@ -9,3 +9,4 @@ Genie + Glass = Bottle
 Usages:
 =======
 Bottle + Genie = Lamp
+Bottle + Milk = Dairy

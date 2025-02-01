@@ -68,3 +68,6 @@ Candy + Love = Sweetheart
 Love + Melancholy = Longing
 Island + Love = Honeymoon
 Letter + Love = Poem
+Letter + Love = Valentine
+Letter + Love = Mail
+Love + Smoothie = Passionfruit

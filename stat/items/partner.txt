@@ -24,4 +24,5 @@ Demon + Partner = Demonlord
 Bloodhound + Partner = Detective
 Partner + Sherlock Holmes = Watson
 Partner + Wolf = Pack
+Partner + Wolf = Werewolf
 Partner + Pharao = Cleopatra

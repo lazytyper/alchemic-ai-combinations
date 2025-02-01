@@ -12,3 +12,6 @@ Candy + Love = Sweetheart
 Candlelight + Candy = Sweetness
 Candy + Genie = Candyland
 Candy + Sweetness = Sugar
+Candy + Sweetheart = Sugar Rush
+Candy + Sugar = Sweets
+Candy + Cookie + Milk = Dessert

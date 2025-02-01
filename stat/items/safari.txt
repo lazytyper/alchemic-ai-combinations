@@ -9,3 +9,4 @@ Tourist Attraction + Wildlife = Safari
 Usages:
 =======
 Jungle + Safari = Wilderness
+Safari + Tourist = Adventure

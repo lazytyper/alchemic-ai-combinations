@@ -1,0 +1,11 @@
+==================================
+= Employee
+==================================
+
+created by:
+===========
+Worker + Worker = Employee
+
+Usages:
+=======
+Beast + Employee = Beastmode

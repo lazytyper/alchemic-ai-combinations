@@ -38,3 +38,5 @@ Time + Time-Traveler = Paradox
 Pokemon + Time = Celebi
 Milk + Time = Cheese
 Nightmare + Time = Insomnia
+Machine + Time = Time-Machine
+Sugarcane + Time = Sweetness

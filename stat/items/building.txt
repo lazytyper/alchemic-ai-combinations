@@ -1,0 +1,11 @@
+==================================
+= Building
+==================================
+
+created by:
+===========
+House + Steel = Building
+
+Usages:
+=======
+Building + Building = Skyscraper

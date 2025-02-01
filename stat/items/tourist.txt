@@ -1,0 +1,15 @@
+==================================
+= Tourist
+==================================
+
+created by:
+===========
+Visitor + Zoo = Tourist
+
+Usages:
+=======
+Tourist + Yellowstone = Park Ranger
+Jungle + Tourist = Ecotourism
+Tourist + Tourist = Sightseeing
+Car + Tourist = Road Trip
+Safari + Tourist = Adventure

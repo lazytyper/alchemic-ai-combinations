@@ -10,3 +10,4 @@ Usages:
 =======
 Knowledge + Knowledge = Wisdom
 Art + History + Knowledge = Culture
+Formula + Knowledge = Science

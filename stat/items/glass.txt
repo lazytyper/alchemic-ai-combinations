@@ -18,3 +18,4 @@ Evolution + Glass = Microscope
 Glass + Nemo = Glassfish
 Fish + Glass = Aquarium
 Genie + Glass = Bottle
+Glass + House = Window

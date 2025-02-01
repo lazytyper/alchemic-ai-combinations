@@ -9,3 +9,4 @@ Conflict + Thirst = Warrior
 Usages:
 =======
 Utopia + Warrior = Peacekeeper
+Kiln + Warrior = Blacksmith

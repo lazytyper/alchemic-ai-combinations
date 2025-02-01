@@ -9,3 +9,5 @@ Animal + Grotto = Zoo
 Usages:
 =======
 Animal + Zoo = Lion
+Human + Zoo = Visitor
+Visitor + Zoo = Tourist

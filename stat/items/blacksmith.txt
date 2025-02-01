@@ -1,0 +1,12 @@
+==================================
+= Blacksmith
+==================================
+
+created by:
+===========
+Kiln + Warrior = Blacksmith
+
+Usages:
+=======
+Blacksmith + Sword = Excalibur
+Blacksmith + Rust = Forge

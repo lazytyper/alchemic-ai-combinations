@@ -11,3 +11,4 @@ Usages:
 Human + Yellowstone = Tourist Attraction
 Ranger + Yellowstone = Smokey Bear
 Adventure + Yellowstone = Exploration
+Tourist + Yellowstone = Park Ranger

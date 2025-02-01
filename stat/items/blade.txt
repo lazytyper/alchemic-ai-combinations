@@ -11,3 +11,5 @@ Usages:
 Blade + Lost = Bladeless
 Blade + Legend = Excalibur
 Blade + Knight = Sword
+Blade + Steel = Sword
+Blade + Stone = Knife

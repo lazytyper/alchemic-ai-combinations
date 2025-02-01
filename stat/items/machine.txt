@@ -1,0 +1,12 @@
+==================================
+= Machine
+==================================
+
+created by:
+===========
+Engine + Forge = Machine
+
+Usages:
+=======
+Harvest + Machine = Combine Harvester
+Machine + Time = Time-Machine

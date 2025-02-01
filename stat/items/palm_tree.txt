@@ -9,3 +9,4 @@ Beach + Plant = Palm Tree
 Usages:
 =======
 Harvest + Palm Tree = Coconut
+Palm Tree + Sugar = Sugarcane

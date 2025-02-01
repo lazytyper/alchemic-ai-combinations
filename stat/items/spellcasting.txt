@@ -9,3 +9,4 @@ Spell + Yoga = Spellcasting
 Usages:
 =======
 Neptune + Spellcasting = Aquaman
+Bladerunner + Spellcasting = Cyber Wizard

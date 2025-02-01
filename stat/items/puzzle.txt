@@ -9,3 +9,4 @@ Crossword + Crossword = Puzzle
 Usages:
 =======
 Poet + Puzzle = Riddle
+Puzzle + Sentence = Wordplay

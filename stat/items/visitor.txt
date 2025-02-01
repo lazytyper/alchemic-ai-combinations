@@ -1,0 +1,11 @@
+==================================
+= Visitor
+==================================
+
+created by:
+===========
+Human + Zoo = Visitor
+
+Usages:
+=======
+Visitor + Zoo = Tourist

@@ -1,0 +1,11 @@
+==================================
+= Scrabble
+==================================
+
+created by:
+===========
+Chance + Letter + Wordplay = Scrabble
+
+Usages:
+=======
+Letter + Scrabble = Word Game

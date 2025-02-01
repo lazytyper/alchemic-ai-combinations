@@ -9,3 +9,4 @@ City + Washington = Seattle
 Usages:
 =======
 Human + Seattle = Frasier
+Race + Seattle = Seattleite

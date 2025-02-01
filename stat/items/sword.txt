@@ -5,8 +5,11 @@
 created by:
 ===========
 Blade + Knight = Sword
+Blade + Steel = Sword
 
 Usages:
 =======
 Sword + Sword = Excalibur
 Knight + Sword = Excalibur
+Blacksmith + Sword = Excalibur
+Forge + Sword = Excalibur

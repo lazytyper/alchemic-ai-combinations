@@ -12,4 +12,5 @@ Forest + Wolf = Red Riding Hood
 Fairy Tale + Wolf = Red Riding Hood
 Grimm + Wolf = Wolfman
 Partner + Wolf = Pack
+Partner + Wolf = Werewolf
 Pack + Wolf = Alpha

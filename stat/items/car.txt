@@ -1,0 +1,17 @@
+==================================
+= Car
+==================================
+
+created by:
+===========
+Engine + Human = Car
+Combustion + Engine = Car
+
+Usages:
+=======
+Car + Race = Driver
+Car + Car = Taxi
+Car + Car + Car + Car = Traffic Jam
+Car + Car + Car = Traffic Jam
+Car + Car + Car = Gridlock
+Car + Tourist = Road Trip

@@ -1,0 +1,11 @@
+==================================
+= Skyscraper
+==================================
+
+created by:
+===========
+Building + Building = Skyscraper
+
+Usages:
+=======
+Skyscraper + Worker = Construction

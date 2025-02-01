@@ -13,3 +13,5 @@ Fairy Tale + Rose = Beauty
 Bouquet + Rose = Flower Shop
 Greenhouse + Rose = Floriculture
 Floral Growth + Rose = Rosebush
+Engine + Rose = Engineer
+Letter + Rose = Rosette

@@ -1,0 +1,13 @@
+==================================
+= Smoothie
+==================================
+
+created by:
+===========
+Milk + Yogurt = Smoothie
+Apple + Blender = Smoothie
+
+Usages:
+=======
+Love + Smoothie = Passionfruit
+Engine + Smoothie = Blend

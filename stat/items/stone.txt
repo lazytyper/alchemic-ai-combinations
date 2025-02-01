@@ -19,3 +19,5 @@ Air + Stone = Sand
 Air + Stone = Rock
 Air + Stone = Diamond
 Combustion + Stone = Fire Rock
+Blade + Stone = Knife
+Knife + Stone = Sharpener

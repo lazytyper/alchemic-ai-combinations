@@ -1,0 +1,13 @@
+==================================
+= Wordplay
+==================================
+
+created by:
+===========
+Puzzle + Sentence = Wordplay
+
+Usages:
+=======
+Chance + Wordplay = Punctuation
+Letter + Wordplay = Pun
+Chance + Letter + Wordplay = Scrabble

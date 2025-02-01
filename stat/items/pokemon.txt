@@ -14,3 +14,5 @@ Genie + Pokemon = Magikarp
 Genie + Pokemon = Jirachi
 Pokemon + Time = Celebi
 1-Up + Pokemon = Power-Up
+Award + Pokemon = Ash Ketchu
+Computer + Pokemon = Virtual Reality

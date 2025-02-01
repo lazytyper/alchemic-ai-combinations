@@ -23,3 +23,5 @@ Daytona + Race = Nascar
 Nascar + Race = Driver
 Civic + Race = Civil Rights
 Champion + Race = Winner
+Car + Race = Driver
+Race + Seattle = Seattleite

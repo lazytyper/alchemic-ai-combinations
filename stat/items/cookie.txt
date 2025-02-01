@@ -11,3 +11,4 @@ Usages:
 Cookie + Cookie = Oreo
 Cookie + Cookie + Cookie + Cookie = Batch
 Baby + Cookie = Milk
+Candy + Cookie + Milk = Dessert
