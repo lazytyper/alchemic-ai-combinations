@@ -17,3 +17,4 @@ Cinderella + Glass + Slipper = Cinderella's Slip
 Evolution + Glass = Microscope
 Glass + Nemo = Glassfish
 Fish + Glass = Aquarium
+Genie + Glass = Bottle

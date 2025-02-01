@@ -9,3 +9,4 @@ Fairy + Healing Ceremony = Wishcraft
 Usages:
 =======
 Rainforest + Wishcraft = Magical Jungle
+Wish Come True + Wishcraft = Genie

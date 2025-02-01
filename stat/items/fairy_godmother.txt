@@ -9,3 +9,4 @@ Cinderella + Spellcaster = Fairy Godmother
 Usages:
 =======
 Fairy Godmother + Plantation = Magic Farm
+Aurora Borealis + Fairy Godmother = Wish Come True

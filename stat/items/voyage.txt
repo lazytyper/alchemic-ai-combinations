@@ -9,3 +9,5 @@ Expedition + Ocean = Voyage
 Usages:
 =======
 Voyage + Voyage = Journey
+Serene + Voyage = Serenity
+Voyage + Weekend = Getaway

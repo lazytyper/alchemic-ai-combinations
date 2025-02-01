@@ -9,3 +9,4 @@ Harvest + Palm Tree = Coconut
 Usages:
 =======
 Animal + Coconut = Monkey
+Coconut + Transparency = Clear Water

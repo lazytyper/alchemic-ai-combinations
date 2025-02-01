@@ -1,0 +1,11 @@
+==================================
+= Boatman
+==================================
+
+created by:
+===========
+Boat + Bond = Boatman
+
+Usages:
+=======
+Boat + Boatman = Rower

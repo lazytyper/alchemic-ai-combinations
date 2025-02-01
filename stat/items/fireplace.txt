@@ -18,3 +18,4 @@ Dough + Fireplace = Pizza
 Cozy + Fireplace = Hygge
 Cozy + Fireplace + Romance = Candlelight
 Fireplace + Matchmaker = Hot Date
+Fireplace + Genie = Lamp

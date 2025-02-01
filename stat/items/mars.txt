@@ -10,3 +10,4 @@ Desert + Planet = Mars
 Usages:
 =======
 Duplicate + Mars = Twin
+Flame Princess + Mars = Fire Planet

@@ -10,3 +10,4 @@ Usages:
 =======
 Cinderella + Spellcaster = Fairy Godmother
 Human + Spellcaster = Witch
+Archangel + Spellcaster = Magus

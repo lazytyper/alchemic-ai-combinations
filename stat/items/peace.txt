@@ -9,3 +9,4 @@ Flower + Solitude = Peace
 Usages:
 =======
 Bird + Peace = Dove
+Peace + Yosemite = Tranquility

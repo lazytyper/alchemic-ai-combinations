@@ -61,3 +61,6 @@ Concert + Love = Music Festival
 Love + Music Festival = Woodstock
 Dreamscape + Love = Fantasia
 Computer + Love = Online Dating
+Love + Robot = Android
+Genie + Love = Wish
+Love + Wish = Desire

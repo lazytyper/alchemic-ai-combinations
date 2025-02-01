@@ -11,3 +11,4 @@ Usages:
 Adventure + Human = Explorer
 Adventure + Everest = Expedition
 Adventure + Yellowstone = Exploration
+Adventure + Genie = Magic Carpet

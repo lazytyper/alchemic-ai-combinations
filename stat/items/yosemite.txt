@@ -9,3 +9,4 @@ Love + National Park = Yosemite
 Usages:
 =======
 Night + Yosemite = Moonlight
+Peace + Yosemite = Tranquility

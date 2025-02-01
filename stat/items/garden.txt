@@ -17,3 +17,4 @@ Garden + Jungle Ride = Theme Park
 Garden + Sorcery = Herbology
 Garden + Nature = Park
 Bicycle + Garden = Bike Path
+Garden + Tranquility = Serene

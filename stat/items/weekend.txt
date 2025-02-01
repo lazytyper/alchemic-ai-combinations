@@ -1,0 +1,13 @@
+==================================
+= Weekend
+==================================
+
+created by:
+===========
+Day + Friday = Weekend
+
+Usages:
+=======
+Voyage + Weekend = Getaway
+Heart + Weekend = Lovefest
+Day + Weekend = Holiday

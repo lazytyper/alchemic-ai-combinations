@@ -13,3 +13,5 @@ Day + Reflection = Contemplation
 Day + Media Summit = Daydream
 Day + Day = Night
 Day + Night = 24 Hours
+Day + Friday = Weekend
+Day + Weekend = Holiday

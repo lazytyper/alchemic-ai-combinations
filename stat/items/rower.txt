@@ -1,0 +1,11 @@
+==================================
+= Rower
+==================================
+
+created by:
+===========
+Boat + Boatman = Rower
+
+Usages:
+=======
+Boat + Rower = Rowboat

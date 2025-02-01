@@ -12,3 +12,4 @@ Greenhouse + Isolation = Biodome
 Flower + Isolation = Solitude
 Isolation + Rage = Solitude
 Human + Isolation = Loneliness
+Isolation + Smoked Salmon = Quarantine

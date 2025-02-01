@@ -10,3 +10,4 @@ Usages:
 =======
 Charizard + Society = Dragon Cult
 Charizard + Dryad = Dragonwood
+Charizard + Ghostbuster = Spirit Flame

@@ -9,3 +9,4 @@ Starship + Starship = Enterprise
 Usages:
 =======
 Enterprise + Space = Star Trek
+Enterprise + Robot = Starfleet

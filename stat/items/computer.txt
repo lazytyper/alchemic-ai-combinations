@@ -17,3 +17,4 @@ Computer + Poetry = Cyberverse
 Computer + Livestock = Farmbot
 Computer + Love = Online Dating
 Bird + Computer + River = Byte
+Computer + Data = Information

@@ -14,3 +14,4 @@ Fairy Tale + Landscape = Storybook
 Fairy Tale + Grimm = Cinderella
 Fairy Tale + Rose = Beauty
 Fairy + Fairy Tale = Pixie Dust
+Fairy Tale + Magic Carpet = Aladdin

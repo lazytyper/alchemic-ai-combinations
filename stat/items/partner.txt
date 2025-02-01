@@ -17,3 +17,5 @@ Partner + Queen = King
 King + Partner = Queen
 Mario + Partner = Luigi
 Partner + Princess = Royal Wedding
+Partner + Robinson Crusoe = Friday
+Partner + Retreat = Couples Therapy

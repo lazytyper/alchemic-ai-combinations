@@ -9,3 +9,6 @@ Bond + Partner = Couple
 Usages:
 =======
 Couple + Time = Date
+Couple + Serene = Togetherness
+Couple + Date = Romantic Evening
+Couple + Rowboat = Loveboat

@@ -11,3 +11,4 @@ Usages:
 Castaway + Love = Loneliness
 Castaway + Horticulture = Island Garden
 Castaway + Steam = Steamship
+Castaway + Peaceful Beach = Robinson Crusoe

@@ -12,3 +12,6 @@ Boat + Boat = Ship
 Boat + Stone = Anchor
 Boat + Boat + Boat + Boat = Armada
 Boat + Boat + Boat + Boat = Fleet
+Boat + Bond = Boatman
+Boat + Boatman = Rower
+Boat + Rower = Rowboat

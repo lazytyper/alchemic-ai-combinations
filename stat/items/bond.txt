@@ -11,3 +11,4 @@ Usages:
 Bond + Love = Relationship
 Bond + Partner = Couple
 Bond + Fossil = Bonding Agent
+Boat + Bond = Boatman

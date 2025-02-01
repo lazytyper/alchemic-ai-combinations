@@ -24,3 +24,4 @@ Political Corruption + Sun = Sunshine Law
 Night + Sun = Moon
 Moon + Sun = Eclipse
 Diamond + Sun = Star
+Serenity + Sun = Peaceful Beach

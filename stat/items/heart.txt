@@ -13,3 +13,4 @@ Heart + Love + Rock = Rockstar
 Heart + Tragedy = Grief
 Crash + Heart = Heartbreak
 Heart + Moonlight = Dreams
+Heart + Weekend = Lovefest
