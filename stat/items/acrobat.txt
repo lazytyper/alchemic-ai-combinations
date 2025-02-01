@@ -9,3 +9,4 @@ Human + Tightrope = Acrobat
 Usages:
 =======
 Acrobat + Adobe = Reader
+Acrobat + Circus = Tightrope Walker

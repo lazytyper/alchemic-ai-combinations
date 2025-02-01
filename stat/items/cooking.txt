@@ -10,4 +10,4 @@ Usages:
 =======
 Cooking + Hearth = Kitchen
 Cooking + Kitchen = Recipe
-Cooking + Sushibar = Sushi Chef
+Cooking + Sushi Bar = Sushi Chef

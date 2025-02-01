@@ -10,3 +10,5 @@ Usages:
 =======
 Microscope + Pollen = Grain
 Microscope + Mold = Fungus
+Air + Microscope = Bacteria
+Bacteria + Microscope = Germ Theory

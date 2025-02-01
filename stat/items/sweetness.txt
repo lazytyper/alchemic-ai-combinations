@@ -10,3 +10,4 @@ Sugarcane + Time = Sweetness
 Usages:
 =======
 Candy + Sweetness = Sugar
+Animal + Sweetness = Honeybee

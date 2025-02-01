@@ -9,3 +9,4 @@ Nighttime + Vase = Moonflower
 Usages:
 =======
 Genie + Moonflower = Wishing Tree
+Moonflower + Protector = Night Guard

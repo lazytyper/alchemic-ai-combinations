@@ -10,3 +10,4 @@ Usages:
 =======
 Noise + Thunderstorm = Thunder
 Galaxy + Noise = Cosmic Static
+Calzone + Noise + Reincarnation + Slipper = Sneaker

@@ -16,3 +16,4 @@ Caramel Apple + Picnic = Carnival
 Carnival + Picnic = Festival
 Festival + Picnic = Outing
 Park + Picnic = Lunchtime
+Animal + Picnic = Antelope

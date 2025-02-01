@@ -15,3 +15,4 @@ Reincarnation + Sauna = Sweat Lodge
 Planet + Reincarnation = Marsupilami
 Firestorm + Reincarnation = Phoenix
 Hell + Reincarnation = Purgatory
+Calzone + Noise + Reincarnation + Slipper = Sneaker

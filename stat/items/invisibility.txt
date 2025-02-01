@@ -9,3 +9,4 @@ Camouflage + Genie = Invisibility
 Usages:
 =======
 Human + Invisibility = Hollow Man
+Invisibility + Ring = Ringwraith

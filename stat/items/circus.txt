@@ -12,3 +12,4 @@ Circus + Volcano Roll = Fire Performer
 Artist + Circus = Clown
 Animal + Circus = Elephant
 Balance + Circus = Tightrope
+Acrobat + Circus = Tightrope Walker

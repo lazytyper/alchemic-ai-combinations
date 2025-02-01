@@ -15,3 +15,4 @@ Animation + Sustainability = Green Films
 Animation + Evil = Maleficent
 Animation + Rainbow Frog = Kermit
 Animation + Candle = Wax Figure
+Animation + Pharao = Mummy Movie

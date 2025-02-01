@@ -9,3 +9,4 @@ City + Los Angeles = New York
 Usages:
 =======
 Monument + New York = Statue Of Liberty
+New York + Tightrope Walker = Nik Wallenda

@@ -9,3 +9,4 @@ Computer + Love = Online Dating
 Usages:
 =======
 Date + Online Dating = Matchmaking
+Eclipse + Online Dating = Moonlight Romance

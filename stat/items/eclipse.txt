@@ -9,3 +9,4 @@ Moon + Sun = Eclipse
 Usages:
 =======
 Eclipse + Feudalism = Dark Ages
+Eclipse + Online Dating = Moonlight Romance

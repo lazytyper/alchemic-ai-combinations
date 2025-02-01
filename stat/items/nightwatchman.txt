@@ -1,0 +1,11 @@
+==================================
+= Nightwatchman
+==================================
+
+created by:
+===========
+Museum + Night Guard = Nightwatchman
+
+Usages:
+=======
+Museum + Nightwatchman = Ghost

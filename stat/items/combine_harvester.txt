@@ -1,0 +1,11 @@
+==================================
+= Combine Harvester
+==================================
+
+created by:
+===========
+Harvest + Machine = Combine Harvester
+
+Usages:
+=======
+Combine Harvester + Replicant = Farm Bot

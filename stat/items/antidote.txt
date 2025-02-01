@@ -13,3 +13,4 @@ Adobe + Antidote = Mortar
 Antidote + Exploration = Discovery
 Antidote + Firebender = Phoenix Feather
 Antidote + Poison = Cure
+Antidote + Botanical Garden = Herbarium

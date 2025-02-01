@@ -9,3 +9,4 @@ Darkness + Sculpture = Shadow
 Usages:
 =======
 Human + Shadow = Silhouette
+Ariel + Shadow = Underwater Ballet

@@ -16,3 +16,4 @@ Pokemon + Time = Celebi
 1-Up + Pokemon = Power-Up
 Award + Pokemon = Ash Ketchu
 Computer + Pokemon = Virtual Reality
+Animal + Pokemon = Pikachu

@@ -10,3 +10,4 @@ Usages:
 =======
 Honeymoon + Serenity = Bliss
 Serenity + Sun = Peaceful Beach
+Animal + Serenity = Zookeeper

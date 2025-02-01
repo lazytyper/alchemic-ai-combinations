@@ -9,3 +9,4 @@ Abyss + Nautilus = Submarine
 Usages:
 =======
 Ballad + Submarine = Sonar
+Fukushima + Submarine = Nuclear Sub

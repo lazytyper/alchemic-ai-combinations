@@ -10,3 +10,4 @@ Usages:
 =======
 Blossom + Ocean = Seashell
 Blossom + Flower = Bouquet
+Blossom + Grim Reaper = Death Flower

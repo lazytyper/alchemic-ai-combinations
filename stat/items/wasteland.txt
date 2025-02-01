@@ -9,3 +9,4 @@ Crop Damage + Dystopia = Wasteland
 Usages:
 =======
 Sky God + Wasteland = Air Disaster
+Poultry + Wasteland = Chicken Run

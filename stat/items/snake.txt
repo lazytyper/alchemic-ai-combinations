@@ -11,4 +11,4 @@ Usages:
 Eden + Snake = Original Sin
 Eve + Snake = Original Sin
 Sin + Snake = Temptation
-Snake + Tamptation = Satan
+Snake + Temptation = Satan

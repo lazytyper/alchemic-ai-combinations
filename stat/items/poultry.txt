@@ -9,3 +9,4 @@ Agribusiness + Chicken = Poultry
 Usages:
 =======
 Human + Poultry = Eggshell
+Poultry + Wasteland = Chicken Run

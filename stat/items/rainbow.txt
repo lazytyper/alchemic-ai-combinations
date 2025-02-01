@@ -12,3 +12,4 @@ Usages:
 =======
 Plant + Rainbow = Flower Garden
 Animal + Rainbow = Unicorn
+Rainbow + Rainbow = Spectrum

@@ -10,3 +10,4 @@ Usages:
 =======
 Star + Star = Binary System
 Star + Star + Star + Star = Supernova
+Dust + Star = Comet

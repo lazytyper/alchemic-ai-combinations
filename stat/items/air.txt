@@ -39,3 +39,5 @@ Air + Beauty = Fairy
 Air + Charmander = Smogon
 Air + Philosophy = Ethics
 Air + Magic Carpet = Flying Carpet
+Air + Microscope = Bacteria
+Air + Bacteria = Germs

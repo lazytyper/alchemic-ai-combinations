@@ -9,3 +9,4 @@ Firefighter + Human = Rescue Team
 Usages:
 =======
 Human + Rescue Team = Paramedic
+Hermes + Rescue Team = Messenger

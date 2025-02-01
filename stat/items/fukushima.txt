@@ -11,3 +11,4 @@ Usages:
 Fukushima + Mirror = Reflection
 Fukushima + Fukushima = Nuclear Disaster
 Chernobyl + Fukushima = Nuclear Disaster
+Fukushima + Submarine = Nuclear Sub

@@ -9,3 +9,4 @@ Pyramid + Pyramid = Pharao
 Usages:
 =======
 Partner + Pharao = Cleopatra
+Animation + Pharao = Mummy Movie

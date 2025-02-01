@@ -10,3 +10,4 @@ Usages:
 =======
 Grim Reaper + Time = Death Clock
 Grim Reaper + Human = Death
+Blossom + Grim Reaper = Death Flower

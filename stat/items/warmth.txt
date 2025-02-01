@@ -9,3 +9,4 @@ Coziness + Fireplace = Warmth
 Usages:
 =======
 Coziness + Warmth = Comfort
+Animal + Warmth = Blanket

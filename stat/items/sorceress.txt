@@ -9,3 +9,4 @@ Herbalist + Moonlight = Sorceress
 Usages:
 =======
 Sorceress + Waves = Sea Witch
+Animal + Sorceress = Beastmaster

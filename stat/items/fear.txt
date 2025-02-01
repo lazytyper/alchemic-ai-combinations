@@ -9,3 +9,4 @@ Monster + Nightmare = Fear
 Usages:
 =======
 Fear + Monster = Terror
+Animal + Fear = Phobia

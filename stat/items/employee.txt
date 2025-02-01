@@ -9,3 +9,4 @@ Worker + Worker = Employee
 Usages:
 =======
 Beast + Employee = Beastmode
+Employee + Poisonous = Toxic Worker

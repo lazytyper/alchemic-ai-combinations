@@ -9,3 +9,4 @@ Flash + God = Hermes
 Usages:
 =======
 Hermes + Racecar = Speedster
+Hermes + Rescue Team = Messenger

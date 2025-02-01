@@ -9,3 +9,4 @@ Angel + Guardian = Protector
 Usages:
 =======
 Disaster + Protector = Emergency
+Moonflower + Protector = Night Guard

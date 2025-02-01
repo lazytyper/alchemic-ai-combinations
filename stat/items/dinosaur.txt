@@ -11,3 +11,4 @@ Usages:
 Dinosaur + Evolution = Bird
 Dinosaur + Evolution = Prehistoric Adaption
 Dinosaur + Universe = Jurassic Park
+Dinosaur + Dinosaur = T-Rex

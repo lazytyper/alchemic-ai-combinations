@@ -8,3 +8,4 @@ Flower Garden + Herbology = Botanical Garden
 
 Usages:
 =======
+Antidote + Botanical Garden = Herbarium

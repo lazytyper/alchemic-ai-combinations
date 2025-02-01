@@ -9,3 +9,4 @@ Cinderella + Glass = Slipper
 Usages:
 =======
 Cinderella + Glass + Slipper = Cinderella's Slip
+Calzone + Noise + Reincarnation + Slipper = Sneaker

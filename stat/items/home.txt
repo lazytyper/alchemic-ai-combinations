@@ -13,3 +13,4 @@ Usages:
 Home + Love = Family
 Comfort + Home = Cozy
 Art + Home = Decor
+Home + Illustration = Blueprint

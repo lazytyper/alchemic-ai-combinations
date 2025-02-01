@@ -10,3 +10,4 @@ Usages:
 =======
 Aquarius + Bird = Birdman
 Aquarius + National Park = Trailblazer
+Animal + Aquarius = Griffin

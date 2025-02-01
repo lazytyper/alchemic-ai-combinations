@@ -10,3 +10,4 @@ Usages:
 =======
 Fireplace + Gandalf = Wizardry
 Gandalf + Love = Wizards
+Gandalf + Habitat = Middle-Earth

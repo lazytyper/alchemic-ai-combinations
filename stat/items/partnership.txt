@@ -10,3 +10,4 @@ Usages:
 =======
 Love + Partnership = Relationship
 Partnership + Playhouse = Theater
+Animal + Partnership = Team
