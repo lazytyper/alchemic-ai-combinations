@@ -175,8 +175,8 @@ function createHTML() {
     for (let item of itemsSorted) {
         const { name, create, use } = item;
         let content = [
-            `<a name="${name}"></a>
-            <h2>${formatElement(name)}</h2>`
+            `<a name="${name}"></a>`,
+            `<h2>${formatElement(name)}</h2>`
         ];
 
         content.push('<h3>Created by:</h3>');
