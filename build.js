@@ -177,7 +177,6 @@ function createHTML() {
         let content = [
             `<a name="${name}"></a>
             <h2>${formatElement(name)}</h2>`
-
         ];
 
         content.push('<h3>Created by:</h3>');
@@ -212,7 +211,7 @@ function createHTML() {
     fs.writeFileSync('stat/index.html', preHTML + blocks.join('\n') + postHTML);
 }
 
-// missing items
+// items without known combinations
 const itemsWithNoCreate = itemsSorted.filter(item => item.create.length === 0 && !(['air', 'earth', 'fire', 'water'].includes(item.name)));
 let content = itemsWithNoCreate.map(item => formatElement(item.name)).join('\n');
 fs.writeFileSync('stat/missing.txt', content);

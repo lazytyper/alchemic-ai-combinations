@@ -12,3 +12,4 @@ Electricity + Human = Lightning Person
 Bicycle + Electricity = E-Bike
 Catastrophe + Electricity = Blackout
 Blackout + Electricity = Power Outage
+Dual System + Electricity = Hybrid

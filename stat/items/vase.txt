@@ -15,3 +15,4 @@ Plants + Vase = Flower Arrangement
 Outlaw + Vase = Banditry
 Hurricane + Vase = Windbreak
 Vase + Vase = Amphora
+Nighttime + Vase = Moonflower

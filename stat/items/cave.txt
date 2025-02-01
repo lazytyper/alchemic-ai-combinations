@@ -9,3 +9,5 @@ Air + Stone = Cave
 Usages:
 =======
 Cave + Human = Caveman
+Cave + Family = Batcave
+Athlete + Cave = Spelunker

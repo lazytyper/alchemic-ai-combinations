@@ -9,3 +9,4 @@ Dinosaur + Universe = Jurassic Park
 Usages:
 =======
 Jurassic Park + Ranger = Dinosaurs
+Jurassic Park + Lava Lamp = Dinosaur Lamp

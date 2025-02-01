@@ -113,3 +113,6 @@ Beehive + Human = Hive Mind
 Human + Rescue Team = Paramedic
 Human + Shadow = Silhouette
 Human + Memory Loss = Amnesia
+Cupid + Human = Love
+Darkness + Human = Nightmare
+Cyberverse + Human = Cyborg

@@ -23,3 +23,4 @@ National Park + Sun = Hiking
 Political Corruption + Sun = Sunshine Law
 Night + Sun = Moon
 Moon + Sun = Eclipse
+Diamond + Sun = Star

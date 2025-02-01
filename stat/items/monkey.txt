@@ -9,3 +9,4 @@ Animal + Coconut = Monkey
 Usages:
 =======
 Monkey + Monkey = Chimpanzee
+Humanity + Monkey = Hominid

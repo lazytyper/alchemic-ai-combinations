@@ -9,3 +9,4 @@ Casino + City = Las Vegas
 Usages:
 =======
 Human + Las Vegas = Elvis Presley
+Las Vegas + Romance = Wedding

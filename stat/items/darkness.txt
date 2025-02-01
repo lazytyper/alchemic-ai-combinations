@@ -11,3 +11,4 @@ Usages:
 =======
 Darkness + Darkness = Black Hole
 Darkness + Sculpture = Shadow
+Darkness + Human = Nightmare

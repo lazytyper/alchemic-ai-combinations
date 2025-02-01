@@ -9,3 +9,4 @@ Cupid + Hellscape = Demon
 Usages:
 =======
 Demon + House = Haunted
+Demon + Fortress = Demonology

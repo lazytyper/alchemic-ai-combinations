@@ -9,3 +9,4 @@ Aquarium + Astrology = Aquarius
 Usages:
 =======
 Aquarius + Bird = Birdman
+Aquarius + National Park = Trailblazer

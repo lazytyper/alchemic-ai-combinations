@@ -9,3 +9,4 @@ Bonfire + Cozy = Campfire
 Usages:
 =======
 Campfire + Comfort = S'mores
+Campfire + Rescue Squad = Firefighters

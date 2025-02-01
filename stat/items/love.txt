@@ -5,6 +5,7 @@
 created by:
 ===========
 Life + Venus = Love
+Cupid + Human = Love
 
 Usages:
 =======
@@ -59,3 +60,4 @@ Love + Mistake = Heartbreak
 Concert + Love = Music Festival
 Love + Music Festival = Woodstock
 Dreamscape + Love = Fantasia
+Computer + Love = Online Dating

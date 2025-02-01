@@ -10,3 +10,4 @@ Usages:
 =======
 Greenhouse + Isolation = Biodome
 Greenhouse + Rose = Floriculture
+Greenhouse + Grim Fairytale = Pumpkin Coach

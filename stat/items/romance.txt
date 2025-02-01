@@ -14,3 +14,5 @@ Anarchist + Romance = Love Revolution
 Poetry + Romance = Sonnet
 Fireplace + Romance = Coziness
 Cozy + Fireplace + Romance = Candlelight
+Candlelight + Romance = Ambiance
+Las Vegas + Romance = Wedding

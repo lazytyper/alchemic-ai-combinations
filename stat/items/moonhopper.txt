@@ -9,3 +9,4 @@ Frog Giggling + Spacelink = Moonhopper
 Usages:
 =======
 Moonhopper + Neil Armstrong = Moonwalker
+Egghead + Moonhopper = Moonbrain

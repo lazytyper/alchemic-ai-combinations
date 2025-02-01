@@ -17,3 +17,4 @@ Demonic Ritual + Diamond = Soul Gem
 Diamond + Marriage = Ring
 Diamond + Romeo = Juliet
 Diamond + Juliet = Jewel
+Diamond + Sun = Star

@@ -1,0 +1,11 @@
+==================================
+= Rust
+==================================
+
+created by:
+===========
+Iron Oxide + Oxygen = Rust
+
+Usages:
+=======
+Rust + Time = Corrosion

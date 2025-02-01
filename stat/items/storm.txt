@@ -5,6 +5,7 @@
 created by:
 ===========
 Weather + Wind = Storm
+Cloud + Cloud + Cloud = Storm
 
 Usages:
 =======

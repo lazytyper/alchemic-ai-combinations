@@ -9,3 +9,4 @@ Bird + Scarecrow = Feather
 Usages:
 =======
 Feather + Feather = Wing
+Feather + Rescue Squad = Angel

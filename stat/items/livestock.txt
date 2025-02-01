@@ -10,3 +10,4 @@ Usages:
 =======
 Egg + Livestock = Chicken
 Farmer + Livestock = Cattle Ranger
+Computer + Livestock = Farmbot

@@ -17,3 +17,5 @@ Climate Change + Oxygen = Global Warming
 Nature + Oxygen = Trees
 Flash + Oxygen = Spark
 Dystopia + Oxygen = Ecology
+Fool's Gold + Oxygen = Iron Oxide
+Iron Oxide + Oxygen = Rust

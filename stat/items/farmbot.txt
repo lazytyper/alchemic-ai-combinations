@@ -1,0 +1,11 @@
+==================================
+= Farmbot
+==================================
+
+created by:
+===========
+Computer + Livestock = Farmbot
+
+Usages:
+=======
+Farmbot + Farmbot = Automation

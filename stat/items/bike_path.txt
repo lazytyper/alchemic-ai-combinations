@@ -1,0 +1,11 @@
+==================================
+= Bike Path
+==================================
+
+created by:
+===========
+Bicycle + Garden = Bike Path
+
+Usages:
+=======
+Bike Path + Happy Harvest = Cycleway

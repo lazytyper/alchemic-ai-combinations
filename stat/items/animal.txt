@@ -19,3 +19,4 @@ Animal + Circus = Elephant
 Animal + Baby = Cub
 Animal + Milk = Cow
 Animal + River = Otter
+Animal + Chaos = Pandemonium

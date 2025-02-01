@@ -16,3 +16,6 @@ Cloud + Storm = Thunderstorm
 Cloud + Pottery = Vase
 Cloud + Mangrove = Cloudforest
 Cloud + Combustion = Smog
+Cloud + Cloud + Cloud + Cloud = Stormy Sky
+Cloud + Cloud + Cloud = Storm
+Cloud + Cloud + Cloud = Rainbow

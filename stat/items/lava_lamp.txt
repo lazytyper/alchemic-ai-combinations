@@ -15,3 +15,4 @@ Lava Lamp + Life = Vital Fluid
 Lava Lamp + Life = Volcanic Eruption
 Clay Soil + Lava Lamp = Magma Lamp
 Lava Lamp + Underwater World = Aquarium Lamp
+Jurassic Park + Lava Lamp = Dinosaur Lamp

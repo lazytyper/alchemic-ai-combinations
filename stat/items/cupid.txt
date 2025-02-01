@@ -14,3 +14,4 @@ Cupid + Love = Matchmaker
 Cupid + Love = Eros
 Cupid + Hellscape = Demon
 Cupid + Elvis Presley = Love Me Tender
+Cupid + Human = Love

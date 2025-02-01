@@ -14,3 +14,4 @@ Corruption + View = Perspective
 Poseidon + View = Ocean Vista
 Landscape + View = Scenery
 Shark + View = Sharknado
+Mount Rushmore + View = Landmark

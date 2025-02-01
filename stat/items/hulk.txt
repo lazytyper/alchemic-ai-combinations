@@ -11,3 +11,4 @@ Usages:
 Hulk + Human = Monster
 Godzilla + Hulk = Kaiju
 Hulk + Magic Spell = Charmander
+Hulk + Spouse = She-Hulk

@@ -11,3 +11,5 @@ Usages:
 Kelpie + Rescue Squad = Water Rescue
 Rescue Squad + Swimmer = Lifeguard
 Dolphin + Rescue Squad = Flipper
+Feather + Rescue Squad = Angel
+Campfire + Rescue Squad = Firefighters

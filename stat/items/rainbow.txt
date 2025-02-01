@@ -6,6 +6,7 @@ created by:
 ===========
 Rain + Sunflower = Rainbow
 Fogbow + Thunder = Rainbow
+Cloud + Cloud + Cloud = Rainbow
 
 Usages:
 =======

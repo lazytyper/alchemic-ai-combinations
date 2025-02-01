@@ -9,3 +9,4 @@ Wall + Wall = Fortress
 Usages:
 =======
 Fortress + Monarch = Castle
+Demon + Fortress = Demonology

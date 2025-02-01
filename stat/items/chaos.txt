@@ -9,3 +9,4 @@ Disaster + Godzilla = Chaos
 Usages:
 =======
 Chaos + Human = Anarchy
+Animal + Chaos = Pandemonium

@@ -9,3 +9,4 @@ Midnight + Sky = Nighttime
 Usages:
 =======
 Nighttime + Sky = Stars
+Nighttime + Vase = Moonflower
