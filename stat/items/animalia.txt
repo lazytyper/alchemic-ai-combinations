@@ -12,3 +12,4 @@ Animalia + Mountaineer = Mountain Goat
 Animalia + Mountain = Goat
 Animalia + Everest = Yeti
 Animalia + Animalia = Zoology
+Alligator + Animalia = Reptile

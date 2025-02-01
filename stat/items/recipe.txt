@@ -1,14 +1,12 @@
 ==================================
-= Sin
+= Recipe
 ==================================
 
 created by:
 ===========
-Apple + Eden = Sin
-Adam + Eve = Sin
+Cooking + Kitchen = Recipe
 
 Usages:
 =======
-Human + Sin = Adam
-Huma + Sin = Fallen Angel
-Sin + Snake = Temptation
+Pizza + Recipe = Cookbook
+Recipe + Sushi Chef = Nigiri

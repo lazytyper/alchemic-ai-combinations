@@ -135,3 +135,6 @@ Human + Macintosh = Steve Jobs
 Human + Jobs = Worker
 Human + Werewolf = Beast
 Human + Lover = Romantic Relationship
+Human + Mugshot = Criminal
+Baby + Human = Child
+Human + Tightrope = Acrobat

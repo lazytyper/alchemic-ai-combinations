@@ -10,3 +10,4 @@ Usages:
 =======
 Beach + Plant = Palm Tree
 Beach + Genie = Sandman
+Beach + Miami = Florida

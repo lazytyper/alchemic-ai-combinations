@@ -15,3 +15,5 @@ City + Obelisk = Washington
 City + Washington = Seattle
 City + Oscar = Los Angeles
 City + Los Angeles = New York
+Alligator + City = Miami
+Carnival + City = Rio

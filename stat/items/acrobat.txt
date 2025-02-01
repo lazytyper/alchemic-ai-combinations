@@ -1,14 +1,11 @@
 ==================================
-= Sin
+= Acrobat
 ==================================
 
 created by:
 ===========
-Apple + Eden = Sin
-Adam + Eve = Sin
+Human + Tightrope = Acrobat
 
 Usages:
 =======
-Human + Sin = Adam
-Huma + Sin = Fallen Angel
-Sin + Snake = Temptation
+Acrobat + Adobe = Reader

@@ -1,14 +1,11 @@
 ==================================
-= Sin
+= Sushi Chef
 ==================================
 
 created by:
 ===========
-Apple + Eden = Sin
-Adam + Eve = Sin
+Cooking + Sushibar = Sushi Chef
 
 Usages:
 =======
-Human + Sin = Adam
-Huma + Sin = Fallen Angel
-Sin + Snake = Temptation
+Recipe + Sushi Chef = Nigiri

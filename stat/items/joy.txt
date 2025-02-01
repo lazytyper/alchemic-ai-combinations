@@ -11,3 +11,4 @@ Usages:
 Joy + Plant = Flower
 Community + Joy = Celebration
 Bog Creature + Joy = Swamp Monster
+Criminal + Joy = Prankster

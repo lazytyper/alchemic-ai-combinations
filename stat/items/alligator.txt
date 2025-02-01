@@ -5,7 +5,11 @@
 created by:
 ===========
 Crocodile + Crocodile = Alligator
+Animal + Everglades = Alligator
 
 Usages:
 =======
 Alligator + Farm = Gatorade
+Alligator + City = Miami
+Alligator + Florida = Everglades
+Alligator + Animalia = Reptile

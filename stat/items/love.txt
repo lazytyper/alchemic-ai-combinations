@@ -71,3 +71,5 @@ Letter + Love = Poem
 Letter + Love = Valentine
 Letter + Love = Mail
 Love + Smoothie = Passionfruit
+Love + Picnic = Romantic Date
+Love + Romantic Date = Romatic Cmoedy

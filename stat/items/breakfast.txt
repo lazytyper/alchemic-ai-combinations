@@ -11,3 +11,4 @@ Usages:
 =======
 Breakfast + Time = Morning
 Breakfast + Sandwich = Bagel
+Breakfast + Park = Brunch

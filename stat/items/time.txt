@@ -40,3 +40,5 @@ Milk + Time = Cheese
 Nightmare + Time = Insomnia
 Machine + Time = Time-Machine
 Sugarcane + Time = Sweetness
+Newborn + Time = Infancy
+Good And Evil + Time = Balance

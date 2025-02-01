@@ -10,3 +10,4 @@ Usages:
 =======
 Angel + Guardian = Protector
 Bloodhound + Guardian = Tracker
+Guardian + Guardian = Security Guard

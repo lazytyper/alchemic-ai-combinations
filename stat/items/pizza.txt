@@ -15,3 +15,4 @@ Pizza + Pizza = Calzone
 Pizza + Pizza + Pizza + Pizza = Quattro Formaggi
 Cheese + Pizza = Margherita
 Cheddar + Pizza = Slice
+Pizza + Recipe = Cookbook

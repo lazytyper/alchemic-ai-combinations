@@ -14,3 +14,6 @@ Mist + Park = Mystery
 Echo + Park = Soundpark
 Love + Park = Romantic Stroll
 Fireplace + Park = Fire Pit
+Breakfast + Park = Brunch
+Brunch + Park = Picnic
+Park + Picnic = Lunchtime

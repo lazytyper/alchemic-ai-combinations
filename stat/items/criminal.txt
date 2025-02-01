@@ -1,14 +1,12 @@
 ==================================
-= Sin
+= Criminal
 ==================================
 
 created by:
 ===========
-Apple + Eden = Sin
-Adam + Eve = Sin
+Human + Mugshot = Criminal
 
 Usages:
 =======
-Human + Sin = Adam
-Huma + Sin = Fallen Angel
-Sin + Snake = Temptation
+Criminal + Joy = Prankster
+Criminal + Miami = Scarface

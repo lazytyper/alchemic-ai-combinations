@@ -16,3 +16,4 @@ Adobe + Antidote = Mortar
 Adobe + Planet = Mars
 Adobe + Storybook = Illustration
 Adobe + Fireworks = Luminaria
+Acrobat + Adobe = Reader

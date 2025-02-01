@@ -29,3 +29,4 @@ Batch + Computer = Batchfile
 Ash Ketchu + Computer = Digital Trainer
 Computer + Pokemon = Virtual Reality
 Art + Computer = Digital Painting
+Computer + Security Guard = Surveillance System

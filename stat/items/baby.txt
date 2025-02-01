@@ -20,3 +20,6 @@ Baby + Baby + Baby = Justin Bieber
 Baby + Baby + Baby + Baby = Quadruplets
 Baby + Growth = Toddler
 Baby + Dairy = Formula
+Baby + Human = Child
+Baby + Birth = Newborn
+Baby + Birth + Child + Newborn = Infant

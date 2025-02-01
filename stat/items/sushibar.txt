@@ -1,13 +1,10 @@
 ==================================
-= Cooking
+= Sushibar
 ==================================
 
 created by:
 ===========
-Oil + Sunflower = Cooking
 
 Usages:
 =======
-Cooking + Hearth = Kitchen
-Cooking + Kitchen = Recipe
 Cooking + Sushibar = Sushi Chef

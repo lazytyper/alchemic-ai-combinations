@@ -11,3 +11,4 @@ Usages:
 Letter + Lover = Reader
 Human + Lover = Romantic Relationship
 House + Lover = Homebody
+Cozy + Lover = Snuggler
