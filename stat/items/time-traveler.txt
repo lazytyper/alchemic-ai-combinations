@@ -1,12 +1,11 @@
 ==================================
-= Poker Chip
+= Time-Traveler
 ==================================
 
 created by:
 ===========
-Gambling + Gemstone = Poker Chip
+Genie + Time = Time-Traveler
 
 Usages:
 =======
-House + Poker Chip = Casino
-Genie + Poker Chip = Wish Chip
+Time + Time-Traveler = Paradox

@@ -11,3 +11,4 @@ Usages:
 Energy + Fossil = Coal
 Fossil + Fossil = Dinosaur
 Bond + Fossil = Bonding Agent
+Fossil + Genie = Biomeachanoid

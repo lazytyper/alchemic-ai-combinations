@@ -1640,3 +1640,11 @@ sleep,couple,bed
 genie,bed,dream
 dream,boat,dreamboat
 genie,time,time-traveler
+time-traveler,time,paradox
+genie,mythos,genesis
+genie,fossil,biomeachanoid
+genie,pokemon,magikarp
+genie,poker_chip,wish_chip
+genie,fisherman,wishmaster
+genie,paradise,wishes
+genie,beach_party,germination

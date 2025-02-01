@@ -9,3 +9,4 @@ Fishing Boat + Ocean = Fisherman
 Usages:
 =======
 Fisherman + Sailboat = Mariner
+Fisherman + Genie = Wishmaster

@@ -1,12 +1,11 @@
 ==================================
-= Poker Chip
+= Mythos
 ==================================
 
 created by:
 ===========
-Gambling + Gemstone = Poker Chip
+Desentization + Legend = Mythos
 
 Usages:
 =======
-House + Poker Chip = Casino
-Genie + Poker Chip = Wish Chip
+Genie + Mythos = Genesis

@@ -208,7 +208,7 @@ function createHTML() {
 
     const postHTML = '</body></html>';
 
-    fs.writeFileSync('stat/index.html', preHTML + blocks.join('\n') + postHTML);
+    fs.writeFileSync('index.html', preHTML + blocks.join('\n') + postHTML);
 }
 
 // items without known combinations

@@ -10,3 +10,4 @@ Usages:
 =======
 Charmander + Pokemon = Fire Lizard
 Captaincy + Pokemon = Captain Pokemon
+Genie + Pokemon = Magikarp

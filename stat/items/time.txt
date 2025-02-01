@@ -34,3 +34,4 @@ Princess + Time = Cinderella
 Childhood + Time = Memory
 Rust + Time = Corrosion
 Genie + Time = Time-Traveler
+Time + Time-Traveler = Paradox

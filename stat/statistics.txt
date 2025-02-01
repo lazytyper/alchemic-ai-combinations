@@ -30,6 +30,7 @@ Biochar: 0
 Biodegradation: 0
 Biodiversity: 0
 Biodiversity Loss: 0
+Biomeachanoid: 0
 Birdhouse: 0
 Birdman: 0
 Bittersweet: 0
@@ -202,7 +203,9 @@ Galactic Empire: 0
 Garden History: 0
 Gas Giant: 0
 Gemini: 0
+Genesis: 0
 Geothermal Field: 0
+Germination: 0
 Ghost Town: 0
 Ghost World: 0
 Gladiator: 0
@@ -279,6 +282,7 @@ Magellan: 0
 Magic Farm: 0
 Magic Lamp: 0
 Magical Jungle: 0
+Magikarp: 0
 Magus: 0
 Maleficent: 0
 Mansionette: 0
@@ -305,7 +309,6 @@ Mural: 0
 Mystery: 0
 Mystical Creature: 0
 Mythology: 0
-Mythos: 0
 Natural Selection: 0
 Nature's Wrath: 0
 Necromancer: 0
@@ -322,6 +325,7 @@ Oppression: 0
 Oratory: 0
 Orwell: 0
 Pandemonium: 0
+Paradox: 0
 Paramedic: 0
 Party: 0
 Passion: 0
@@ -437,7 +441,6 @@ Theatre: 0
 Thermal Power: 0
 Thor: 0
 Tiger: 0
-Time-Traveler: 0
 Toddler: 0
 Toffee: 0
 Togetherness: 0
@@ -470,9 +473,12 @@ Wilderness: 0
 Windsurfer: 0
 Wings: 0
 Wisdom: 0
+Wish Chip: 0
 Wish Fulfillment: 0
+Wishes: 0
 Wishful: 0
 Wishmaker: 0
+Wishmaster: 0
 Witch Doctor: 0
 Wizardry: 0
 Wizards: 0
@@ -506,7 +512,6 @@ Ash: 1
 Author: 1
 Barn: 1
 Beach: 1
-Beach Party: 1
 Bed: 1
 Bike Path: 1
 Binary Code: 1
@@ -617,7 +622,6 @@ Fire Sky: 1
 Fire Spirit: 1
 Firewitch: 1
 Fireworks: 1
-Fisherman: 1
 Fishing Boat: 1
 Flame Princess: 1
 Flipper: 1
@@ -728,6 +732,7 @@ Mudslide: 1
 Museum: 1
 Music Festival: 1
 Mysticism: 1
+Mythos: 1
 Nature Spirit: 1
 Nature Spirituality: 1
 Nature Worship: 1
@@ -759,7 +764,6 @@ Plantation: 1
 Playdate: 1
 Pluto: 1
 Poisonous Bird: 1
-Poker Chip: 1
 Poltergeist: 1
 Pompeji: 1
 Popstar: 1
@@ -834,6 +838,7 @@ Surfing: 1
 Targeting: 1
 Terrain: 1
 Throne: 1
+Time-Traveler: 1
 Timelessness: 1
 Titanic: 1
 Toast: 1
@@ -889,6 +894,7 @@ Aquatic Garden: 2
 Astronomy: 2
 Bat: 2
 Battery: 2
+Beach Party: 2
 Beehive: 2
 Bicycle Tour: 2
 Biology: 2
@@ -955,6 +961,7 @@ Feather: 2
 Feudalism: 2
 Firebender: 2
 Firestorm: 2
+Fisherman: 2
 Fishing: 2
 Flame: 2
 Fog: 2
@@ -1040,7 +1047,7 @@ Peak: 2
 Phoenix: 2
 Planting: 2
 Plants: 2
-Pokemon: 2
+Poker Chip: 2
 Political Corruption: 2
 Pollination: 2
 Pollution: 2
@@ -1158,7 +1165,6 @@ Farmer: 3
 Fire Magic: 3
 Fireball: 3
 Flower Garden: 3
-Fossil: 3
 Fukushima: 3
 Gardening: 3
 Gravity: 3
@@ -1201,6 +1207,7 @@ Photoshop: 3
 Plant Growth: 3
 Poet: 3
 Poetry: 3
+Pokemon: 3
 Poseidon: 3
 Racecar: 3
 Rain: 3
@@ -1284,6 +1291,7 @@ Fertilizer: 4
 Firefighter: 4
 Flash: 4
 Fool's Gold: 4
+Fossil: 4
 Frog: 4
 Geyser: 4
 Ghost: 4
@@ -1413,7 +1421,6 @@ Ecosystem: 7
 Everest: 7
 Flower: 7
 Hate: 7
-Paradise: 7
 Potion: 7
 Rockstar: 7
 Romance: 7
@@ -1427,6 +1434,7 @@ Charmander: 8
 Cinderella: 8
 Landscape: 8
 Monarch: 8
+Paradise: 8
 Smoke: 8
 Atmosphere: 9
 Bicycle: 9
@@ -1457,7 +1465,6 @@ Sky: 11
 Wind: 11
 Animal: 12
 Bird: 12
-Genie: 12
 Jungle: 12
 Mountain: 12
 Planet: 12
@@ -1472,10 +1479,11 @@ Sun: 16
 Fish: 18
 House: 18
 Water: 18
+Genie: 19
 Earth: 21
 Ocean: 22
 Air: 25
-Time: 25
+Time: 26
 Fire: 41
 Life: 41
 Love: 52
