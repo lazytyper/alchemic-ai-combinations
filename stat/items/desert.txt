@@ -14,3 +14,6 @@ Desert + Plant = Cactus
 Cactus + Desert = Sandstorm
 Desert + Life = Oasis
 Desert + Planet = Mars
+Desert + Sphinx = Egypt
+Desert + Sphinx = Giza
+Animal + Desert = Camel

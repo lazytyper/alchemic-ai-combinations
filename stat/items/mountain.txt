@@ -21,3 +21,5 @@ Mountain + Peak = Summit
 Mountain + Shaman = Sacred Site
 Animal + Mountain = Ibex
 Animalia + Mountain = Goat
+Monument + Mountain = Mount Rushmore
+Mountain + Water = Waterfall

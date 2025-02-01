@@ -21,3 +21,5 @@ Plant + Sustainability = Green Living
 Beach + Plant = Palm Tree
 Plant + Poison = Nightshade
 Love + Plant = Rose
+Coffee + Plant = Arabica
+Coffee + Plant = Espresso Bean

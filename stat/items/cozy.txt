@@ -12,3 +12,4 @@ Cozy + Fireplace = Hygge
 Bonfire + Cozy = Campfire
 Cozy + Fireplace + Romance = Candlelight
 Cozy + Society = Cocoon
+Cozy + Ghost = Haunt

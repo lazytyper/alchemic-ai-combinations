@@ -19,3 +19,4 @@ Poisonous Bird + Steam = Extraction
 Pottery + Steam = Ceramics
 Castaway + Steam = Steamship
 Perfume + Steam = Fragrance
+Allergy + Dust + Steam = Sinus Infection

@@ -1,0 +1,12 @@
+==================================
+= Word
+==================================
+
+created by:
+===========
+Letter + Letter = Word
+
+Usages:
+=======
+Letter + Word = Sentence
+Word + Word = Crossword

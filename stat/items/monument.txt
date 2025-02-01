@@ -1,0 +1,14 @@
+==================================
+= Monument
+==================================
+
+created by:
+===========
+Obelisk + Pyramid = Monument
+
+Usages:
+=======
+Monument + Rock = Stonehenge
+Monument + Rock = Statue
+Monument + Mountain = Mount Rushmore
+Monument + Pyramid = Obelisk

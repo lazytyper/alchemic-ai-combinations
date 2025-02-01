@@ -11,3 +11,4 @@ Usages:
 Batman + Dystopia = Gotham
 Batman + Batman = Bruce Wayne
 Batman + Partner = Robin
+Batman + Ghost = Phantom

@@ -11,3 +11,5 @@ Usages:
 City + Toad = Romeo
 Casino + City = Las Vegas
 City + Volcano = Pompeji
+City + Obelisk = Washington
+City + Washington = Seattle

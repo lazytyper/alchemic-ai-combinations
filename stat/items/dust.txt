@@ -11,3 +11,4 @@ Usages:
 Air + Dust = Pollen
 Dust + Fire = Ashes
 Dust + Samsara = Reincarnation
+Allergy + Dust + Steam = Sinus Infection

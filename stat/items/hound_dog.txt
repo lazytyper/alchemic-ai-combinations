@@ -1,0 +1,12 @@
+==================================
+= Hound Dog
+==================================
+
+created by:
+===========
+Animal + Elvis = Hound Dog
+
+Usages:
+=======
+Animal + Hound Dog = Bloodhound
+Bloodhound + Hound Dog = Detection Dog

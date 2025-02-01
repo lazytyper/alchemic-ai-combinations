@@ -9,3 +9,4 @@ Disaster + Photoshop = Fiasco
 Usages:
 =======
 Fiasco + National Park = Disaster Area
+Discovery + Fiasco = Cautionary Tale

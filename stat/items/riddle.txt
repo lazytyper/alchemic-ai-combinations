@@ -1,0 +1,11 @@
+==================================
+= Riddle
+==================================
+
+created by:
+===========
+Poet + Puzzle = Riddle
+
+Usages:
+=======
+Author + Riddle = Sphinx

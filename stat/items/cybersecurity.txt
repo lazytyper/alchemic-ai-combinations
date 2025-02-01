@@ -9,3 +9,4 @@ Guardsman + Internet = Cybersecurity
 Usages:
 =======
 Computer + Cybersecurity = Firewall
+Crime Solving + Cybersecurity = Forensics

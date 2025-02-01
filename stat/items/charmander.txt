@@ -17,3 +17,4 @@ Animal + Charmander = Pokemon
 Air + Charmander = Smogon
 Charmander + Pokemon = Fire Lizard
 Charmander + Fireplace = Ember
+Charmander + Royalty = Fire King

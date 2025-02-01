@@ -13,3 +13,4 @@ Global Warming + Speech = Climate Talk
 Human + Speech = Language
 Poetry + Speech = Rhetoric
 Rhetoric + Speech = Oratory
+Lamp + Speech = Lampoon

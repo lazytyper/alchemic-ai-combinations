@@ -5,7 +5,9 @@
 created by:
 ===========
 Animals + King = Lion
+Animal + Zoo = Lion
 
 Usages:
 =======
 King + Lion = Simba
+Human + Lion = Sphinx

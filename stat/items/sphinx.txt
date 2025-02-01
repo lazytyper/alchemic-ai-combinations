@@ -1,0 +1,13 @@
+==================================
+= Sphinx
+==================================
+
+created by:
+===========
+Author + Riddle = Sphinx
+Human + Lion = Sphinx
+
+Usages:
+=======
+Desert + Sphinx = Egypt
+Desert + Sphinx = Giza

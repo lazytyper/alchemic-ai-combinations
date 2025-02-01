@@ -66,3 +66,5 @@ Genie + Love = Wish
 Love + Wish = Desire
 Candy + Love = Sweetheart
 Love + Melancholy = Longing
+Island + Love = Honeymoon
+Letter + Love = Poem

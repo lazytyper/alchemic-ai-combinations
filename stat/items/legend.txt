@@ -19,3 +19,5 @@ Blade + Legend = Excalibur
 Legend + Power-Up = Mythical Potion
 Legend + Robin Hood = Folk Hero
 Knight + Legend = Arthur
+Detective + Legend = Sherlock Holmes
+Investigation + Legend = Detective Story

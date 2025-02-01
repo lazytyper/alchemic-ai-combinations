@@ -24,3 +24,4 @@ Ocean + Wind = Waves
 Ocean + Wind = Sailboat
 Ocean + Wind = Sailing
 Seascape + Wind = Breeze
+Turbine + Wind = Windmill

@@ -9,3 +9,4 @@ Human + Realism = Art
 Usages:
 =======
 Art + Landscape = Painting
+Art + History + Knowledge = Culture

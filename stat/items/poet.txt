@@ -12,3 +12,4 @@ Love + Poet = Sonnet
 Poet + Storybook = Verse
 Poet + Verse = Poetry
 Genie + Poet = Genius
+Poet + Puzzle = Riddle

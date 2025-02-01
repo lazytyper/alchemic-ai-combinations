@@ -19,6 +19,7 @@ Anti-Gravity: 0
 Apple Turnover: 0
 Aqualad: 0
 Aquatic Fun: 0
+Arabica: 0
 Archery: 0
 Ariel: 0
 Armada: 0
@@ -54,9 +55,11 @@ Botanical Garden: 0
 Boulder: 0
 Bountiful Land: 0
 Bruce Wayne: 0
+Brunch: 0
 Buddha: 0
 Bullrun: 0
 Butler: 0
+Butter: 0
 Byte: 0
 Cabin: 0
 Cactus Desert: 0
@@ -74,10 +77,12 @@ Cataclysm: 0
 Caterpillar: 0
 Cattle Ranger: 0
 Caution: 0
+Cautionary Tale: 0
 Caveman: 0
 Celebi: 0
 Celestial Love: 0
 Celestial Realm: 0
+Cereal: 0
 Ceremony: 0
 Chameleon: 0
 Charioteer: 0
@@ -94,10 +99,12 @@ Civility: 0
 Claymation: 0
 Clean Transport: 0
 Clear Water: 0
+Cleopatra: 0
 Climate Advocate: 0
 Climate Talk: 0
 Cloning: 0
 Cloudberry: 0
+Coffee Grounds: 0
 Collapse: 0
 Composer: 0
 Corrosion: 0
@@ -110,6 +117,7 @@ Cowabunga: 0
 Crisis Art: 0
 Cryptojacking: 0
 Cultivation: 0
+Culture: 0
 Cure: 0
 Cycle: 0
 Cycleway: 0
@@ -128,11 +136,12 @@ Demonology: 0
 Desert Ride: 0
 Design Conference: 0
 Desire: 0
+Detection Dog: 0
+Detective Story: 0
 Dictatorship: 0
 Dino Art: 0
 Dinosaur Lamp: 0
 Diomes: 0
-Discovery: 0
 Divine Flame: 0
 Djinn: 0
 Dolphinarium: 0
@@ -150,6 +159,7 @@ Dreams: 0
 Dreamscapes: 0
 Dreamweaver: 0
 Drizzle: 0
+Dromedary: 0
 Duplex Mansion: 0
 Dusk: 0
 Dynamo: 0
@@ -193,6 +203,7 @@ Fault Line: 0
 Fertile Soil: 0
 Fire Giant: 0
 Fire Hose: 0
+Fire King: 0
 Fire Pit: 0
 Fire Planet: 0
 Fire Rock: 0
@@ -218,12 +229,14 @@ Fool's Paradise: 0
 Foolishness: 0
 Forest Fire: 0
 Fragrance Mist: 0
+Frasier: 0
 Freedom Fighters: 0
 Frogger: 0
 Funghi: 0
 Galactic Empire: 0
 Garden History: 0
 Gas Giant: 0
+Gatorade: 0
 Gemini: 0
 Genesis: 0
 Genius: 0
@@ -244,6 +257,7 @@ Gryphon: 0
 Habitat: 0
 Hacktivism: 0
 Hatred: 0
+Haunt: 0
 Haunted: 0
 Heartache: 0
 Heartstone: 0
@@ -260,7 +274,6 @@ Hocus Pocus: 0
 Holiday: 0
 Homeyness: 0
 Hominid: 0
-Hot Date: 0
 Hybrid: 0
 Hybrid Animal: 0
 Hygge: 0
@@ -279,24 +292,27 @@ Jacksonville: 0
 Jailhouse Rock: 0
 Jewel: 0
 Jirachi: 0
+Jordan: 0
 Jungle King: 0
 Justin Bieber: 0
 Kaboom: 0
 Kermit: 0
 Knockoff: 0
 Kraken: 0
+Lampoon: 0
 Landmark: 0
 Language: 0
 Lantern: 0
 Laser Display: 0
-Leader: 0
 Learning Hub: 0
 Life Potion: 0
 Lightning Person: 0
 Longing: 0
 Lost Love: 0
 Love Affair: 0
+Love Arrow: 0
 Love Motel: 0
+Love Note: 0
 Love Sickness: 0
 Love Token: 0
 Loveboat: 0
@@ -322,11 +338,11 @@ Matchmaking: 0
 Melt: 0
 Meme: 0
 Merlin: 0
-Michael: 0
 Michaeljackson: 0
 Mickey: 0
 Mind Racing: 0
 Mindfulness: 0
+Minotaur: 0
 Mirage: 0
 Mona Lisa: 0
 Monster Games: 0
@@ -337,6 +353,7 @@ Moon Tree: 0
 Moonlit Walk: 0
 Mortar: 0
 Mountain Guide: 0
+Mudflow: 0
 Mugshot: 0
 Mural: 0
 Mystery: 0
@@ -352,7 +369,9 @@ Nibelung: 0
 Night Breeze: 0
 Nightshade: 0
 Nostalgia: 0
+Novelist: 0
 Nutrition: 0
+Obama: 0
 Ocean Community: 0
 Ocean Vista: 0
 Oceanographer: 0
@@ -373,6 +392,7 @@ Pixie Dust: 0
 Plague: 0
 Playwright: 0
 Plumper: 0
+Poem: 0
 Poison Ivy: 0
 Pollinator Garden: 0
 Portable Workstation: 0
@@ -396,9 +416,11 @@ Queen Grimhilde: 0
 Quiche: 0
 Ray Charles: 0
 Rebecca: 0
+Red Riding Hood: 0
 Regatta: 0
 Rehydration: 0
 Replicant: 0
+Reptilian Humanoid: 0
 Resonance: 0
 Ritual: 0
 Riverbank: 0
@@ -420,7 +442,6 @@ Sailor: 0
 Salmon: 0
 Sandman: 0
 Sandstorm: 0
-Sandwich: 0
 Satyr: 0
 Saxophonist: 0
 Schmear: 0
@@ -429,6 +450,7 @@ Scroll: 0
 Sea Witch: 0
 Seashell: 0
 Secret: 0
+Sentence: 0
 Seraphim Chair: 0
 Shadow Work: 0
 Shadows: 0
@@ -437,9 +459,11 @@ Shatter: 0
 She-Hulk: 0
 Shelter: 0
 Silhouette: 0
+Sinus Infection: 0
 Sirius: 0
 Sky Pirate: 0
 Skyward Sword: 0
+Sleuth: 0
 Slice: 0
 Smogon: 0
 Smoke Signal: 0
@@ -455,6 +479,7 @@ Soulsearching: 0
 Soundtrack: 0
 Sovereign: 0
 Spark: 0
+Specter: 0
 Spelunker: 0
 Spirit Flame: 0
 Spiritual Healer: 0
@@ -465,6 +490,7 @@ Star Mage: 0
 Starfleet: 0
 Starfleet Academy: 0
 Steam Explosion: 0
+Stonehenge: 0
 Stormy Sky: 0
 Summit: 0
 Sundown: 0
@@ -480,7 +506,9 @@ Sweetheart: 0
 Tabloid: 0
 Tadpole: 0
 Tadpole Pond: 0
+Tall Monument: 0
 Tandem: 0
+Tectonic Plate: 0
 Terror: 0
 Theater: 0
 Theatre: 0
@@ -537,6 +565,7 @@ Wishmaster: 0
 Witch Doctor: 0
 Wizardry: 0
 Wizards: 0
+Wolfman: 0
 Wonder: 0
 Woodstock: 0
 Yachting: 0
@@ -551,6 +580,8 @@ Agrarian: 1
 Air Force: 1
 Airplane: 1
 Aladdin: 1
+Alligator: 1
+Alphabet: 1
 Ambrosia: 1
 Android: 1
 Angler: 1
@@ -559,11 +590,10 @@ Apocalypso: 1
 Apollo 11: 1
 Apothecary: 1
 Aquarium Lamp: 1
-Art: 1
 Artifacts: 1
 Artist: 1
 Ash: 1
-Author: 1
+Bagel: 1
 Barn: 1
 Bed: 1
 Bike Path: 1
@@ -578,11 +608,12 @@ Boatman: 1
 Bog Creature: 1
 Bottle: 1
 Bouquet: 1
-Breakfast: 1
 Cactus: 1
 Calcium Carbonate: 1
 Call Center: 1
+Camel: 1
 Candle: 1
+Cappuccino: 1
 Captain Hook: 1
 Captaincy: 1
 Capture: 1
@@ -616,12 +647,13 @@ Cosmic Static: 1
 Cosmology: 1
 Cosmos: 1
 Crewmate: 1
+Crime Solving: 1
+Crossword: 1
 Cub: 1
 Cupcake: 1
 Customer Service: 1
 Cybercrime: 1
 Cyberpunk: 1
-Cybersecurity: 1
 Cyberverse: 1
 Cyborg: 1
 Cyclone: 1
@@ -636,6 +668,7 @@ Decimation: 1
 Deity: 1
 Desertification: 1
 Dirtbike: 1
+Discovery: 1
 Diver: 1
 Dogman: 1
 Dollhouse: 1
@@ -654,12 +687,16 @@ Eco-Friendly Cuisine: 1
 Eco-Warrior: 1
 Egghead: 1
 Eggshell: 1
+Egypt: 1
 Electrolyte: 1
 Elixir: 1
+Elvis: 1
 Emergency: 1
 Enchantment: 1
 End Times: 1
 Eros: 1
+Espresso: 1
+Espresso Bean: 1
 Essentialism: 1
 Eternal Flame: 1
 Existence: 1
@@ -675,7 +712,6 @@ Farm Guide: 1
 Farmbot: 1
 Farmhouse: 1
 Fear: 1
-Fiasco: 1
 Fire Lizard: 1
 Fire Performer: 1
 Fire Sky: 1
@@ -692,6 +728,7 @@ Flour: 1
 Flutter Heart: 1
 Fogbow: 1
 Folk Hero: 1
+Forensics: 1
 Forever: 1
 Fossil Fuel: 1
 Found Object: 1
@@ -710,13 +747,13 @@ Geysers: 1
 Ghost Story: 1
 Ghostwriter: 1
 Gingerbread: 1
+Giza: 1
 Global Warming: 1
 Grain: 1
 Gravedigger: 1
 Gravekeeper: 1
-Grimm: 1
+Grotto: 1
 Growth: 1
-Guardian: 1
 Happily Ever After: 1
 Haunted Planet: 1
 Healing Ceremony: 1
@@ -736,6 +773,7 @@ Honey: 1
 Honeycomb: 1
 Honeymoon: 1
 Horoscope: 1
+Hot Date: 1
 Humanity: 1
 Humans: 1
 Hypochondria: 1
@@ -743,6 +781,7 @@ Ibex: 1
 Iceland: 1
 Illustration: 1
 Imagination: 1
+Investigation: 1
 Invisibility: 1
 Iron Oxide: 1
 Irrigation: 1
@@ -750,24 +789,23 @@ Islander: 1
 Jungle Ride: 1
 Justice League: 1
 Kiln: 1
-Knowledge: 1
-Lamp: 1
 Laptop: 1
+Latte: 1
 Lava Cake: 1
 Lava Flow: 1
 Lava Wave: 1
+Leader: 1
 Legends: 1
 Libertarianism: 1
 Life Forms: 1
 Light Show: 1
-Lion: 1
 Lost: 1
 Lost City: 1
 Love Forever: 1
-Love Me Tender: 1
 Love Revolution: 1
 Love Spell: 1
 Love Story: 1
+Lunch: 1
 Magic Potion: 1
 Magma: 1
 Magma Lamp: 1
@@ -782,6 +820,7 @@ Memory Loss: 1
 Merfolk: 1
 Mermaids: 1
 Metamorphosis: 1
+Michael: 1
 Midnight: 1
 Mimicry: 1
 Mistake: 1
@@ -811,6 +850,7 @@ Nautilus: 1
 Network: 1
 Neverland: 1
 Newton: 1
+Nile: 1
 Nirvana: 1
 Nympholepsy: 1
 Obsession: 1
@@ -819,6 +859,7 @@ Online Dating: 1
 Oreo: 1
 Original Sin: 1
 Otter: 1
+Pack: 1
 Palace: 1
 Palindrome: 1
 Palm Tree: 1
@@ -828,6 +869,8 @@ Peaceful Beach: 1
 Peacekeeper: 1
 Pedal: 1
 Peter Pan: 1
+Phantom: 1
+Pharao: 1
 Philosopher's Stone: 1
 Plant Spirit: 1
 Plantation: 1
@@ -840,9 +883,11 @@ Popstar: 1
 Poultry: 1
 Powerboat: 1
 Powerhouse: 1
+President: 1
 Proposal: 1
 Protector: 1
 Purgatory: 1
+Puzzle: 1
 Racer: 1
 Rainbow Frog: 1
 Realism: 1
@@ -852,7 +897,7 @@ Reflection Error: 1
 Relationship: 1
 Rescue Team: 1
 Retreat: 1
-Rhetoric: 1
+Riddle: 1
 Robinhood: 1
 Rock And Roll: 1
 Romantic Stroll: 1
@@ -867,6 +912,7 @@ Scandal: 1
 Scarecrow: 1
 Seagull: 1
 Seascape: 1
+Seattle: 1
 Shadow: 1
 Shadow Self: 1
 Sharknado: 1
@@ -892,6 +938,7 @@ Spacewalk: 1
 Speedboat: 1
 Speedster: 1
 Spellcasting: 1
+Sphinx: 1
 Spiritual Glow: 1
 Spiritual Guide: 1
 Spouse: 1
@@ -920,6 +967,7 @@ Tooth Fairy: 1
 Tornado: 1
 Toxin: 1
 Track Food: 1
+Tracker: 1
 Tractor: 1
 Tragedy: 1
 Tragic Romance: 1
@@ -940,6 +988,8 @@ Warmth: 1
 Warp Drive: 1
 Warrior: 1
 Wasteland: 1
+Waterfall: 1
+Watson: 1
 Wedding: 1
 Wind Flow: 1
 Wind Power: 1
@@ -954,17 +1004,20 @@ Witchcraft: 1
 Wonder Woman: 1
 Woodland: 1
 Yeti: 1
+Zoo: 1
 Zoology: 1
 24 Hours: 2
 Abyss: 2
 Acceleration: 2
 Airship: 2
+Alpha: 2
 Anarchist: 2
 Anemone: 2
 Apple Pie: 2
 Aquaman: 2
 Aquarius: 2
 Aquatic Garden: 2
+Art: 2
 Astronomy: 2
 Bat: 2
 Battery: 2
@@ -978,6 +1031,7 @@ Blackout: 2
 Blood Sport: 2
 Blossom: 2
 Botanist: 2
+Breakfast: 2
 Breath: 2
 Bribery: 2
 Bullseye: 2
@@ -994,11 +1048,13 @@ Chimney: 2
 Civic: 2
 Coconut: 2
 Cocoon: 2
+Coffee: 2
 Compost: 2
 Cosplay: 2
-Cow: 2
 Creative Suite: 2
+Crocodile: 2
 Crop Yield: 2
+Cybersecurity: 2
 Cyclist: 2
 Dark Romance: 2
 Dartboard: 2
@@ -1007,17 +1063,14 @@ Demonic Ritual: 2
 Devil's Garden: 2
 Dinosaur: 2
 Dinosaurs: 2
-Dirt: 2
 Disaster Area: 2
 Dolphin: 2
 Dorian Gray: 2
 Dragonair: 2
 Dreamscape: 2
-Drink: 2
 Dual System: 2
 Duplex: 2
 E-Bike: 2
-Earthquake: 2
 Echo: 2
 Eco-Friendly: 2
 Eco-Tourism: 2
@@ -1033,6 +1086,7 @@ Fairy Circle: 2
 Fairy Godmother: 2
 Feather: 2
 Feudalism: 2
+Fiasco: 2
 Firebender: 2
 Firestorm: 2
 Fisherman: 2
@@ -1050,10 +1104,11 @@ Frog Giggling: 2
 Gambler: 2
 Gambling: 2
 Gandalf: 2
-Ghostbuster: 2
 Goat: 2
 Grim Fairytale: 2
 Grim Reaper: 2
+Grimm: 2
+Guardian: 2
 Hacker: 2
 Hades: 2
 Happy Harvest: 2
@@ -1062,12 +1117,12 @@ Herbicide: 2
 Herbology: 2
 Hero: 2
 Heroics: 2
-History: 2
 History Museum: 2
 Home: 2
 Horizon: 2
 Hot Spring: 2
 Hot Springs: 2
+Hound Dog: 2
 Hunger Games: 2
 Hut: 2
 Hydration: 2
@@ -1078,12 +1133,16 @@ Island Romance: 2
 Juliet: 2
 Jurassic Park: 2
 Kaiju: 2
+Knowledge: 2
+Lamp: 2
 Las Vegas: 2
 Lava: 2
 Life Cycle: 2
 Lifeguard: 2
+Lion: 2
 Lost Civilization: 2
 Lotus: 2
+Love Me Tender: 2
 Love Potion: 2
 Love Storm: 2
 Lovebirds: 2
@@ -1139,14 +1198,13 @@ Rage: 2
 Rainbow: 2
 Reality Show: 2
 Rebirth: 2
+Rhetoric: 2
 Rights: 2
 Risk-Taker: 2
-River: 2
 Road Trip: 2
 Robinson Crusoe: 2
 Romanticism: 2
 Rosewater: 2
-Royalty: 2
 Ruins: 2
 Rumor: 2
 Sailing: 2
@@ -1156,6 +1214,7 @@ Seaweed: 2
 Serenity: 2
 Shaman: 2
 Shark: 2
+Sherlock Holmes: 2
 Silk Flower: 2
 Singer: 2
 Skycycle: 2
@@ -1203,6 +1262,7 @@ Windflower: 2
 Windmill: 2
 Wish: 2
 Wishcraft: 2
+Word: 2
 Yacht: 2
 Yoga: 2
 Yosemite: 2
@@ -1212,10 +1272,11 @@ Archangel: 3
 Ashes: 3
 Astrology: 3
 Astronaut: 3
+Author: 3
 Ballad: 3
-Batman: 3
 Bee: 3
 Blade: 3
+Bloodhound: 3
 Bonfire: 3
 Breeze: 3
 Brick: 3
@@ -1223,16 +1284,15 @@ Buddhism: 3
 Butterfly: 3
 Caramel: 3
 Carbon Dioxide: 3
-Cave: 3
 Champion: 3
 Charizard: 3
 Chernobyl: 3
 Circus: 3
-City: 3
 Climate Change: 3
 Cloudscape: 3
 Comfort: 3
 Cookie: 3
+Cow: 3
 Crash: 3
 Crop Damage: 3
 Date: 3
@@ -1240,13 +1300,15 @@ Death Blossom: 3
 Dehydration: 3
 Design Failure: 3
 Destruction: 3
+Detective: 3
 Devil's Advocate: 3
 Digital Art: 3
+Dirt: 3
 Dough: 3
 Dreamer: 3
 Driver: 3
-Dust: 3
 Eagle: 3
+Earthquake: 3
 Egg: 3
 Enlightenment: 3
 Environmental Activism: 3
@@ -1262,11 +1324,13 @@ Fireball: 3
 Flower Garden: 3
 Fukushima: 3
 Gardening: 3
+Ghostbuster: 3
 Greenhouse: 3
 Growth Potion: 3
 Guardsman: 3
 Happiness: 3
 Harvest: 3
+History: 3
 Hook: 3
 Iceberg: 3
 Incantation: 3
@@ -1289,31 +1353,35 @@ Magic Spell: 3
 Magic Stone: 3
 Mangrove: 3
 Miracle: 3
+Monument: 3
 Mouse: 3
 Mudshow: 3
 Nature Reserve: 3
 Neil Armstrong: 3
 Nest: 3
 Nightmare: 3
+Obelisk: 3
 Optimism: 3
 Outlaw: 3
 Perfume: 3
 Perspective: 3
 Photoshop: 3
 Plant Growth: 3
-Poetry: 3
 Poseidon: 3
 Racecar: 3
 Rain: 3
 Rainforest: 3
+River: 3
 Robin: 3
 Robin Hood: 3
 Robot: 3
+Royalty: 3
 Runner: 3
 Sacrifice: 3
 Sailboat: 3
 Salamander: 3
 Samsara: 3
+Sandwich: 3
 Sauna: 3
 Scenery: 3
 School: 3
@@ -1339,13 +1407,13 @@ Trees: 3
 Vampire Bat: 3
 Voyage: 3
 Wall: 3
+Washington: 3
 Weekend: 3
 Wizard: 3
 Wreckage: 3
 Yellowstone: 3
 Adam: 4
 Adventure: 4
-Allergy: 4
 Amazon: 4
 Angel: 4
 Animalia: 4
@@ -1354,34 +1422,34 @@ Archipelago: 4
 Aurora Borealis: 4
 Avatar: 4
 Baker: 4
+Batman: 4
 Biosphere: 4
 Blight: 4
 Blood: 4
 Blue Planet: 4
 Bond: 4
 Bread: 4
-Candlelight: 4
 Candy: 4
 Castaway: 4
+Cave: 4
 Civil Rights: 4
 Conflict: 4
 Contemplation: 4
 Copy: 4
 Corruption: 4
 Coziness: 4
-Cozy: 4
 Darkness: 4
 Demon: 4
 Dice: 4
 Dracula: 4
 Duplicate: 4
+Dust: 4
 Elvis Presley: 4
 Engagement Ring: 4
 Environment: 4
 Eternity: 4
 Eve: 4
 Fake Flower: 4
-Farm: 4
 Farming: 4
 Farmland: 4
 Fertilizer: 4
@@ -1391,7 +1459,6 @@ Fool's Gold: 4
 Fossil: 4
 Frog: 4
 Geyser: 4
-Ghost: 4
 Gravity: 4
 Hard Place: 4
 Hell: 4
@@ -1412,9 +1479,10 @@ Oasis: 4
 Oceanic Paradise: 4
 Olympus: 4
 Photosynthesis: 4
-Poet: 4
+Poetry: 4
 Pollen: 4
 Power: 4
+Pyramid: 4
 Reflection: 4
 Renewable Energy: 4
 Roll: 4
@@ -1439,20 +1507,24 @@ Weather: 4
 Wildfire: 4
 Agribusiness: 5
 Agriculture: 5
+Allergy: 5
 Amphibian: 5
 Anarchy: 5
 Antidote: 5
 Aquarium: 5
+Candlelight: 5
 Catastrophe: 5
 Cheese: 5
 Childhood: 5
+City: 5
 Clay: 5
 Coal: 5
-Cupid: 5
+Cozy: 5
 Drought: 5
 Eden: 5
 Electricity: 5
 Family: 5
+Farm: 5
 Galaxy: 5
 Gossip: 5
 Greenpeace: 5
@@ -1463,8 +1535,8 @@ Internet: 5
 Isolation: 5
 Jungle Tribe: 5
 Knight: 5
+Letter: 5
 Marriage: 5
-Milk: 5
 Milky Way: 5
 Moon: 5
 Moonlight: 5
@@ -1473,6 +1545,7 @@ Musician: 5
 Pebble: 5
 Pirate: 5
 Playhouse: 5
+Poet: 5
 Pokemon: 5
 Ranger: 5
 Reincarnation: 5
@@ -1481,25 +1554,23 @@ Ring: 5
 Rose: 5
 Soil: 5
 Soulmate: 5
-Speech: 5
 Spirit: 5
 Spirituality: 5
 Sushi: 5
 Tarzan: 5
-Turbine: 5
+Wolf: 5
 Aphrodite: 6
 Atlantis: 6
 Beauty: 6
 Copycat: 6
 Couple: 6
+Cupid: 6
 Death: 6
-Desert: 6
 Dryad: 6
 Evil: 6
-Fairy Tale: 6
+Ghost: 6
 God: 6
 Godzilla: 6
-Heart: 6
 Heaven: 6
 Hopeful Cynicism: 6
 Matchmaker: 6
@@ -1516,21 +1587,25 @@ Pottery: 6
 Racecourse: 6
 Replica: 6
 Ship: 6
+Speech: 6
 Stone: 6
 Thunder: 6
 Tree: 6
+Turbine: 6
 Wishful Thinking: 6
 Zeus: 6
 Animation: 7
-Arrow: 7
 Boat: 7
 Desentization: 7
 Diamond: 7
+Drink: 7
 Druid: 7
 Ecosystem: 7
 Everest: 7
+Fairy Tale: 7
 Flower: 7
 Hate: 7
+Heart: 7
 Potion: 7
 Rockstar: 7
 Romance: 7
@@ -1539,19 +1614,21 @@ Tsunami: 7
 Vase: 7
 View: 7
 Adobe: 8
-Charmander: 8
+Arrow: 8
 Cinderella: 8
 Day: 8
+Desert: 8
 Landscape: 8
+Milk: 8
 Monarch: 8
 Paradise: 8
 Smoke: 8
 Atmosphere: 9
 Bicycle: 9
 Castle: 9
+Charmander: 9
 Combustion: 9
 Energy: 9
-Forest: 9
 Garden: 9
 Soul: 9
 Universe: 9
@@ -1560,45 +1637,46 @@ Baby: 10
 Cloud: 10
 Community: 10
 Glass: 10
-Legend: 10
 Mud: 10
 Oxygen: 10
 Poison: 10
 Society: 10
-Steam: 10
 Disaster: 11
 Dystopia: 11
 Fireplace: 11
-Rock: 11
+Forest: 11
 Sky: 11
-Wind: 11
+Steam: 11
 Apple: 12
 Athlete: 12
 Bird: 12
 Jungle: 12
-Mountain: 12
+Legend: 12
 Planet: 12
 Queen: 12
 Religion: 12
-Volcano: 12
+Wind: 12
 Computer: 13
-Partner: 13
-Plant: 13
+Rock: 13
+Volcano: 13
+Mountain: 14
+Plant: 14
 Race: 14
-Animal: 15
-Island: 15
 Nature: 15
+Island: 16
+Partner: 17
 Sun: 17
 Evolution: 18
 Fish: 18
-Water: 19
 House: 20
-Earth: 21
+Water: 20
+Animal: 22
+Earth: 22
 Ocean: 22
 Air: 25
 Time: 29
 Fire: 41
 Genie: 41
 Life: 41
-Love: 54
-Human: 114
+Love: 56
+Human: 119

@@ -21,3 +21,7 @@ Partner + Robinson Crusoe = Friday
 Partner + Retreat = Couples Therapy
 Adam + Partner = Eve
 Demon + Partner = Demonlord
+Bloodhound + Partner = Detective
+Partner + Sherlock Holmes = Watson
+Partner + Wolf = Pack
+Partner + Pharao = Cleopatra

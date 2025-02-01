@@ -10,3 +10,4 @@ Bottle + Genie = Lamp
 Usages:
 =======
 Darkness + Lamp = Shadows
+Lamp + Speech = Lampoon

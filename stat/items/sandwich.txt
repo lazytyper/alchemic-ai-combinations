@@ -1,0 +1,13 @@
+==================================
+= Sandwich
+==================================
+
+created by:
+===========
+Bread + Human = Sandwich
+
+Usages:
+=======
+Milk + Sandwich = Cereal
+Breakfast + Sandwich = Bagel
+Bagel + Sandwich = Lunch

@@ -9,3 +9,5 @@ Ghostwriter + Human = Author
 Usages:
 =======
 1984 + Author = Orwell
+Author + Letter = Novelist
+Author + Riddle = Sphinx

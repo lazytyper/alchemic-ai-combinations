@@ -1,0 +1,11 @@
+==================================
+= Crossword
+==================================
+
+created by:
+===========
+Word + Word = Crossword
+
+Usages:
+=======
+Crossword + Crossword = Puzzle

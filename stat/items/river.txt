@@ -10,3 +10,4 @@ Usages:
 =======
 Animal + River = Otter
 Bird + Computer + River = Byte
+Egypt + River = Nile

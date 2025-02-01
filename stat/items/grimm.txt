@@ -9,3 +9,4 @@ Reaper + Reaper = Grimm
 Usages:
 =======
 Fairy Tale + Grimm = Cinderella
+Grimm + Wolf = Wolfman

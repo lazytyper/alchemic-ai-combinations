@@ -10,3 +10,8 @@ Usages:
 =======
 Apple + Drink = Cider
 Dehydration + Drink = Rehydration
+Drink + Milk = Latte
+Drink + Latte = Cappuccino
+Cappuccino + Drink = Coffee
+Coffee + Drink = Espresso
+Drink + Espresso = Latte

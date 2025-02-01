@@ -1,0 +1,12 @@
+==================================
+= Latte
+==================================
+
+created by:
+===========
+Drink + Milk = Latte
+Drink + Espresso = Latte
+
+Usages:
+=======
+Drink + Latte = Cappuccino

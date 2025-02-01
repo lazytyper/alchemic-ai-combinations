@@ -24,3 +24,4 @@ Island + Ship = Pirate
 Island + Pirate = Treasure
 Geyser + Island = Iceland
 Island + Jungle = Lost
+Island + Love = Honeymoon

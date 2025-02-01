@@ -10,3 +10,4 @@ Morning + Time = Breakfast
 Usages:
 =======
 Breakfast + Time = Morning
+Breakfast + Sandwich = Bagel

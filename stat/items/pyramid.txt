@@ -1,0 +1,14 @@
+==================================
+= Pyramid
+==================================
+
+created by:
+===========
+Giza + Rock = Pyramid
+
+Usages:
+=======
+Pyramid + Pyramid = Pharao
+Arrow + Pyramid = Obelisk
+Obelisk + Pyramid = Monument
+Monument + Pyramid = Obelisk

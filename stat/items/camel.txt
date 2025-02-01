@@ -1,0 +1,11 @@
+==================================
+= Camel
+==================================
+
+created by:
+===========
+Animal + Desert = Camel
+
+Usages:
+=======
+Camel + Camel = Dromedary

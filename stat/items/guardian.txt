@@ -9,3 +9,4 @@ Archangel + Eve = Guardian
 Usages:
 =======
 Angel + Guardian = Protector
+Bloodhound + Guardian = Tracker

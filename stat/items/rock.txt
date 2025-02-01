@@ -24,3 +24,6 @@ Heart + Love + Rock = Rockstar
 Rock + Titanic = Iceberg
 Rock + Rock + Rock + Rock = Mount Rushmore
 Rock + Rock + Rock + Rock = Mountain
+Giza + Rock = Pyramid
+Monument + Rock = Stonehenge
+Monument + Rock = Statue

@@ -11,3 +11,4 @@ Usages:
 Poetry + Romance = Sonnet
 Poetry + Speech = Rhetoric
 Computer + Poetry = Cyberverse
+Alpha + Poetry = Alphabet

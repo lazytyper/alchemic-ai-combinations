@@ -10,3 +10,4 @@ Usages:
 =======
 Dirt + Tsunami = Mudslide
 Dirt + Gardening = Planting
+Dirt + Volcano = Mudflow

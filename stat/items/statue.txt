@@ -5,6 +5,7 @@
 created by:
 ===========
 Sculpture + Zeus = Statue
+Monument + Rock = Statue
 
 Usages:
 =======

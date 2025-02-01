@@ -12,3 +12,5 @@ Fire + Ghost = Poltergeist
 Ghost + Hopeful Cynicism = Ghostwriter
 Ghost + Herbalist = Spiritual Healer
 Ghost + Ghostbuster = Ectoplasm
+Batman + Ghost = Phantom
+Cozy + Ghost = Haunt

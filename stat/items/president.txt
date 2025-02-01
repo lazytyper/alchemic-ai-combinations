@@ -1,0 +1,11 @@
+==================================
+= President
+==================================
+
+created by:
+===========
+Human + Washington = President
+
+Usages:
+=======
+President + Washington = Obama
