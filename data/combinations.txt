@@ -1992,7 +1992,7 @@ animalia,alligator,reptile
 sushi_bar,cooking,sushi_chef
 farmbot,river_styx,crossing
 sushi_chef,recipe,nigiri
-huma,sin,fallen_angel
+human,sin,fallen_angel
 heavenly_star,plant,star_flower
 sin,snake,temptation
 temptation,snake,satan
@@ -2009,7 +2009,7 @@ picnic,picnic,outdoor_meal
 lover,cozy,snuggler
 picnic,caramella,caramel_apple
 picnic,caramel_apple,carnival
-picnic,carnival,Festival
+picnic,carnival,festival
 picnic,festival,outing
 picnic,park,lunchtime
 carnival,city,rio
@@ -2052,13 +2052,13 @@ ring,invisibility,ringwraith
 dust,star,comet
 ariel,shadow,underwater_ballet
 hercules,ring,strength
-poisonous,employee,toxic_worker
+poisonous_bird,employee,toxic_worker
 animal,animal,catdog
 animal,prayer_flag,windhorse
 animal,windhorse,pegasus
 animal,aquarius,griffin
 animal,sweetness,honeybee
-animal,nightbreeze,owl
+animal,night_breeze,owl
 animal,warmth,blanket
 animal,sorceress,beastmaster
 animal,partnership,team
@@ -2077,3 +2077,4 @@ air,microscope,bacteria
 bacteria,air,germs
 water,bacteria,contamination
 bacteria,microscope,germ_theory
+afterlife,water,river_styx

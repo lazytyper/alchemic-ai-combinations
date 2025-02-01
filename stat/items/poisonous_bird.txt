@@ -9,3 +9,4 @@ Poison + Robin = Poisonous Bird
 Usages:
 =======
 Poisonous Bird + Steam = Extraction
+Employee + Poisonous Bird = Toxic Worker

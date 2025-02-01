@@ -4,7 +4,6 @@ Adamant: 0
 Adamantine: 0
 Adaptation: 0
 Adventurer: 0
-Afterlife: 0
 Age: 0
 Air Disaster: 0
 Air Magic: 0
@@ -223,7 +222,6 @@ Farm Therapy: 0
 Farm-To-Table: 0
 Fault Line: 0
 Fertile Soil: 0
-Festival: 0
 Fire Giant: 0
 Fire Hose: 0
 Fire King: 0
@@ -401,7 +399,6 @@ Neighborhood: 0
 Network Security: 0
 Neural Network: 0
 Nibelung: 0
-Night Breeze: 0
 Nightshade: 0
 Nigiri: 0
 Nik Wallenda: 0
@@ -657,6 +654,7 @@ Zookeeper: 0
 Aang: 1
 Activism: 1
 Adventureland: 1
+Afterlife: 1
 Agrarian: 1
 Air Force: 1
 Airplane: 1
@@ -883,7 +881,6 @@ Honeycomb: 1
 Honeymoon: 1
 Horoscope: 1
 Hot Date: 1
-Huma: 1
 Humanity: 1
 Humans: 1
 Hypochondria: 1
@@ -967,8 +964,8 @@ Nautilus: 1
 Network: 1
 Neverland: 1
 Newton: 1
+Night Breeze: 1
 Night Guard: 1
-Nightbreeze: 1
 Nightwatchman: 1
 Nile: 1
 Nirvana: 1
@@ -995,8 +992,6 @@ Plant Spirit: 1
 Plantation: 1
 Playdate: 1
 Pluto: 1
-Poisonous: 1
-Poisonous Bird: 1
 Poltergeist: 1
 Pompeji: 1
 Popstar: 1
@@ -1327,6 +1322,7 @@ Phoenix: 2
 Pie: 2
 Planting: 2
 Plants: 2
+Poisonous Bird: 2
 Poker Chip: 2
 Political Corruption: 2
 Pollination: 2
@@ -1559,6 +1555,7 @@ Serene: 3
 Serenity: 3
 Shipwreck: 3
 Silence: 3
+Sin: 3
 Smoked Salmon: 3
 Spacecraft: 3
 Spell: 3
@@ -1667,7 +1664,6 @@ Renewable Energy: 4
 Roll: 4
 Romeo: 4
 Sherpa: 4
-Sin: 4
 Snake: 4
 Snow White: 4
 Solar System: 4
@@ -1872,9 +1868,9 @@ Sun: 17
 Evolution: 18
 Fish: 18
 Computer: 21
-Water: 21
 Earth: 22
 Ocean: 22
+Water: 22
 House: 25
 Air: 27
 Time: 33

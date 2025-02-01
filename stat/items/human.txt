@@ -117,6 +117,7 @@ Cupid + Human = Love
 Darkness + Human = Nightmare
 Cyberverse + Human = Cyborg
 Human + Sin = Adam
+Human + Sin = Fallen Angel
 History Museum + Human = Anthropology Exhibit
 Human + Invisibility = Hollow Man
 Hollow Man + Human = Invisible Man

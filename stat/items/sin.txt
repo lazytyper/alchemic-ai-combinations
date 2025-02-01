@@ -10,6 +10,6 @@ Adam + Eve = Sin
 Usages:
 =======
 Human + Sin = Adam
-Huma + Sin = Fallen Angel
+Human + Sin = Fallen Angel
 Sin + Snake = Temptation
 Sin + Social Media = Influence
