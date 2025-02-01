@@ -1,0 +1,13 @@
+==================================
+= Bee
+==================================
+
+created by:
+===========
+Queen + Queen + Queen = Bee
+
+Usages:
+=======
+Bee + Orchard = Honey
+Bee + Forest = Honeycomb
+Bee + Flower Garden = Honeycomb

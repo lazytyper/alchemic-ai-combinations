@@ -19,3 +19,4 @@ Dystopia + Surveillance = 1984
 Batman + Dystopia = Gotham
 Dystopia + Oxygen = Ecology
 Blackout + Dystopia = Collapse
+Dystopia + Recall = Memory Loss

@@ -9,3 +9,4 @@ Love + Nature = Romanticism
 Usages:
 =======
 Human + Romanticism = Poet
+Champion + Romanticism = Heroism

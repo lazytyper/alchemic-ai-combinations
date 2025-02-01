@@ -22,3 +22,4 @@ Steam + Volcano = Hot Springs
 Cloud + Volcano = Ash
 Agriculture + Volcano = Fertile Soil
 Nature Worship + Volcano = Pele
+City + Volcano = Pompeji

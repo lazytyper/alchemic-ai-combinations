@@ -10,3 +10,4 @@ Usages:
 =======
 Breeze + Skyland = Airship
 Breeze + Diver = Windsurfer
+Breeze + Witchcraft = Air Magic

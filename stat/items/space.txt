@@ -14,3 +14,4 @@ Enterprise + Space = Star Trek
 Air Force + Space = Spacelink
 Road Trip + Space = Road Tripper
 Space + Warp Drive = Hyperspace
+Light Show + Space = Laser Display

@@ -16,3 +16,4 @@ Forest + Forest = Jungle
 Forest + Tree = Woodland
 Fire + Forest = Wildfire
 Forest + Robin Hood = Outlaw
+Bee + Forest = Honeycomb

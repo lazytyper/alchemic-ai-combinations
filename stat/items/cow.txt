@@ -1,0 +1,12 @@
+==================================
+= Cow
+==================================
+
+created by:
+===========
+Animal + Milk = Cow
+
+Usages:
+=======
+Cow + Cow = Milk
+Cow + Cow + Cow + Cow = Herd

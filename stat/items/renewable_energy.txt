@@ -12,3 +12,4 @@ Usages:
 Plant + Renewable Energy = Biofuel
 Renewable Energy + Wind = Solar Power
 Dragonair + Renewable Energy = Dragon Energy
+Planet + Renewable Energy = Earth Hour

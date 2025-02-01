@@ -28,3 +28,4 @@ House + Pizza = Hut
 Bread + House = Gingerbread
 Gingerbread + House = Cottage
 Comfort + House = Home
+House + Wildfire = Evacuate

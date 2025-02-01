@@ -10,3 +10,5 @@ Usages:
 =======
 Harvest + Orchard = Tractor
 Orchard + Water = Apple
+Bee + Orchard = Honey
+Orchard + Orchard = Apple

@@ -16,3 +16,6 @@ Animal + Rainbow = Unicorn
 Animal + Charmander = Pokemon
 Animal + Mountain = Ibex
 Animal + Circus = Elephant
+Animal + Baby = Cub
+Animal + Milk = Cow
+Animal + River = Otter

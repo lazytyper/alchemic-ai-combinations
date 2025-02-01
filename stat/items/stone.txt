@@ -18,3 +18,4 @@ Air + Stone = Rockets
 Air + Stone = Sand
 Air + Stone = Rock
 Air + Stone = Diamond
+Combustion + Stone = Fire Rock

@@ -9,3 +9,4 @@ Thirst + Water = Hydration
 Usages:
 =======
 Hydration + Sorcerer = Water Mage
+Dehydration + Hydration = Electrolyte

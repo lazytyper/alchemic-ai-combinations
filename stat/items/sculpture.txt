@@ -9,3 +9,4 @@ Breath + Clay = Sculpture
 Usages:
 =======
 Sculpture + Zeus = Statue
+Darkness + Sculpture = Shadow

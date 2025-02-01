@@ -11,3 +11,4 @@ Usages:
 Animal + Farm = Livestock
 Farm + House = Barn
 Farm + Grim Fairytale = Scarecrow
+Farm + Ruins = Ghost Town

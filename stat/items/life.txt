@@ -55,3 +55,5 @@ Evolution + Life = Biology
 Farmhouse + Life = Rural Living
 Enchantment + Life = Magic Potion
 Fog + Life = Mistake
+Life + Mushroom = Mario
+Life + Rain = Growth

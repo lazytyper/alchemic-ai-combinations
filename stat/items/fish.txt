@@ -22,3 +22,7 @@ Fish + Race = Marathon
 Coral Reef + Fish = Underwater World
 Clown + Fish = Nemo
 Fish + Glass = Aquarium
+Fish + Otter = Riverbank
+Fish + Fish + Fish + Fish = School
+Fish + Fish + Fish = School
+Fish + Fish = School Fish

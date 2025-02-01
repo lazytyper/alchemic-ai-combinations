@@ -9,3 +9,4 @@ Cloudscape + Kingdom = Skyland
 Usages:
 =======
 Breeze + Skyland = Airship
+Conflict + Skyland = Skyward Sword

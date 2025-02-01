@@ -9,3 +9,4 @@ Sailboat + Sailboat = Yacht
 Usages:
 =======
 Yacht + Yacht = Boat
+Fishing + Yacht = Yachting

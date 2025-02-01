@@ -11,3 +11,4 @@ Usages:
 Bread + Time = Toast
 Bread + House = Gingerbread
 Bread + Human = Sandwich
+Bread + Decay = Mold

@@ -18,3 +18,5 @@ Bird + Tornado = Twister
 Aquarius + Bird = Birdman
 Bird + Scarecrow = Feather
 Bird + Kingdom = Animalia
+Bird + Peace = Dove
+Bird + Windsong = Songbird

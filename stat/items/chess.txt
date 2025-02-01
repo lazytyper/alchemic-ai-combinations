@@ -1,0 +1,11 @@
+==================================
+= Chess
+==================================
+
+created by:
+===========
+Queen + Queen + Queen + Queen = Chess
+
+Usages:
+=======
+Chess + Matchmaker = Chessmaster

@@ -11,3 +11,5 @@ Usages:
 Childhood + Fairy Circle = Imagination
 Aquatic Garden + Childhood = Waterplay
 Childhood + Playhouse = Treehouse
+Childhood + School = Education
+Childhood + Time = Memory

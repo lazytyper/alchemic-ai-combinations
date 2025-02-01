@@ -13,3 +13,7 @@ Aphrodite + Partner = Eros
 Bond + Partner = Couple
 Partner + Soulmate = Spouse
 Blood + Partner = Bloodline
+Partner + Queen = King
+King + Partner = Queen
+Mario + Partner = Luigi
+Partner + Princess = Royal Wedding

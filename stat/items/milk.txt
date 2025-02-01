@@ -1,0 +1,13 @@
+==================================
+= Milk
+==================================
+
+created by:
+===========
+Baby + Cookie = Milk
+Cow + Cow = Milk
+
+Usages:
+=======
+Honey + Milk = Yogurt
+Animal + Milk = Cow

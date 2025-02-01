@@ -9,3 +9,4 @@ Ballad + Rockstar = Songwriter
 Usages:
 =======
 Rockstar + Songwriter = Musician
+Duplication + Songwriter = Composer

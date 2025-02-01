@@ -1,0 +1,11 @@
+==================================
+= Rescue Team
+==================================
+
+created by:
+===========
+Firefighter + Human = Rescue Team
+
+Usages:
+=======
+Human + Rescue Team = Paramedic

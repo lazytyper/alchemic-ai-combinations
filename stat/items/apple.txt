@@ -5,6 +5,7 @@
 created by:
 ===========
 Orchard + Water = Apple
+Orchard + Orchard = Apple
 
 Usages:
 =======

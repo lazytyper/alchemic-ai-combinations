@@ -10,3 +10,4 @@ Usages:
 =======
 Athlete + Driver = Racer
 Driver + Milky Way = Spacecraft
+Driver + Kelpie = Dogman

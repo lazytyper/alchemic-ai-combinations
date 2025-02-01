@@ -9,3 +9,4 @@ Evolution + Glass = Microscope
 Usages:
 =======
 Microscope + Pollen = Grain
+Microscope + Mold = Fungus

@@ -11,3 +11,4 @@ Usages:
 Firefighter + Water = Fire Hose
 Fire + Firefighter = Rescue Squad
 Firefighter + Wildfire = Smokejumper
+Firefighter + Human = Rescue Team

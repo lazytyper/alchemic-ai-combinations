@@ -9,3 +9,4 @@ Gravity + Gravity = Acceleration
 Usages:
 =======
 Acceleration + Starship = Warp Drive
+Acceleration + Honeycomb = Beehive

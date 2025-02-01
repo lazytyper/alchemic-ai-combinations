@@ -10,3 +10,4 @@ Usages:
 =======
 Champion + Race = Winner
 Apocalypse + Champion = Apocalypso
+Champion + Romanticism = Heroism

@@ -10,3 +10,4 @@ Usages:
 =======
 Myth + Myth = Legend
 Legend + Myth = Hero
+Myth + Soundpark = Soundtrack

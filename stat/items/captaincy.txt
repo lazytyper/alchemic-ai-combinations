@@ -8,3 +8,4 @@ Captain + Degradation = Captaincy
 
 Usages:
 =======
+Captaincy + Pokemon = Captain Pokemon

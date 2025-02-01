@@ -5,8 +5,11 @@
 created by:
 ===========
 House + Teacher = School
+Fish + Fish + Fish + Fish = School
+Fish + Fish + Fish = School
 
 Usages:
 =======
 School + Teacher = Classroom
 House + School = Education
+Childhood + School = Education

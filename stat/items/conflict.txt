@@ -11,3 +11,4 @@ Usages:
 Conflict + Thirst = Warrior
 Conflict + Society = Strife
 Conflict + Copyright = Intellectual Property
+Conflict + Skyland = Skyward Sword

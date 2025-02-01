@@ -9,3 +9,6 @@ Dough + Fireplace = Pizza
 Usages:
 =======
 House + Pizza = Hut
+Mushroom + Pizza = Funghi
+Pizza + Pizza = Calzone
+Pizza + Pizza + Pizza + Pizza = Quattro Formaggi

@@ -5,6 +5,7 @@
 created by:
 ===========
 Evil + Snow White = Queen
+King + Partner = Queen
 
 Usages:
 =======
@@ -14,3 +15,9 @@ Castle + Monarch + Queen = Royalty
 Castle + Queen = Throne
 Heroics + Queen = Wonder Woman
 Queen + Society = Monarchy
+Queen + Queen + Queen + Queen = Chess
+Queen + Queen + Queen + Queen = Monarchy
+Queen + Queen + Queen = Bee
+Queen + Queen = Royal Couple
+Beehive + Queen = Hive
+Partner + Queen = King

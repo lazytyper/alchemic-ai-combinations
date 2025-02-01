@@ -9,5 +9,8 @@ Rock + Stone = Pebble
 Usages:
 =======
 Pebble + Pebble = Stone
+Pebble + Pebble = Rock
 Combustion + Pebble = Fireplace
 Amazon + Pebble = River
+Pebble + Pebble + Pebble + Pebble = Boulder
+Pebble + Pebble + Pebble = Rock Pile

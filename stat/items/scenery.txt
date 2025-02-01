@@ -10,3 +10,4 @@ Usages:
 =======
 Cyclist + Scenery = Bicycle Tour
 Race + Scenery = Road Trip
+Frogspawn + Scenery = Tadpole Pond

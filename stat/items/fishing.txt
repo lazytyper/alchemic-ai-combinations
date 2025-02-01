@@ -9,3 +9,4 @@ Fish + Hook = Fishing
 Usages:
 =======
 Fishing + Human = Angler
+Fishing + Yacht = Yachting

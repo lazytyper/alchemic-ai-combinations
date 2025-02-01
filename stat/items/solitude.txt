@@ -4,8 +4,9 @@
 
 created by:
 ===========
-Isolation + Flower = Solitude
+Flower + Isolation = Solitude
 Isolation + Rage = Solitude
 
 Usages:
 =======
+Flower + Solitude = Peace

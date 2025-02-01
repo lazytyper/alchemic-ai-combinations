@@ -9,3 +9,4 @@ Potion + Rebirth = Elixir Of Immortality
 Usages:
 =======
 Elixir Of Immortality + Human = Philosopher's Stone
+Electrolyte + Elixir Of Immortality = Life Potion

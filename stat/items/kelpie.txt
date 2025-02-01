@@ -9,3 +9,5 @@ Fire + Seaweed = Kelpie
 Usages:
 =======
 Kelpie + Rescue Squad = Water Rescue
+Driver + Kelpie = Dogman
+Human + Kelpie = Mystical Creature

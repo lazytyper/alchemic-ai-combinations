@@ -10,3 +10,5 @@ Usages:
 =======
 Boat + Boat = Ship
 Boat + Stone = Anchor
+Boat + Boat + Boat + Boat = Armada
+Boat + Boat + Boat + Boat = Fleet

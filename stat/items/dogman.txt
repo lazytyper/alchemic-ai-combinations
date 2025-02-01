@@ -1,0 +1,11 @@
+==================================
+= Dogman
+==================================
+
+created by:
+===========
+Driver + Kelpie = Dogman
+
+Usages:
+=======
+Dogman + Dogman = Duplication

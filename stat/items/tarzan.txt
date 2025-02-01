@@ -14,3 +14,4 @@ Community + Tarzan = Jungle Tribe
 Speech + Tarzan = Elephant Communication
 Hades + Tarzan = Underworld King
 Chaos Magic + Tarzan = Wild Magic
+Simba + Tarzan = Jungle King

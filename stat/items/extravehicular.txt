@@ -8,3 +8,4 @@ Space + Spacewalk = Extravehicular
 
 Usages:
 =======
+Extravehicular + Mario = Kaboom

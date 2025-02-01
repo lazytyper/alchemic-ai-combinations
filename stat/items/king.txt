@@ -1,0 +1,13 @@
+==================================
+= King
+==================================
+
+created by:
+===========
+Partner + Queen = King
+
+Usages:
+=======
+Animals + King = Lion
+King + Partner = Queen
+King + Lion = Simba

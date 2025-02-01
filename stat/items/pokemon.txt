@@ -9,3 +9,4 @@ Animal + Charmander = Pokemon
 Usages:
 =======
 Charmander + Pokemon = Fire Lizard
+Captaincy + Pokemon = Captain Pokemon

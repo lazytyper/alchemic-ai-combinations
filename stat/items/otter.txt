@@ -1,0 +1,11 @@
+==================================
+= Otter
+==================================
+
+created by:
+===========
+Animal + River = Otter
+
+Usages:
+=======
+Fish + Otter = Riverbank

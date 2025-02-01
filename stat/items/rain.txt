@@ -10,3 +10,4 @@ Usages:
 =======
 Rain + Sunflower = Rainbow
 Gossip + Rain = Drizzle
+Life + Rain = Growth

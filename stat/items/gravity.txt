@@ -10,3 +10,4 @@ Usages:
 =======
 Gravity + Gravity = Acceleration
 Apple + Gravity = Newton
+Gravity + Greenpeace = Earthcare

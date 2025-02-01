@@ -5,6 +5,7 @@
 created by:
 ===========
 Queen + Society = Monarchy
+Queen + Queen + Queen + Queen = Monarchy
 
 Usages:
 =======
