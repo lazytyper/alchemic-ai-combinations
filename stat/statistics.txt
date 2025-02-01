@@ -125,7 +125,6 @@ Dragon Worship: 0
 Dragonfire: 0
 Dragonsphere: 0
 Dramedy: 0
-Dreamer: 0
 Dreamlight: 0
 Dreams: 0
 Dreamscapes: 0
@@ -237,6 +236,7 @@ Hot Date: 0
 Hybrid: 0
 Hygge: 0
 Hyperspace: 0
+Hypochondria: 0
 Imitator: 0
 Incence: 0
 Independence: 0
@@ -264,6 +264,7 @@ Lightning Person: 0
 Lost Love: 0
 Love Affair: 0
 Love Motel: 0
+Love Sickness: 0
 Love Token: 0
 Loveboat: 0
 Lovefest: 0
@@ -306,7 +307,6 @@ Mystical Creature: 0
 Mythology: 0
 Mythos: 0
 Natural Selection: 0
-Nature Spirituality: 0
 Nature's Wrath: 0
 Necromancer: 0
 Neighborhood: 0
@@ -437,6 +437,7 @@ Theatre: 0
 Thermal Power: 0
 Thor: 0
 Tiger: 0
+Time-Traveler: 0
 Toddler: 0
 Toffee: 0
 Togetherness: 0
@@ -469,7 +470,8 @@ Wilderness: 0
 Windsurfer: 0
 Wings: 0
 Wisdom: 0
-Wishful Thinking: 0
+Wish Fulfillment: 0
+Wishful: 0
 Wishmaker: 0
 Witch Doctor: 0
 Wizardry: 0
@@ -505,6 +507,7 @@ Author: 1
 Barn: 1
 Beach: 1
 Beach Party: 1
+Bed: 1
 Bike Path: 1
 Binary Code: 1
 Binary System: 1
@@ -559,7 +562,6 @@ Cyberverse: 1
 Cyborg: 1
 Cyclone: 1
 Daredevil: 1
-Dartboard: 1
 Dartfrog: 1
 Data: 1
 Daydream: 1
@@ -577,7 +579,9 @@ Dragon: 1
 Dragon Cult: 1
 Dragon Energy: 1
 Dragonwood: 1
+Dream: 1
 Dreamboat: 1
+Dreamcatcher: 1
 Dreaminess: 1
 Dreamscape: 1
 Duplication: 1
@@ -697,10 +701,10 @@ Magic Potion: 1
 Magma: 1
 Magma Lamp: 1
 Maki: 1
+Malady: 1
 Marathon: 1
 Mariner: 1
 Marvel: 1
-Maximum Happiness: 1
 Memory: 1
 Memory Loss: 1
 Merfolk: 1
@@ -725,6 +729,7 @@ Museum: 1
 Music Festival: 1
 Mysticism: 1
 Nature Spirit: 1
+Nature Spirituality: 1
 Nature Worship: 1
 Nautilus: 1
 Neverland: 1
@@ -798,6 +803,7 @@ Sherwood: 1
 Shrek: 1
 Simba: 1
 Sky God: 1
+Sleep: 1
 Slipper: 1
 Smog: 1
 Smokestack: 1
@@ -864,8 +870,8 @@ Wind Power: 1
 Windsong: 1
 Wing: 1
 Winner: 1
-Wish: 1
 Wish Come True: 1
+Wishful Thinking: 1
 Wisp: 1
 Witchcraft: 1
 Wonder Woman: 1
@@ -874,7 +880,6 @@ Zoology: 1
 24 Hours: 2
 Abyss: 2
 Acceleration: 2
-Allergy: 2
 Anarchist: 2
 Anemone: 2
 Apple Pie: 2
@@ -914,6 +919,7 @@ Creative Suite: 2
 Crop Yield: 2
 Cyclist: 2
 Dark Romance: 2
+Dartboard: 2
 Date: 2
 Degradation: 2
 Dehydration: 2
@@ -927,6 +933,7 @@ Disaster Area: 2
 Dolphin: 2
 Dorian Gray: 2
 Dragonair: 2
+Dreamer: 2
 Dual System: 2
 Duplex: 2
 E-Bike: 2
@@ -1001,6 +1008,7 @@ Marine Biologist: 2
 Marine Sanctuary: 2
 Mars: 2
 Marsupilami: 2
+Maximum Happiness: 2
 Media Summit: 2
 Meditation: 2
 Merman: 2
@@ -1096,6 +1104,7 @@ Whisper: 2
 Wildlife: 2
 Windbreak: 2
 Windflower: 2
+Wish: 2
 Wishcraft: 2
 Yacht: 2
 Yoga: 2
@@ -1238,6 +1247,7 @@ Wreckage: 3
 Yellowstone: 3
 Adventure: 4
 Agriculture: 4
+Allergy: 4
 Amazon: 4
 Animalia: 4
 Apocalypse: 4
@@ -1256,7 +1266,6 @@ Conflict: 4
 Contemplation: 4
 Copy: 4
 Corruption: 4
-Couple: 4
 Coziness: 4
 Cozy: 4
 Darkness: 4
@@ -1363,8 +1372,8 @@ Turbine: 5
 Aphrodite: 6
 Atlantis: 6
 Beauty: 6
-Boat: 6
 Copycat: 6
+Couple: 6
 Death: 6
 Desert: 6
 Dryad: 6
@@ -1394,6 +1403,7 @@ Zeus: 6
 Animation: 7
 Apple: 7
 Arrow: 7
+Boat: 7
 Community: 7
 Day: 7
 Desentization: 7
@@ -1415,7 +1425,6 @@ Adobe: 8
 Castle: 8
 Charmander: 8
 Cinderella: 8
-Genie: 8
 Landscape: 8
 Monarch: 8
 Smoke: 8
@@ -1448,6 +1457,7 @@ Sky: 11
 Wind: 11
 Animal: 12
 Bird: 12
+Genie: 12
 Jungle: 12
 Mountain: 12
 Planet: 12
@@ -1464,8 +1474,8 @@ House: 18
 Water: 18
 Earth: 21
 Ocean: 22
-Time: 24
 Air: 25
+Time: 25
 Fire: 41
 Life: 41
 Love: 52

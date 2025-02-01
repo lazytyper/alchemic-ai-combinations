@@ -1629,3 +1629,14 @@ genie,matchmaker,wishmaker
 love,genie,wish
 wish,love,desire
 lamp,darkness,shadows
+wishful_thinking,allergy,hypochondria
+allergy,genie,malady
+malady,couple,love_sickness
+genie,maximum_happiness,wish_fulfillment
+wish,dreamer,wishful
+dartboard,nature_spirituality,dreamcatcher
+dreamer,dreamcatcher,sleep
+sleep,couple,bed
+genie,bed,dream
+dream,boat,dreamboat
+genie,time,time-traveler

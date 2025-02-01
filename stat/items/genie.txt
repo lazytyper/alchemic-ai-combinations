@@ -16,3 +16,7 @@ Genie + Quarantine = Wishful Thinking
 Aladdin + Genie = Magic Lamp
 Genie + Matchmaker = Wishmaker
 Genie + Love = Wish
+Allergy + Genie = Malady
+Genie + Maximum Happiness = Wish Fulfillment
+Bed + Genie = Dream
+Genie + Time = Time-Traveler

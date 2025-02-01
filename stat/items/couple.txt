@@ -12,3 +12,5 @@ Couple + Time = Date
 Couple + Serene = Togetherness
 Couple + Date = Romantic Evening
 Couple + Rowboat = Loveboat
+Couple + Malady = Love Sickness
+Couple + Sleep = Bed
