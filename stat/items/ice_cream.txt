@@ -1,0 +1,13 @@
+==================================
+= Ice Cream
+==================================
+
+created by:
+===========
+Milk + Sugar = Ice Cream
+
+Usages:
+=======
+Ice Cream + Sun = Melt
+House + Ice Cream = Cupcake
+House + Ice Cream = Ice Cream Truck

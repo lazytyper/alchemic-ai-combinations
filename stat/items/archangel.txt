@@ -9,3 +9,5 @@ Angel + Angel = Archangel
 Usages:
 =======
 Archangel + Spellcaster = Magus
+Adam + Archangel = Adamant
+Archangel + Eve = Guardian

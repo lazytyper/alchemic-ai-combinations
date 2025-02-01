@@ -11,3 +11,7 @@ Usages:
 =======
 Honey + Milk = Yogurt
 Animal + Milk = Cow
+Milk + Sugar = Ice Cream
+Milk + Sugar = Sweet Cream
+Baker + Milk = Cheesecake
+Milk + Time = Cheese

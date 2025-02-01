@@ -5,6 +5,8 @@
 created by:
 ===========
 Queen + Queen + Queen + Queen = Chess
+Knight + Queen = Chess
+Knight + Knight = Chess
 
 Usages:
 =======

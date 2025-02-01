@@ -1,0 +1,11 @@
+==================================
+= Frankenstein
+==================================
+
+created by:
+===========
+Castle + Lightning = Frankenstein
+
+Usages:
+=======
+Animal + Frankenstein = Hybrid Animal

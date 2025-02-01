@@ -9,3 +9,5 @@ Devil's Garden + Dolphin = Guardsman
 Usages:
 =======
 Guardsman + Haunting = Ghostbuster
+Guardsman + Royalty = Knight
+Guardsman + Internet = Cybersecurity

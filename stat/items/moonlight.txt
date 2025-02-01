@@ -12,3 +12,4 @@ Herbalist + Moonlight = Sorceress
 Heart + Moonlight = Dreams
 Moonlight + Romantic Stroll = Moonlit Walk
 Coziness + Moonlight = Dreaminess
+Agriculture + Moonlight = Moon Tree

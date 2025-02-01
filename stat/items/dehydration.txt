@@ -10,3 +10,4 @@ Usages:
 =======
 Blood Rose + Dehydration = Bloodlust
 Dehydration + Hydration = Electrolyte
+Dehydration + Drink = Rehydration

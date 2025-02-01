@@ -14,3 +14,4 @@ Pirate + Ship = Captain
 Pirate + Ship = Captain Hook
 Pirate + Pirate = Crewmate
 Captain + Pirate = Hook
+Computer + Pirate = Hacker

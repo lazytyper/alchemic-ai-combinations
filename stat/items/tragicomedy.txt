@@ -9,3 +9,4 @@ Disaster + Love = Tragicomedy
 Usages:
 =======
 Peacekeeper + Tragicomedy = Dramedy
+Moonbrain + Tragicomedy = Melancholy

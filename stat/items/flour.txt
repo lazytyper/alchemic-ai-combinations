@@ -5,6 +5,7 @@
 created by:
 ===========
 Pressure + Wheat = Flour
+Wheat + Windmill = Flour
 
 Usages:
 =======

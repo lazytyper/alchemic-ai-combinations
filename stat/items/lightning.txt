@@ -11,3 +11,4 @@ Usages:
 Human + Lightning = Thor
 Flash + Lightning = Thor
 Dracula + Lightning = Vampire Bat
+Castle + Lightning = Frankenstein

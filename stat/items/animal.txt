@@ -20,3 +20,6 @@ Animal + Baby = Cub
 Animal + Milk = Cow
 Animal + River = Otter
 Animal + Chaos = Pandemonium
+Animal + Frankenstein = Hybrid Animal
+Animal + Cheddar = Mouse
+Animal + Cheese = Mouse Trap

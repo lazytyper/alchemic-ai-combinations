@@ -10,3 +10,4 @@ Usages:
 =======
 Forest + Robin Hood = Outlaw
 Castle + Robin Hood = Sherwood
+Legend + Robin Hood = Folk Hero

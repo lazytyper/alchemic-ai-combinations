@@ -35,3 +35,6 @@ Childhood + Time = Memory
 Rust + Time = Corrosion
 Genie + Time = Time-Traveler
 Time + Time-Traveler = Paradox
+Pokemon + Time = Celebi
+Milk + Time = Cheese
+Nightmare + Time = Insomnia

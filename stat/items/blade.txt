@@ -9,3 +9,5 @@ Athlete + Vampire Hero = Blade
 Usages:
 =======
 Blade + Lost = Bladeless
+Blade + Legend = Excalibur
+Blade + Knight = Sword

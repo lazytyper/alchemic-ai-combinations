@@ -64,3 +64,5 @@ Computer + Love = Online Dating
 Love + Robot = Android
 Genie + Love = Wish
 Love + Wish = Desire
+Candy + Love = Sweetheart
+Love + Melancholy = Longing

@@ -9,3 +9,4 @@ Genie + Time = Time-Traveler
 Usages:
 =======
 Time + Time-Traveler = Paradox
+Ruins + Time-Traveler = Chrononaut

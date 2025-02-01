@@ -10,3 +10,4 @@ Perfume + Steam = Fragrance
 Usages:
 =======
 Fragrance + Smoke = Incence
+Caramel + Fragrance = Caramella

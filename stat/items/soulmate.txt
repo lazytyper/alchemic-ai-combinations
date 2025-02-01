@@ -12,3 +12,4 @@ Marriage + Soulmate = Partner
 Engagement + Soulmate = Partnership
 Poison + Soulmate = Toxic Love
 Partner + Soulmate = Spouse
+Soulmate + Wishful Thinking = Dream Partner

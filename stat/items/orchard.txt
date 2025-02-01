@@ -12,3 +12,5 @@ Harvest + Orchard = Tractor
 Orchard + Water = Apple
 Bee + Orchard = Honey
 Orchard + Orchard = Apple
+Genie + Orchard = Wish Tree
+Orchard + Wish Tree = Dream Tree

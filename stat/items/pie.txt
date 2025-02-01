@@ -5,7 +5,9 @@
 created by:
 ===========
 Apple + Dough = Pie
+Apple + Baker = Pie
 
 Usages:
 =======
 Apple + Pie = Caramel
+Cheese + Pie = Quiche

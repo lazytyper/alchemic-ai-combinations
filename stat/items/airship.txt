@@ -9,3 +9,4 @@ Breeze + Skyland = Airship
 Usages:
 =======
 Airship + Dragonair = Dragonsphere
+Airship + Venom = Sky Pirate

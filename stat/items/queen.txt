@@ -21,3 +21,4 @@ Queen + Queen + Queen = Bee
 Queen + Queen = Royal Couple
 Beehive + Queen = Hive
 Partner + Queen = King
+Knight + Queen = Chess

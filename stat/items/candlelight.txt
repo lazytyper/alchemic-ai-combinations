@@ -11,3 +11,4 @@ Usages:
 Candlelight + Morning = Daybreak
 Candlelight + Twilight = Sundown
 Candlelight + Romance = Ambiance
+Candlelight + Candy = Sweetness

@@ -12,3 +12,4 @@ Marriage + Ring = Wedding Band
 Love + Ring = Engagement
 Ring + Wedding = Ceremony
 Myth + Ring = Nibelung
+Ring + Ring + Ring + Ring = Telephone

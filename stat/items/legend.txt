@@ -15,3 +15,7 @@ Arrow + Legend = Robinhood
 Legend + Legend = Mythology
 Legend + Myth = Hero
 Desentization + Legend = Mythos
+Blade + Legend = Excalibur
+Legend + Power-Up = Mythical Potion
+Legend + Robin Hood = Folk Hero
+Knight + Legend = Arthur

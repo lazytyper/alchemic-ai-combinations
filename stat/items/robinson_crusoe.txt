@@ -9,3 +9,4 @@ Castaway + Peaceful Beach = Robinson Crusoe
 Usages:
 =======
 Partner + Robinson Crusoe = Friday
+Dreamer + Robinson Crusoe = Islander

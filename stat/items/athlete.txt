@@ -19,3 +19,4 @@ Athlete + Power = Champion
 Athlete + Heaven = Olympian
 Athlete + Speedster = Sprinter
 Athlete + Cave = Spelunker
+Athlete + Genie = Wishbone

@@ -9,3 +9,4 @@ Pompeji + Pompeji = Ruins
 Usages:
 =======
 Farm + Ruins = Ghost Town
+Ruins + Time-Traveler = Chrononaut

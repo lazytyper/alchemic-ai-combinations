@@ -9,3 +9,4 @@ Grain + Grain = Wheat
 Usages:
 =======
 Pressure + Wheat = Flour
+Wheat + Windmill = Flour

@@ -18,3 +18,7 @@ Computer + Livestock = Farmbot
 Computer + Love = Online Dating
 Bird + Computer + River = Byte
 Computer + Data = Information
+Community + Computer = Network
+Computer + Network = Internet
+Computer + Pirate = Hacker
+Computer + Cybersecurity = Firewall

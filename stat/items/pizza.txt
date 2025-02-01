@@ -12,3 +12,5 @@ House + Pizza = Hut
 Mushroom + Pizza = Funghi
 Pizza + Pizza = Calzone
 Pizza + Pizza + Pizza + Pizza = Quattro Formaggi
+Cheese + Pizza = Margherita
+Cheddar + Pizza = Slice

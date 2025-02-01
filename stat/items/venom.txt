@@ -9,3 +9,4 @@ Poison + Spirit = Venom
 Usages:
 =======
 Poison + Venom = Toxin
+Airship + Venom = Sky Pirate

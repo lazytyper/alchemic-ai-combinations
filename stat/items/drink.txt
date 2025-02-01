@@ -1,0 +1,12 @@
+==================================
+= Drink
+==================================
+
+created by:
+===========
+Soda + Thirst = Drink
+
+Usages:
+=======
+Apple + Drink = Cider
+Dehydration + Drink = Rehydration

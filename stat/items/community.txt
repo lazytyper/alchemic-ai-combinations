@@ -15,3 +15,6 @@ Community + Tarzan = Jungle Tribe
 Community + Romance = Love Story
 Community + Joy = Celebration
 Classroom + Community = Learning Hub
+Community + Computer = Network
+Community + Internet = Social Media
+Community + Hacker = Hacktivism

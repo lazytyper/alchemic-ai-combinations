@@ -1,0 +1,11 @@
+==================================
+= Cupcake
+==================================
+
+created by:
+===========
+House + Ice Cream = Cupcake
+
+Usages:
+=======
+Cupcake + Human = Baker

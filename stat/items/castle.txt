@@ -16,3 +16,4 @@ Castle + Queen = Throne
 Atlantis + Castle = Myth
 Castle + Robin Hood = Sherwood
 Castle + Mario = Princess
+Castle + Lightning = Frankenstein

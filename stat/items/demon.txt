@@ -10,3 +10,5 @@ Usages:
 =======
 Demon + House = Haunted
 Demon + Fortress = Demonology
+Demon + Partner = Demonlord
+Demon + Genie = Djinn

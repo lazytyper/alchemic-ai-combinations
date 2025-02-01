@@ -11,3 +11,4 @@ Usages:
 Human + Thirst = Dehydration
 Thirst + Water = Hydration
 Conflict + Thirst = Warrior
+Soda + Thirst = Drink

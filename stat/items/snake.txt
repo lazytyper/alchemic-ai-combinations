@@ -9,3 +9,4 @@ Jungle + Poison = Snake
 Usages:
 =======
 Eden + Snake = Original Sin
+Eve + Snake = Original Sin

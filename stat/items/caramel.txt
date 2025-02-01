@@ -9,3 +9,5 @@ Apple + Pie = Caramel
 Usages:
 =======
 Caramel + Caramel = Toffee
+Caramel + Fragrance = Caramella
+Apple + Caramel = Candy

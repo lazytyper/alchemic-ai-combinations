@@ -9,3 +9,4 @@ Lifeguard + Ocean = Beach
 Usages:
 =======
 Beach + Plant = Palm Tree
+Beach + Genie = Sandman

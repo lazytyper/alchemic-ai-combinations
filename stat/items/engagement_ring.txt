@@ -12,3 +12,4 @@ Usages:
 Engagement Ring + Human = Proposal
 Engagement Ring + Love = Proposal
 Engagement + Engagement Ring = Proposal
+Engagement Ring + Genie = Wishing Ring

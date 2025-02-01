@@ -11,3 +11,6 @@ Usages:
 Monster + Monster = Godzilla
 Monster + Shark = Jaws
 Aquarium + Monster = Kraken
+Monster + Nightmare = Fear
+Genie + Monster = Abomination
+Fear + Monster = Terror

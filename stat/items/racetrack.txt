@@ -9,3 +9,4 @@ Motorcycle + Racecourse = Racetrack
 Usages:
 =======
 Bicycle + Racetrack = Velodrome
+Racetrack + Stormwatch = Chase

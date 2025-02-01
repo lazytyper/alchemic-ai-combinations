@@ -9,3 +9,4 @@ Legend + Myth = Hero
 Usages:
 =======
 Hero + Human = Superman
+Excalibur + Hero = King Arthur

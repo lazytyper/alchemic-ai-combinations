@@ -12,3 +12,4 @@ Eden + Sacrifice = Garden
 Bribery + Eden = Paradise Lost
 Eden + Snake = Original Sin
 Daredevil + Eden = Devil's Garden
+Apple + Eden = Sin

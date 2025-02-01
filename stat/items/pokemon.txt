@@ -11,3 +11,6 @@ Usages:
 Charmander + Pokemon = Fire Lizard
 Captaincy + Pokemon = Captain Pokemon
 Genie + Pokemon = Magikarp
+Genie + Pokemon = Jirachi
+Pokemon + Time = Celebi
+1-Up + Pokemon = Power-Up

@@ -9,3 +9,5 @@ Darkness + Human = Nightmare
 Usages:
 =======
 Cyborg + Nightmare = Robot
+Monster + Nightmare = Fear
+Nightmare + Time = Insomnia

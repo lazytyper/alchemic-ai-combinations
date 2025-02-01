@@ -9,3 +9,4 @@ Castle + Monarch + Queen = Royalty
 Usages:
 =======
 Royalty + Snow White = Queen Grimhilde
+Guardsman + Royalty = Knight

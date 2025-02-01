@@ -22,3 +22,4 @@ Disaster + Powerboat = Capsize
 Airplane + Disaster = Crash
 Disaster + Steamship = Titanic
 Disaster + Love = Tragicomedy
+Disaster + Protector = Emergency

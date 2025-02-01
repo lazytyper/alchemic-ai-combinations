@@ -11,3 +11,4 @@ Usages:
 Angel + Angel = Archangel
 Angel + Angel + Angel + Angel = Seraphim Chair
 Angel + Angel + Angel = Trinity
+Angel + Guardian = Protector
