@@ -1966,3 +1966,14 @@ decor,house,interior
 stone,blade,knife
 knife,cake,slice
 knife,stone,sharpener
+knife,knife,dagger
+dagger,survivor,swordsman
+knife,sharpener,edge
+slice,knife,slicer
+plant,animal,venus_flytrap
+flower,magic,potions
+pressure,sunflower,oil
+oil,dough,pizza
+sunflower,oil,cooking
+cooking,hearth,kitchen
+kitchen,cooking,recipe

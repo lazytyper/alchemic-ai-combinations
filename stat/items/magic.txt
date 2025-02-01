@@ -14,3 +14,4 @@ Magic + Magic = Wizard
 God + Magic = Miracle
 Human + Magic = Sorcerer
 Magic + Religion = Ritual
+Flower + Magic = Potions

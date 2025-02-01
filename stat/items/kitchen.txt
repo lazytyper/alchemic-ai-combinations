@@ -1,12 +1,11 @@
 ==================================
-= Hearth
+= Kitchen
 ==================================
 
 created by:
 ===========
-Family + Fire = Hearth
+Cooking + Hearth = Kitchen
 
 Usages:
 =======
-Batch + Hearth = Bakehouse
-Cooking + Hearth = Kitchen
+Cooking + Kitchen = Recipe

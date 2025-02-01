@@ -11,3 +11,5 @@ Usages:
 Photosynthesis + Sunflower = Energy Production
 Rain + Sunflower = Rainbow
 Environment + Sunflower = Eco-Friendly
+Pressure + Sunflower = Oil
+Oil + Sunflower = Cooking

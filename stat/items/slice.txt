@@ -1,12 +1,12 @@
 ==================================
-= Hearth
+= Slice
 ==================================
 
 created by:
 ===========
-Family + Fire = Hearth
+Cheddar + Pizza = Slice
+Cake + Knife = Slice
 
 Usages:
 =======
-Batch + Hearth = Bakehouse
-Cooking + Hearth = Kitchen
+Knife + Slice = Slicer

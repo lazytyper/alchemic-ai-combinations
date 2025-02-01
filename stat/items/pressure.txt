@@ -10,3 +10,4 @@ Usages:
 =======
 Coal + Pressure = Diamond
 Pressure + Wheat = Flour
+Pressure + Sunflower = Oil

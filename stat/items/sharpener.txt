@@ -1,12 +1,11 @@
 ==================================
-= Hearth
+= Sharpener
 ==================================
 
 created by:
 ===========
-Family + Fire = Hearth
+Knife + Stone = Sharpener
 
 Usages:
 =======
-Batch + Hearth = Bakehouse
-Cooking + Hearth = Kitchen
+Knife + Sharpener = Edge

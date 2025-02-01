@@ -1,12 +1,12 @@
 ==================================
-= Hearth
+= Oil
 ==================================
 
 created by:
 ===========
-Family + Fire = Hearth
+Pressure + Sunflower = Oil
 
 Usages:
 =======
-Batch + Hearth = Bakehouse
-Cooking + Hearth = Kitchen
+Dough + Oil = Pizza
+Oil + Sunflower = Cooking

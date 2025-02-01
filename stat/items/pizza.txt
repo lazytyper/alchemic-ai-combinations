@@ -5,6 +5,7 @@
 created by:
 ===========
 Dough + Fireplace = Pizza
+Dough + Oil = Pizza
 
 Usages:
 =======

@@ -11,3 +11,4 @@ Usages:
 Dough + Fireplace = Pizza
 Dough + Fire = Bread
 Apple + Dough = Pie
+Dough + Oil = Pizza

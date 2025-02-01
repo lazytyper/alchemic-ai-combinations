@@ -30,3 +30,4 @@ Animal + Nile = Crocodile
 Animal + Desert = Camel
 Animal + Grotto = Zoo
 Animal + Zoo = Lion
+Animal + Plant = Venus Flytrap

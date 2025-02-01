@@ -1,12 +1,11 @@
 ==================================
-= Hearth
+= Dagger
 ==================================
 
 created by:
 ===========
-Family + Fire = Hearth
+Knife + Knife = Dagger
 
 Usages:
 =======
-Batch + Hearth = Bakehouse
-Cooking + Hearth = Kitchen
+Dagger + Survivor = Swordsman

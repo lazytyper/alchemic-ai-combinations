@@ -64,7 +64,7 @@ function addline(string) {
 }
 
 // read data file
-const dataContent = require('fs').readFileSync('data.txt', 'utf-8');
+const dataContent = require('fs').readFileSync('data/combinations.txt', 'utf-8');
 const lines = dataContent.split('\n');
 for (let line of lines) {
     line = line.trim();

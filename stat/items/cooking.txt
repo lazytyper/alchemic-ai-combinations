@@ -1,12 +1,12 @@
 ==================================
-= Hearth
+= Cooking
 ==================================
 
 created by:
 ===========
-Family + Fire = Hearth
+Oil + Sunflower = Cooking
 
 Usages:
 =======
-Batch + Hearth = Bakehouse
 Cooking + Hearth = Kitchen
+Cooking + Kitchen = Recipe

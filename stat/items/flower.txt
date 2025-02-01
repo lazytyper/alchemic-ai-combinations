@@ -16,3 +16,4 @@ Flower + Life = Lotus
 Flower + Power = Blossom
 Blossom + Flower = Bouquet
 Flower + Solitude = Peace
+Flower + Magic = Potions
