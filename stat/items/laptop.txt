@@ -9,3 +9,4 @@ Computer + Computer = Laptop
 Usages:
 =======
 Computer + Laptop = Portable Workstation
+Album + Laptop + Photo = Slideshow

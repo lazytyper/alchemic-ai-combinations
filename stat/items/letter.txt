@@ -24,3 +24,4 @@ Letter + Mail = Envelope
 Letter + Secret = Cipher
 Letter + Lover = Reader
 Letter + Woodstock = Letterman
+Letter + Photo = Postcard

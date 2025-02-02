@@ -9,3 +9,4 @@ Carnival + City = Rio
 Usages:
 =======
 Monument + Rio = Christ
+Rio + Rose = Roscato

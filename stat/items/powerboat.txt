@@ -9,3 +9,4 @@ Race + Speedboat = Powerboat
 Usages:
 =======
 Disaster + Powerboat = Capsize
+Powerboat + Rose = Don Juan

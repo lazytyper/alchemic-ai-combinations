@@ -31,3 +31,6 @@ Ash Ketchu + Computer = Digital Trainer
 Computer + Pokemon = Virtual Reality
 Art + Computer = Digital Painting
 Computer + Security Guard = Surveillance System
+Computer + Selfie = Photobooth
+Computer + Photographer = Camera
+Album + Computer + Photo = Photobook

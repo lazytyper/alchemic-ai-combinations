@@ -1,0 +1,13 @@
+==================================
+= Album
+==================================
+
+created by:
+===========
+Photo + Photo + Photo + Photo = Album
+
+Usages:
+=======
+Album + Photo = Scrapbook
+Album + Laptop + Photo = Slideshow
+Album + Computer + Photo = Photobook

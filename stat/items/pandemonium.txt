@@ -9,3 +9,4 @@ Animal + Chaos = Pandemonium
 Usages:
 =======
 Cookie + Hygge + Pandemonium + Wishful = Sweet Chaos
+Pandemonium + Rose = Hot Mess

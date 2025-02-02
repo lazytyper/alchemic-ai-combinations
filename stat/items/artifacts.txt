@@ -9,3 +9,4 @@ Evolution + Found Object = Artifacts
 Usages:
 =======
 Artifacts + Evolution = Museum
+Artifacts + Rose = Roseate

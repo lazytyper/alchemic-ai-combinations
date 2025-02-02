@@ -9,3 +9,4 @@ Desktop + Iphone = Smartphone
 Usages:
 =======
 Fireplace + Smartphone = Smartfire
+Rose + Smartphone = Selfie Stick

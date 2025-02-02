@@ -1,0 +1,12 @@
+==================================
+= Photographer
+==================================
+
+created by:
+===========
+Human + Selfie Stick = Photographer
+
+Usages:
+=======
+Human + Photographer = Paparazzi
+Computer + Photographer = Camera

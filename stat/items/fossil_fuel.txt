@@ -9,3 +9,4 @@ Energy + Mud = Fossil Fuel
 Usages:
 =======
 Fossil Fuel + Human = Carbon Emissions
+Fossil Fuel + Photo = Photofuel

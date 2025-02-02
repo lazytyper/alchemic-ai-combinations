@@ -9,3 +9,4 @@ Investigation + Legend = Detective Story
 Usages:
 =======
 Detective Story + Fireplace = Mystery Novel
+Detective Story + Rose = Murder Mystery

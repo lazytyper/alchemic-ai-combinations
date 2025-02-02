@@ -1,0 +1,11 @@
+==================================
+= Motorcyclist
+==================================
+
+created by:
+===========
+Motorcycle + Rose = Motorcyclist
+
+Usages:
+=======
+Motorcyclist + Rose = Velocipede

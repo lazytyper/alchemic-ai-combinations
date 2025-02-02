@@ -140,3 +140,5 @@ Human + Lover = Romantic Relationship
 Human + Mugshot = Criminal
 Baby + Human = Child
 Human + Tightrope = Acrobat
+Human + Selfie Stick = Photographer
+Human + Photographer = Paparazzi

@@ -9,3 +9,4 @@ Duplicate + Rock = Gemstone
 Usages:
 =======
 Gambling + Gemstone = Poker Chip
+Gemstone + Rose = Jadeite

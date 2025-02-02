@@ -18,3 +18,4 @@ Diamond + Marriage = Ring
 Diamond + Romeo = Juliet
 Diamond + Juliet = Jewel
 Diamond + Sun = Star
+Diamond + Rose = Engagement

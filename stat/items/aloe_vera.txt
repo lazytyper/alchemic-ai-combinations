@@ -9,3 +9,4 @@ Rose + Sunburn = Aloe Vera
 Usages:
 =======
 Aloe Vera + Rose = Lotion
+Aloe Vera + Rose = Skin Elixir

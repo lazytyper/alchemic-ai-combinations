@@ -11,3 +11,4 @@ Usages:
 Bullseye + Legend = Daredevil
 Bullseye + Legend = Robin Hood
 Bullseye + Cyberpunk = Targeting
+Bullseye + Rose = Target

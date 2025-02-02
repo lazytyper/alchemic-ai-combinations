@@ -5,6 +5,7 @@
 created by:
 ===========
 Bat + Human = Batman
+Dark Knight + Rose = Batman
 
 Usages:
 =======
@@ -12,3 +13,5 @@ Batman + Dystopia = Gotham
 Batman + Batman = Bruce Wayne
 Batman + Partner = Robin
 Batman + Ghost = Phantom
+Batman + Rose = Dark Knight
+Batman + Rose = Batarang

@@ -46,3 +46,4 @@ Onsen Sakura + Time = Springtime
 Cherry Blossom + Time = Spring
 Hanami + Time = Sakura
 Rose + Time = Hourglass
+Rose + Time = Clock

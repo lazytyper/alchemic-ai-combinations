@@ -10,3 +10,4 @@ Usages:
 =======
 Wing + Wing = Airplane
 Rose + Wing = Floraverse
+Rose + Wing = Sparrow

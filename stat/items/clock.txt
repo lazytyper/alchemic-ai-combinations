@@ -1,0 +1,11 @@
+==================================
+= Clock
+==================================
+
+created by:
+===========
+Rose + Time = Clock
+
+Usages:
+=======
+Clock + Rose = Timepiece

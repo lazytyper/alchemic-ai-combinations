@@ -9,3 +9,4 @@ Castle + Queen = Throne
 Usages:
 =======
 Animation + Throne = Animatron
+Rose + Throne = Flower Crown

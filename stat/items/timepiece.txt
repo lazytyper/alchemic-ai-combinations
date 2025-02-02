@@ -1,10 +1,11 @@
 ==================================
-= Roselade
+= Timepiece
 ==================================
 
 created by:
 ===========
+Clock + Rose = Timepiece
 
 Usages:
 =======
-Rose + Roselade = Roselia
+Rose + Timepiece = Ros Clock

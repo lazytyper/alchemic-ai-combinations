@@ -11,3 +11,4 @@ Usages:
 Sherlock Holmes + Watson = Crime Solving
 Animal + Watson = Sherlock
 Reptile + Watson = Lizard
+Rose + Watson = Holmes
