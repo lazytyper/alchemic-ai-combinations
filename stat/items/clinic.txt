@@ -1,0 +1,11 @@
+==================================
+= Clinic
+==================================
+
+created by:
+===========
+Hospital + Hospital = Clinic
+
+Usages:
+=======
+Clinic + Worker = Healthcare

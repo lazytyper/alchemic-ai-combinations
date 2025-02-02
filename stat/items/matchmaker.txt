@@ -15,3 +15,4 @@ Fireplace + Matchmaker = Hot Date
 Fireplace + Matchmaker = Flamekeeper
 Chess + Matchmaker = Chessmaster
 Genie + Matchmaker = Wishmaker
+Matchmaker + Song = Tinder

@@ -9,3 +9,4 @@ Cow + Rose = Cowboy
 Usages:
 =======
 Cowboy + Rose = Cowgirl
+Cowboy + Song = Country Music

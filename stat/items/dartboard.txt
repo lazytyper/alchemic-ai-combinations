@@ -10,3 +10,4 @@ Usages:
 =======
 Athlete + Dartboard = Bullseye
 Dartboard + Nature Spirituality = Dreamcatcher
+Champion + Dartboard = Bullseye

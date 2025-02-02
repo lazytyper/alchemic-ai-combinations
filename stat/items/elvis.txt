@@ -9,3 +9,4 @@ Leader + Love Me Tender = Elvis
 Usages:
 =======
 Animal + Elvis = Hound Dog
+City + Elvis = Memphis

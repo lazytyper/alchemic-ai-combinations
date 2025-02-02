@@ -10,3 +10,4 @@ Usages:
 =======
 Day + Friday = Weekend
 Friday + Friday = Rebecca
+Friday + Photobook = Fri-Jay

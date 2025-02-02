@@ -20,3 +20,4 @@ Mud + Sun = Adobe
 Energy + Mud = Fossil Fuel
 Energy + Mud = Battery
 Fire + Mud = Brick
+Mud + Song = Mudslinger

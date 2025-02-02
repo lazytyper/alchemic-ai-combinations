@@ -11,3 +11,4 @@ Usages:
 President + Washington = Obama
 History + President = Lincoln
 Mount Rushmore + President = Washington
+Precious + President = Trump

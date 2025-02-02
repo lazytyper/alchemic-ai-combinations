@@ -20,3 +20,5 @@ Magma Lamp + Religion = Spiritual Glow
 Crewmate + Religion = Meme
 Magic + Religion = Ritual
 Eternal Flame + Religion = Holy Fire
+Religion + Song = Hymn
+Hatred + Religion = Fanaticism

@@ -37,3 +37,4 @@ Glass + House = Window
 House + Lover = Homebody
 Homebody + House = Homestead
 Decor + House = Interior
+House + Patient = Hospital

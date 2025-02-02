@@ -9,3 +9,4 @@ Gollum + Ring = Precious
 Usages:
 =======
 Fireplace + Precious = Jewelry
+Precious + President = Trump

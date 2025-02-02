@@ -9,3 +9,4 @@ Animation + Throne = Animatron
 Usages:
 =======
 Animatron + Rose = Robotic Flower
+Animatron + Shortcake = Animatronic

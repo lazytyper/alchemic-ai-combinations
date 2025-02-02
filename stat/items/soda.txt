@@ -5,8 +5,10 @@
 created by:
 ===========
 Carbonation + Water = Soda
+Liquid + Water = Soda
 
 Usages:
 =======
 Soda + Thirst = Drink
 City + Soda = Popcorn
+Liquid + Soda = Fizz

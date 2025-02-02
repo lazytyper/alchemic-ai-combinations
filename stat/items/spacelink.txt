@@ -9,3 +9,4 @@ Air Force + Space = Spacelink
 Usages:
 =======
 Frog Giggling + Spacelink = Moonhopper
+City + Spacelink = Starlink

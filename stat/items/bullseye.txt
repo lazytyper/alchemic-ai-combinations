@@ -5,6 +5,7 @@
 created by:
 ===========
 Athlete + Dartboard = Bullseye
+Champion + Dartboard = Bullseye
 
 Usages:
 =======
@@ -12,3 +13,4 @@ Bullseye + Legend = Daredevil
 Bullseye + Legend = Robin Hood
 Bullseye + Cyberpunk = Targeting
 Bullseye + Rose = Target
+Bullseye + Champion = Archer

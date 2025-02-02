@@ -1,0 +1,11 @@
+==================================
+= Illness
+==================================
+
+created by:
+===========
+Fever + Time = Illness
+
+Usages:
+=======
+Human + Illness = Patient

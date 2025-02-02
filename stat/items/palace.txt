@@ -9,3 +9,4 @@ Castle + Monarch = Palace
 Usages:
 =======
 Flipper + Palace = Dolphinarium
+City + Palace = Versailles

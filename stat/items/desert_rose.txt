@@ -9,3 +9,4 @@ Flower + Sand = Desert Rose
 Usages:
 =======
 Desert Rose + Rose = Flower Girl
+Desert Rose + Photobook = Gift Ook

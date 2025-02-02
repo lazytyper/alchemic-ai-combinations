@@ -10,3 +10,4 @@ Usages:
 =======
 Captain Hook + Peter Pan = Neverland
 Captain Hook + City = Pirate Ship
+Captain Hook + City = Pirate Town

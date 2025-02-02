@@ -1,0 +1,11 @@
+==================================
+= Ros Clock
+==================================
+
+created by:
+===========
+Rose + Timepiece = Ros Clock
+
+Usages:
+=======
+Photobook + Ros Clock = Time Capsule

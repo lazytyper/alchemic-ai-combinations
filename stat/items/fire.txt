@@ -58,3 +58,4 @@ Dough + Fire = Bread
 Fire + Steam = Boiler
 Family + Fire = Hearth
 City + Fire = Chicago
+Fire + Plasma = Sun

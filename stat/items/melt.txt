@@ -9,3 +9,6 @@ Ice Cream + Sun = Melt
 Usages:
 =======
 Melt + Rose = Melrose
+Melt + Melt + Melt = Slug
+Melt + Melt + Melt = Puddle
+Melt + Melt + Melt + Melt = Liquid

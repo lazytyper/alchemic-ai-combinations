@@ -6,6 +6,7 @@ created by:
 ===========
 Bakery + City = Paris
 City + Hermes = Paris
+City + Love = Paris
 
 Usages:
 =======

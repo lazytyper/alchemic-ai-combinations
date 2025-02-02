@@ -1,0 +1,11 @@
+==================================
+= Transfusion
+==================================
+
+created by:
+===========
+Blood + Blood = Transfusion
+
+Usages:
+=======
+Transfusion + Vampire = Blood Bank

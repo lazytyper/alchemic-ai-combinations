@@ -9,3 +9,4 @@ Earthquake + Rumor = Tremor
 Usages:
 =======
 Tremor + Trumpet Player = Trombone
+Alphabet + Tremor = Quake

@@ -9,3 +9,4 @@ Bloodhound + Guardian = Tracker
 Usages:
 =======
 Detective + Tracker = Sleuth
+Song + Tracker = Playlist

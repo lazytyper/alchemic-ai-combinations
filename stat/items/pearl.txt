@@ -9,3 +9,4 @@ Diver + Rose = Pearl
 Usages:
 =======
 Pearl + Rose = Necklace
+Pearl + Wine = Oyster

@@ -5,6 +5,7 @@
 created by:
 ===========
 Chess + Rose = Mate
+Partner + Soul = Mate
 
 Usages:
 =======

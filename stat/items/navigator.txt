@@ -9,3 +9,4 @@ Magellan + Rose = Navigator
 Usages:
 =======
 Navigator + Rose = Compass
+Navigator + Photobook = Travelogue

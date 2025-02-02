@@ -12,3 +12,4 @@ Usages:
 =======
 Vampire + Vampire = Dracula
 Air + Vampire = Bat
+Transfusion + Vampire = Blood Bank

@@ -10,3 +10,4 @@ Usages:
 =======
 Dance + Rose = Ballerina
 City + Dance = Disco
+Dance + Photobook = Pictorial

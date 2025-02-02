@@ -11,3 +11,4 @@ Usages:
 Voyage + Voyage = Journey
 Serene + Voyage = Serenity
 Voyage + Weekend = Getaway
+Photobook + Voyage = Travelogue

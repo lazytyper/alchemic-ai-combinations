@@ -10,3 +10,4 @@ Usages:
 =======
 Animation + Throne = Animatron
 Rose + Throne = Flower Crown
+Dark Beauty + Throne = Gothic Queen

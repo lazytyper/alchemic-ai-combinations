@@ -12,3 +12,4 @@ Usages:
 Buddhism + Human = Enlightenment
 Buddhism + Magic Stone = Mantra
 Buddhism + Death = Nirvana
+Buddhism + Song = Chanting

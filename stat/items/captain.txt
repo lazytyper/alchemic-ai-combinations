@@ -10,3 +10,4 @@ Usages:
 =======
 Captain + Pirate = Hook
 Captain + Degradation = Captaincy
+America + Captain = Steve Rogers

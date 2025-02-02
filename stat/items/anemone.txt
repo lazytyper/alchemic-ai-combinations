@@ -11,3 +11,4 @@ Usages:
 Anemone + Anemone = Duplicate
 Anemone + Replica = Fake Flower
 Anemone + Rose = Rosefish
+Anemone + City = Anemonefish

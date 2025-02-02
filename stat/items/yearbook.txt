@@ -1,0 +1,11 @@
+==================================
+= Yearbook
+==================================
+
+created by:
+===========
+Employee + Photobook = Yearbook
+
+Usages:
+=======
+Family + Yearbook = Reunion

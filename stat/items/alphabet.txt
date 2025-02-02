@@ -9,3 +9,5 @@ Alpha + Poetry = Alphabet
 Usages:
 =======
 Alpha + Alphabet = Letter
+Alphabet + Tremor = Quake
+Alphabet + City = Language

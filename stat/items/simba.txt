@@ -9,3 +9,4 @@ King + Lion = Simba
 Usages:
 =======
 Simba + Tarzan = Jungle King
+City + Simba = Lion King

@@ -14,3 +14,4 @@ Couple + Date = Romantic Evening
 Couple + Rowboat = Loveboat
 Couple + Malady = Love Sickness
 Couple + Sleep = Bed
+Couple + Motorcycle = Sidecar

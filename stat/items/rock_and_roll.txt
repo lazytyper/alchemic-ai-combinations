@@ -9,3 +9,4 @@ Elvis Presley + Rockstar = Rock And Roll
 Usages:
 =======
 Musician + Rock And Roll = Elvis Presley
+City + Rock And Roll = Rock Concert

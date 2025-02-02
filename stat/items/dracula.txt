@@ -12,3 +12,4 @@ Blood + Dracula = Vampire
 Dracula + Lightning = Vampire Bat
 Dracula + Windflower = Bloodroot
 Dracula + Vampire Hunter = Van Helsing
+City + Dracula = Transylvania

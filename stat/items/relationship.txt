@@ -10,3 +10,4 @@ Love + Partnership = Relationship
 Usages:
 =======
 Heartbreak Hotel + Relationship = Love Motel
+Relationship + Song = Breakup Anthem

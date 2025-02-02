@@ -20,3 +20,5 @@ Fireplace + Monument = Hearthstone
 Monument + Paris = Eiffel Tower
 Monument + Rome = Colosseum
 Monument + Rio De Janeiro = Christ The Redeemer
+London + Monument = Pudding Lane
+Monument + Thames = Tower Bridge

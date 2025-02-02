@@ -12,3 +12,4 @@ Beach + Plant = Palm Tree
 Beach + Genie = Sandman
 Beach + Miami = Florida
 Beach + Rose = Sunburn
+Beach + Song = Calypso

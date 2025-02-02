@@ -9,3 +9,4 @@ Poison + Venom = Toxin
 Usages:
 =======
 Nature Magic + Toxin = Poison Ivy
+Soul + Toxin = Soulmate

@@ -29,3 +29,5 @@ Carbonation + Water = Soda
 Mountain + Water = Waterfall
 Bacteria + Water = Contamination
 Afterlife + Water = River Styx
+Liquid + Water = Vodka
+Liquid + Water = Soda

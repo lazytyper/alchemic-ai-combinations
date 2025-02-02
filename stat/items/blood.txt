@@ -12,3 +12,5 @@ Blood + Dracula = Vampire
 Blood + Human = Vampire
 Blood + Partner = Bloodline
 Biology + Blood = Anatomy
+Blood + Blood = Transfusion
+Blood + Liquid = Plasma

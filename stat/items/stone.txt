@@ -23,3 +23,4 @@ Blade + Stone = Knife
 Knife + Stone = Sharpener
 Rose + Stone = Ruby
 Rose + Stone = Rosetta
+Mountain + Stone = Rocky Peak

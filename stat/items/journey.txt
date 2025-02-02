@@ -11,3 +11,4 @@ Usages:
 Everest + Journey = Expedition
 Journey + Velodrome = Cycling
 Journey + Spirit = Soulsearching
+Journey + Photobook = Travelogue

@@ -9,3 +9,4 @@ Day + Weekend = Holiday
 Usages:
 =======
 Holiday + Rose = Valentine
+Holiday + Song = Caroling

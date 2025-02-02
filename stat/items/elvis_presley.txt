@@ -13,3 +13,5 @@ Elvis Presley + Love = Heartbreak Hotel
 Elvis Presley + Freedom Song = Jailhouse Rock
 Cupid + Elvis Presley = Love Me Tender
 Elvis Presley + Rockstar = Rock And Roll
+City + Elvis Presley = Memphis
+Elvis Presley + Song = Blue Suede Shoes

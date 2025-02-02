@@ -1,0 +1,11 @@
+==================================
+= Patient
+==================================
+
+created by:
+===========
+Human + Illness = Patient
+
+Usages:
+=======
+House + Patient = Hospital

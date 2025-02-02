@@ -10,3 +10,4 @@ Usages:
 =======
 Beast + Employee = Beastmode
 Employee + Poisonous Bird = Toxic Worker
+Employee + Photobook = Yearbook

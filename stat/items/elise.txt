@@ -10,3 +10,4 @@ Usages:
 =======
 Elise + Fireplace = Firedance
 Elise + Rose = Elisabeth
+Elise + Song = Addiction

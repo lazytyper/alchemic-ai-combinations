@@ -14,3 +14,4 @@ Fertilizer + Soil = Plant Growth
 Fertilizer + Plant = Flower
 Fertilizer + Magic Stone = Growth Potion
 Fertilizer + Silk Flower = Floral Growth
+Fertilizer + Song = Groove

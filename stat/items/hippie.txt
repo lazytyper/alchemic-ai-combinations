@@ -10,3 +10,5 @@ Flowerpower + Rose = Hippie
 Usages:
 =======
 Hippie + Rose = Flowerchild
+Hippie + Hippie + Hippie + Hippie = Flower Power
+City + Hippie = Commune

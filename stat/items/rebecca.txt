@@ -9,3 +9,4 @@ Friday + Friday = Rebecca
 Usages:
 =======
 Fireplace + Rebecca = Bookshelf
+Rebecca + Song = Musical

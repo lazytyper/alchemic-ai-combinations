@@ -10,3 +10,4 @@ Usages:
 =======
 24 Hours + Race = Daytona
 24 Hours + Waterplay = Aquatic Fun
+24 Hours + Photobook = Daybook

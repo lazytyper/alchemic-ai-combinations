@@ -9,3 +9,5 @@ Life Forms + Wildlife = Animals
 Usages:
 =======
 Animals + King = Lion
+Animals + Song = Chirping Birds
+Animals + Photobook = Wildlife Collection

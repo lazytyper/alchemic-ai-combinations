@@ -22,3 +22,4 @@ Bird + Peace = Dove
 Bird + Windsong = Songbird
 Bird + Computer + River = Byte
 Bird + Rose = Nightingale
+Bird + Photobook = Birdwatching

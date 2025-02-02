@@ -9,3 +9,4 @@ Tremor + Trumpet Player = Trombone
 Usages:
 =======
 Human + Trombone = Saxophonist
+Hocus Pocus + Trombone = Trombonist

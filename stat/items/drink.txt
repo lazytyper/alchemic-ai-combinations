@@ -16,3 +16,4 @@ Cappuccino + Drink = Coffee
 Coffee + Drink = Espresso
 Drink + Espresso = Latte
 Drink + Rose = Wine
+Drink + Liquid = Beverage

@@ -11,3 +11,5 @@ Usages:
 Skyscraper + Worker = Construction
 Jobs + Worker = Employment
 Worker + Worker = Employee
+Clinic + Worker = Healthcare
+Healthcare + Worker = Nurse

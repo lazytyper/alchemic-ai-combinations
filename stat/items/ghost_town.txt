@@ -9,3 +9,4 @@ Farm + Ruins = Ghost Town
 Usages:
 =======
 Ghost Town + Rose = Graveyard
+Eagle + Ghost Town = Spirit Of Freedom

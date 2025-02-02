@@ -11,3 +11,4 @@ Usages:
 Eagle + Eagle + Sky = Air Force
 Celebration + Eagle = Independence
 Eagle + Paradise = Eagle's Nest
+Eagle + Ghost Town = Spirit Of Freedom

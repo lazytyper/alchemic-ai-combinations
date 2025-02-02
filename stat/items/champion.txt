@@ -11,3 +11,5 @@ Usages:
 Champion + Race = Winner
 Apocalypse + Champion = Apocalypso
 Champion + Romanticism = Heroism
+Champion + Dartboard = Bullseye
+Bullseye + Champion = Archer

@@ -5,6 +5,7 @@
 created by:
 ===========
 Fire + Planet = Sun
+Fire + Plasma = Sun
 
 Usages:
 =======

@@ -9,3 +9,4 @@ Energy + Fire = Heat
 Usages:
 =======
 Fire + Heat = Flame
+Heat + Pollen = Fever

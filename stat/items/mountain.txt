@@ -27,3 +27,4 @@ Hollywood + Mountain = Hollywoodland
 Hollywood + Mountain = Result Beverly Hills
 Mountain + Rose = Alpina
 Mountain + Rose = Valley
+Mountain + Stone = Rocky Peak

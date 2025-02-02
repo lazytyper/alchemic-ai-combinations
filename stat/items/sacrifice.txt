@@ -11,3 +11,4 @@ Usages:
 Sacrifice + Witch = Witchcraft
 Eden + Sacrifice = Garden
 Roll + Sacrifice = Dice
+Pollen + Sacrifice = Flowers

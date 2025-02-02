@@ -9,3 +9,4 @@ Love Spell + Rose = Romance Potion
 Usages:
 =======
 Romance Potion + Rose = Love Elixir
+Romance Potion + Song = Irresistible Melody

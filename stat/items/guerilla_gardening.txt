@@ -9,3 +9,4 @@ Chaos Magic + Rose = Guerilla Gardening
 Usages:
 =======
 Guerilla Gardening + Rose = Flower Power
+Guerilla Gardening + Photobook = Green Thumb

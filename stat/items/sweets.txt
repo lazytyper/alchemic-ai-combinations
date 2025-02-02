@@ -9,3 +9,4 @@ Candy + Sugar = Sweets
 Usages:
 =======
 Bribery + Sweets = Candyman
+Breeze + Sweets = Candyfloss

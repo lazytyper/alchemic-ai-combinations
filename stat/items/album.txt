@@ -5,6 +5,7 @@
 created by:
 ===========
 Photo + Photo + Photo + Photo = Album
+Song + Song + Song + Song = Album
 
 Usages:
 =======

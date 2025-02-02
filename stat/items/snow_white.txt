@@ -14,3 +14,4 @@ Evil + Snow White = Queen
 Snow White + Snow White = Apple Pie
 Apocalypso + Snow White = Grim Fairytale
 Royalty + Snow White = Queen Grimhilde
+Snow White + Song = Whistle
