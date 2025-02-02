@@ -9,3 +9,4 @@ Animal + Warmth = Blanket
 Usages:
 =======
 Blanket + Photobook = Memory Quilt
+Blanket + Picnic = Basket

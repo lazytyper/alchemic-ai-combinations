@@ -1,12 +1,11 @@
 ==================================
-= Muad'dib
+= Outing
 ==================================
 
 created by:
 ===========
-Blue Planet + Fire = Muad'dib
+Festival + Picnic = Outing
 
 Usages:
 =======
-Meditation + Muad'dib = Mindfulness
-Jacksonville + Muad'dib = Sandworm
+Outing + Picnic = Excursion

@@ -9,3 +9,4 @@ Liquid + Wine = Alcohol
 Usages:
 =======
 Alcohol + Liquid = Cocktail
+Alcohol + Grain = Whiskey

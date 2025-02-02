@@ -447,3 +447,4 @@ Gravity + Rose = Failing Petals
 Existencialism + Rose = Absurdity
 Absurdity + Rose = Nonsense
 Mate + Rose = Masquerade
+Necklace + Rose = Pendant

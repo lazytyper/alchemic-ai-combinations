@@ -9,3 +9,4 @@ Drink + Latte = Cappuccino
 Usages:
 =======
 Cappuccino + Drink = Coffee
+Cappuccino + City = Coffeehouse

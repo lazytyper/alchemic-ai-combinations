@@ -15,3 +15,4 @@ Festival + Los Angeles = Coachella
 Festival + New York = Coachella
 Festival + Miami = Ultra
 Festival + Flower = Garland
+Dublin + Festival = St Patrick's

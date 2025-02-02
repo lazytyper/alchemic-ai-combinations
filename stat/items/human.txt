@@ -144,3 +144,5 @@ Human + Selfie Stick = Photographer
 Human + Photographer = Paparazzi
 Human + Rome = Caesar
 Human + Illness = Patient
+Drunkenness + Human = Alcoholic
+Alcoholic + Human = Drunkard

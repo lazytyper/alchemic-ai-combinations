@@ -17,3 +17,5 @@ Carnival + Picnic = Festival
 Festival + Picnic = Outing
 Park + Picnic = Lunchtime
 Animal + Picnic = Antelope
+Blanket + Picnic = Basket
+Outing + Picnic = Excursion

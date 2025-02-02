@@ -13,3 +13,4 @@ Allergy + Antidote = Desentization
 Allergy + Wishful Thinking = Hypochondria
 Allergy + Genie = Malady
 Allergy + Dust + Steam = Sinus Infection
+Allergy + Birdhouse = Sneeze

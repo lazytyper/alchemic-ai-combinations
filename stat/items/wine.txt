@@ -11,3 +11,4 @@ Usages:
 =======
 Liquid + Wine = Alcohol
 Pearl + Wine = Oyster
+Wine + Wine + Wine + Wine = Drunkenness

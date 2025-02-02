@@ -12,3 +12,4 @@ Cloud + Salamander = Firestorm
 Faith + Salamander = Fire Spirit
 Ashes + Kaiju + Mountaineer + Salamander = Fire Giant
 Rose + Salamander = Fire Flower
+Lover + Salamander = Fireheart

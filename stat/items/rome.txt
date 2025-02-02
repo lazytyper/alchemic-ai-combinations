@@ -12,3 +12,4 @@ Monument + Rome = Colosseum
 Colosseum + Rome = Gladiator
 Human + Rome = Caesar
 Community + Rome = Empire
+City + Rome = Vatican

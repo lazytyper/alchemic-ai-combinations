@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Selfie Stick = Photographer
 Beauty + Selfie Stick = Selfie
+Flower Child + Selfie Stick = Hipster

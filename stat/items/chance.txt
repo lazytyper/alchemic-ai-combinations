@@ -13,3 +13,4 @@ Chance + Haunting = Ghost Story
 Chance + Wordplay = Punctuation
 Chance + Letter + Wordplay = Scrabble
 Chance + Rose = Fate
+Chance + Luck = Fortune

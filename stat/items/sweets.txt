@@ -10,3 +10,4 @@ Usages:
 =======
 Bribery + Sweets = Candyman
 Breeze + Sweets = Candyfloss
+Florida + Sweets = Orange

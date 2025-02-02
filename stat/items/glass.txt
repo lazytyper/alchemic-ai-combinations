@@ -20,3 +20,4 @@ Fish + Glass = Aquarium
 Genie + Glass = Bottle
 Glass + House = Window
 Glass + Sculpture = Crystal
+Glass + Whiskey = Tumbler

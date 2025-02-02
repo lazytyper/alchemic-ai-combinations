@@ -9,3 +9,4 @@ Fireplace + Palm Tree = Tiki Torch
 Usages:
 =======
 Rose + Tiki Torch = Torchbearer
+City + Tiki Torch = Tiki Bar

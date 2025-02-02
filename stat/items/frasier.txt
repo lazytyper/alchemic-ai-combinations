@@ -9,3 +9,4 @@ Human + Seattle = Frasier
 Usages:
 =======
 Frasier + Rose = Thorne
+Frasier + Heaven = Cheers

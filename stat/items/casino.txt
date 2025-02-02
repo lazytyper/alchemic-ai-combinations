@@ -13,3 +13,4 @@ Usages:
 =======
 Casino + City = Las Vegas
 Casino + Rose = Las Vegas
+Casino + Luck = Roulette

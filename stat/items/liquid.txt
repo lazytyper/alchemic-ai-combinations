@@ -19,3 +19,4 @@ Blood Bank + Liquid = Plasma
 Blood + Liquid = Plasma
 Liquid + Wine = Alcohol
 Alcohol + Liquid = Cocktail
+Liquid + Orange = Juice

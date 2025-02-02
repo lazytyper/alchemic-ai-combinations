@@ -13,3 +13,4 @@ Hell + Jungle Tribe = Demonic Ritual
 Astronaut + Hell = Void
 Hell + Reincarnation = Purgatory
 Hell + Rose = Inferno Dante
+Hell + Lover = Hellbound

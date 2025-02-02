@@ -9,3 +9,4 @@ Dual System + Dual System = Binary Code
 Usages:
 =======
 Binary Code + Binary Code = Computer
+Binary Code + Cottage = Cottagecore

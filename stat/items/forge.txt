@@ -11,3 +11,4 @@ Usages:
 Forge + Sword = Excalibur
 Forge + Rust = Metal
 Engine + Forge = Machine
+Forge + Pot Of Gold = Goldsmith
