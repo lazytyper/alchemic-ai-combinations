@@ -11,3 +11,4 @@ Usages:
 Bee + Orchard = Honey
 Bee + Forest = Honeycomb
 Bee + Flower Garden = Honeycomb
+Bee + Cherry Blossom = Honey

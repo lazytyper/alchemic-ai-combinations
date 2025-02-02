@@ -1,12 +1,11 @@
 ==================================
-= Honey
+= Lampshade
 ==================================
 
 created by:
 ===========
-Bee + Orchard = Honey
-Bee + Cherry Blossom = Honey
+Flower + Lamp = Lampshade
 
 Usages:
 =======
-Honey + Milk = Yogurt
+Flower + Lampshade = Floral Lamp

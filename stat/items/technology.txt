@@ -1,12 +1,11 @@
 ==================================
-= Honey
+= Technology
 ==================================
 
 created by:
 ===========
-Bee + Orchard = Honey
-Bee + Cherry Blossom = Honey
+Blueprint + Science = Technology
 
 Usages:
 =======
-Honey + Milk = Yogurt
+Flower + Technology = Digital Garden

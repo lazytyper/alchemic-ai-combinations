@@ -9,3 +9,4 @@ Aurora Borealis + Dartfrog = Rainbow Frog
 Usages:
 =======
 Animation + Rainbow Frog = Kermit
+Flower + Rainbow Frog = Leprechaun

@@ -10,3 +10,4 @@ Usages:
 =======
 Elephant Communication + Jungle = Trumpet Vine
 Elephant Communication + Fireball = Thunderstorm
+Elephant Communication + Potion Seller = Whisperer

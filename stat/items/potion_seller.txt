@@ -1,12 +1,11 @@
 ==================================
-= Honey
+= Potion Seller
 ==================================
 
 created by:
 ===========
-Bee + Orchard = Honey
-Bee + Cherry Blossom = Honey
+Magic Potion + Witch = Potion Seller
 
 Usages:
 =======
-Honey + Milk = Yogurt
+Elephant Communication + Potion Seller = Whisperer

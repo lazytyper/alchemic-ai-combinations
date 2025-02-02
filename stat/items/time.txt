@@ -42,3 +42,6 @@ Machine + Time = Time-Machine
 Sugarcane + Time = Sweetness
 Newborn + Time = Infancy
 Good And Evil + Time = Balance
+Onsen Sakura + Time = Springtime
+Cherry Blossom + Time = Spring
+Hanami + Time = Sakura

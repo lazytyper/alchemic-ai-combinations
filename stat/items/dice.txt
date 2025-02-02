@@ -12,3 +12,4 @@ Dice + Dice = Roll
 Dice + Hope = Chance
 Dice + Human = Gambling
 Dice + Outlaw = Gambler
+Dice + Flower = Lucky Charms

@@ -25,3 +25,4 @@ Ocean + Wind = Sailboat
 Ocean + Wind = Sailing
 Seascape + Wind = Breeze
 Turbine + Wind = Windmill
+Sakura + Wind = Petals

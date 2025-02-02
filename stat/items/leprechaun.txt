@@ -1,12 +1,11 @@
 ==================================
-= Honey
+= Leprechaun
 ==================================
 
 created by:
 ===========
-Bee + Orchard = Honey
-Bee + Cherry Blossom = Honey
+Flower + Rainbow Frog = Leprechaun
 
 Usages:
 =======
-Honey + Milk = Yogurt
+Flower + Leprechaun = Shamrock

@@ -12,3 +12,4 @@ Harvest + Palm Tree = Coconut
 Harvest + Orchard = Tractor
 Harvest + Rosebush = Floribunda
 Harvest + Machine = Combine Harvester
+Harvest + Onsen Sakura = Cherry Blossom

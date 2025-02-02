@@ -5,6 +5,7 @@
 created by:
 ===========
 Desert + Plant = Cactus
+Desertification + Flower = Cactus
 
 Usages:
 =======

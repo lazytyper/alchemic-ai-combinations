@@ -9,3 +9,4 @@ Drought + Farmland = Desertification
 Usages:
 =======
 Desertification + Ecosystem = Degradation
+Desertification + Flower = Cactus

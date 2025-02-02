@@ -11,3 +11,4 @@ Usages:
 =======
 Desert + Sphinx = Egypt
 Desert + Sphinx = Giza
+Flower + Sphinx = Flowerbed
