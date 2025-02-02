@@ -15,3 +15,4 @@ Drink + Latte = Cappuccino
 Cappuccino + Drink = Coffee
 Coffee + Drink = Espresso
 Drink + Espresso = Latte
+Drink + Rose = Wine

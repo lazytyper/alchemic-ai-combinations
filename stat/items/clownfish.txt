@@ -5,6 +5,7 @@
 created by:
 ===========
 Lox + Mudshow = Clownfish
+Clown + Rose = Clownfish
 
 Usages:
 =======

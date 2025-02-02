@@ -11,3 +11,4 @@ Usages:
 Crash + Steamship = Titanic
 Crash + Iceberg = Titanic
 Crash + Heart = Heartbreak
+Crash + Rose = Accident

@@ -11,3 +11,4 @@ Usages:
 Love + Robot = Android
 Enterprise + Robot = Starfleet
 Robot + Star Trek = Borg
+Robot + Rose = Transformer

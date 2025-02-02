@@ -9,3 +9,4 @@ Floristry + Rose = Rosary
 Usages:
 =======
 Rosary + Rose = Rosarium
+Rosary + Rose = Prayer

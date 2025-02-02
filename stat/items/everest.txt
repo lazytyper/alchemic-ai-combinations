@@ -15,3 +15,5 @@ Adventure + Everest = Expedition
 Everest + Journey = Expedition
 Everest + Explorer = Hillary
 Animalia + Everest = Yeti
+Everest + Rose = Everose
+Everest + Rose = Himalaya

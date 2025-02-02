@@ -20,3 +20,4 @@ Death + Rock = Gravedigger
 Death + Gravedigger = Gravekeeper
 Buddhism + Death = Nirvana
 Death + Rose = Black Widow
+Death + Sakura = Sakura-Mori

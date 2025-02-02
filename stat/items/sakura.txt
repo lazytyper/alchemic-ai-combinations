@@ -11,3 +11,4 @@ Usages:
 =======
 Sakura + Tree = Cherry Blossom
 Sakura + Wind = Petals
+Death + Sakura = Sakura-Mori

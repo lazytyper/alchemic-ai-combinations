@@ -11,3 +11,4 @@ Knight + Knight = Chess
 Usages:
 =======
 Chess + Matchmaker = Chessmaster
+Chess + Rose = Checkmate

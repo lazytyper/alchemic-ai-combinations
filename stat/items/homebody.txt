@@ -9,3 +9,4 @@ House + Lover = Homebody
 Usages:
 =======
 Homebody + House = Homestead
+Homebody + Rose = Mutant

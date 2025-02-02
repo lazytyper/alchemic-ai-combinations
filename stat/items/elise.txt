@@ -9,3 +9,4 @@ Lotus + Racecar = Elise
 Usages:
 =======
 Elise + Fireplace = Firedance
+Elise + Rose = Elisabeth

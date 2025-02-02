@@ -14,3 +14,4 @@ Aquarium + Sunset = Horizon
 Aquarium + Monster = Kraken
 Aquarium + Astrology = Aquarius
 Aquarium + Duplex = Fish House
+Aquarium + Rose = Fishbowl

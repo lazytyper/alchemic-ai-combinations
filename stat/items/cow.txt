@@ -11,3 +11,4 @@ Usages:
 Cow + Cow = Milk
 Cow + Cow + Cow + Cow = Herd
 Cow + Human = Minotaur
+Cow + Rose = Cowboy

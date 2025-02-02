@@ -9,3 +9,4 @@ Rockstar + Singer = Popstar
 Usages:
 =======
 Popstar + Singer = Artist
+Popstar + Rose = Rihanna

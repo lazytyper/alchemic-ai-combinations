@@ -9,3 +9,4 @@ Home + Illustration = Blueprint
 Usages:
 =======
 Blueprint + Science = Technology
+Blueprint + Rose = Bluebook

@@ -9,3 +9,4 @@ Letter + Mail = Envelope
 Usages:
 =======
 Envelope + Rosette = Award
+Envelope + Rose = Love Letter

@@ -9,3 +9,4 @@ Contemplation + Copycat = Mimicry
 Usages:
 =======
 Mimicry + Trees = Camouflage
+Mimicry + Rose = Chameleon

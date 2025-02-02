@@ -9,3 +9,4 @@ Artist + Circus = Clown
 Usages:
 =======
 Clown + Fish = Nemo
+Clown + Rose = Clownfish

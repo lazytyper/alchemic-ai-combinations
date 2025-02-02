@@ -10,3 +10,4 @@ Eve + Snake = Original Sin
 Usages:
 =======
 Original Sin + Trumpet Vine = Trumpet Player
+Original Sin + Rose = Guilt

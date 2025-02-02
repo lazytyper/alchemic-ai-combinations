@@ -12,3 +12,4 @@ Aurora Borealis + Dartfrog = Rainbow Frog
 Aurora Borealis + Love Storm = Heartwarming
 Aurora Borealis + Solar Power = Light Show
 Aurora Borealis + Fairy Godmother = Wish Come True
+Aurora Borealis + Rose = Flower Crown

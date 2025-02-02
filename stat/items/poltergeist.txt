@@ -9,3 +9,4 @@ Fire + Ghost = Poltergeist
 Usages:
 =======
 Poltergeist + Soul = Haunting
+Poltergeist + Rose = Ghost Flower

@@ -12,3 +12,4 @@ Usages:
 Author + Letter = Novelist
 Author + Riddle = Sphinx
 Author + Rose = Shakespeare
+Author + Rose = Hawthorne

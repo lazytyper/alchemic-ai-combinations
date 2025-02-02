@@ -12,3 +12,4 @@ Hard Place + Human = Rock
 Hard Place + Hurricane = Disaster
 Hard Place + Plant = Rockrose
 End Times + Hard Place = Rock Bottom
+Hard Place + Rose = Dilemma

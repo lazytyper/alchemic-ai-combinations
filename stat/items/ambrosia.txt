@@ -9,3 +9,4 @@ Eternal Youth + Lox = Ambrosia
 Usages:
 =======
 Ambrosia + Cinder Track = Track Food
+Ambrosia + Rose = Nectar

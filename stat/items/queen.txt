@@ -6,6 +6,7 @@ created by:
 ===========
 Evil + Snow White = Queen
 King + Partner = Queen
+Elizabeth + Rose = Queen
 
 Usages:
 =======
@@ -22,3 +23,4 @@ Queen + Queen = Royal Couple
 Beehive + Queen = Hive
 Partner + Queen = King
 Knight + Queen = Chess
+Queen + Rose = Elizabeth

@@ -12,3 +12,5 @@ Usages:
 =======
 Frog Farm + Phoenix = Rebirth
 Beauty + Phoenix = Firebird
+Phoenix + Rose = Fawkes
+Phoenix + Rose = Rebirth

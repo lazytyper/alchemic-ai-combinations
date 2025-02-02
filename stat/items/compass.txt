@@ -5,6 +5,7 @@
 created by:
 ===========
 Navigator + Rose = Compass
+Navigation + Rose = Compass
 
 Usages:
 =======

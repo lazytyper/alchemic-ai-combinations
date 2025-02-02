@@ -9,3 +9,4 @@ Charizard + Society = Dragon Cult
 Usages:
 =======
 Dragon Cult + Dragon Energy = Dragon Worship
+Dragon Cult + Rose = Ruby

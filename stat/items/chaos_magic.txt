@@ -9,3 +9,5 @@ Cosmic Static + Demonic Ritual = Chaos Magic
 Usages:
 =======
 Chaos Magic + Tarzan = Wild Magic
+Chaos Magic + Rose = Guerilla Gardening
+Chaos Magic + Rose = Flower Power

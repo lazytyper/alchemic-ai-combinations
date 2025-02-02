@@ -10,3 +10,4 @@ Acrobat + Adobe = Reader
 Usages:
 =======
 Reader + Speech = Narrator
+Reader + Rose = Bookworm
