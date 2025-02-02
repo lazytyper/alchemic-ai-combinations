@@ -9,3 +9,4 @@ Family + Sky = Constellation
 Usages:
 =======
 Animation + Constellation = Starry Night
+Constellation + Decimation = Starfall

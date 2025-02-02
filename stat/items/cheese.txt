@@ -13,3 +13,4 @@ Baker + Cheese = Cheesecake
 Cheese + Pie = Quiche
 Cheese + Cheese = Cheddar
 Animal + Cheese = Mouse Trap
+Cheese + Flower = Edible Blossom

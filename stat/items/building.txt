@@ -9,3 +9,4 @@ House + Steel = Building
 Usages:
 =======
 Building + Building = Skyscraper
+Atmosphere + Building = Structure

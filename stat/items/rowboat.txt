@@ -9,3 +9,4 @@ Boat + Rower = Rowboat
 Usages:
 =======
 Couple + Rowboat = Loveboat
+Mansion + Rowboat = Houseboat

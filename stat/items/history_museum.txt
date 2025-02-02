@@ -10,3 +10,4 @@ Usages:
 =======
 Genie + History Museum = Timekeeper
 History Museum + Human = Anthropology Exhibit
+Flower + History Museum = Botanical Archive

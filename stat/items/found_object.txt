@@ -9,3 +9,4 @@ Design Failure + Treasure = Found Object
 Usages:
 =======
 Evolution + Found Object = Artifacts
+Flower + Found Object = Art Assemblage

@@ -10,3 +10,7 @@ Usages:
 =======
 Monument + New York = Statue Of Liberty
 New York + Tightrope Walker = Nik Wallenda
+Bottle + New York = Brooklyn
+New York + Rock Band = Strokes
+Festival + New York = Coachella
+Flower + New York = Central Park

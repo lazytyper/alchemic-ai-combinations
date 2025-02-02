@@ -23,4 +23,5 @@ Animal + Mountain = Ibex
 Animalia + Mountain = Goat
 Monument + Mountain = Mount Rushmore
 Mountain + Water = Waterfall
-Hollywood + Mountain = Hollywoodhill
+Hollywood + Mountain = Hollywoodland
+Hollywood + Mountain = Result Beverly Hills

@@ -13,3 +13,4 @@ Biosphere + Nature = Ecosystem
 Biosphere + Fire = Wildfire
 Biosphere + Pottery = Clay Soil
 Biosphere + Evolution = Life Forms
+Biosphere + Theater = Life Performance

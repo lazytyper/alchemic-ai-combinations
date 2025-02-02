@@ -10,3 +10,5 @@ Usages:
 =======
 Human + Mansion = Butler
 Mansion + Omelette = Mansionette
+Mansion + Rowboat = Houseboat
+Freedom Song + Mansion = Dreamhouse

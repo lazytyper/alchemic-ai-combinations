@@ -9,3 +9,4 @@ Fairy Tale + Magic Carpet = Aladdin
 Usages:
 =======
 Aladdin + Genie = Magic Lamp
+Aladdin + Flower = Jasmine

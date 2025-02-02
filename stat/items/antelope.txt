@@ -1,0 +1,11 @@
+==================================
+= Antelope
+==================================
+
+created by:
+===========
+Animal + Picnic = Antelope
+
+Usages:
+=======
+Antelope + Flower = Antelopehorn

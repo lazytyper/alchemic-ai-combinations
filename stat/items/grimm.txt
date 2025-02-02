@@ -10,3 +10,4 @@ Usages:
 =======
 Fairy Tale + Grimm = Cinderella
 Grimm + Wolf = Wolfman
+Flower + Grimm = Grimm's Fairy Tales

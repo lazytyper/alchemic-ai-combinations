@@ -18,3 +18,4 @@ Air + Energy + Turbine = Wind Power
 Energy + Inferno = Thermal Power
 Battery + Energy = Power
 Energy + Power = Force
+Energy + Flower = Solar Power

@@ -11,3 +11,5 @@ Usages:
 Star + Star = Binary System
 Star + Star + Star + Star = Supernova
 Dust + Star = Comet
+Heavenly + Star = Stargazer
+Festival + Star = Celebrity

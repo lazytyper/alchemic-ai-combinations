@@ -9,3 +9,4 @@ Death + Death + Death + Death = Decimation
 Usages:
 =======
 Decimation + Evolution = Survival
+Constellation + Decimation = Starfall

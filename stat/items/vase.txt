@@ -16,3 +16,4 @@ Outlaw + Vase = Banditry
 Hurricane + Vase = Windbreak
 Vase + Vase = Amphora
 Nighttime + Vase = Moonflower
+Quadruplets + Vase = Flowerpot

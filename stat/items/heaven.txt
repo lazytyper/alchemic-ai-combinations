@@ -14,3 +14,4 @@ Earth + Heaven = Paradise
 Heaven + Hurricane = Windsong
 Heaven + Society = Utopia
 Athlete + Heaven = Olympian
+Heaven + Rockstar = Heavenly

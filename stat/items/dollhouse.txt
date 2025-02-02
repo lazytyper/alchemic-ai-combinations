@@ -9,3 +9,4 @@ Baby + Wreckage = Dollhouse
 Usages:
 =======
 Dollhouse + Happiness = Playhouse
+Dollhouse + Flower = Miniature Garden

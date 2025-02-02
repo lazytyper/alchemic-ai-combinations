@@ -12,3 +12,4 @@ Usages:
 Community + Survivor = Tribe
 Survivor + Survivor = Reality Show
 Dagger + Survivor = Swordsman
+Flower + Survivor = Resilience

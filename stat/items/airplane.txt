@@ -9,3 +9,4 @@ Wing + Wing = Airplane
 Usages:
 =======
 Airplane + Disaster = Crash
+Airplane + Gravekeeper = Sky Burial

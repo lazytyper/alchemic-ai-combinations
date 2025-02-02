@@ -12,3 +12,5 @@ Angel + Angel = Archangel
 Angel + Angel + Angel + Angel = Seraphim Chair
 Angel + Angel + Angel = Trinity
 Angel + Guardian = Protector
+Angel + Rock Pile = Rock Band
+Angel + Flower = Cherub

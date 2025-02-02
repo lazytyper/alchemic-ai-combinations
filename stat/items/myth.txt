@@ -12,3 +12,4 @@ Myth + Myth = Legend
 Legend + Myth = Hero
 Myth + Soundpark = Soundtrack
 Myth + Ring = Nibelung
+Flower + Myth = Narcissus

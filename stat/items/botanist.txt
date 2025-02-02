@@ -5,6 +5,7 @@
 created by:
 ===========
 Flower Garden + Human = Botanist
+Flower + Robinson Crusoe = Botanist
 
 Usages:
 =======

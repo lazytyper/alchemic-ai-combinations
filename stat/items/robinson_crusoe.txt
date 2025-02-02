@@ -10,3 +10,4 @@ Usages:
 =======
 Partner + Robinson Crusoe = Friday
 Dreamer + Robinson Crusoe = Islander
+Flower + Robinson Crusoe = Botanist

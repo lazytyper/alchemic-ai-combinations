@@ -1,0 +1,12 @@
+==================================
+= Fleet
+==================================
+
+created by:
+===========
+Sailboat + Sailboat = Fleet
+Boat + Boat + Boat + Boat = Fleet
+
+Usages:
+=======
+Fleet + Impact Crater = Moonbase

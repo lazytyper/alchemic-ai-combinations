@@ -17,3 +17,5 @@ Atmosphere + Wind = Weather
 Atmosphere + Motorcycle = Skycycle
 Atmosphere + Dragonwood = Dragonair
 Atmosphere + Brick = City
+Atmosphere + Building = Structure
+Atmosphere + Trumpet Vine = Rock Band

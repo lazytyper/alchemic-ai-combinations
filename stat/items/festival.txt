@@ -9,3 +9,9 @@ Carnival + Picnic = Festival
 Usages:
 =======
 Festival + Picnic = Outing
+Festival + Rock Band = Rockfest
+Festival + Star = Celebrity
+Festival + Los Angeles = Coachella
+Festival + New York = Coachella
+Festival + Miami = Ultra
+Festival + Flower = Garland

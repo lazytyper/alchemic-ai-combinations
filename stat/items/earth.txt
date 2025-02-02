@@ -32,3 +32,4 @@ Air + Earth + Fire + Nature = Elements
 Earth + Enlightenment = Zen
 Earth + Landscape = Terrain
 Earth + Earth + Earthquake = Tectonic Plate
+Comet + Earth = Impact Crater

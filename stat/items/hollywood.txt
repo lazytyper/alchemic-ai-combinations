@@ -9,5 +9,6 @@ Los Angeles + Monument = Hollywood
 Usages:
 =======
 Award + Hollywood = Oscar
-Hollywood + Mountain = Hollywoodhill
 Hollywood + Monument = Walk Of Fame
+Hollywood + Mountain = Hollywoodland
+Hollywood + Mountain = Result Beverly Hills

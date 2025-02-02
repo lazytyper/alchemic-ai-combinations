@@ -9,3 +9,4 @@ Civil Rights + Night = Freedom Song
 Usages:
 =======
 Elvis Presley + Freedom Song = Jailhouse Rock
+Freedom Song + Mansion = Dreamhouse

@@ -14,3 +14,4 @@ Fake Flower + Imitation = Silk Flower
 Fire + Imitation = Fake Flame
 Imitation + Weather = Climate Change
 Animal + Imitation = Fake
+Flower + Imitation = Plastic Rose

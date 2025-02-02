@@ -13,3 +13,4 @@ Island + Storm = Shipwreck
 Combustion + Storm = Firestorm
 Cloud + Storm = Thunderstorm
 Carbon Monoxide + Storm = Danger
+Ghostbuster + Storm = Thunderbolt

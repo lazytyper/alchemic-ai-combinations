@@ -5,6 +5,7 @@
 created by:
 ===========
 Renewable Energy + Wind = Solar Power
+Energy + Flower = Solar Power
 
 Usages:
 =======

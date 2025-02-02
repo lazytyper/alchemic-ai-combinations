@@ -9,3 +9,4 @@ Death + Gravedigger = Gravekeeper
 Usages:
 =======
 Gravekeeper + Gravekeeper = Necromancer
+Airplane + Gravekeeper = Sky Burial

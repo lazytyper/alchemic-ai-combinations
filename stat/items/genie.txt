@@ -50,3 +50,4 @@ Beach + Genie = Sandman
 Genie + Monster = Abomination
 Genie + King Arthur = Wish Granted
 Excalibur + Genie = Wishblade
+Flower + Genie = Flora
