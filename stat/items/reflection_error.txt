@@ -9,3 +9,4 @@ Design Failure + Mirror = Reflection Error
 Usages:
 =======
 Atlantis + Reflection Error = Mirage
+Fireplace + Reflection Error = Heatave

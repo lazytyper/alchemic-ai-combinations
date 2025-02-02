@@ -12,3 +12,4 @@ Human + Pollen = Allergy
 Pollen + Wind = Pollination
 Nature Reserve + Pollen = Biodiversity
 Microscope + Pollen = Grain
+Pollen + Woodstock = Flower Power

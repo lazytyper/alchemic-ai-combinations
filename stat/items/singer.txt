@@ -10,3 +10,4 @@ Usages:
 =======
 Rockstar + Singer = Popstar
 Popstar + Singer = Artist
+Singer + Woodstock = Hendrix

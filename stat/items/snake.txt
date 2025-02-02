@@ -12,3 +12,4 @@ Eden + Snake = Original Sin
 Eve + Snake = Original Sin
 Sin + Snake = Temptation
 Snake + Temptation = Satan
+Snake + Woodstock = Snoopy

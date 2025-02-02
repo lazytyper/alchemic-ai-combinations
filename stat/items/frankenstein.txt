@@ -9,3 +9,4 @@ Castle + Lightning = Frankenstein
 Usages:
 =======
 Animal + Frankenstein = Hybrid Animal
+Fireplace + Frankenstein = Frankenfire

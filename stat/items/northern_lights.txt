@@ -10,3 +10,4 @@ Usages:
 =======
 Northern Lights + Underworld = Aurora Borealis
 Nature Reserve + Northern Lights = Aurora Park
+Fireplace + Northern Lights = Firelight

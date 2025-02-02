@@ -10,3 +10,4 @@ Usages:
 =======
 Harvest + Palm Tree = Coconut
 Palm Tree + Sugar = Sugarcane
+Fireplace + Palm Tree = Tiki Torch

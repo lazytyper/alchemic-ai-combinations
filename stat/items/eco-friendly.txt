@@ -10,3 +10,5 @@ Usages:
 =======
 Eco-Friendly + Soil = Compost
 Eco-Friendly + Toadstool = Mushroom
+Eco-Friendly + Woodstock = Sustainable Festival
+Eco-Friendly + Fireplace = Biofireplace

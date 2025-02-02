@@ -11,3 +11,4 @@ Usages:
 Death Blossom + Herbalist = Herbicide
 Amphibian + Death Blossom = Frogger
 Death Blossom + Earth Crisis = Nature's Wrath
+Death Blossom + Fireplace = Purgatory Fire

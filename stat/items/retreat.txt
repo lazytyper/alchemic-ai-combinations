@@ -9,3 +9,4 @@ Getaway + Serene = Retreat
 Usages:
 =======
 Partner + Retreat = Couples Therapy
+Fireplace + Retreat = Fireside

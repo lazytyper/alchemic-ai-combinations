@@ -10,3 +10,4 @@ Usages:
 =======
 Mountain + Shaman = Sacred Site
 Shaman + Shaman = Witch Doctor
+Fireplace + Shaman = Smoke Signal

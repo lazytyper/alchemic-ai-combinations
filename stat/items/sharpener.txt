@@ -9,3 +9,4 @@ Knife + Stone = Sharpener
 Usages:
 =======
 Knife + Sharpener = Edge
+Fireplace + Sharpener = Kindling

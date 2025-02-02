@@ -5,6 +5,7 @@
 created by:
 ===========
 Firestorm + Park = Firefighter
+Fire Hose + Fireplace = Firefighter
 
 Usages:
 =======
@@ -12,3 +13,4 @@ Firefighter + Water = Fire Hose
 Fire + Firefighter = Rescue Squad
 Firefighter + Wildfire = Smokejumper
 Firefighter + Human = Rescue Team
+Firefighter + Fireplace = Extinguisher

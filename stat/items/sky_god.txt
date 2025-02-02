@@ -9,3 +9,4 @@ Cosmic Expanse + Zeus = Sky God
 Usages:
 =======
 Sky God + Wasteland = Air Disaster
+Fireplace + Sky God = Hephaestus

@@ -5,6 +5,7 @@
 created by:
 ===========
 Binary Code + Binary Code = Computer
+Binary System + Fireplace = Computer
 
 Usages:
 =======

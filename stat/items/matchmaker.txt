@@ -12,5 +12,6 @@ Druid + Matchmaker = Love Spell
 Fire Lizard + Matchmaker = Dragon
 Matchmaker + Playdate = Party
 Fireplace + Matchmaker = Hot Date
+Fireplace + Matchmaker = Flamekeeper
 Chess + Matchmaker = Chessmaster
 Genie + Matchmaker = Wishmaker

@@ -9,3 +9,4 @@ Apple + Jobs = Iphone
 Usages:
 =======
 Desktop + Iphone = Smartphone
+Fireplace + Iphone = Firephone

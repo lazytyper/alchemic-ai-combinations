@@ -10,3 +10,4 @@ Desertification + Flower = Cactus
 Usages:
 =======
 Cactus + Desert = Sandstorm
+Cactus + Woodstock = Dusty Trails

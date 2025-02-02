@@ -11,3 +11,4 @@ Usages:
 =======
 Love + Smoothie = Passionfruit
 Engine + Smoothie = Blend
+Fireplace + Smoothie = Sipping

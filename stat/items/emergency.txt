@@ -9,3 +9,4 @@ Disaster + Protector = Emergency
 Usages:
 =======
 Emergency + House = Shelter
+Emergency + Fireplace = Fire Drill

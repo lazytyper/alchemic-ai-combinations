@@ -10,3 +10,4 @@ Usages:
 =======
 Captain + Degradation = Captaincy
 Blue Planet + Degradation = Earth Crisis
+Degradation + Woodstock = Environmentalism

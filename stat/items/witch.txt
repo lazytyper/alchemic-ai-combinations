@@ -19,3 +19,4 @@ Mangrove + Witch = Wisp
 Fire Magic + Witch = Firewitch
 Magic Potion + Witch = Potion Seller
 Hut + Witch = Hocus Pocus
+Fireplace + Witch = Cauldron
