@@ -13,3 +13,4 @@ Farm + House = Barn
 Farm + Grim Fairytale = Scarecrow
 Farm + Ruins = Ghost Town
 Alligator + Farm = Gatorade
+City + Farm = Rural-Area

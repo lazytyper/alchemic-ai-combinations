@@ -142,3 +142,4 @@ Baby + Human = Child
 Human + Tightrope = Acrobat
 Human + Selfie Stick = Photographer
 Human + Photographer = Paparazzi
+Human + Rome = Caesar

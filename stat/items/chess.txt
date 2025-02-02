@@ -12,3 +12,4 @@ Usages:
 =======
 Chess + Matchmaker = Chessmaster
 Chess + Rose = Checkmate
+Chess + Rose = Mate

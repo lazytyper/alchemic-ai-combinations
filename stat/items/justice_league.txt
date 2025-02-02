@@ -9,3 +9,4 @@ Superman + Universe = Justice League
 Usages:
 =======
 Justice League + Twilight = Vampire Hero
+Justice League + Masquerade = Masked Heroes

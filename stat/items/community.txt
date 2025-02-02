@@ -18,3 +18,4 @@ Classroom + Community = Learning Hub
 Community + Computer = Network
 Community + Internet = Social Media
 Community + Hacker = Hacktivism
+Community + Rome = Empire

@@ -57,3 +57,4 @@ Dragon + Fire = Dragonfire
 Dough + Fire = Bread
 Fire + Steam = Boiler
 Family + Fire = Hearth
+City + Fire = Chicago

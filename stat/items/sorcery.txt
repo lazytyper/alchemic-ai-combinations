@@ -10,3 +10,4 @@ Usages:
 =======
 Garden + Sorcery = Herbology
 Combustion + Sorcery = Fire Magic
+Masquerade + Sorcery = Magic Ball

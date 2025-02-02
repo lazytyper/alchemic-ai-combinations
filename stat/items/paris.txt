@@ -1,0 +1,12 @@
+==================================
+= Paris
+==================================
+
+created by:
+===========
+Bakery + City = Paris
+City + Hermes = Paris
+
+Usages:
+=======
+Monument + Paris = Eiffel Tower

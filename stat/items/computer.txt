@@ -34,3 +34,5 @@ Computer + Security Guard = Surveillance System
 Computer + Selfie = Photobooth
 Computer + Photographer = Camera
 Album + Computer + Photo = Photobook
+Camera + Computer = Webcam
+Camera + Computer = Photo

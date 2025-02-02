@@ -12,3 +12,4 @@ Pyramid + Pyramid = Pharao
 Arrow + Pyramid = Obelisk
 Obelisk + Pyramid = Monument
 Monument + Pyramid = Obelisk
+Pyramid + Rose = Prism

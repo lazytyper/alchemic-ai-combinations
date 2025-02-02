@@ -5,6 +5,7 @@
 created by:
 ===========
 Camera + Selfie = Photo
+Camera + Computer = Photo
 
 Usages:
 =======
@@ -16,3 +17,4 @@ Photo + Photo = Duplicates
 Album + Photo = Scrapbook
 Album + Laptop + Photo = Slideshow
 Album + Computer + Photo = Photobook
+Photo + Rose = Photograph

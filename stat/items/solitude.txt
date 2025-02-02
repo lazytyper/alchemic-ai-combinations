@@ -10,3 +10,4 @@ Isolation + Rage = Solitude
 Usages:
 =======
 Flower + Solitude = Peace
+Masquerade + Solitude = Mystique

@@ -9,3 +9,4 @@ Enchantment + Life = Magic Potion
 Usages:
 =======
 Magic Potion + Witch = Potion Seller
+Magic Potion + Masquerade = Witch's Brew

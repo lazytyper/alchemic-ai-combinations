@@ -1,0 +1,11 @@
+==================================
+= Duplex Mansion
+==================================
+
+created by:
+===========
+House + House = Duplex Mansion
+
+Usages:
+=======
+City + Duplex Mansion = Townhouse

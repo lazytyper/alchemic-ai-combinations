@@ -9,3 +9,4 @@ Sin + Snake = Temptation
 Usages:
 =======
 Snake + Temptation = Satan
+Rose + Temptation = Forbidden Fruit

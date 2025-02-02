@@ -12,3 +12,4 @@ Cinderella + Nirvana + Starship = Dreamboat
 Starship + Starship = Enterprise
 Acceleration + Starship = Warp Drive
 Starship + Toddler = Space Explorer
+City + Starship = Spaceship

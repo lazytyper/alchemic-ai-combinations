@@ -10,3 +10,4 @@ Ink + Rose = Tattoo
 Usages:
 =======
 Rose + Tattoo = Ink
+City + Tattoo = Incognito

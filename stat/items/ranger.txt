@@ -13,3 +13,4 @@ Ranger + Theme Park = Adventureland
 Ranger + Yellowstone = Smokey Bear
 Jurassic Park + Ranger = Dinosaurs
 Ranger + Silk Flower = Spycam
+Ranger + Rose = Rosarian

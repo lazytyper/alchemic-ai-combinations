@@ -11,3 +11,5 @@ Usages:
 Album + Photo = Scrapbook
 Album + Laptop + Photo = Slideshow
 Album + Computer + Photo = Photobook
+Album + Rose = Pink Floyd
+Album + Family = Portrait

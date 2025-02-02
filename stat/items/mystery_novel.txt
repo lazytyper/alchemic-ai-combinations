@@ -9,3 +9,4 @@ Detective Story + Fireplace = Mystery Novel
 Usages:
 =======
 Mystery Novel + Rose = Murder
+Masquerade + Mystery Novel = Whodunit

@@ -9,3 +9,5 @@ Computer + Photographer = Camera
 Usages:
 =======
 Camera + Selfie = Photo
+Camera + Computer = Webcam
+Camera + Computer = Photo

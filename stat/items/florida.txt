@@ -9,3 +9,4 @@ Beach + Miami = Florida
 Usages:
 =======
 Alligator + Florida = Everglades
+Florida + Masquerade = Mardi Gras

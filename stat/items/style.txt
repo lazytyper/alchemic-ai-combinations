@@ -9,3 +9,4 @@ Rose + Salmon = Style
 Usages:
 =======
 Rose + Style = Retrograde
+City + Style = Urban

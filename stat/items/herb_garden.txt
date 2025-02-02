@@ -10,3 +10,4 @@ Usages:
 =======
 Herb Garden + Herbalist = Apothecary
 Fireplace + Herb Garden = Smoked Herbs
+City + Herb Garden = Urban Garden

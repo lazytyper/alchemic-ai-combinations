@@ -9,3 +9,4 @@ Aquarius + Rose = Watercolor
 Usages:
 =======
 Rose + Watercolor = Floral Painting
+Rose + Watercolor = Roseart

@@ -17,3 +17,6 @@ Monument + New York = Statue Of Liberty
 Hollywood + Monument = Walk Of Fame
 Monument + Rio = Christ
 Fireplace + Monument = Hearthstone
+Monument + Paris = Eiffel Tower
+Monument + Rome = Colosseum
+Monument + Rio De Janeiro = Christ The Redeemer

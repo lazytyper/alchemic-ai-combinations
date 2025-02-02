@@ -9,3 +9,4 @@ Desert + Sphinx = Egypt
 Usages:
 =======
 Egypt + River = Nile
+City + Egypt = Cairo

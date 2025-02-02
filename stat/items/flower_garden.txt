@@ -11,3 +11,4 @@ Usages:
 Flower Garden + Human = Botanist
 Flower Garden + Herbology = Botanical Garden
 Bee + Flower Garden = Honeycomb
+Flower Garden + Masquerade = Floral Mask

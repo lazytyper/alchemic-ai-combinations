@@ -10,3 +10,4 @@ Monument + Mountain = Mount Rushmore
 Usages:
 =======
 Mount Rushmore + View = Landmark
+Mount Rushmore + President = Washington

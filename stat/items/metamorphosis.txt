@@ -11,3 +11,4 @@ Usages:
 =======
 Metamorphosis + Monarch = Butterfly
 Metamorphosis + Rose = Beauty Transformation
+City + Metamorphosis = Transformation

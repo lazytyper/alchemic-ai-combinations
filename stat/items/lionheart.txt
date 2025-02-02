@@ -9,3 +9,4 @@ Lion + Rose = Lionheart
 Usages:
 =======
 Lionheart + Rose = Leoncino
+City + Lionheart = Richard

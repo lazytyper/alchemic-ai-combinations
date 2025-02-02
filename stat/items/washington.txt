@@ -5,9 +5,11 @@
 created by:
 ===========
 City + Obelisk = Washington
+Mount Rushmore + President = Washington
 
 Usages:
 =======
 Human + Washington = President
 President + Washington = Obama
 City + Washington = Seattle
+History + Washington = America

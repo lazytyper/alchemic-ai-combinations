@@ -75,3 +75,4 @@ Dice + Flower = Lucky Charms
 Flower + Hot Spring = Onsen Sakura
 Flower + Woodstock = Hippie
 Flower + Woodstock = Peace
+City + Flower = Tulsa

@@ -17,3 +17,4 @@ Fireplace + Park = Fire Pit
 Breakfast + Park = Brunch
 Brunch + Park = Picnic
 Park + Picnic = Lunchtime
+City + Park = Bench

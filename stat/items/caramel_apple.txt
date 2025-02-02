@@ -9,3 +9,4 @@ Caramella + Picnic = Caramel Apple
 Usages:
 =======
 Caramel Apple + Picnic = Carnival
+Caramel Apple + City = Fall

@@ -19,3 +19,4 @@ Cinderella + Glass = Slipper
 Cinderella + Glass + Slipper = Cinderella's Slip
 Cinderella + Nirvana + Starship = Dreamboat
 Cinderella + Rose = Glass Slipper
+Ball + Cinderella = Gown

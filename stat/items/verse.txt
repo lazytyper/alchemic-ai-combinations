@@ -10,3 +10,4 @@ Usages:
 =======
 Poet + Verse = Poetry
 Rose + Verse = Prose
+City + Verse = Rap

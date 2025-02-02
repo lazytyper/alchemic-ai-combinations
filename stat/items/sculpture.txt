@@ -10,3 +10,4 @@ Usages:
 =======
 Sculpture + Zeus = Statue
 Darkness + Sculpture = Shadow
+Glass + Sculpture = Crystal

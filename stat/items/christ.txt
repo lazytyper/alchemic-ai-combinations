@@ -9,3 +9,4 @@ Monument + Rio = Christ
 Usages:
 =======
 Christ + Satan = Good And Evil
+Christ + City = Jerusalem

@@ -10,3 +10,4 @@ Usages:
 =======
 Hermes + Racecar = Speedster
 Hermes + Rescue Team = Messenger
+City + Hermes = Paris

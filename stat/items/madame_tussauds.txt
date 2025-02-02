@@ -9,3 +9,4 @@ Legends + Wax Figure = Madame Tussauds
 Usages:
 =======
 Madame Tussauds + Rose = Wax Flower
+Madame Tussauds + Masquerade = Wax Mask

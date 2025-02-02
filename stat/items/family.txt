@@ -15,3 +15,4 @@ Family + Sky = Constellation
 Family + Love = Bond
 Cave + Family = Batcave
 Family + Fire = Hearth
+Album + Family = Portrait

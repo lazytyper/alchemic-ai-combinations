@@ -9,3 +9,4 @@ Rose + Verse = Prose
 Usages:
 =======
 Prose + Rose = Grotesque
+Prose + Rose = Prosecco

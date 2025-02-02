@@ -1,0 +1,12 @@
+==================================
+= Education
+==================================
+
+created by:
+===========
+House + School = Education
+Childhood + School = Education
+
+Usages:
+=======
+City + Education = School District

@@ -15,3 +15,4 @@ Geyser + Pottery = Hot Spring
 Cloud + Pottery = Vase
 Pottery + Steam = Ceramics
 Pottery + Water = Clay Pot
+City + Pottery = Athens

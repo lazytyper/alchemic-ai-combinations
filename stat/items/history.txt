@@ -11,3 +11,5 @@ Usages:
 Explorer + History = Adventure
 History + Milky Way = Galactic Empire
 Art + History + Knowledge = Culture
+History + Washington = America
+History + President = Lincoln

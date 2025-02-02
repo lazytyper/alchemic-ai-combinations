@@ -12,3 +12,4 @@ Reflection + Satan = Evil Twin
 Day + Reflection = Contemplation
 Reflection + Rock = Echo
 Reflection + Sunset = Twilight
+City + Reflection = Skyline

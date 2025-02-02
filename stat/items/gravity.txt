@@ -12,3 +12,4 @@ Gravity + Gravity = Acceleration
 Apple + Gravity = Newton
 Gravity + Greenpeace = Earthcare
 Genie + Gravity = Anti-Gravity
+Gravity + Rose = Failing Petals

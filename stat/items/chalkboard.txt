@@ -9,3 +9,4 @@ Chalk + Time = Chalkboard
 Usages:
 =======
 Chalkboard + Human = Teacher
+Chalkboard + City = Blackboard Jungle

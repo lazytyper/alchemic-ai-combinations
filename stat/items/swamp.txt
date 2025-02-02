@@ -13,3 +13,4 @@ Life + Swamp = Bog Creature
 Life + Swamp = Shrek
 Fire + Life + Swamp = Witch
 Plant + Swamp = Mangrove
+City + Swamp = New Orleans
