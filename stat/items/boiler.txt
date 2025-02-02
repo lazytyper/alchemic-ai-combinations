@@ -9,3 +9,4 @@ Fire + Steam = Boiler
 Usages:
 =======
 Boiler + Steam = Engine
+Boiler + Fireplace = Heating

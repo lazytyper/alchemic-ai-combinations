@@ -10,7 +10,7 @@ Usages:
 =======
 Cloudberry + Woodstock = Yogi Bear
 Spellbook + Woodstock = Magic Festival
- + Candyland + Woodstock = Candy Rock
+Candyland + Woodstock = Candy Rock
 Letter + Woodstock = Letterman
 Cactus + Woodstock = Dusty Trails
 Singer + Woodstock = Hendrix

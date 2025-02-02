@@ -57,6 +57,6 @@ Fireplace + Smartphone = Smartfire
 Fireplace + Life Potion = Potioncraft
 Fireplace + Sharpener = Kindling
 Fireplace + Neverland = Dreamscape
-Bioler + Fireplace = Heating
+Boiler + Fireplace = Heating
 Binary System + Fireplace = Computer
 Fire Hose + Fireplace = Firefighter

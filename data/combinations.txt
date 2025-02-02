@@ -2175,7 +2175,7 @@ hanami,time,sakura
 hanami,hanami,hanami,hanami,cherry_blossoms
 woodstock,cloudberry,yogi_bear
 woodstock,spellbook,magic_festival
-woodstock,,candyland,candy_rock
+woodstock,candyland,candy_rock
 woodstock,letter,letterman
 woodstock,cactus,dusty_trails
 woodstock,singer,hendrix
@@ -2228,7 +2228,6 @@ fireplace,smartphone,smartfire
 fireplace,life_potion,potioncraft
 fireplace,sharpener,kindling
 fireplace,neverland,dreamscape
-fireplace,bioler,heating
+fireplace,boiler,heating
 fireplace,binary_system,computer
 fireplace,fire_hose,firefighter
-

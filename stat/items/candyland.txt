@@ -8,4 +8,4 @@ Candy + Genie = Candyland
 
 Usages:
 =======
- + Candyland + Woodstock = Candy Rock
+Candyland + Woodstock = Candy Rock
