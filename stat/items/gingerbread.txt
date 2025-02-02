@@ -9,3 +9,4 @@ Bread + House = Gingerbread
 Usages:
 =======
 Gingerbread + House = Cottage
+Gingerbread + Rose = Spice

@@ -9,3 +9,4 @@ Lox + Mudshow = Clownfish
 Usages:
 =======
 Clownfish + Mermaid = Aqualad
+Clownfish + Fireplace = Firefish

@@ -45,3 +45,4 @@ Good And Evil + Time = Balance
 Onsen Sakura + Time = Springtime
 Cherry Blossom + Time = Spring
 Hanami + Time = Sakura
+Rose + Time = Hourglass

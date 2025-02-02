@@ -22,3 +22,4 @@ Perfume + Steam = Fragrance
 Allergy + Dust + Steam = Sinus Infection
 Fire + Steam = Boiler
 Boiler + Steam = Engine
+Rose + Steam = Essence

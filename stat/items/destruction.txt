@@ -11,3 +11,4 @@ Usages:
 Destruction + Living World = Apocalypse
 Destruction + Vase = Shatter
 Destruction + Steam Room = Steam Explosion
+Destruction + Rose = Thorns

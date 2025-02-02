@@ -10,3 +10,4 @@ Usages:
 =======
 Crocodile + Human = Reptilian Humanoid
 Crocodile + Crocodile = Alligator
+Crocodile + Rose = Crocosmia

@@ -21,3 +21,5 @@ Air + Stone = Diamond
 Combustion + Stone = Fire Rock
 Blade + Stone = Knife
 Knife + Stone = Sharpener
+Rose + Stone = Ruby
+Rose + Stone = Rosetta

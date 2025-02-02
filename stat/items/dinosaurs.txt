@@ -10,3 +10,5 @@ Usages:
 =======
 Dinosaurs + Painting = Dino Art
 Dinosaurs + Pollution = Extinction
+Dinosaurs + Rose = Jurassic Flower
+Dinosaurs + Rose = Jurassic Park

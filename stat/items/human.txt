@@ -108,6 +108,7 @@ Human + Romanticism = Poet
 Human + Las Vegas = Elvis Presley
 Bread + Human = Sandwich
 Human + Kelpie = Mystical Creature
+Human + Kelpie = Mythical Creature
 Firefighter + Human = Rescue Team
 Beehive + Human = Hive Mind
 Human + Rescue Team = Paramedic

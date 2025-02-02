@@ -17,3 +17,4 @@ City + Oscar = Los Angeles
 City + Los Angeles = New York
 Alligator + City = Miami
 Carnival + City = Rio
+City + Rose = Istanbul

@@ -11,3 +11,4 @@ Usages:
 =======
 Isolation + Rage = Solitude
 Rage + Rage = Fury
+Rage + Rose = Raging Bull

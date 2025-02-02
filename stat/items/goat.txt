@@ -10,3 +10,4 @@ Usages:
 =======
 Goat + Goat = Satyr
 Goat + Ibex = Capricorn
+Goat + Rose = Rosin

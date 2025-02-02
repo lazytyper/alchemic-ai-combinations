@@ -9,3 +9,4 @@ Poet + Storybook = Verse
 Usages:
 =======
 Poet + Verse = Poetry
+Rose + Verse = Prose

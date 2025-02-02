@@ -9,3 +9,4 @@ Lava Lamp + Life = Vital Fluid
 Usages:
 =======
 Human + Vital Fluid = Blood
+Rose + Vital Fluid = Lifebloom

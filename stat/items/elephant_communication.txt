@@ -11,3 +11,5 @@ Usages:
 Elephant Communication + Jungle = Trumpet Vine
 Elephant Communication + Fireball = Thunderstorm
 Elephant Communication + Potion Seller = Whisperer
+Elephant Communication + Rose = Trunk Monkey
+Elephant Communication + Rose = Elephant Trumpet

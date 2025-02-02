@@ -9,7 +9,9 @@ Disaster + Steamship = Titanic
 Iceberg + Ship = Titanic
 Crash + Iceberg = Titanic
 Iceberg + Iceberg = Titanic
+Jack + Rose = Titanic
 
 Usages:
 =======
 Rock + Titanic = Iceberg
+Rose + Titanic = Jack

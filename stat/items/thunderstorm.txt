@@ -12,3 +12,4 @@ Usages:
 Sound + Thunderstorm = Noise
 Noise + Thunderstorm = Thunder
 Farming + Thunderstorm = Crop Damage
+Rose + Thunderstorm = Raindrop

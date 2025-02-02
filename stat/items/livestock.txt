@@ -12,3 +12,5 @@ Egg + Livestock = Chicken
 Farmer + Livestock = Cattle Ranger
 Computer + Livestock = Farmbot
 Livestock + Mirage = Cattle Drive
+Livestock + Rose = Cowardice
+Livestock + Rose = Coward

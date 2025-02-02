@@ -12,3 +12,4 @@ Cave + Human = Caveman
 Cave + Family = Batcave
 Athlete + Cave = Spelunker
 Cave + Waterfall = Grotto
+Cave + Rose = Stalagmite

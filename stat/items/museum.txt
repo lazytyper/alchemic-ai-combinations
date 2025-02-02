@@ -12,3 +12,4 @@ Museum + Night = Exhibition
 Museum + Night Guard = Nightwatchman
 Museum + Nightwatchman = Ghost
 Bookshelf + Museum = Library
+Museum + Rose = Artifact

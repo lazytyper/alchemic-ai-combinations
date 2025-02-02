@@ -11,3 +11,4 @@ Usages:
 Mouse + Mouse Trap = Capture
 Capture + Mouse = Trap
 Mouse + Mouse = Mickey
+Mouse + Rose = Mousetrap

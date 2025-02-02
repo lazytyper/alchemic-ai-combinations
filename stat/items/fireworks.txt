@@ -9,3 +9,4 @@ Fire Magic + Theme Park = Fireworks
 Usages:
 =======
 Adobe + Fireworks = Luminaria
+Fireworks + Rose = Explosion Of Petals

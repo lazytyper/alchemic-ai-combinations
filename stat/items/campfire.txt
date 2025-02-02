@@ -10,3 +10,5 @@ Usages:
 =======
 Campfire + Comfort = S'mores
 Campfire + Rescue Squad = Firefighters
+Campfire + Sugar = Marshmallow
+Campfire + S'more = Outdoor Cooking

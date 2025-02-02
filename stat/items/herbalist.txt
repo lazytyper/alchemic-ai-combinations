@@ -13,3 +13,4 @@ Ghost + Herbalist = Spiritual Healer
 Herbalist + Moonlight = Sorceress
 Disaster Area + Herbalist = Herb Garden
 Herb Garden + Herbalist = Apothecary
+Herbalist + Rose = Rosehip

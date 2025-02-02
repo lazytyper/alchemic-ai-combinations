@@ -21,3 +21,4 @@ Bird + Kingdom = Animalia
 Bird + Peace = Dove
 Bird + Windsong = Songbird
 Bird + Computer + River = Byte
+Bird + Rose = Nightingale

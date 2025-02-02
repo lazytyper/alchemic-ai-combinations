@@ -10,3 +10,4 @@ Usages:
 =======
 Farmbot + Farmbot = Automation
 Farmbot + River Styx = Crossing
+Farmbot + Rose = Gardenbot

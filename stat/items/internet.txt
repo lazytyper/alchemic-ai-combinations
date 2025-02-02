@@ -13,3 +13,4 @@ Apple + Internet = Siri
 Internet + Siri = Sirius
 Hacker + Internet = Cybercrime
 Guardsman + Internet = Cybersecurity
+Internet + Rose = Memes

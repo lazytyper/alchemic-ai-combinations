@@ -9,3 +9,4 @@ Disaster Area + Herbalist = Herb Garden
 Usages:
 =======
 Herb Garden + Herbalist = Apothecary
+Fireplace + Herb Garden = Smoked Herbs

@@ -9,3 +9,4 @@ Ghost Story + Jupiter = Haunted Planet
 Usages:
 =======
 Haunted Planet + Ruin = Ghost World
+Haunted Planet + Rose = Ghostflower

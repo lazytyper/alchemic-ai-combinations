@@ -11,3 +11,4 @@ Usages:
 =======
 Candy + Sweetness = Sugar
 Animal + Sweetness = Honeybee
+Rose + Sweetness = Rosiness

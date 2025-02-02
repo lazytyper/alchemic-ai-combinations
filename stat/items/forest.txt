@@ -19,3 +19,4 @@ Forest + Robin Hood = Outlaw
 Bee + Forest = Honeycomb
 Animal + Forest = Wolf
 Forest + Wolf = Red Riding Hood
+Forest + Rose = Briar

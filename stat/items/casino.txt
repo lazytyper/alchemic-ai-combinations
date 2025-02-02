@@ -7,7 +7,9 @@ created by:
 House + Poker Chip = Casino
 Gambler + House = Casino
 Gambling + House = Casino
+Gambling + Rose = Casino
 
 Usages:
 =======
 Casino + City = Las Vegas
+Casino + Rose = Las Vegas

@@ -9,3 +9,4 @@ Call Center + Call Center = Customer Service
 Usages:
 =======
 Customer Service + Genie = Wish Fulfillment
+Customer Service + Rose = Customer Care

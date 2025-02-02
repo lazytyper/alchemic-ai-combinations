@@ -14,3 +14,4 @@ Fire + Firefighter = Rescue Squad
 Firefighter + Wildfire = Smokejumper
 Firefighter + Human = Rescue Team
 Firefighter + Fireplace = Extinguisher
+Firefighter + Rose = Hose

@@ -9,3 +9,4 @@ Animal + Rainbow = Unicorn
 Usages:
 =======
 Love + Unicorn = Fanatasy
+Love + Unicorn = Fantasy

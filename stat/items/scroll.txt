@@ -9,3 +9,4 @@ Roll + Timelessness = Scroll
 Usages:
 =======
 Druid + Scroll = Spellbook
+Rose + Scroll = Love Letter

@@ -13,3 +13,4 @@ Darkness + Darkness = Black Hole
 Darkness + Sculpture = Shadow
 Darkness + Human = Nightmare
 Darkness + Lamp = Shadows
+Darkness + Rose = Blackrose

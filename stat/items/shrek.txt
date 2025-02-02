@@ -9,3 +9,4 @@ Life + Swamp = Shrek
 Usages:
 =======
 Avatar + Shrek = Animation
+Rose + Shrek = Ogre

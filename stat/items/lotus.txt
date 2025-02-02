@@ -10,3 +10,4 @@ Usages:
 =======
 Lotus + Racecar = Elise
 Lotus + Ocean = Waterlily
+Lotus + Rose = Flower Bouquet

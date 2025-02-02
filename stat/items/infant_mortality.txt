@@ -9,3 +9,4 @@ Baby + Time = Infant Mortality
 Usages:
 =======
 Green Energy + Infant Mortality = Sustainable Health
+Infant Mortality + Rose = Memento Mori

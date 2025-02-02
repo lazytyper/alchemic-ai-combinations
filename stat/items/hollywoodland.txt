@@ -9,3 +9,4 @@ Hollywood + Mountain = Hollywoodland
 Usages:
 =======
 Dreamkeeper + Hollywoodland = Dreamland
+Fireplace + Hollywoodland = Firewood

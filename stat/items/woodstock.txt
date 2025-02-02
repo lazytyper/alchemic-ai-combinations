@@ -24,3 +24,6 @@ Pollen + Woodstock = Flower Power
 Coal + Woodstock = Rock Music
 Degradation + Woodstock = Environmentalism
 Dual System + Woodstock = Counterculture
+Rose + Woodstock = Flower Power
+Flower + Woodstock = Hippie
+Flower + Woodstock = Peace

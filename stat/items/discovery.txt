@@ -9,3 +9,4 @@ Antidote + Exploration = Discovery
 Usages:
 =======
 Discovery + Fiasco = Cautionary Tale
+Discovery + Rose = Rosetta

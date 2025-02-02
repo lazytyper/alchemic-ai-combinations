@@ -11,3 +11,4 @@ Usages:
 =======
 Druid + Herbology = Herbalist
 Flower Garden + Herbology = Botanical Garden
+Herbology + Rose = Rosmarinus

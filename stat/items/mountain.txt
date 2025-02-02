@@ -25,3 +25,5 @@ Monument + Mountain = Mount Rushmore
 Mountain + Water = Waterfall
 Hollywood + Mountain = Hollywoodland
 Hollywood + Mountain = Result Beverly Hills
+Mountain + Rose = Alpina
+Mountain + Rose = Valley

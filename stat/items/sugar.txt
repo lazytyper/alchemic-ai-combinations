@@ -12,3 +12,4 @@ Milk + Sugar = Ice Cream
 Milk + Sugar = Sweet Cream
 Candy + Sugar = Sweets
 Palm Tree + Sugar = Sugarcane
+Campfire + Sugar = Marshmallow

@@ -9,3 +9,4 @@ Buddhism + Death = Nirvana
 Usages:
 =======
 Cinderella + Nirvana + Starship = Dreamboat
+Nirvana + Rose = Smells

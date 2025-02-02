@@ -11,3 +11,4 @@ Usages:
 Community + Hacker = Hacktivism
 Hacker + Internet = Cybercrime
 Hacker + Hacker = Cybersecurity
+Hacker + Rose = Hacktivist

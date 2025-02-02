@@ -10,3 +10,4 @@ Usages:
 =======
 Dragonair + Renewable Energy = Dragon Energy
 Airship + Dragonair = Dragonsphere
+Dragonair + Rose = Dragoon

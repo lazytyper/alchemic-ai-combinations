@@ -10,3 +10,4 @@ Bee + Flower Garden = Honeycomb
 Usages:
 =======
 Acceleration + Honeycomb = Beehive
+Honeycomb + Rose = Honeyrose

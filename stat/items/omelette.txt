@@ -11,3 +11,4 @@ Usages:
 =======
 Omelette + Omelette = Frittata
 Mansion + Omelette = Mansionette
+Omelette + Rose = Rosedale

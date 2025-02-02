@@ -1,0 +1,11 @@
+==================================
+= Library
+==================================
+
+created by:
+===========
+Bookshelf + Museum = Library
+
+Usages:
+=======
+Library + Rose = Bookstore

@@ -9,3 +9,4 @@ Angler + Sailing = Fishing Boat
 Usages:
 =======
 Fishing Boat + Ocean = Fisherman
+Fishing Boat + Rose = Bloodbath

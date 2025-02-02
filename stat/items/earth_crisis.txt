@@ -9,3 +9,6 @@ Blue Planet + Degradation = Earth Crisis
 Usages:
 =======
 Death Blossom + Earth Crisis = Nature's Wrath
+Earth Crisis + Rose = Bulb Planter
+Earth Crisis + Rose = Flare
+Earth Crisis + Rose = Environmentalism

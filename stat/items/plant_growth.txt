@@ -11,3 +11,4 @@ Usages:
 Plant Growth + Time = Photosynthesis
 Plant Growth + Plant Growth = Photosynthesis
 Plant Growth + Potion = Herbology
+Plant Growth + Rose = Pruning

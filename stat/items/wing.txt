@@ -9,3 +9,4 @@ Feather + Feather = Wing
 Usages:
 =======
 Wing + Wing = Airplane
+Rose + Wing = Floraverse

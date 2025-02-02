@@ -9,3 +9,4 @@ Letter + Love = Mail
 Usages:
 =======
 Letter + Mail = Envelope
+Mail + Rose = Mailbox

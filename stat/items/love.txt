@@ -38,6 +38,7 @@ Love + Scandal = Love Affair
 Fool's Gold + Love = Foolishness
 Civic + Love = Civility
 Love + Unicorn = Fanatasy
+Love + Unicorn = Fantasy
 Love + Nature = Romanticism
 Love + Poet = Sonnet
 Engagement Ring + Love = Proposal

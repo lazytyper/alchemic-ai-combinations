@@ -11,3 +11,4 @@ Usages:
 Dreamer + Wish = Wishful
 Dreamcatcher + Dreamer = Sleep
 Dreamer + Robinson Crusoe = Islander
+Dreamer + Rose = Landscaper

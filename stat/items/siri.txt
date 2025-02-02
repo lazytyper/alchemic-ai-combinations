@@ -9,3 +9,4 @@ Apple + Internet = Siri
 Usages:
 =======
 Internet + Siri = Sirius
+Rose + Siri = Rosie

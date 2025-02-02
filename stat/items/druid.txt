@@ -17,3 +17,4 @@ Druid + Herbology = Herbalist
 Druid + Fairy Circle = Nature Magic
 Druid + Matchmaker = Love Spell
 Druid + Scroll = Spellbook
+Druid + Rose = Flower Fairy

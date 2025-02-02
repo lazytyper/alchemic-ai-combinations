@@ -8,4 +8,4 @@ Paradise + Rockstar = Heavenly Star
 
 Usages:
 =======
-Heavenly Star + Plant = Star Flower
+Heavenly Star + Plant = Starflower

@@ -18,3 +18,4 @@ Air + Charmander = Smogon
 Charmander + Pokemon = Fire Lizard
 Charmander + Fireplace = Ember
 Charmander + Royalty = Fire King
+Charmander + Rose = Fireflower

@@ -9,3 +9,4 @@ School + Teacher = Classroom
 Usages:
 =======
 Classroom + Community = Learning Hub
+Classroom + Rose = Schoolhouse

@@ -10,3 +10,4 @@ Usages:
 =======
 Dolphin + Rescue Squad = Flipper
 Devil's Garden + Dolphin = Guardsman
+Dolphin + Rose = Floorspring

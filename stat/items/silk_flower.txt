@@ -10,3 +10,4 @@ Usages:
 =======
 Ranger + Silk Flower = Spycam
 Fertilizer + Silk Flower = Floral Growth
+Rose + Silk Flower = Artificial Flower

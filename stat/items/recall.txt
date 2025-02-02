@@ -9,3 +9,4 @@ Memory + Memory = Recall
 Usages:
 =======
 Dystopia + Recall = Memory Loss
+Recall + Rose = Rebloom

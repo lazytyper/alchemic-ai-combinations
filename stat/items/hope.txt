@@ -13,3 +13,4 @@ Hope + Perspective = Optimism
 Dice + Hope = Chance
 Hope + Timeworn = Nostalgia
 Hope + Merman = Dreamer
+Hope + Rose = Optimism

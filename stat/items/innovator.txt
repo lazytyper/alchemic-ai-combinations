@@ -9,3 +9,4 @@ Engineer + Steve Jobs = Innovator
 Usages:
 =======
 Computer + Innovator = Jobs
+Innovator + Rose = Edison

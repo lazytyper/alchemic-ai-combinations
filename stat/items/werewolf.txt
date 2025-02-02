@@ -9,3 +9,4 @@ Partner + Wolf = Werewolf
 Usages:
 =======
 Human + Werewolf = Beast
+Rose + Werewolf = Wolfbane

@@ -9,3 +9,4 @@ Fishing + Human = Angler
 Usages:
 =======
 Angler + Sailing = Fishing Boat
+Angler + Rose = Anglerfish

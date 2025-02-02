@@ -9,3 +9,4 @@ Metal + Metal = Alloy
 Usages:
 =======
 Alloy + Alloy = Steel
+Alloy + Rose = Bronze

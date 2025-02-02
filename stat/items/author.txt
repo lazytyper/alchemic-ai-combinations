@@ -11,3 +11,4 @@ Usages:
 1984 + Author = Orwell
 Author + Letter = Novelist
 Author + Riddle = Sphinx
+Author + Rose = Shakespeare

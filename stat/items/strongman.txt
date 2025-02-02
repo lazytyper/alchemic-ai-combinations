@@ -12,3 +12,5 @@ Anarchy + Strongman = Dictatorship
 Strongman + Wonder Woman = Superhero
 Strongman + Superhero = Powerhouse
 Frog Giggling + Strongman = Frogman
+Rose + Strongman = Rugged Beauty
+Rose + Strongman = Rosy Scent

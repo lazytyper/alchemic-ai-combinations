@@ -5,8 +5,10 @@
 created by:
 ===========
 Casino + City = Las Vegas
+Casino + Rose = Las Vegas
 
 Usages:
 =======
 Human + Las Vegas = Elvis Presley
 Las Vegas + Romance = Wedding
+Las Vegas + Rose = Sagebrush

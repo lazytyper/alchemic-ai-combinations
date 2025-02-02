@@ -14,3 +14,4 @@ Motorcycle + Mountain = Dirtbike
 Anarchy + Motorcycle = Outlaw
 Motorcycle + Sound = Vroom
 Heroics + Motorcycle = Legends
+Motorcycle + Rose = Motorcyclist

@@ -11,3 +11,5 @@ Usages:
 =======
 King + Lion = Simba
 Human + Lion = Sphinx
+Lion + Rose = Lionheart
+Lion + Rose = Lannister

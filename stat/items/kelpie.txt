@@ -11,3 +11,4 @@ Usages:
 Kelpie + Rescue Squad = Water Rescue
 Driver + Kelpie = Dogman
 Human + Kelpie = Mystical Creature
+Human + Kelpie = Mythical Creature

@@ -10,3 +10,4 @@ Butterfly + Human = Metamorphosis
 Usages:
 =======
 Metamorphosis + Monarch = Butterfly
+Metamorphosis + Rose = Beauty Transformation

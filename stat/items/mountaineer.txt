@@ -10,3 +10,4 @@ Usages:
 =======
 Ashes + Kaiju + Mountaineer + Salamander = Fire Giant
 Animalia + Mountaineer = Mountain Goat
+Mountaineer + Rose = Rosemount
