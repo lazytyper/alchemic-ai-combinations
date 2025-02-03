@@ -21,3 +21,5 @@ Milk + Sandwich = Cereal
 Candy + Cookie + Milk = Dessert
 Milk + Yogurt = Smoothie
 Bottle + Milk = Dairy
+Hazard + Milk = Milkman
+Milk + Monster = Milkshake

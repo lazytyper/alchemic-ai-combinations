@@ -13,3 +13,4 @@ Author + Letter = Novelist
 Author + Riddle = Sphinx
 Author + Rose = Shakespeare
 Author + Rose = Hawthorne
+Author + Hazard = Ray Bradbury

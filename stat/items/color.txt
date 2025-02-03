@@ -10,3 +10,6 @@ Usages:
 =======
 Color + Water = Blue
 Color + Rose = Red
+Color + Heart = Redemption
+Color + Plant = Green
+Color + Monster = Gremlin

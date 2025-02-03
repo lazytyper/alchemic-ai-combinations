@@ -9,3 +9,4 @@ Fireplace + Precious = Jewelry
 Usages:
 =======
 Jewelry + Photobook = Memory Locket
+Jewelry + Room = Jewelbox

@@ -13,3 +13,4 @@ Landscape + Nature Guardian = Dryad
 Nature Guardian + Wind Power = Green Energy
 Forever + Nature Guardian = Earthkeeper
 Animal + Nature Guardian = Totem
+Nature Guardian + Room = Forest Spirit

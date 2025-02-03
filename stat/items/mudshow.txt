@@ -12,3 +12,4 @@ Mudshow + Peak = Circus
 Godzilla + Mudshow = Monster Truck
 Lox + Mudshow = Clownfish
 Mudshow + Song = Musical
+Mudshow + Room = Mudroom

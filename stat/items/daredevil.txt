@@ -10,3 +10,4 @@ Usages:
 =======
 Daredevil + Eden = Devil's Garden
 Daredevil + Flower = Wildflower
+Daredevil + Hazard = Deathwish

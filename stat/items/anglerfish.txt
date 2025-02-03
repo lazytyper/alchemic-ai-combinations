@@ -5,6 +5,7 @@
 created by:
 ===========
 Angler + Rose = Anglerfish
+Angler + Giant = Anglerfish
 
 Usages:
 =======

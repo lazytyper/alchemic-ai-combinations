@@ -10,3 +10,4 @@ Usages:
 =======
 Media Summit + Photoshop = Design Conference
 Day + Media Summit = Daydream
+Giant + Media Summit = Conference

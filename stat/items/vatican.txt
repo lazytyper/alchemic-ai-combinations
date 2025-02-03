@@ -9,3 +9,4 @@ City + Rome = Vatican
 Usages:
 =======
 History + Vatican = Papal States
+Room + Vatican = Chapel

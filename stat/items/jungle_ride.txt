@@ -9,3 +9,4 @@ Dirtbike + Rainforest = Jungle Ride
 Usages:
 =======
 Garden + Jungle Ride = Theme Park
+Customer Service + Jungle Ride = Safari Tour

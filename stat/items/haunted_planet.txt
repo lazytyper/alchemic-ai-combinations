@@ -11,3 +11,4 @@ Usages:
 Haunted Planet + Ruin = Ghost World
 Haunted Planet + Rose = Ghostflower
 Funghi + Haunted Planet = Mushroom Planet
+Haunted Planet + Room = Ghost House

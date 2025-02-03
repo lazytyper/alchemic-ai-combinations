@@ -9,3 +9,4 @@ Romantic Comedy + Rose = Notebook
 Usages:
 =======
 Notebook + Rose = Diary
+Hazard + Notebook = Labyrinth

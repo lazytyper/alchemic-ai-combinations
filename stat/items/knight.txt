@@ -14,3 +14,4 @@ Knight + Sword = Excalibur
 Knight + Legend = Arthur
 Knight + Knight = Chess
 Knight + Rose = Chilvalry
+Knight + Room = Knightmare

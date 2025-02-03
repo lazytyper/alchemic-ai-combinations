@@ -59,3 +59,4 @@ Life + Mushroom = Mario
 Life + Rain = Growth
 City + Life = Urbanization
 Life + Wood = Tree
+Life + Room = Nursing

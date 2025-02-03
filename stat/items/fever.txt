@@ -9,3 +9,4 @@ Heat + Pollen = Fever
 Usages:
 =======
 Fever + Time = Illness
+Fever + Room = Sickness

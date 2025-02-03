@@ -10,3 +10,4 @@ Usages:
 =======
 Emergency + House = Shelter
 Emergency + Fireplace = Fire Drill
+Emergency + Emergency + Emergency + Emergency = Crisis

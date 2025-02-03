@@ -9,3 +9,4 @@ Cave + Waterfall = Grotto
 Usages:
 =======
 Animal + Grotto = Zoo
+Grotto + Monster = Cave Beast

@@ -1,0 +1,12 @@
+==================================
+= Traffic Jam
+==================================
+
+created by:
+===========
+Car + Car + Car + Car = Traffic Jam
+Car + Car + Car = Traffic Jam
+
+Usages:
+=======
+Hazard + Traffic Jam = Roadblock

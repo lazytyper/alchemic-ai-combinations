@@ -9,3 +9,4 @@ Melt + Melt + Melt = Slug
 Usages:
 =======
 Eco-Flower + Slug = Slugger
+Monster + Slug = Slime

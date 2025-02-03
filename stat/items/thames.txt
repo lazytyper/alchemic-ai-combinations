@@ -9,3 +9,5 @@ Bridge + London = Thames
 Usages:
 =======
 Monument + Thames = Tower Bridge
+Hazard + Thames = Witchhazel
+Room + Thames = Tavern

@@ -9,3 +9,4 @@ Dance + Rose = Ballerina
 Usages:
 =======
 Ballerina + Playwright = Dancer
+Ballerina + Hazard = Safety Dance

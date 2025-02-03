@@ -14,3 +14,4 @@ Chance + Wordplay = Punctuation
 Chance + Letter + Wordplay = Scrabble
 Chance + Rose = Fate
 Chance + Luck = Fortune
+Chance + Room = Chamber

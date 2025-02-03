@@ -9,3 +9,4 @@ Rose + Timepiece = Ros Clock
 Usages:
 =======
 Photobook + Ros Clock = Time Capsule
+Room + Ros Clock = Wallclock

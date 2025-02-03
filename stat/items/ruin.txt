@@ -9,3 +9,4 @@ Death + Death + Death + Death = Ruin
 Usages:
 =======
 Haunted Planet + Ruin = Ghost World
+Monster + Ruin = Abandoned Castle

@@ -9,3 +9,4 @@ Pirate + Pirate = Crewmate
 Usages:
 =======
 Crewmate + Religion = Meme
+Crewmate + Hazard = Imposter

@@ -9,3 +9,4 @@ Mushroom + Pizza = Funghi
 Usages:
 =======
 Funghi + Haunted Planet = Mushroom Planet
+Funghi + Hazard = Mushroom Cloud

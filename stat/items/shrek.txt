@@ -10,3 +10,4 @@ Usages:
 =======
 Avatar + Shrek = Animation
 Rose + Shrek = Ogre
+Room + Shrek = Shrek's Swamp

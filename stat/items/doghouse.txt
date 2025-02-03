@@ -1,0 +1,12 @@
+==================================
+= Doghouse
+==================================
+
+created by:
+===========
+Dogman + Room = Doghouse
+
+Usages:
+=======
+Animal + Doghouse = Kennel
+Doghouse + Human = Pet Owner

@@ -12,3 +12,4 @@ Matter + Substance = Material
 Submarine + Substance = Chemical Compound
 Substance + Tablecloth = Table Setting
 Painting + Substance = Pigment
+Cookie + Substance = Cannabis

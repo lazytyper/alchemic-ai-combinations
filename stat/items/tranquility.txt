@@ -10,3 +10,4 @@ Usages:
 =======
 Garden + Tranquility = Serene
 Tranquility + Wasteland = Desolation
+Room + Tranquility = Santuary

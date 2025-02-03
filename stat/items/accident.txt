@@ -1,0 +1,11 @@
+==================================
+= Accident
+==================================
+
+created by:
+===========
+Crash + Rose = Accident
+
+Usages:
+=======
+Accident + Hazard = Mishap

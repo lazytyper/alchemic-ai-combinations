@@ -1,0 +1,11 @@
+==================================
+= Lantern
+==================================
+
+created by:
+===========
+Bonfire + Glass = Lantern
+
+Usages:
+=======
+Lantern + Room = Light

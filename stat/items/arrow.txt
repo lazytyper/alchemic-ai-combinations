@@ -16,3 +16,4 @@ Arrow + Legend = Robinhood
 Arrow + Feudalism = Archery
 Arrow + Frog = Dartfrog
 Arrow + Pyramid = Obelisk
+Arrow + Room = Arrowroot

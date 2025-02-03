@@ -9,3 +9,4 @@ Blue + Red = Purple
 Usages:
 =======
 Purple + Red = Magenta
+Purple + Room = Lavender

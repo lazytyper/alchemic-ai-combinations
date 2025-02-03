@@ -10,3 +10,4 @@ Usages:
 =======
 Agriculture + Moss = Terrarium
 Moss + Moss + Moss = Peat Bog
+Hazard + Moss = Mossad

@@ -10,3 +10,4 @@ Usages:
 =======
 Forge + Pot Of Gold = Goldsmith
 Material + Pot Of Gold = Gold Coin
+Furnace + Pot Of Gold = Molten Gold

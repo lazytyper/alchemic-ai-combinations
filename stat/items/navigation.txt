@@ -9,3 +9,4 @@ Map + Rose = Navigation
 Usages:
 =======
 Navigation + Rose = Compass
+Hazard + Navigation = Obstacle

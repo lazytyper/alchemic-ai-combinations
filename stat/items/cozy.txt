@@ -14,3 +14,4 @@ Cozy + Fireplace + Romance = Candlelight
 Cozy + Society = Cocoon
 Cozy + Ghost = Haunt
 Cozy + Lover = Snuggler
+Cozy + Rose = Thing

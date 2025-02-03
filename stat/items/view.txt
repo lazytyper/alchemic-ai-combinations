@@ -15,3 +15,5 @@ Poseidon + View = Ocean Vista
 Landscape + View = Scenery
 Shark + View = Sharknado
 Mount Rushmore + View = Landmark
+Hazard + View = Hazardousness
+Hazard + View = Viewpoint

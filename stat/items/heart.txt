@@ -17,3 +17,4 @@ Heart + Weekend = Lovefest
 Heart + Letter = Love Note
 Heart + Letter = Loveletter
 Heart + Photo = Snapshot
+Color + Heart = Redemption

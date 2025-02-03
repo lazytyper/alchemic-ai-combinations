@@ -9,3 +9,4 @@ Fukushima + Submarine = Nuclear Sub
 Usages:
 =======
 Nuclear Sub + Rose = Ironheart
+Nuclear Sub + Room = Nuclear Bunker

@@ -10,3 +10,4 @@ Absurdity + Time Traveler = Doctor Who
 Usages:
 =======
 Doctor Who + Tiger = Dalek
+Doctor Who + Tardis = Time Lord

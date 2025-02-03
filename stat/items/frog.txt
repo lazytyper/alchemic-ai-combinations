@@ -13,3 +13,5 @@ Arrow + Frog = Dartfrog
 Frog + Windbreak = Tadpole
 Camouflage + Frog = Chameleon
 Flower + Frog = Prince
+Frog + Monster = Gargoyle
+Frog + Poison Dart = Dartfrog

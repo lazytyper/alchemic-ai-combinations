@@ -12,3 +12,5 @@ City + London = Britain
 London + Tower = Bridge
 Bridge + London = Thames
 London + Monument = Pudding Lane
+Hazard + London = Baker Street
+London + Room = Hogwarts

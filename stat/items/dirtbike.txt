@@ -9,3 +9,4 @@ Motorcycle + Mountain = Dirtbike
 Usages:
 =======
 Dirtbike + Rainforest = Jungle Ride
+Dirtbike + Hazard = Motocross

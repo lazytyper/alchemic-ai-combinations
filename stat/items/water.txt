@@ -34,3 +34,4 @@ Liquid + Water = Soda
 Solid + Water = Ice
 Telephone + Water = Dialysis
 Color + Water = Blue
+Gremlin + Water = Mogwai

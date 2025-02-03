@@ -1,0 +1,13 @@
+==================================
+= Locomotive
+==================================
+
+created by:
+===========
+Brick + Smokebox = Locomotive
+
+Usages:
+=======
+Cave + Locomotive = Trainwreck
+Locomotive + Mountain = Tunnel
+Locomotive + Room = Train Station

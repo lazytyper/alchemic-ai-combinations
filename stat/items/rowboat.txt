@@ -10,3 +10,4 @@ Usages:
 =======
 Couple + Rowboat = Loveboat
 Mansion + Rowboat = Houseboat
+Hazard + Rowboat = Lifeboat

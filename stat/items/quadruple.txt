@@ -1,0 +1,11 @@
+==================================
+= Quadruple
+==================================
+
+created by:
+===========
+Camera + Camera + Camera + Camera = Quadruple
+
+Usages:
+=======
+Quadruple + Room = Suite

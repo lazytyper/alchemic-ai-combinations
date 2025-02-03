@@ -12,3 +12,5 @@ Mudskipper + Mudskipper = Fish
 Mudskipper + Sushi = Sushiroll
 Mudskipper + Replica = Motorcycle
 Fire Sky + Mudskipper = Firefly
+Hazard + Mudskipper = Atapulgite
+Monster + Mudskipper = Creature

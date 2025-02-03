@@ -10,3 +10,4 @@ Usages:
 =======
 Romance Potion + Rose = Love Elixir
 Romance Potion + Song = Irresistible Melody
+Romance Potion + Room = Love Nest

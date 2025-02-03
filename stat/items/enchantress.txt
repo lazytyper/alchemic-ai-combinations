@@ -9,3 +9,4 @@ Fairy Godmother + Villain = Enchantress
 Usages:
 =======
 Enchantress + Euphoria = Spellbound
+Enchantress + Room = Chambermaid

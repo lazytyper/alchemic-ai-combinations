@@ -9,3 +9,4 @@ Fairy Ring + Maki = Dance Party
 Usages:
 =======
 Dance Party + Fairy Godmother = Ball Gown
+Dance Party + Hazard = Dance-Off

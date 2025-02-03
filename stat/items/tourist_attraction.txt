@@ -11,3 +11,5 @@ Usages:
 Race + Tourist Attraction = Racecourse
 Earthquake + Tourist Attraction = Fault Line
 Tourist Attraction + Wildlife = Safari
+Hazard + Tourist Attraction = Danger Zone
+Hazard + Tourist Attraction = Disaster Tourism

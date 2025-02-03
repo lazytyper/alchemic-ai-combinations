@@ -9,3 +9,4 @@ Liquid + Water = Vodka
 Usages:
 =======
 Alloy + Vodka = Bemol
+Room + Vodka = Slumberparty

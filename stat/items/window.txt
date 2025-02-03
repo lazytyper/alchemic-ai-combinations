@@ -9,3 +9,4 @@ Glass + House = Window
 Usages:
 =======
 Computer + Window = Desktop
+Hazard + Window = Pane

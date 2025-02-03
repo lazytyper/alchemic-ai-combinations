@@ -1,0 +1,11 @@
+==================================
+= Pegasus
+==================================
+
+created by:
+===========
+Animal + Windhorse = Pegasus
+
+Usages:
+=======
+Pegasus + Room = Stable

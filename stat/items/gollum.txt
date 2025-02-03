@@ -5,6 +5,7 @@
 created by:
 ===========
 Frodo + Ring = Gollum
+Monster + Ring = Gollum
 
 Usages:
 =======

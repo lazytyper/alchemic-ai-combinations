@@ -1,0 +1,11 @@
+==================================
+= Robotic Flower
+==================================
+
+created by:
+===========
+Animatron + Rose = Robotic Flower
+
+Usages:
+=======
+Robotic Flower + Room = Robotic Garden

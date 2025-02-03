@@ -10,3 +10,4 @@ Usages:
 =======
 Poison + Venom = Toxin
 Airship + Venom = Sky Pirate
+Monster + Venom = Basilisk

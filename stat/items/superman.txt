@@ -9,3 +9,4 @@ Hero + Human = Superman
 Usages:
 =======
 Superman + Universe = Justice League
+Monster + Superman = Monsterman

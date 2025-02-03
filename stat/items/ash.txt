@@ -10,3 +10,4 @@ Fire + Tree = Ash
 Usages:
 =======
 Ash + Love = Cinderella
+Ash + Room = Ashtray

@@ -9,3 +9,4 @@ Fantasyland + Rose = Wonderland
 Usages:
 =======
 Rose + Wonderland = Alice
+Monster + Wonderland = Monstropolis

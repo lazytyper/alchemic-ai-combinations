@@ -9,3 +9,4 @@ Camouflage + Rose = Fox
 Usages:
 =======
 Fox + Rose = Foxglove
+Fox + Room = Foxhole

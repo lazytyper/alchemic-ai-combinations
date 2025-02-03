@@ -11,3 +11,4 @@ Usages:
 Los Angeles + Monument = Hollywood
 City + Los Angeles = New York
 Festival + Los Angeles = Coachella
+Los Angeles + Room = Woman

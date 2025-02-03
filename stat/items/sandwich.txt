@@ -12,3 +12,4 @@ Milk + Sandwich = Cereal
 Breakfast + Sandwich = Bagel
 Bagel + Sandwich = Lunch
 Fireplace + Sandwich = Toasty
+Room + Sandwich = Lunchroom

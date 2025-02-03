@@ -10,3 +10,4 @@ Usages:
 =======
 Legends + Wax Figure = Madame Tussauds
 Flower + Legends = Flowerpower
+Legends + Room = Legendarium

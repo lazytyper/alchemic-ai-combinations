@@ -9,3 +9,4 @@ Utopia + Warrior = Peacekeeper
 Usages:
 =======
 Peacekeeper + Tragicomedy = Dramedy
+Peacekeeper + Room = Safe Space

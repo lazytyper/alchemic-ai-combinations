@@ -9,3 +9,4 @@ Flash + Sailboat = Speedboat
 Usages:
 =======
 Race + Speedboat = Powerboat
+Room + Speedboat = Boathouse

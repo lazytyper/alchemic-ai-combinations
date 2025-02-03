@@ -9,3 +9,4 @@ Deception + Masquerade = Disguise
 Usages:
 =======
 Disguise + Photobook = Photoalbum
+Disguise + Hazard = Safety Mask

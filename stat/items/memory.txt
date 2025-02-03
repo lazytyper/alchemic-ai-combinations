@@ -9,3 +9,5 @@ Childhood + Time = Memory
 Usages:
 =======
 Memory + Memory = Recall
+Memory + Monster = Trauma
+Memory + Room = Mind Palace

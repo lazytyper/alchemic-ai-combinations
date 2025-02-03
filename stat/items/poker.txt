@@ -1,0 +1,11 @@
+==================================
+= Poker
+==================================
+
+created by:
+===========
+Bluff + Room = Poker
+
+Usages:
+=======
+Poker + Room = Cardroom

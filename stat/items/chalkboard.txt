@@ -10,3 +10,4 @@ Usages:
 =======
 Chalkboard + Human = Teacher
 Chalkboard + City = Blackboard Jungle
+Chalkboard + Hazard = Warning Sign

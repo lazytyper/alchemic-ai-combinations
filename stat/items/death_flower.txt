@@ -11,3 +11,5 @@ Usages:
 Death Flower + Rose = Grave Bloom
 Death Flower + Rose = Retribution
 Death Flower + Rose = Graceful Decay
+Death Flower + Hazard = Toxic Bloom
+Death Flower + Room = Grave Decor

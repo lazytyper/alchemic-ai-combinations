@@ -14,3 +14,4 @@ Mushroom + Pizza = Funghi
 Life + Mushroom = Mario
 Mushroom + Mushroom + Mushroom + Mushroom = Super Mario
 Mushroom + Super Mario = 1-Up
+Hazard + Mushroom = Toxic Fungus

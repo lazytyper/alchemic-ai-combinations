@@ -9,3 +9,4 @@ Atlantis + Reflection Error = Mirage
 Usages:
 =======
 Livestock + Mirage = Cattle Drive
+Hazard + Mirage = Illusion

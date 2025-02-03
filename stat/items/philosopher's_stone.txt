@@ -9,3 +9,4 @@ Elixir Of Immortality + Human = Philosopher's Stone
 Usages:
 =======
 Philosopher's Stone + Philosopher's Stone = Eternal Life
+Monster + Philosopher's Stone = Transformers

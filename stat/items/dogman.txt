@@ -9,3 +9,4 @@ Driver + Kelpie = Dogman
 Usages:
 =======
 Dogman + Dogman = Duplication
+Dogman + Room = Doghouse

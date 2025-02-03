@@ -59,6 +59,10 @@ function formatElement(name) {
 function addline(string) {
     let names = string.split(',');
     let resultName = names.pop();
+    if (resultName === '') {
+        console.warn(`Empty result name: ${string}`);
+        return;
+    }
     names = names.sort();
     addCombination(names, resultName);
 }

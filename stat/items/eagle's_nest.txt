@@ -9,3 +9,4 @@ Eagle + Paradise = Eagle's Nest
 Usages:
 =======
 Eagle's Nest + Flower = Hummingbird
+Eagle's Nest + Monster = Dragon's Lair

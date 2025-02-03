@@ -16,3 +16,4 @@ Usages:
 Excalibur + Hero = King Arthur
 Excalibur + Genie = Wishblade
 Excalibur + King Arthur = Camelot
+Excalibur + Hazard = Swordfish

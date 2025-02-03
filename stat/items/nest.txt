@@ -11,3 +11,4 @@ Usages:
 Nest + Robin = Egg
 Nest + Nest = Birdhouse
 Nest + Terrarium = Habitat
+Nest + Room = Nesting

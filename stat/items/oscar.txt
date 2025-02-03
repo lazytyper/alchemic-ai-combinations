@@ -10,3 +10,4 @@ Award + Hollywood = Oscar
 Usages:
 =======
 City + Oscar = Los Angeles
+Monster + Oscar = Sesame Street

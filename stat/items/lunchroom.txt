@@ -1,0 +1,11 @@
+==================================
+= Lunchroom
+==================================
+
+created by:
+===========
+Room + Sandwich = Lunchroom
+
+Usages:
+=======
+City + Lunchroom = Cafeteria

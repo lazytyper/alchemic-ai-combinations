@@ -1,0 +1,11 @@
+==================================
+= Biomeachanoid
+==================================
+
+created by:
+===========
+Fossil + Genie = Biomeachanoid
+
+Usages:
+=======
+Biomeachanoid + Room = Simulacrum

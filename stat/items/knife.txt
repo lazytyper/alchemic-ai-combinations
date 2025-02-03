@@ -14,3 +14,4 @@ Knife + Knife = Dagger
 Knife + Sharpener = Edge
 Knife + Slice = Slicer
 Knife + Turbine = Cutting Edge
+Hazard + Knife = Bauble

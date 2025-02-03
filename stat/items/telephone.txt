@@ -11,3 +11,4 @@ Usages:
 Human + Telephone = Call Center
 Telephone + Water = Dialysis
 Education + Telephone = Tele-Education
+Monster + Telephone = Ringtone

@@ -9,3 +9,4 @@ City + Duplex Mansion = Townhouse
 Usages:
 =======
 Tiger + Townhouse = Tigertown
+Room + Townhouse = Loft

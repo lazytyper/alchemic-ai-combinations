@@ -111,3 +111,7 @@ City + Cowardice = Cowardly Lion
 City + Drunkard = Dublin
 Cappuccino + City = Coffeehouse
 City + Flower Boat = Amsterdam
+City + Opera = Metropolitan
+City + Lunchroom = Cafeteria
+Botanist + City = Urban Forestry
+Agriculture + City = Urban Farming

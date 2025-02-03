@@ -9,3 +9,4 @@ Beach + Rose = Sunburn
 Usages:
 =======
 Rose + Sunburn = Aloe Vera
+Room + Sunburn = Sunroom

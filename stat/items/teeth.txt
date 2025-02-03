@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Teeth = Smile
 Fairy Ring + Teeth = Tooth Fairy
+Room + Teeth = Toothbrush

@@ -15,3 +15,4 @@ Hell + Reincarnation = Purgatory
 Hell + Rose = Inferno Dante
 Hell + Lover = Hellbound
 Grief + Hell = Sorrow
+Dinosaur + Hell = Tyrannosaurus

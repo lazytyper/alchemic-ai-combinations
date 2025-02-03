@@ -10,3 +10,4 @@ Usages:
 =======
 Letter + Word = Sentence
 Word + Word = Crossword
+Monster + Word = Wordsmith

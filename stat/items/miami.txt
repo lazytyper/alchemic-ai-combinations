@@ -12,3 +12,4 @@ Criminal + Miami = Scarface
 Beach + Miami = Florida
 Festival + Miami = Ultra
 Flower + Miami = Hibiscus
+Hazard + Miami = Hazardous

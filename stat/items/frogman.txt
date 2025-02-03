@@ -9,3 +9,4 @@ Frog Giggling + Strongman = Frogman
 Usages:
 =======
 Frogman + Ocean = Diver
+Frogman + Hazard = Toxic Amphibian

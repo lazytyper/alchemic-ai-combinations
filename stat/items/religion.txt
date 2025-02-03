@@ -22,3 +22,4 @@ Magic + Religion = Ritual
 Eternal Flame + Religion = Holy Fire
 Religion + Song = Hymn
 Hatred + Religion = Fanaticism
+Deity + Religion = Gods

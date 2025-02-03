@@ -9,3 +9,4 @@ Egghead + Moonhopper = Moonbrain
 Usages:
 =======
 Moonbrain + Tragicomedy = Melancholy
+Monster + Moonbrain = Lunatic

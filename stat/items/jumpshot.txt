@@ -9,3 +9,4 @@ Jordan + Smoke = Jumpshot
 Usages:
 =======
 Jumpshot + Rose = Juan Valdez
+Hazard + Jumpshot = Basketball

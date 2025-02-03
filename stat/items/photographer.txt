@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Photographer = Paparazzi
 Computer + Photographer = Camera
+Photographer + Room = Photo Studio

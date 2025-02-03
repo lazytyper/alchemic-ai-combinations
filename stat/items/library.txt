@@ -9,3 +9,4 @@ Bookshelf + Museum = Library
 Usages:
 =======
 Library + Rose = Bookstore
+Library + Room = Study

@@ -5,8 +5,10 @@
 created by:
 ===========
 Rockstar + Singer = Popstar
+Glitter + Musician = Popstar
 
 Usages:
 =======
 Popstar + Singer = Artist
 Popstar + Rose = Rihanna
+Glitter + Popstar = Glitterati

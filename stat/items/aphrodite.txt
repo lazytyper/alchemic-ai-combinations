@@ -15,3 +15,4 @@ Aphrodite + Thunder = Love Storm
 Aphrodite + Zeus = Hera
 Aphrodite + Partner = Eros
 Aphrodite + Playhouse = Theatre
+Aphrodite + Room = Love Nest

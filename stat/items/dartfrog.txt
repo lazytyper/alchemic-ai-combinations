@@ -5,6 +5,7 @@
 created by:
 ===========
 Arrow + Frog = Dartfrog
+Frog + Poison Dart = Dartfrog
 
 Usages:
 =======

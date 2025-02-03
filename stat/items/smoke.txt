@@ -20,3 +20,4 @@ Energy Production + Smoke = Pollution
 Duplex + Smoke = Smokebox
 Fragrance + Smoke = Incence
 Jordan + Smoke = Jumpshot
+Cannabis + Smoke = High

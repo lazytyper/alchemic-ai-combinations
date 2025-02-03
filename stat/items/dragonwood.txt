@@ -9,3 +9,4 @@ Charizard + Dryad = Dragonwood
 Usages:
 =======
 Atmosphere + Dragonwood = Dragonair
+Dragonwood + Room = Deck

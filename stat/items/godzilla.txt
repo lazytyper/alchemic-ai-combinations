@@ -5,6 +5,7 @@
 created by:
 ===========
 Monster + Monster = Godzilla
+Civilization + Monster = Godzilla
 
 Usages:
 =======

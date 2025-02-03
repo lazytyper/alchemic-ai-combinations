@@ -10,3 +10,4 @@ Usages:
 =======
 Frasier + Rose = Thorne
 Frasier + Heaven = Cheers
+Frasier + Thing = Phrasing

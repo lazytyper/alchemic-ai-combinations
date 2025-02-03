@@ -10,3 +10,4 @@ Usages:
 =======
 Bicycle Tour + Love Forever = Maximum Happiness
 Bicycle Tour + Oasis = Desert Ride
+Bicycle Tour + Room = Bike Hotel

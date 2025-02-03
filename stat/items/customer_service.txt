@@ -10,3 +10,4 @@ Usages:
 =======
 Customer Service + Genie = Wish Fulfillment
 Customer Service + Rose = Customer Care
+Customer Service + Jungle Ride = Safari Tour

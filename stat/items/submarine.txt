@@ -12,3 +12,4 @@ Ballad + Submarine = Sonar
 Fukushima + Submarine = Nuclear Sub
 Rose + Submarine = Rosebud
 Submarine + Substance = Chemical Compound
+Room + Submarine = Submersible

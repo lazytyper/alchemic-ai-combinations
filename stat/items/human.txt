@@ -149,3 +149,5 @@ Alcoholic + Human = Drunkard
 Human + Microscope = Scientist
 Human + Sleeve = Arm
 Human + Radioactivity = Mutation
+High + Human = Giant
+Doghouse + Human = Pet Owner

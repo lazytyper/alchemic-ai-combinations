@@ -9,3 +9,4 @@ Adobe + Fireworks = Luminaria
 Usages:
 =======
 Luminaria + Rose = Fairy Light
+Luminaria + Monster = Spooky Lights

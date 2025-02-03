@@ -10,3 +10,4 @@ Usages:
 =======
 Carnival + Picnic = Festival
 Carnival + City = Rio
+Carnival + Room = Funhouse

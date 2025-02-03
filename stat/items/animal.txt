@@ -51,3 +51,5 @@ Animal + Fear = Phobia
 Animal + Imitation = Fake
 Animal + Watson = Sherlock
 Animal + Pokemon = Pikachu
+Animal + Hazard = Zoo Safety
+Animal + Doghouse = Kennel

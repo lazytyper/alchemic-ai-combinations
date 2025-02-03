@@ -1,0 +1,11 @@
+==================================
+= Soup
+==================================
+
+created by:
+===========
+Liquid + Liquid = Soup
+
+Usages:
+=======
+Monster + Soup = Monsterpiece

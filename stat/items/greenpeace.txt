@@ -13,3 +13,5 @@ Amphibian + Greenpeace = Eco-Warrior
 Greenpeace + Thunder = Stormwatch
 Greenpeace + Happiness = Ecotopia
 Gravity + Greenpeace = Earthcare
+Greenpeace + Hazard = Eco-Terrorism
+Greenpeace + Room = Eco-Home

@@ -10,3 +10,4 @@ Usages:
 =======
 Partner + Retreat = Couples Therapy
 Fireplace + Retreat = Fireside
+Retreat + Room = Meeting

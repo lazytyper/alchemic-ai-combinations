@@ -9,3 +9,4 @@ Monument + Paris = Eiffel Tower
 Usages:
 =======
 Eiffel Tower + Petals = Flower Tower
+Eiffel Tower + Room = Viewing Platform

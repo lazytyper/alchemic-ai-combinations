@@ -9,3 +9,4 @@ Hulk + Spouse = She-Hulk
 Usages:
 =======
 City + She-Hulk = Hulkling
+Hazard + She-Hulk = Hulkbuster

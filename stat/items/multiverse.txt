@@ -9,3 +9,4 @@ Universe + Universe = Multiverse
 Usages:
 =======
 Multiverse + Rose = Parallel Dimension
+Multiverse + Room = Pocket Dimension

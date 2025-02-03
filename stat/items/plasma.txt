@@ -10,3 +10,4 @@ Blood + Liquid = Plasma
 Usages:
 =======
 Fire + Plasma = Sun
+Hazard + Plasma = Warning Light

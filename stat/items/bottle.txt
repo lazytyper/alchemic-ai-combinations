@@ -11,3 +11,4 @@ Usages:
 Bottle + Genie = Lamp
 Bottle + Milk = Dairy
 Bottle + New York = Brooklyn
+Bottle + Room = Broom

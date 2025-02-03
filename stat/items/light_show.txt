@@ -9,3 +9,4 @@ Aurora Borealis + Solar Power = Light Show
 Usages:
 =======
 Light Show + Space = Laser Display
+Light Show + Room = Disco Ball

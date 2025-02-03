@@ -10,3 +10,4 @@ Usages:
 =======
 Fortress + Monarch = Castle
 Demon + Fortress = Demonology
+Fortress + Hazard = Stronghold

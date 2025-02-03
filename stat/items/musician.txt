@@ -14,3 +14,5 @@ Musician + Rock And Roll = Elvis Presley
 Musician + Silence = Concert
 Moonwalker + Musician = Jackson
 Award + Musician = Grammy
+Glitter + Musician = Glamour
+Glitter + Musician = Popstar

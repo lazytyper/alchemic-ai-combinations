@@ -1,0 +1,11 @@
+==================================
+= Saxophonist
+==================================
+
+created by:
+===========
+Human + Trombone = Saxophonist
+
+Usages:
+=======
+Room + Saxophonist = Jam Session

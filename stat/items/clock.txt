@@ -9,3 +9,4 @@ Rose + Time = Clock
 Usages:
 =======
 Clock + Rose = Timepiece
+Clock + Room = Time Chamber

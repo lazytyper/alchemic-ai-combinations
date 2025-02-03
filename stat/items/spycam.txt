@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Spycam = Surveillance
 Spycam + Steel = Stealth
+Room + Spycam = Watchroom

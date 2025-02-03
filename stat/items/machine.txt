@@ -10,3 +10,4 @@ Usages:
 =======
 Harvest + Machine = Combine Harvester
 Machine + Time = Time-Machine
+Machine + Room = Factory

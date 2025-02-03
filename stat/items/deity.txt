@@ -9,3 +9,5 @@ God + View = Deity
 Usages:
 =======
 Deity + Hell = Satan
+Deity + Hazard = Demiurge
+Deity + Religion = Gods

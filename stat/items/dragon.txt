@@ -9,3 +9,4 @@ Fire Lizard + Matchmaker = Dragon
 Usages:
 =======
 Dragon + Fire = Dragonfire
+Dragon + Monster = Hydra

@@ -9,3 +9,4 @@ Flower + Mortar = Pestle
 Usages:
 =======
 Mortar + Pestle = Grindstone
+Cannabis + Pestle = Tincture

@@ -9,3 +9,5 @@ Desentization + Kaiju = Monster Suit
 Usages:
 =======
 Human + Monster Suit = Cosplay
+Monster + Monster Suit = Costume
+Monster Suit + Room = Maze

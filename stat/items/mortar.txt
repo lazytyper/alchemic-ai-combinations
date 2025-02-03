@@ -10,3 +10,4 @@ Usages:
 =======
 Flower + Mortar = Pestle
 Mortar + Pestle = Grindstone
+Mortar + Room = Mortarboard

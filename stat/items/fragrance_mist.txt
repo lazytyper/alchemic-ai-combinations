@@ -9,3 +9,4 @@ Perfume + Water = Fragrance Mist
 Usages:
 =======
 Fireplace + Fragrance Mist = Scented Candle
+Fragrance Mist + Hazard = Scent Bomb

@@ -11,3 +11,4 @@ Usages:
 Obsidian + Spell = Magic Stone
 Spell + Time = Chronomancy
 Spell + Yoga = Spellcasting
+Hazard + Spell = Hex

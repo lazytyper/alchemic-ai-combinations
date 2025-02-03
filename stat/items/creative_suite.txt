@@ -10,3 +10,4 @@ Usages:
 =======
 Creative Suite + Replica = Photoshop
 Creative Suite + Disaster = Design Failure
+Creative Suite + Room = Studio

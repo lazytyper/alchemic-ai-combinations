@@ -9,3 +9,5 @@ Voyage + Weekend = Getaway
 Usages:
 =======
 Getaway + Serene = Retreat
+Getaway + Hazard = Escape Route
+Getaway + Room = Motel

@@ -9,3 +9,4 @@ Poisonous Bird + Steam = Extraction
 Usages:
 =======
 Extraction + Weather = Harvest
+Extraction + Room = Laboratory

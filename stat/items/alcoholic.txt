@@ -9,3 +9,5 @@ Drunkenness + Human = Alcoholic
 Usages:
 =======
 Alcoholic + Human = Drunkard
+Alcoholic + Hazard = Hangover
+Alcoholic + Room = Barroom

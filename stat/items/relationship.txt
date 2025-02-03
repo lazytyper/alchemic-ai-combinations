@@ -11,3 +11,4 @@ Usages:
 =======
 Heartbreak Hotel + Relationship = Love Motel
 Relationship + Song = Breakup Anthem
+Hazard + Relationship = Dangerous Liaison

@@ -18,3 +18,4 @@ Frodo + Ring = Gollum
 Gollum + Ring = Precious
 Invisibility + Ring = Ringwraith
 Hercules + Ring = Strength
+Monster + Ring = Gollum

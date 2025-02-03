@@ -11,3 +11,4 @@ Usages:
 Nature Reserve + Pollen = Biodiversity
 Magic Stone + Nature Reserve = Enchanted Forest
 Nature Reserve + Northern Lights = Aurora Park
+Hazard + Nature Reserve = Wildlife Refuge

@@ -10,3 +10,5 @@ Usages:
 =======
 Human + Meditation = Buddhism
 Meditation + Muad'dib = Mindfulness
+Meditation + Room = Zen Garden
+Meditation + Room = Zen Den

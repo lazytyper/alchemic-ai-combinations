@@ -9,3 +9,4 @@ Juliet + Romeo = Tragedy
 Usages:
 =======
 Heart + Tragedy = Grief
+Room + Tragedy = Opera

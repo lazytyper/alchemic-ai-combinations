@@ -9,3 +9,4 @@ Hard Place + Rose = Dilemma
 Usages:
 =======
 Dilemma + Radioactivity = Hazard
+Dilemma + Giant = Goliath

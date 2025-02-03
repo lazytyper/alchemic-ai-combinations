@@ -10,3 +10,4 @@ Usages:
 =======
 Pigment + Pigment = Paint
 Pigment + Pollen = Paintbrush
+Hazard + Pigment = Safety Color

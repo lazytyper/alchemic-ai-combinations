@@ -28,3 +28,4 @@ Love + Nature = Romanticism
 Flower + Nature = Meadow
 Mass + Nature = Matter
 Nature + Paramedic = Wilderness Medic
+Hazard + Nature = Natural Disaster

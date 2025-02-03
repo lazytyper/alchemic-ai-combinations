@@ -10,3 +10,4 @@ Usages:
 =======
 Aquatic Fun + Flower = Water Lily
 Aquatic Fun + Fireplace = Waterfire
+Aquatic Fun + Hazard = Waterpark

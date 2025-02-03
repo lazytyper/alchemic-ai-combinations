@@ -1,0 +1,12 @@
+==================================
+= Dermatology
+==================================
+
+created by:
+===========
+Eczema + Rosarian = Dermatology
+
+Usages:
+=======
+Dermatology + Monster = Dermatologist
+Dermatology + Room = Consultation

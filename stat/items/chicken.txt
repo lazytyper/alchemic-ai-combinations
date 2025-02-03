@@ -11,3 +11,4 @@ Usages:
 =======
 Chicken + Growth Potion = Plumper
 Agribusiness + Chicken = Poultry
+Chicken + Giant = Pterodactyl

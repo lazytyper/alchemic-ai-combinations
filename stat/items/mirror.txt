@@ -13,3 +13,4 @@ Fukushima + Mirror = Reflection
 Mirror + Sun = Solar Panel
 Mirror + Mirror = Snow White
 Design Failure + Mirror = Reflection Error
+Mirror + Monster = Medusa

@@ -10,3 +10,4 @@ Usages:
 =======
 Feather + Feather = Wing
 Feather + Rescue Squad = Angel
+Feather + Room = Featherbed

@@ -11,3 +11,4 @@ Usages:
 Cinderella + Incantation = Magic
 Druid + Incantation = Magic
 Human + Incantation = Spellcaster
+Incantation + Room = Spell Chamber

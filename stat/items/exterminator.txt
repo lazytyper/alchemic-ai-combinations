@@ -1,0 +1,11 @@
+==================================
+= Exterminator
+==================================
+
+created by:
+===========
+Dalek + Monster = Exterminator
+
+Usages:
+=======
+Exterminator + Room = Bug Spray

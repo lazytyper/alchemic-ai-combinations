@@ -9,3 +9,4 @@ Dreamcatcher + Dreamer = Sleep
 Usages:
 =======
 Couple + Sleep = Bed
+Room + Sleep = Bedroom

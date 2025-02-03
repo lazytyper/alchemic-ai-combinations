@@ -11,3 +11,4 @@ Usages:
 City + Tiger = Detroit
 Tiger + Townhouse = Tigertown
 Doctor Who + Tiger = Dalek
+Hazard + Tiger = Tiger's Eye

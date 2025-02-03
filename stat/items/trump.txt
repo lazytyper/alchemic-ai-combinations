@@ -10,3 +10,4 @@ Usages:
 =======
 City + Trump = Tower
 Brooklyn + Trump = Trumpkin
+Monster + Trump = Trumpster

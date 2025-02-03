@@ -9,3 +9,4 @@ Animal + Circus = Elephant
 Usages:
 =======
 Elephant + Mind Racing = Thoughts
+Elephant + Room = Elephantiasis

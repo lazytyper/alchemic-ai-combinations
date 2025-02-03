@@ -10,3 +10,4 @@ Usages:
 =======
 Blue + Red = Purple
 Blue + Blue = Blueberry
+Blue + Ruby = Sapphire

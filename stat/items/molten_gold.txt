@@ -1,0 +1,13 @@
+==================================
+= Molten Gold
+==================================
+
+created by:
+===========
+Furnace + Pot Of Gold = Molten Gold
+
+Usages:
+=======
+Ice + Molten Gold = Golden Sculpture
+Air + Molten Gold = Aerogel
+Molten Gold + Molten Gold = Glitter

@@ -9,3 +9,4 @@ Couple + Sleep = Bed
 Usages:
 =======
 Bed + Genie = Dream
+Bed + Hazard = Bedbug

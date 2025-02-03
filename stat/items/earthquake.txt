@@ -12,3 +12,4 @@ Earthquake + Tourist Attraction = Fault Line
 Earthquake + Rumor = Tremor
 Earth + Earth + Earthquake = Tectonic Plate
 Earthquake + Rose = Faultline
+Earthquake + Room = Buckling

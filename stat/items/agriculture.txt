@@ -15,3 +15,5 @@ Agriculture + Volcano = Fertile Soil
 Agriculture + Moss = Terrarium
 Agriculture + Drought = Irrigation
 Agriculture + Moonlight = Moon Tree
+Agriculture + Hazard = Faming Risk
+Agriculture + City = Urban Farming

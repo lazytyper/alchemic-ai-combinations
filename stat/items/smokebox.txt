@@ -9,3 +9,4 @@ Duplex + Smoke = Smokebox
 Usages:
 =======
 Brick + Smokebox = Locomotive
+Room + Smokebox = Smoker

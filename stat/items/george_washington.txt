@@ -9,3 +9,4 @@ American Revolution + President = George Washington
 Usages:
 =======
 Fire + George Washington = Cherry Tree
+George Washington + Room = Wallpaper

@@ -9,3 +9,4 @@ Samsara + Wind = Prayer Flag
 Usages:
 =======
 Animal + Prayer Flag = Windhorse
+Prayer Flag + Room = Meditation Space

@@ -9,3 +9,4 @@ Omelette + Rose = Rosedale
 Usages:
 =======
 Rose + Rosedale = Rosendale
+Hazard + Rosedale = Bloomington

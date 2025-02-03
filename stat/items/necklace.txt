@@ -9,3 +9,5 @@ Pearl + Rose = Necklace
 Usages:
 =======
 Necklace + Rose = Pendant
+Necklace + Room = Lounge
+Necklace + Room = Locket

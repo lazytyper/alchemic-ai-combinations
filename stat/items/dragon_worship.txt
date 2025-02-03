@@ -10,3 +10,4 @@ Usages:
 =======
 Dragon Worship + Rose = Dragonflower
 Dragon Worship + Fire Sky = Fire Dragon
+Dragon Worship + Room = Shrine

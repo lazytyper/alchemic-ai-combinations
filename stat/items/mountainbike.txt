@@ -9,3 +9,4 @@ Bicycle + Mountain = Mountainbike
 Usages:
 =======
 Blight + Mountainbike = Trail
+Giant + Mountainbike = Giant's Causeway

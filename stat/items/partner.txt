@@ -30,3 +30,4 @@ Masquerade + Partner = Masquerader
 Partner + Soul = Mate
 Partner + Popeye = Spinach
 Partner + Sailor = Shipmate
+Morpheus + Partner = Dream Team

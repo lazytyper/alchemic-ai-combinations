@@ -9,3 +9,4 @@ Racetrack + Stormwatch = Chase
 Usages:
 =======
 Chase + Human = Pursuit
+Chase + Room = Escape

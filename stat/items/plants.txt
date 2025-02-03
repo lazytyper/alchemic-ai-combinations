@@ -10,3 +10,4 @@ Usages:
 =======
 Plants + Vase = Flower Arrangement
 Plants + Sand = Cactus Desert
+Monster + Plants = Venusaur

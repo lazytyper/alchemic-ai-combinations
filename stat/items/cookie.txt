@@ -14,3 +14,6 @@ Baby + Cookie = Milk
 Candy + Cookie + Milk = Dessert
 Cookie + Hygge + Pandemonium + Wishful = Sweet Chaos
 Cookie + Fireplace = S'more
+Cookie + Hazard = Chocolate Chip
+Cookie + Substance = Cannabis
+Cookie + Monster = Crumbs

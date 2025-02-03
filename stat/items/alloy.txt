@@ -11,3 +11,4 @@ Usages:
 Alloy + Alloy = Steel
 Alloy + Rose = Bronze
 Alloy + Vodka = Bemol
+Alloy + Monster = Hybrid
