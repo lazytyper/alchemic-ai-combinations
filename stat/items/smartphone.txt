@@ -10,3 +10,5 @@ Usages:
 =======
 Fireplace + Smartphone = Smartfire
 Rose + Smartphone = Selfie Stick
+Camera + Smartphone = Phonecam
+Camera + Smartphone = Phoneography

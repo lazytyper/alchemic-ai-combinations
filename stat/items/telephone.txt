@@ -9,3 +9,5 @@ Ring + Ring + Ring + Ring = Telephone
 Usages:
 =======
 Human + Telephone = Call Center
+Telephone + Water = Dialysis
+Education + Telephone = Tele-Education

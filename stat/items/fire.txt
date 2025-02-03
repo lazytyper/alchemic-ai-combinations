@@ -59,3 +59,5 @@ Fire + Steam = Boiler
 Family + Fire = Hearth
 City + Fire = Chicago
 Fire + Plasma = Sun
+Cyberpunk + Fire = Neuromancer
+Fire + George Washington = Cherry Tree

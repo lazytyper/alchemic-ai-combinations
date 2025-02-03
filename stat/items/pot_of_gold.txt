@@ -9,3 +9,4 @@ Leprechaun + Luck = Pot Of Gold
 Usages:
 =======
 Forge + Pot Of Gold = Goldsmith
+Material + Pot Of Gold = Gold Coin

@@ -10,3 +10,4 @@ Usages:
 =======
 Fireplace + Precious = Jewelry
 Precious + President = Trump
+Precious + Rose = Rings

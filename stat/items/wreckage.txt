@@ -11,3 +11,4 @@ Usages:
 Ecosystem + Wreckage = Biodegradation
 Tribe + Wreckage = Tribalism
 Baby + Wreckage = Dollhouse
+Windflower + Wreckage = Relic

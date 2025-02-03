@@ -11,3 +11,4 @@ Usages:
 Day + Friday = Weekend
 Friday + Friday = Rebecca
 Friday + Photobook = Fri-Jay
+Friday + Track Food = Foodie

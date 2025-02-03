@@ -5,6 +5,7 @@
 created by:
 ===========
 Melt + Melt + Melt + Melt = Liquid
+Roses + Roses = Liquid
 
 Usages:
 =======
@@ -20,3 +21,10 @@ Blood + Liquid = Plasma
 Liquid + Wine = Alcohol
 Alcohol + Liquid = Cocktail
 Liquid + Orange = Juice
+Liquid + Liquid = Solution
+Liquid + Liquid = Soup
+Liquid + Material = Metal Alloy
+Liquid + Matter = Solution
+Liquid + Plant = Tea
+Liquid + Tea = Brew
+Liquid + Paint = Color

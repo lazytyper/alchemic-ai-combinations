@@ -9,3 +9,4 @@ Astrology + Venus = Horoscope
 Usages:
 =======
 Horoscope + Trident = Pisces
+Cyclone + Horoscope = Stormscope

@@ -9,3 +9,5 @@ Charmander + Cloudscape = Fire Sky
 Usages:
 =======
 Fire Sky + Mudskipper = Firefly
+Crime + Fire Sky = Arsonist
+Dragon Worship + Fire Sky = Fire Dragon

@@ -11,3 +11,4 @@ Usages:
 Chance + Wordplay = Punctuation
 Letter + Wordplay = Pun
 Chance + Letter + Wordplay = Scrabble
+Weekend + Wordplay = Pun-Derful

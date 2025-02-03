@@ -1,0 +1,12 @@
+==================================
+= Solid
+==================================
+
+created by:
+===========
+Matter + Matter = Solid
+
+Usages:
+=======
+Solid + Water = Ice
+Melt + Solid = Slush

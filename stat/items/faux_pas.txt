@@ -9,3 +9,4 @@ Fake + Rose = Faux Pas
 Usages:
 =======
 Faux Pas + Rose = Cheeky Gesture
+Faux Pas + Jungle = Social Survival

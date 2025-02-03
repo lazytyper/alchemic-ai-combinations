@@ -1,0 +1,11 @@
+==================================
+= Paramedic
+==================================
+
+created by:
+===========
+Human + Rescue Team = Paramedic
+
+Usages:
+=======
+Nature + Paramedic = Wilderness Medic

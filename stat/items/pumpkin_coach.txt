@@ -9,3 +9,4 @@ Greenhouse + Grim Fairytale = Pumpkin Coach
 Usages:
 =======
 Fireplace + Pumpkin Coach = Jack-O'-Lantern
+Pumpkin Coach + Table Setting = Dinner Party

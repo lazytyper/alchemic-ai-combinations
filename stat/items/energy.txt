@@ -19,3 +19,4 @@ Energy + Inferno = Thermal Power
 Battery + Energy = Power
 Energy + Power = Force
 Energy + Flower = Solar Power
+Einstein's Theory + Energy = Mass

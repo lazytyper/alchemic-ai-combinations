@@ -1,0 +1,11 @@
+==================================
+= Cherry Blossoms
+==================================
+
+created by:
+===========
+Hanami + Hanami + Hanami + Hanami = Cherry Blossoms
+
+Usages:
+=======
+Cherry Blossoms + Sakura = Flowers

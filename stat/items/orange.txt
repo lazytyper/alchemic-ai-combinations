@@ -11,3 +11,4 @@ Usages:
 Liquid + Orange = Juice
 Orange + Pressure = Juice
 Orange + Orange = Fruit
+Orange + Orange = Tangerine

@@ -9,3 +9,4 @@ Agriculture + Drought = Irrigation
 Usages:
 =======
 Irrigation + Jackson = Jacksonville
+Archer + Irrigation = Bowman

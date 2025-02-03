@@ -28,3 +28,5 @@ Partner + Wolf = Werewolf
 Partner + Pharao = Cleopatra
 Masquerade + Partner = Masquerader
 Partner + Soul = Mate
+Partner + Popeye = Spinach
+Partner + Sailor = Shipmate

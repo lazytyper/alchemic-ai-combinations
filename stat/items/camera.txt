@@ -11,3 +11,9 @@ Usages:
 Camera + Selfie = Photo
 Camera + Computer = Webcam
 Camera + Computer = Photo
+Binary System + Camera = Digital Image
+Camera + Digital Image = Photography
+Camera + Smartphone = Phonecam
+Camera + Smartphone = Phoneography
+Camera + Camera + Camera + Camera = Quadruple
+Camera + Photography = Image Capture

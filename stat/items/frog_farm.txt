@@ -10,3 +10,4 @@ Usages:
 =======
 Frog Farm + Phoenix = Rebirth
 Frog Farm + Hook = Frog Giggling
+Frog Farm + Tourist = Frogurt

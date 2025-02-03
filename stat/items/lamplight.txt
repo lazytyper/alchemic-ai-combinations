@@ -9,3 +9,4 @@ Lamp + Rose = Lamplight
 Usages:
 =======
 Flowering + Lamplight = Night Bloom
+Lamplight + Rose = Floralia

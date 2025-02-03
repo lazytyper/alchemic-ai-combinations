@@ -12,3 +12,4 @@ Hopeful Cynicism + Treasure = Fool's Gold
 Loneliness + Treasure = Bittersweet
 Design Failure + Treasure = Found Object
 Cybercrime + Treasure = Cryptojacking
+Treasure + Treasure + Treasure + Treasure = Pile

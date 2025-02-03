@@ -31,3 +31,6 @@ Bacteria + Water = Contamination
 Afterlife + Water = River Styx
 Liquid + Water = Vodka
 Liquid + Water = Soda
+Solid + Water = Ice
+Telephone + Water = Dialysis
+Color + Water = Blue

@@ -10,3 +10,4 @@ Usages:
 =======
 Nature + Windflower = Anemone
 Dracula + Windflower = Bloodroot
+Windflower + Wreckage = Relic

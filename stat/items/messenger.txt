@@ -9,3 +9,4 @@ Hermes + Rescue Team = Messenger
 Usages:
 =======
 Flower + Messenger = Florist
+Messenger + Motorcycle = Delivery

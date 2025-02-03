@@ -9,3 +9,4 @@ Samsara + Wind = Cyclone
 Usages:
 =======
 Avatar + Cyclone = Aang
+Cyclone + Horoscope = Stormscope

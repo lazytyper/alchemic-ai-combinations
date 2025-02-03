@@ -9,3 +9,4 @@ Ambrosia + Cinder Track = Track Food
 Usages:
 =======
 Apple + Track Food = Nutrition
+Friday + Track Food = Foodie

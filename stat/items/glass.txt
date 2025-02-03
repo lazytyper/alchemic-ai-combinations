@@ -21,3 +21,4 @@ Genie + Glass = Bottle
 Glass + House = Window
 Glass + Sculpture = Crystal
 Glass + Whiskey = Tumbler
+Glass + Sun = Sunglasses

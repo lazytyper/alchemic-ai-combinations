@@ -26,3 +26,4 @@ Florida + Masquerade = Mardi Gras
 City + Masquerade = Venice
 Dreamweaver + Masquerade = Illusionist
 Illusionist + Masquerade = Magician
+Masquerade + Spirit Flame = Ghost Fire

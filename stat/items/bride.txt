@@ -9,3 +9,4 @@ Flower Girl + Rose = Bride
 Usages:
 =======
 Bride + Rose = Bridegroom
+Bride + Elixir Of Immortality = Wedding Cake

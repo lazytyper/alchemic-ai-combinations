@@ -5,6 +5,7 @@
 created by:
 ===========
 Creative Suite + Replica = Photoshop
+Editing + Image = Photoshop
 
 Usages:
 =======
@@ -12,3 +13,4 @@ Human + Photoshop = Digital Art
 Media Summit + Photoshop = Design Conference
 Disaster + Photoshop = Crisis Art
 Disaster + Photoshop = Fiasco
+Eco-Warrior + Photoshop = Eco-Artist

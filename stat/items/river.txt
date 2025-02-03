@@ -11,3 +11,6 @@ Usages:
 Animal + River = Otter
 Bird + Computer + River = Byte
 Egypt + River = Nile
+Chalk + River = Sediment
+Ferryman + River = Charon
+Charon + River = Styx

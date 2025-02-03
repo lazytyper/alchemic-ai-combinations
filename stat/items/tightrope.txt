@@ -9,3 +9,4 @@ Balance + Circus = Tightrope
 Usages:
 =======
 Human + Tightrope = Acrobat
+Smoke Signal + Tightrope = Balancing Act

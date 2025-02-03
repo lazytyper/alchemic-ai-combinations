@@ -1,0 +1,11 @@
+==================================
+= Crime
+==================================
+
+created by:
+===========
+City + Murder = Crime
+
+Usages:
+=======
+Crime + Fire Sky = Arsonist

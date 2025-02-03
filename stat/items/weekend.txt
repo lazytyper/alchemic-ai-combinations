@@ -11,3 +11,4 @@ Usages:
 Voyage + Weekend = Getaway
 Heart + Weekend = Lovefest
 Day + Weekend = Holiday
+Weekend + Wordplay = Pun-Derful

@@ -10,3 +10,4 @@ Jurassic Park + Rose = T-Rex
 Usages:
 =======
 Rose + T-Rex = Dinoflora
+Firedance + T-Rex = Dinosaur Dance

@@ -9,3 +9,4 @@ Biofireplace + Rose = Flower Pot
 Usages:
 =======
 Flower Pot + Rose = Plant
+Flower Pot + Steve Jobs = Apple Tree

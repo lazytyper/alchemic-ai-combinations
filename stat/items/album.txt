@@ -14,3 +14,6 @@ Album + Laptop + Photo = Slideshow
 Album + Computer + Photo = Photobook
 Album + Rose = Pink Floyd
 Album + Family = Portrait
+Album + Photography = Cover
+Album + Cover = Sleeve
+Album + Moonlight = Monitor

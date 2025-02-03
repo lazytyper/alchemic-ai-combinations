@@ -9,3 +9,4 @@ Harvest + Machine = Combine Harvester
 Usages:
 =======
 Combine Harvester + Replicant = Farm Bot
+Cheeseboard + Combine Harvester + Floribunda + Kelpie = Farmstead

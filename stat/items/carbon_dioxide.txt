@@ -11,3 +11,4 @@ Usages:
 Carbon Dioxide + Fire = Carbon Monoxide
 Carbon Dioxide + Skycycle = Bicycle
 Carbon Dioxide + Genie = Carbonation
+Carbon Dioxide + Chemical Compound = Carbonic Acid

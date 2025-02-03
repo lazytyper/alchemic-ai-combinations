@@ -10,3 +10,4 @@ Usages:
 =======
 Elixir Of Immortality + Human = Philosopher's Stone
 Electrolyte + Elixir Of Immortality = Life Potion
+Bride + Elixir Of Immortality = Wedding Cake

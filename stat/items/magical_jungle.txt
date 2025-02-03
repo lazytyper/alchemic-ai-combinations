@@ -10,3 +10,4 @@ Usages:
 =======
 Flower + Magical Jungle = Fairy Garden
 Magical Jungle + Rose = Enchanted Garden
+Honeyrose + Magical Jungle = Honeydew

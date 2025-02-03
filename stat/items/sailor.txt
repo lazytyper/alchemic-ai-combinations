@@ -5,7 +5,10 @@
 created by:
 ===========
 Mariner + Ship = Sailor
+Tattoo + Worker = Sailor
 
 Usages:
 =======
 Rose + Sailor = Tattoo
+Comic Book + Sailor = Popeye
+Partner + Sailor = Shipmate

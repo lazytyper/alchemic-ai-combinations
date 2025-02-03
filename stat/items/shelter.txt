@@ -1,0 +1,11 @@
+==================================
+= Shelter
+==================================
+
+created by:
+===========
+Emergency + House = Shelter
+
+Usages:
+=======
+Shelter + Sun = Shade

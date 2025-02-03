@@ -13,3 +13,4 @@ Apocalypse + Champion = Apocalypso
 Champion + Romanticism = Heroism
 Champion + Dartboard = Bullseye
 Bullseye + Champion = Archer
+Champion + Champion + Champion + Champion = Quartet

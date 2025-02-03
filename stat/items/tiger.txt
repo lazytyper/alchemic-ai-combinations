@@ -9,3 +9,4 @@ Animal + Jungle = Tiger
 Usages:
 =======
 City + Tiger = Detroit
+Tiger + Townhouse = Tigertown

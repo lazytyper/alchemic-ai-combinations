@@ -1,0 +1,11 @@
+==================================
+= Paint
+==================================
+
+created by:
+===========
+Pigment + Pigment = Paint
+
+Usages:
+=======
+Liquid + Paint = Color

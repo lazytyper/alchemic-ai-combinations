@@ -9,3 +9,5 @@ Photo + Rose = Photograph
 Usages:
 =======
 Photograph + Pollen = Photo-Reactive
+Computer + Photograph = Digital
+Binary + Photograph = Pixel

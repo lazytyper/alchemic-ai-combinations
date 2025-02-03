@@ -1,0 +1,11 @@
+==================================
+= Chessmaster
+==================================
+
+created by:
+===========
+Chess + Matchmaker = Chessmaster
+
+Usages:
+=======
+Chessmaster + Woodstock = Peaceful Strategy

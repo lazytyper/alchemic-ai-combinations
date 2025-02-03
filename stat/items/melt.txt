@@ -12,3 +12,4 @@ Melt + Rose = Melrose
 Melt + Melt + Melt = Slug
 Melt + Melt + Melt = Puddle
 Melt + Melt + Melt + Melt = Liquid
+Melt + Solid = Slush

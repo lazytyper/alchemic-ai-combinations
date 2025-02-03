@@ -9,3 +9,5 @@ City + Yacht = Marina
 Usages:
 =======
 City + Marina = Harbour
+Marina + Rebecca = Marinara
+Hillary + Marina = Clinton

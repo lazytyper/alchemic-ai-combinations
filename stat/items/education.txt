@@ -10,3 +10,4 @@ Childhood + School = Education
 Usages:
 =======
 City + Education = School District
+Education + Telephone = Tele-Education

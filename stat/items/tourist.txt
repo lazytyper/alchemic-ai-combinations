@@ -13,3 +13,5 @@ Jungle + Tourist = Ecotourism
 Tourist + Tourist = Sightseeing
 Car + Tourist = Road Trip
 Safari + Tourist = Adventure
+Frog Farm + Tourist = Frogurt
+Time + Tourist = Traveler

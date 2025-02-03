@@ -9,3 +9,4 @@ Honeycomb + Rose = Honeyrose
 Usages:
 =======
 Honeyrose + Rose = Honeysuckle
+Honeyrose + Magical Jungle = Honeydew

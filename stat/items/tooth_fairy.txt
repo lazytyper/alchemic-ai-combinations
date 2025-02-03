@@ -9,3 +9,4 @@ Fairy Ring + Teeth = Tooth Fairy
 Usages:
 =======
 Elements + Tooth Fairy = Tooth Mouse
+Juice + Tooth Fairy = Dentist

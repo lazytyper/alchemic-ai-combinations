@@ -11,3 +11,4 @@ Usages:
 Human + Jobs = Worker
 Apple + Jobs = Iphone
 Jobs + Worker = Employment
+Internet + Jobs = Gig Economy

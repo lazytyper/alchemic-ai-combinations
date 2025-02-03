@@ -13,3 +13,4 @@ Pressure + Wheat = Flour
 Pressure + Sunflower = Oil
 Orange + Pressure = Juice
 Bunch + Pressure = Bunching
+Pressure + Strawberry = Jam

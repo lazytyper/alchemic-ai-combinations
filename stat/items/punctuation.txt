@@ -9,3 +9,4 @@ Chance + Wordplay = Punctuation
 Usages:
 =======
 Flower + Punctuation = Flourish
+Midnight + Punctuation = Semicolon

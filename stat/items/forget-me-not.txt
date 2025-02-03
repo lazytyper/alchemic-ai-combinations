@@ -9,3 +9,4 @@ Amnesia + Rose = Forget-Me-Not
 Usages:
 =======
 Forget-Me-Not + Rose = Roseofsharon
+Forget-Me-Not + Potion Master = Memory Elixir

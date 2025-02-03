@@ -13,3 +13,4 @@ Knife + Stone = Sharpener
 Knife + Knife = Dagger
 Knife + Sharpener = Edge
 Knife + Slice = Slicer
+Knife + Turbine = Cutting Edge

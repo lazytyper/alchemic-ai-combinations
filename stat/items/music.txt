@@ -9,3 +9,4 @@ Noise + Rose = Music
 Usages:
 =======
 Music + Rose = Serenade
+Boat + Music = Ferryman

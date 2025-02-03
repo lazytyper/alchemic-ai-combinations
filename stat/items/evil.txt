@@ -14,3 +14,4 @@ Evil + Love = Hate
 Evil + Firebender = Firelord
 Animation + Evil = Maleficent
 Evil + Human = Villain
+Evil + Hive Mind = Antithesis

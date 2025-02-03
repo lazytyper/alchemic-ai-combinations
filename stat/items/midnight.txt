@@ -9,3 +9,4 @@ Night + Sky = Midnight
 Usages:
 =======
 Midnight + Sky = Nighttime
+Midnight + Punctuation = Semicolon

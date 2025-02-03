@@ -37,3 +37,5 @@ Album + Computer + Photo = Photobook
 Camera + Computer = Webcam
 Camera + Computer = Photo
 City + Computer = Silicon Valley
+Computer + Photography = Editing
+Computer + Photograph = Digital

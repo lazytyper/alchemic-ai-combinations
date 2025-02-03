@@ -10,3 +10,4 @@ Usages:
 =======
 Navigator + Rose = Compass
 Navigator + Photobook = Travelogue
+Gemstone + Navigator = Star Map

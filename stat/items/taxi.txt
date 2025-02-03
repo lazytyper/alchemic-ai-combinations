@@ -10,3 +10,4 @@ Usages:
 =======
 Driver + Taxi = Ride Hailing
 Human + Taxi = Uber
+Hyperspace + Taxi = Zipline

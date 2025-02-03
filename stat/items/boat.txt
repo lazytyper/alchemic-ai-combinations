@@ -16,3 +16,5 @@ Boat + Bond = Boatman
 Boat + Boatman = Rower
 Boat + Rower = Rowboat
 Boat + Dream = Dreamboat
+Apple + Boat = Carmina
+Boat + Music = Ferryman

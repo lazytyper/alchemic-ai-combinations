@@ -9,3 +9,4 @@ Adventure + Yellowstone = Exploration
 Usages:
 =======
 Antidote + Exploration = Discovery
+Cloud + Exploration = Skydiving

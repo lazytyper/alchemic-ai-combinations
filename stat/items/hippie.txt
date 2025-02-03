@@ -12,3 +12,4 @@ Usages:
 Hippie + Rose = Flowerchild
 Hippie + Hippie + Hippie + Hippie = Flower Power
 City + Hippie = Commune
+Hippie + Queen = Flower Power

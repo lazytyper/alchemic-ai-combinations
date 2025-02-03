@@ -9,3 +9,4 @@ History + Washington = America
 Usages:
 =======
 America + Captain = Steve Rogers
+America + America + America + America = Usa

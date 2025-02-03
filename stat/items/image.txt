@@ -1,0 +1,13 @@
+==================================
+= Image
+==================================
+
+created by:
+===========
+Pixel + Pixel = Image
+
+Usages:
+=======
+Image + Image + Image + Image = Collage
+Collage + Image = Mosaic
+Editing + Image = Photoshop

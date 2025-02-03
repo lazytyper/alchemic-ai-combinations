@@ -11,3 +11,4 @@ Usages:
 Desentization + Kaiju = Monster Suit
 Ashes + Kaiju + Mountaineer + Salamander = Fire Giant
 Kaiju + Rose = Monster Flower
+Ectoplasm + Kaiju = Ghostzilla

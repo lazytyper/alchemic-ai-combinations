@@ -48,3 +48,4 @@ Hanami + Time = Sakura
 Rose + Time = Hourglass
 Rose + Time = Clock
 Fever + Time = Illness
+Time + Tourist = Traveler

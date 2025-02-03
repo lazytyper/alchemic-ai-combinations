@@ -15,3 +15,4 @@ Desert + Tree = Oasis
 Forest + Tree = Woodland
 Fire + Tree = Ash
 Sakura + Tree = Cherry Blossom
+Material + Tree = Wood

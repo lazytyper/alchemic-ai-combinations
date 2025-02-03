@@ -24,3 +24,5 @@ Beehive + Queen = Hive
 Partner + Queen = King
 Knight + Queen = Chess
 Queen + Rose = Elizabeth
+Hippie + Queen = Flower Power
+Jailhouse Rock + Queen = Rock Royalty

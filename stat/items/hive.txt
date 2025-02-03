@@ -9,3 +9,4 @@ Beehive + Queen = Hive
 Usages:
 =======
 Amphora + Hive = Honey Jar
+Hive + Sky Pirate = Cloud Castle

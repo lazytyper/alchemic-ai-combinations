@@ -9,3 +9,4 @@ Love + Playhouse = Playdate
 Usages:
 =======
 Matchmaker + Playdate = Party
+Lipstick + Playdate = Makeup Party

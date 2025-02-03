@@ -9,3 +9,4 @@ Dragon Cult + Dragon Energy = Dragon Worship
 Usages:
 =======
 Dragon Worship + Rose = Dragonflower
+Dragon Worship + Fire Sky = Fire Dragon

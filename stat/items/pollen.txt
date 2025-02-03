@@ -16,3 +16,4 @@ Pollen + Woodstock = Flower Power
 Heat + Pollen = Fever
 Photograph + Pollen = Photo-Reactive
 Pollen + Sacrifice = Flowers
+Pigment + Pollen = Paintbrush

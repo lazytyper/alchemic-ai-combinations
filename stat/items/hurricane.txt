@@ -13,3 +13,4 @@ Ecosystem + Hurricane = Disaster
 Hard Place + Hurricane = Disaster
 Heaven + Hurricane = Windsong
 Hurricane + Vase = Windbreak
+Hope + Hurricane = Stormbreak

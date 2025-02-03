@@ -9,3 +9,4 @@ Fever + Time = Illness
 Usages:
 =======
 Human + Illness = Patient
+Comet + Illness = Pestis

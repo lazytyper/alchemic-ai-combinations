@@ -9,3 +9,4 @@ Queen + Rose = Elizabeth
 Usages:
 =======
 Elizabeth + Rose = Queen
+Elizabeth + Rosendale = Historic Town

@@ -12,3 +12,4 @@ Usages:
 Ballad + Rockstar = Songwriter
 Ballad + Musician = Singer
 Ballad + Submarine = Sonar
+Ballad + Mistress = Love Song

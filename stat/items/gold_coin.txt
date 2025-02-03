@@ -1,0 +1,11 @@
+==================================
+= Gold Coin
+==================================
+
+created by:
+===========
+Material + Pot Of Gold = Gold Coin
+
+Usages:
+=======
+Gold Coin + Material = Treasure Map

@@ -1,0 +1,18 @@
+==================================
+= Radioactivity
+==================================
+
+created by:
+===========
+Contamination + Lightning = Radioactivity
+
+Usages:
+=======
+Frogurt + Radioactivity = Mutant Frog
+Dilemma + Radioactivity = Hazard
+Hazard + Radioactivity = Nuclear Risk
+House + Radioactivity = Half-Life
+Human + Radioactivity = Mutation
+History + Radioactivity = Radiocarbon
+Radioactivity + Scientist = Radiation
+Radioactivity + Science = Nuclear

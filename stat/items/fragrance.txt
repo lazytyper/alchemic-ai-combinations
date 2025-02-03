@@ -11,3 +11,4 @@ Usages:
 =======
 Fragrance + Smoke = Incence
 Caramel + Fragrance = Caramella
+Flamekeeper + Fragrance = Candlesmith

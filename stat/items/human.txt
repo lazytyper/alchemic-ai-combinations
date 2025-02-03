@@ -146,3 +146,6 @@ Human + Rome = Caesar
 Human + Illness = Patient
 Drunkenness + Human = Alcoholic
 Alcoholic + Human = Drunkard
+Human + Microscope = Scientist
+Human + Sleeve = Arm
+Human + Radioactivity = Mutation

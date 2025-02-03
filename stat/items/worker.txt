@@ -13,3 +13,4 @@ Jobs + Worker = Employment
 Worker + Worker = Employee
 Clinic + Worker = Healthcare
 Healthcare + Worker = Nurse
+Tattoo + Worker = Sailor

@@ -1,0 +1,16 @@
+==================================
+= Material
+==================================
+
+created by:
+===========
+Matter + Substance = Material
+
+Usages:
+=======
+Material + Tree = Wood
+Material + Pot Of Gold = Gold Coin
+Gold Coin + Material = Treasure Map
+Liquid + Material = Metal Alloy
+Material + Material = Metal Alloy
+Material + Tablecloth = Covering

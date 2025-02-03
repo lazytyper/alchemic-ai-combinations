@@ -10,3 +10,4 @@ Usages:
 =======
 Binary System + Binary System = Dual System
 Binary System + Fireplace = Computer
+Binary System + Camera = Digital Image

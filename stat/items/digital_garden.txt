@@ -9,3 +9,4 @@ Flower + Technology = Digital Garden
 Usages:
 =======
 Digital Garden + Rose = Cyberflora
+Digital Garden + Greenhouse = Smart Farm

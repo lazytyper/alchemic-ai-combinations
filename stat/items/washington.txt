@@ -13,3 +13,5 @@ Human + Washington = President
 President + Washington = Obama
 City + Washington = Seattle
 History + Washington = America
+History + Washington = American Revolution
+Lincoln + Washington = Dollar

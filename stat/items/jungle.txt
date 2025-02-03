@@ -23,3 +23,4 @@ Jungle + Safari = Wilderness
 Dreaminess + Jungle = Dreamscapes
 Jungle + Tourist = Ecotourism
 Jungle + Rose = Orchid
+Faux Pas + Jungle = Social Survival

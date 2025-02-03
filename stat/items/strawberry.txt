@@ -9,3 +9,4 @@ Rose + Smoothie = Strawberry
 Usages:
 =======
 City + Strawberry = Shortcake
+Pressure + Strawberry = Jam

@@ -27,3 +27,4 @@ Dual System + Woodstock = Counterculture
 Rose + Woodstock = Flower Power
 Flower + Woodstock = Hippie
 Flower + Woodstock = Peace
+Chessmaster + Woodstock = Peaceful Strategy

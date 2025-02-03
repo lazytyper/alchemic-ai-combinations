@@ -14,3 +14,4 @@ Dice + Hope = Chance
 Hope + Timeworn = Nostalgia
 Hope + Merman = Dreamer
 Hope + Rose = Optimism
+Hope + Hurricane = Stormbreak

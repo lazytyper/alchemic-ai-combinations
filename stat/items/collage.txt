@@ -1,0 +1,11 @@
+==================================
+= Collage
+==================================
+
+created by:
+===========
+Image + Image + Image + Image = Collage
+
+Usages:
+=======
+Collage + Image = Mosaic

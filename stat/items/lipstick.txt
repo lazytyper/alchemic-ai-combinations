@@ -9,3 +9,4 @@ Lip Gloss + Rose = Lipstick
 Usages:
 =======
 Lipstick + Rose = Lip Balm
+Lipstick + Playdate = Makeup Party

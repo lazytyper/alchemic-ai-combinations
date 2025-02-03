@@ -12,3 +12,4 @@ Sherpa + Sherpa = Mountaineer
 Sherpa + Stone = Mountain Guide
 Religion + Sherpa = Spiritual Guide
 Agrarian + Sherpa = Farm Guide
+Sherpa + Wood = Lumberjack

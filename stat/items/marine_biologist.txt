@@ -10,3 +10,4 @@ Usages:
 =======
 Atlantis + Marine Biologist = Lost City
 Jungle Tribe + Marine Biologist = Oceanographer
+Garden Fairy + Marine Biologist = Ocean Nymph

@@ -11,3 +11,4 @@ Usages:
 =======
 Rose + Tattoo = Ink
 City + Tattoo = Incognito
+Tattoo + Worker = Sailor

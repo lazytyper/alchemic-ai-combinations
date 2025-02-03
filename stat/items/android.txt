@@ -9,3 +9,4 @@ Love + Robot = Android
 Usages:
 =======
 Android + Star Trek = Data
+Android + Romantic Stroll = Cyber Love
