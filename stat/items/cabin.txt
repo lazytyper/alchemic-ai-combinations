@@ -1,0 +1,11 @@
+==================================
+= Cabin
+==================================
+
+created by:
+===========
+Hut + Hut = Cabin
+
+Usages:
+=======
+Cabin + Stargazing = Observatory

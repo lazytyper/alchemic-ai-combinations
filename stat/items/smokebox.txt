@@ -1,0 +1,11 @@
+==================================
+= Smokebox
+==================================
+
+created by:
+===========
+Duplex + Smoke = Smokebox
+
+Usages:
+=======
+Brick + Smokebox = Locomotive

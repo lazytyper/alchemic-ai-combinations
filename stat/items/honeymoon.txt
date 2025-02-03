@@ -9,3 +9,4 @@ Island + Love = Honeymoon
 Usages:
 =======
 Honeymoon + Serenity = Bliss
+Honeymoon + Yacht = Cruise

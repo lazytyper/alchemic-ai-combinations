@@ -24,3 +24,4 @@ Agriculture + Volcano = Fertile Soil
 Nature Worship + Volcano = Pele
 City + Volcano = Pompeji
 Dirt + Volcano = Mudflow
+Smartphone + Volcano = Eruption Alert

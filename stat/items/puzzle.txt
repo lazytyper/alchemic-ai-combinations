@@ -10,3 +10,4 @@ Usages:
 =======
 Poet + Puzzle = Riddle
 Puzzle + Sentence = Wordplay
+Beach + Puzzle = Sandcastle

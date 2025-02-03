@@ -12,3 +12,4 @@ Air Quality + Tsunami = Disaster
 Air Quality + Tragic Romance = Love Story
 Air Quality + E-Bike = Clean Transport
 Air Quality + Rose = Pollen Allergies
+Air Quality + Firelight = Smoky Ambiance

@@ -9,3 +9,4 @@ Barn + House = Farmhouse
 Usages:
 =======
 Farmhouse + Life = Rural Living
+Farmhouse + Fire Performer = Barnstormer

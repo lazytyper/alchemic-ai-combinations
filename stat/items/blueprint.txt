@@ -10,3 +10,4 @@ Usages:
 =======
 Blueprint + Science = Technology
 Blueprint + Rose = Bluebook
+Blueprint + Pokemon = Porygon

@@ -9,3 +9,4 @@ Ranger + Silk Flower = Spycam
 Usages:
 =======
 Human + Spycam = Surveillance
+Spycam + Steel = Stealth

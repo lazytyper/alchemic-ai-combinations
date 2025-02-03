@@ -9,3 +9,4 @@ Butterfly + Love = Flutter Heart
 Usages:
 =======
 Flutter Heart + Replica = Love Token
+Flutter Heart + Jack = Jackpot

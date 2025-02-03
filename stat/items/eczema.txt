@@ -9,3 +9,4 @@ Rash + Rose = Eczema
 Usages:
 =======
 Eczema + Rose = Rosacea
+Eczema + Rosarian = Dermatology

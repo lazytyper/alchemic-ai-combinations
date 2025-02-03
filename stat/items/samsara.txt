@@ -12,3 +12,4 @@ Samsara + Wind = Cyclone
 Samsara + Wind = Prayer Flag
 Monarch + Samsara = Reincarnation
 Dust + Samsara = Reincarnation
+Cosplay + Samsara = Redundancy

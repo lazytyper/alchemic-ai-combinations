@@ -9,3 +9,4 @@ Contemplation + Milky Way = Stargazing
 Usages:
 =======
 Stargazing + Universe = Astronomy
+Cabin + Stargazing = Observatory

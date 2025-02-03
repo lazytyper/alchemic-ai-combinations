@@ -9,3 +9,4 @@ Queen + Queen = Royal Couple
 Usages:
 =======
 Rose + Royal Couple = Duchess
+Groove + Royal Couple = Duke Ellington

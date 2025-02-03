@@ -10,3 +10,4 @@ Usages:
 =======
 Rose + Tiki Torch = Torchbearer
 City + Tiki Torch = Tiki Bar
+Green Thumb + Tiki Torch = Garden Party

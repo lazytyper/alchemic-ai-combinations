@@ -9,3 +9,4 @@ Athlete + Heaven = Olympian
 Usages:
 =======
 Olympian + Olympian + Olympian + Olympian = Quartet
+Olympian + Spacewalk = Moonwalk

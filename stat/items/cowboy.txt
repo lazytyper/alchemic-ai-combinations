@@ -10,3 +10,4 @@ Usages:
 =======
 Cowboy + Rose = Cowgirl
 Cowboy + Song = Country Music
+Cowboy + Smells = Cattle

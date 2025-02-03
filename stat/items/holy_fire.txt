@@ -9,3 +9,4 @@ Eternal Flame + Religion = Holy Fire
 Usages:
 =======
 Holy Fire + Passion = Divine Flame
+Holy Fire + Satanism = Divine Conflict

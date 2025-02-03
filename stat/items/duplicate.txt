@@ -13,3 +13,4 @@ Duplicate + Rock = Gemstone
 Duplicate + Farming = Cloning
 Duplicate + Mars = Twin
 Duplicate + Rose = Clone
+Caramel + Duplicate = Caramelize

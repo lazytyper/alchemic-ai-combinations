@@ -10,3 +10,4 @@ Usages:
 =======
 Alloy + Alloy = Steel
 Alloy + Rose = Bronze
+Alloy + Vodka = Bemol

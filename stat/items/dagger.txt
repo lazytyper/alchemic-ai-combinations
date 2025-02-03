@@ -9,3 +9,4 @@ Knife + Knife = Dagger
 Usages:
 =======
 Dagger + Survivor = Swordsman
+Dagger + Moonwalker = Moonblade

@@ -12,3 +12,4 @@ Blue Planet + Water = Earth
 Blue Planet + Fire = Muad'dib
 Blue Planet + Race = Earthrace
 Blue Planet + Degradation = Earth Crisis
+Blue Planet + Toddler = Earthling

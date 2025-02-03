@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Vital Fluid = Blood
 Rose + Vital Fluid = Lifebloom
+Exhibition + Vital Fluid = Blood Art

@@ -9,3 +9,5 @@ Baby + Growth = Toddler
 Usages:
 =======
 Starship + Toddler = Space Explorer
+Blue Planet + Toddler = Earthling
+Fossil + Toddler = Paleontologist

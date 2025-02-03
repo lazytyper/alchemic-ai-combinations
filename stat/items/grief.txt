@@ -11,3 +11,4 @@ Usages:
 Grief + Rose = Mourning
 Grief + Rose = Despair
 Grief + Rose = Bittersweet
+Grief + Hell = Sorrow

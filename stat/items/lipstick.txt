@@ -10,3 +10,4 @@ Usages:
 =======
 Lipstick + Rose = Lip Balm
 Lipstick + Playdate = Makeup Party
+Lipstick + Pictorial = Lip Art

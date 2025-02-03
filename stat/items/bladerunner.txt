@@ -10,3 +10,4 @@ Usages:
 =======
 Anarchy + Bladerunner = Cyberpunk
 Bladerunner + Spellcasting = Cyber Wizard
+Amsterdam + Bladerunner = Neon City

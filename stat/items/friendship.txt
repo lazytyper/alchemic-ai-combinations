@@ -9,3 +9,4 @@ Rose + Togetherness = Friendship
 Usages:
 =======
 Bond + Friendship = Camaraderie
+Friendship + Infant = Bromance

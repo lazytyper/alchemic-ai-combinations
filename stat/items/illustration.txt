@@ -10,3 +10,4 @@ Usages:
 =======
 Illustration + Robinhood = Cartoon
 Home + Illustration = Blueprint
+Arsonist + Illustration = Fire Art

@@ -9,3 +9,4 @@ Flower + Result Beverly Hills = Rosewood
 Usages:
 =======
 Fireplace + Rosewood = Woodstove
+Devil's Garden + Rosewood = Harsh Beauty

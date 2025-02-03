@@ -9,3 +9,4 @@ City + Strawberry = Shortcake
 Usages:
 =======
 Animatron + Shortcake = Animatronic
+Football + Shortcake = Fruitcake

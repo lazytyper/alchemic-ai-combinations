@@ -9,3 +9,4 @@ Jungle + Tourist = Ecotourism
 Usages:
 =======
 Ecotourism + Rose = Sustainable Garden
+Ecotourism + Superhero = Ecohero

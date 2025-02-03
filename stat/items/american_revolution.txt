@@ -9,3 +9,4 @@ History + Washington = American Revolution
 Usages:
 =======
 American Revolution + President = George Washington
+American Revolution + Urban Apathy = Indifference

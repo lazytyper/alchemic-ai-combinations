@@ -9,3 +9,4 @@ Fertilizer + Song = Groove
 Usages:
 =======
 Groove + Song = Rhythm
+Groove + Royal Couple = Duke Ellington

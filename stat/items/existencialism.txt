@@ -11,3 +11,4 @@ Usages:
 Existencialism + Potion = Essentialism
 Existencialism + Fireplace = Hearthstone
 Existencialism + Rose = Absurdity
+Existencial Dread + Existencialism = Absurdism

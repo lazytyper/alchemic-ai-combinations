@@ -9,3 +9,4 @@ Peace + Yosemite = Tranquility
 Usages:
 =======
 Garden + Tranquility = Serene
+Tranquility + Wasteland = Desolation

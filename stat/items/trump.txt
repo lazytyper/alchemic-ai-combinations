@@ -9,3 +9,4 @@ Precious + President = Trump
 Usages:
 =======
 City + Trump = Tower
+Brooklyn + Trump = Trumpkin

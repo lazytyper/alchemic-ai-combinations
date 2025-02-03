@@ -9,3 +9,4 @@ Astronaut + Astronaut = Spacewalk
 Usages:
 =======
 Space + Spacewalk = Extravehicular
+Olympian + Spacewalk = Moonwalk

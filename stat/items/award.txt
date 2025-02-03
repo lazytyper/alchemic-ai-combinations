@@ -12,3 +12,4 @@ Award + Musician = Grammy
 Award + Robin Williams = Oscar
 Award + Hollywood = Oscar
 Award + Pokemon = Ash Ketchu
+Award + Mosaic = Trophy

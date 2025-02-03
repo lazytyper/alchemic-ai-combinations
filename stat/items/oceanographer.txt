@@ -9,3 +9,4 @@ Jungle Tribe + Marine Biologist = Oceanographer
 Usages:
 =======
 Oceanographer + Rose = Coral
+Oceanographer + Yacht = Yachtmaster

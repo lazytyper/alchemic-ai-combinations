@@ -11,3 +11,4 @@ Usages:
 Star Trek + Theme Park = Starfleet Academy
 Robot + Star Trek = Borg
 Android + Star Trek = Data
+Mystery + Star Trek = Sci-Fi

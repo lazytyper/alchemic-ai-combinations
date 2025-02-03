@@ -9,3 +9,4 @@ Island + Jungle = Lost
 Usages:
 =======
 Blade + Lost = Bladeless
+Capricorn + Lost = Goalkeeper

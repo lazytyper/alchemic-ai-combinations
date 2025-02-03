@@ -10,3 +10,4 @@ Usages:
 =======
 Alpha + Poetry = Alphabet
 Alpha + Alphabet = Letter
+Alpha + Sustainable Paradise = Eco Utopia

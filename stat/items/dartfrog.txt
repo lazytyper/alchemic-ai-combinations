@@ -9,3 +9,4 @@ Arrow + Frog = Dartfrog
 Usages:
 =======
 Aurora Borealis + Dartfrog = Rainbow Frog
+Dartfrog + Team Spirit = Cheerleader

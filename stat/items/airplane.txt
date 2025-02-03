@@ -11,3 +11,4 @@ Usages:
 =======
 Airplane + Disaster = Crash
 Airplane + Gravekeeper = Sky Burial
+Airplane + Quarantine = Flyover

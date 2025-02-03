@@ -1,0 +1,11 @@
+==================================
+= Jeweler
+==================================
+
+created by:
+===========
+Goldsmith + Goldsmith = Jeweler
+
+Usages:
+=======
+Healer + Jeweler = Gemsmith

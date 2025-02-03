@@ -10,3 +10,4 @@ Usages:
 =======
 Superhero + Universe = Marvel
 Strongman + Superhero = Powerhouse
+Ecotourism + Superhero = Ecohero

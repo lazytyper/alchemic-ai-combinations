@@ -9,3 +9,4 @@ Mortar + Pestle = Grindstone
 Usages:
 =======
 Grindstone + Tiki Bar = Hurricane Cocktail
+Fire King + Grindstone = Firestone

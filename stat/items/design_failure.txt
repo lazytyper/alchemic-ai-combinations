@@ -11,3 +11,4 @@ Usages:
 Design Failure + Mirror = Reflection Error
 Design Failure + Treasure = Found Object
 Ceramics + Design Failure = Mugshot
+Design Failure + Timekeeper = Watchdog

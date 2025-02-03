@@ -9,3 +9,4 @@ Goat + Ibex = Capricorn
 Usages:
 =======
 Capricorn + Fireplace = Stoked
+Capricorn + Lost = Goalkeeper

@@ -9,3 +9,4 @@ Fire Magic + Witch = Firewitch
 Usages:
 =======
 Firewitch + Solar System = Star Mage
+Firewitch + Lampshade = Lightbringer

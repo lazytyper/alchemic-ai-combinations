@@ -9,3 +9,4 @@ Conflict + Society = Strife
 Usages:
 =======
 Magic Spell + Strife = Hexagon
+Carmina + Strife = Carmenere

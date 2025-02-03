@@ -10,3 +10,4 @@ Usages:
 =======
 Bribery + Moral Ambiguity = Political Corruption
 Moral Ambiguity + Wildfire = Forest Fire
+Germination + Moral Ambiguity = Ethical Growth

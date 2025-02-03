@@ -11,3 +11,4 @@ Usages:
 Blade + Steel = Sword
 Steel + Steel = Adamantine
 House + Steel = Building
+Spycam + Steel = Stealth

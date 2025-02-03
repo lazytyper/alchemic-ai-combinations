@@ -9,3 +9,4 @@ National Park + Sun = Hiking
 Usages:
 =======
 Hiking + Rose = Montrose
+Hiking + Pudding Lane = Conundrum

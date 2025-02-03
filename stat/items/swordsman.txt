@@ -9,3 +9,4 @@ Dagger + Survivor = Swordsman
 Usages:
 =======
 Fireplace + Swordsman = Flameblade
+Sky Pirate + Swordsman = Skywalker

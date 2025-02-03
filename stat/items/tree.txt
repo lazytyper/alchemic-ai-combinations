@@ -5,6 +5,7 @@
 created by:
 ===========
 Plant + Plant = Tree
+Life + Wood = Tree
 
 Usages:
 =======

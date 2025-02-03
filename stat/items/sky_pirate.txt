@@ -9,3 +9,4 @@ Airship + Venom = Sky Pirate
 Usages:
 =======
 Hive + Sky Pirate = Cloud Castle
+Sky Pirate + Swordsman = Skywalker

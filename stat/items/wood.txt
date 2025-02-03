@@ -11,3 +11,4 @@ Usages:
 Wood + Wood = Plywood
 Wood + Wood + Wood + Wood = Table
 Sherpa + Wood = Lumberjack
+Life + Wood = Tree

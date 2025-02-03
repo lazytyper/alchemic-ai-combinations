@@ -9,3 +9,4 @@ Motorcycle + Rose = Motorcyclist
 Usages:
 =======
 Motorcyclist + Rose = Velocipede
+Motorcyclist + Paris = Biker Chic

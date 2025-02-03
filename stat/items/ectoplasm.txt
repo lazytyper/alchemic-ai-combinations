@@ -9,3 +9,4 @@ Ghost + Ghostbuster = Ectoplasm
 Usages:
 =======
 Ectoplasm + Kaiju = Ghostzilla
+Beach Party + Ectoplasm = Ghost Beach

@@ -58,3 +58,4 @@ Fog + Life = Mistake
 Life + Mushroom = Mario
 Life + Rain = Growth
 City + Life = Urbanization
+Life + Wood = Tree

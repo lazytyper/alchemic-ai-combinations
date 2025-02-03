@@ -9,3 +9,4 @@ America + America + America + America = Usa
 Usages:
 =======
 President + Usa = Biden
+Trophy + Usa = Championship

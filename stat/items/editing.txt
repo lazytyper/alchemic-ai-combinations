@@ -9,3 +9,4 @@ Computer + Photography = Editing
 Usages:
 =======
 Editing + Image = Photoshop
+Adventurer + Editing = Editor

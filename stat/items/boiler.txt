@@ -10,3 +10,4 @@ Usages:
 =======
 Boiler + Steam = Engine
 Boiler + Fireplace = Heating
+Boiler + Duplicates = Boilermaker

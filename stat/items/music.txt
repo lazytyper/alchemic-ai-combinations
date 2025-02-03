@@ -10,3 +10,4 @@ Usages:
 =======
 Music + Rose = Serenade
 Boat + Music = Ferryman
+Music + Ruby = Garnet

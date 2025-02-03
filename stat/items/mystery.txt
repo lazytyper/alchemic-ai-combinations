@@ -9,3 +9,4 @@ Mist + Park = Mystery
 Usages:
 =======
 Mystery + Rose = Enigma
+Mystery + Star Trek = Sci-Fi

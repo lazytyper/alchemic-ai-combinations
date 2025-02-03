@@ -13,3 +13,5 @@ Anarchy + Civil Rights = Libertarianism
 Civil Rights + Jungle Tribe = Freedom Fighters
 Civil Rights + Night = Freedom Song
 Animal + Civil Rights = Activist
+Civil Rights + Panic = Freedom March
+Civil Rights + Starfleet = Equality Federation

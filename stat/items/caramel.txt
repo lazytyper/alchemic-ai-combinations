@@ -11,3 +11,4 @@ Usages:
 Caramel + Caramel = Toffee
 Caramel + Fragrance = Caramella
 Apple + Caramel = Candy
+Caramel + Duplicate = Caramelize

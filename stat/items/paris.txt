@@ -11,3 +11,4 @@ City + Love = Paris
 Usages:
 =======
 Monument + Paris = Eiffel Tower
+Motorcyclist + Paris = Biker Chic

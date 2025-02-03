@@ -17,3 +17,4 @@ Camera + Smartphone = Phonecam
 Camera + Smartphone = Phoneography
 Camera + Camera + Camera + Camera = Quadruple
 Camera + Photography = Image Capture
+Camera + Photo = Picture

@@ -9,3 +9,4 @@ Dragonair + Renewable Energy = Dragon Energy
 Usages:
 =======
 Dragon Cult + Dragon Energy = Dragon Worship
+Dragon Energy + Nuclear = Dragon Power

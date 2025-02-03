@@ -9,3 +9,5 @@ Arrow + Legend = Robinhood
 Usages:
 =======
 Illustration + Robinhood = Cartoon
+Chronomancy + Robinhood = Time Thief
+Pruner + Robinhood = Treehugger
