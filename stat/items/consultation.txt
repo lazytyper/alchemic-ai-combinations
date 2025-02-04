@@ -1,0 +1,11 @@
+==================================
+= Consultation
+==================================
+
+created by:
+===========
+Dermatology + Room = Consultation
+
+Usages:
+=======
+Consultation + Pioneer = Advisory

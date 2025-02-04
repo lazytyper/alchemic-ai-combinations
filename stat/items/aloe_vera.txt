@@ -10,3 +10,4 @@ Usages:
 =======
 Aloe Vera + Rose = Lotion
 Aloe Vera + Rose = Skin Elixir
+Aloe Vera + Pioneer = Skin Care

@@ -9,3 +9,4 @@ Hazard + She-Hulk = Hulkbuster
 Usages:
 =======
 Hulkbuster + Room = Battle Arena
+Hulkbuster + Pioneer = Iron Man

@@ -9,3 +9,4 @@ Dinosaur + Hell = Tyrannosaurus
 Usages:
 =======
 Giant + Tyrannosaurus = Giantosaurus
+Giant + Tyrannosaurus = Gigantosaurus

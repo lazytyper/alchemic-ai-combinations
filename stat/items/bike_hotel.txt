@@ -1,0 +1,11 @@
+==================================
+= Bike Hotel
+==================================
+
+created by:
+===========
+Bicycle Tour + Room = Bike Hotel
+
+Usages:
+=======
+Bike Hotel + Pioneer = Bikepacker

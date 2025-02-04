@@ -9,3 +9,4 @@ Fruit + Fruit + Fruit + Fruit = Bunch
 Usages:
 =======
 Bunch + Pressure = Bunching
+Bunch + Masquerade = Crowd

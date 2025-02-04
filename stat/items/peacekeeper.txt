@@ -10,3 +10,4 @@ Usages:
 =======
 Peacekeeper + Tragicomedy = Dramedy
 Peacekeeper + Room = Safe Space
+Masquerade + Peacekeeper = Diplomat

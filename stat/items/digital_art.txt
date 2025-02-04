@@ -11,3 +11,4 @@ Usages:
 Digital Art + Everest = Media Summit
 Digital Art + Human = Avatar
 Digital Art + Ocean = Seascape
+Digital Art + Pioneer = Picasso

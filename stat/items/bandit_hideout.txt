@@ -1,0 +1,11 @@
+==================================
+= Bandit Hideout
+==================================
+
+created by:
+===========
+Outlaw + Room = Bandit Hideout
+
+Usages:
+=======
+Bandit Hideout + Pioneer = Outlaw Camp

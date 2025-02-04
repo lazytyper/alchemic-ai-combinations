@@ -11,3 +11,4 @@ Usages:
 =======
 City + Oscar = Los Angeles
 Monster + Oscar = Sesame Street
+Oscar + Time = Wilde

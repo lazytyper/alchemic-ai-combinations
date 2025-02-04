@@ -9,3 +9,4 @@ Bottle + New York = Brooklyn
 Usages:
 =======
 Brooklyn + Trump = Trumpkin
+Brooklyn + Masquerade = Brooklynite

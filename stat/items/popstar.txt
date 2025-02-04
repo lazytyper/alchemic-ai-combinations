@@ -12,3 +12,4 @@ Usages:
 Popstar + Singer = Artist
 Popstar + Rose = Rihanna
 Glitter + Popstar = Glitterati
+Pioneer + Popstar = Icon

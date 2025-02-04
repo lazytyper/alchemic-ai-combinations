@@ -11,6 +11,7 @@ Usages:
 Giant + Monster = Behemoth
 Giant + Monster = Titan
 Giant + Tyrannosaurus = Giantosaurus
+Giant + Tyrannosaurus = Gigantosaurus
 Beijing + Giant = Panda
 Giant + Mailroom = Culinary
 Existence + Giant = Colossus

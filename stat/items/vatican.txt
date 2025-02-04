@@ -10,3 +10,4 @@ Usages:
 =======
 History + Vatican = Papal States
 Room + Vatican = Chapel
+Pioneer + Vatican = Pope

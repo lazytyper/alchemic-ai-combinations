@@ -9,3 +9,4 @@ Middle-Earth + Ring = Frodo
 Usages:
 =======
 Frodo + Ring = Gollum
+Frodo + Time = Hobbition

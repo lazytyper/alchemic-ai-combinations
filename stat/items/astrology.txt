@@ -11,3 +11,4 @@ Usages:
 Astrology + Venus = Horoscope
 Astrology + Twin = Gemini
 Aquarium + Astrology = Aquarius
+Astrology + Pioneer = Star Voyager

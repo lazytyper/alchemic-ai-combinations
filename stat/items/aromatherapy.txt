@@ -9,3 +9,4 @@ Rose + Rosemary = Aromatherapy
 Usages:
 =======
 Aromatherapy + Rose = Essential Oil
+Aromatherapy + Masquerade = Scented Mask

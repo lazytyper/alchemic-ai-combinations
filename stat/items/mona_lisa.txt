@@ -9,3 +9,4 @@ Human + Painting = Mona Lisa
 Usages:
 =======
 Mona Lisa + Rose = Lisa
+Mona Lisa + Time = Da Vinci

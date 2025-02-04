@@ -13,3 +13,4 @@ Corruption + Oceanic Paradise = Coral Reef
 Oceanic Paradise + Twilight = Coral Reef
 Fireball + Oceanic Paradise = Beach Party
 Oceanic Paradise + Roscato = Vacationland
+Oceanic Paradise + Pioneer = Blue Frontier

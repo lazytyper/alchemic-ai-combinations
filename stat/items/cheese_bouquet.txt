@@ -9,3 +9,4 @@ Flower + Quattro Formaggi = Cheese Bouquet
 Usages:
 =======
 Cheese Bouquet + Fireplace = Fondue
+Cheese Bouquet + Pioneer = Corporate Swindle

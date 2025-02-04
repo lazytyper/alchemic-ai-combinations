@@ -9,3 +9,5 @@ Gandalf + Habitat = Middle-Earth
 Usages:
 =======
 Middle-Earth + Ring = Frodo
+Middle-Earth + Pioneer = Hobbit
+Middle-Earth + Pioneer = Frontierland

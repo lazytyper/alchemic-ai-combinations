@@ -12,3 +12,4 @@ Life + Venus = Love
 Venus + Venus = Aphrodite
 Astrology + Venus = Horoscope
 Genie + Venus = Goddess
+Pioneer + Venus = Magellan

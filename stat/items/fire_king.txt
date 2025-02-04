@@ -10,3 +10,4 @@ Usages:
 =======
 Fire King + Rose = Roseburn
 Fire King + Grindstone = Firestone
+Fire King + Pioneer = Flame Trail

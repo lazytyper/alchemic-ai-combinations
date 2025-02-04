@@ -9,3 +9,4 @@ Sherpa + Wood = Lumberjack
 Usages:
 =======
 Lumberjack + Room = Log Cabin
+Lumberjack + Pioneer = Woodworker

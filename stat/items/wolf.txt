@@ -14,3 +14,4 @@ Grimm + Wolf = Wolfman
 Partner + Wolf = Pack
 Partner + Wolf = Werewolf
 Pack + Wolf = Alpha
+Pioneer + Wolf = Wolfgang

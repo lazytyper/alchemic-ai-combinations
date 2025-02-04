@@ -10,3 +10,4 @@ Usages:
 =======
 Rose + Style = Retrograde
 City + Style = Urban
+Pioneer + Style = Trendsetter

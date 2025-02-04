@@ -11,3 +11,4 @@ Usages:
 Memory + Memory = Recall
 Memory + Monster = Trauma
 Memory + Room = Mind Palace
+Memory + Pioneer = Memorandum

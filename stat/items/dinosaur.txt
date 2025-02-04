@@ -5,6 +5,7 @@
 created by:
 ===========
 Fossil + Fossil = Dinosaur
+Pioneer + Reptile = Dinosaur
 
 Usages:
 =======

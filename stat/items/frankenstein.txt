@@ -5,8 +5,10 @@
 created by:
 ===========
 Castle + Lightning = Frankenstein
+Monster + Pioneer = Frankenstein
 
 Usages:
 =======
 Animal + Frankenstein = Hybrid Animal
 Fireplace + Frankenstein = Frankenfire
+Frankenstein + Pioneer = Monster

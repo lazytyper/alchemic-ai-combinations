@@ -5,9 +5,11 @@
 created by:
 ===========
 Aquarium + Olympus = Poseidon
+Pioneer + Trident = Poseidon
 
 Usages:
 =======
 Poseidon + View = Ocean Vista
 Poseidon + Wall = Atlantis
 Neptune + Poseidon = Trident
+Pioneer + Poseidon = Ocean Explorer

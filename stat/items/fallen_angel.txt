@@ -9,3 +9,4 @@ Human + Sin = Fallen Angel
 Usages:
 =======
 Fallen Angel + Rose = Dark Beauty
+Fallen Angel + Pioneer = Lucifer

@@ -9,3 +9,4 @@ Clay + Geyser = Mudpot
 Usages:
 =======
 Mudpot + Sailing = Mudslide
+Mudpot + Pioneer = Geothermal

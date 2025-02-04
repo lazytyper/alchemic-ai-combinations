@@ -11,3 +11,4 @@ Usages:
 Gambling + Gemstone = Poker Chip
 Gemstone + Rose = Jadeite
 Gemstone + Navigator = Star Map
+Gemstone + Pioneer = Lapidary

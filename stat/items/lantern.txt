@@ -9,3 +9,4 @@ Bonfire + Glass = Lantern
 Usages:
 =======
 Lantern + Room = Light
+Lantern + Pioneer = Lightbearer

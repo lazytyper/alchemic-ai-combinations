@@ -1,0 +1,11 @@
+==================================
+= Meeting Space
+==================================
+
+created by:
+===========
+Design Conference + Room = Meeting Space
+
+Usages:
+=======
+Meeting Space + Pioneer = Coworking

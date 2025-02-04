@@ -9,3 +9,4 @@ Alligator + Animalia = Reptile
 Usages:
 =======
 Reptile + Watson = Lizard
+Pioneer + Reptile = Dinosaur

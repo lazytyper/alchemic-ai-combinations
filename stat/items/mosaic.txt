@@ -9,3 +9,4 @@ Collage + Image = Mosaic
 Usages:
 =======
 Award + Mosaic = Trophy
+Mosaic + Pioneer = Mosaicist

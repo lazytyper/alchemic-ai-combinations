@@ -10,3 +10,4 @@ Usages:
 =======
 Roll + Timelessness = Scroll
 Lava Cake + Timelessness = Fudginess
+Pioneer + Timelessness = Legacy

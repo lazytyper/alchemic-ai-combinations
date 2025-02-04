@@ -9,3 +9,4 @@ Landscaper + Rose = Pruner
 Usages:
 =======
 Pruner + Robinhood = Treehugger
+Pioneer + Pruner = Gardener

@@ -11,3 +11,4 @@ Usages:
 Holiday + Rose = Valentine
 Holiday + Song = Caroling
 Floralia + Holiday = Spring Festival
+Holiday + Pioneer = Thanksgiving

@@ -9,3 +9,4 @@ Fire + Smoke = Heat Wave
 Usages:
 =======
 Ecosystem + Heat Wave = Drought
+Heat Wave + Pioneer = Bandwidth

@@ -1,0 +1,11 @@
+==================================
+= Auditorium
+==================================
+
+created by:
+===========
+Oratory + Room = Auditorium
+
+Usages:
+=======
+Auditorium + Pioneer = Mouthpiece

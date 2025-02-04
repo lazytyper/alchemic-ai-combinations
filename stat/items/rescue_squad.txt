@@ -14,3 +14,4 @@ Dolphin + Rescue Squad = Flipper
 Feather + Rescue Squad = Angel
 Campfire + Rescue Squad = Firefighters
 Rescue Squad + Sleeping Beauty = Prince Charming
+Rescue Squad + Time = Emergency Response

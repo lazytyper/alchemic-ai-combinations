@@ -9,3 +9,4 @@ Palm Tree + Sugar = Sugarcane
 Usages:
 =======
 Sugarcane + Time = Sweetness
+Pioneer + Sugarcane = Rum

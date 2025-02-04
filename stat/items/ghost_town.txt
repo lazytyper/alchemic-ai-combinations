@@ -10,3 +10,4 @@ Usages:
 =======
 Ghost Town + Rose = Graveyard
 Eagle + Ghost Town = Spirit Of Freedom
+Ghost Town + Pioneer = Abandonment

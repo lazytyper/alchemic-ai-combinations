@@ -9,3 +9,4 @@ Godzilla + Mudshow = Monster Truck
 Usages:
 =======
 Monster Truck + Rose = Monster Bloom
+Monster Truck + Pioneer = Bigfoot

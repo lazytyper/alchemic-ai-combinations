@@ -1,0 +1,11 @@
+==================================
+= Pet Owner
+==================================
+
+created by:
+===========
+Doghouse + Human = Pet Owner
+
+Usages:
+=======
+Pet Owner + Pioneer = Dog Whisperer

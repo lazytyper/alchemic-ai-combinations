@@ -9,3 +9,4 @@ Batman + Rose = Batarang
 Usages:
 =======
 Batarang + Rose = Batflower
+Batarang + Time = Batmobile

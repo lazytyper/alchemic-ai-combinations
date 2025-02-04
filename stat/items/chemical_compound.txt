@@ -9,3 +9,4 @@ Submarine + Substance = Chemical Compound
 Usages:
 =======
 Carbon Dioxide + Chemical Compound = Carbonic Acid
+Chemical Compound + Pioneer = Einstein

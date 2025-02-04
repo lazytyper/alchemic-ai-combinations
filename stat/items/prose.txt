@@ -10,3 +10,4 @@ Usages:
 =======
 Prose + Rose = Grotesque
 Prose + Rose = Prosecco
+Prose + Time = Narrative

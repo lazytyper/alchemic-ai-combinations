@@ -9,3 +9,4 @@ Evil + Human = Villain
 Usages:
 =======
 Fairy Godmother + Villain = Enchantress
+Pioneer + Villain = Antihero

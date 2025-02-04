@@ -5,6 +5,7 @@
 created by:
 ===========
 Hulk + Human = Monster
+Frankenstein + Pioneer = Monster
 
 Usages:
 =======
@@ -26,7 +27,7 @@ Egypt + Monster = Mummy
 Memory + Monster = Trauma
 Monster + Playground = Bestiality
 Monster + Wizard = Goblin
-Monster = Outlaw.bandit
+Monster + Outlaw = Bandit
 Luminaria + Monster = Spooky Lights
 Cosmic Bloom + Monster = Galactic Beast
 Farm Team + Monster = Farmhand
@@ -83,3 +84,4 @@ Monster + Word = Wordsmith
 Milk + Monster = Milkshake
 Monster + Telephone = Ringtone
 Monster + Soup = Monsterpiece
+Monster + Pioneer = Frankenstein

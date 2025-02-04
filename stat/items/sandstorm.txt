@@ -9,3 +9,4 @@ Cactus + Desert = Sandstorm
 Usages:
 =======
 Rose + Sandstorm = Desert Bloom
+Pioneer + Sandstorm = Dust Bowl

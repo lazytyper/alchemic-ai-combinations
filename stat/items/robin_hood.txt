@@ -5,6 +5,7 @@
 created by:
 ===========
 Bullseye + Legend = Robin Hood
+Archery + Pioneer = Robin Hood
 
 Usages:
 =======

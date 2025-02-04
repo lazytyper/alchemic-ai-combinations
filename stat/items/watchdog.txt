@@ -1,0 +1,11 @@
+==================================
+= Watchdog
+==================================
+
+created by:
+===========
+Design Failure + Timekeeper = Watchdog
+
+Usages:
+=======
+Pioneer + Watchdog = Sentinel

@@ -9,3 +9,5 @@ Lava Lamp + Life = Eternal Flame
 Usages:
 =======
 Eternal Flame + Religion = Holy Fire
+Eternal Flame + Pioneer = Famous Person
+Eternal Flame + Pioneer = Light Bearer

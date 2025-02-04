@@ -11,3 +11,5 @@ Usages:
 Cooking + Hearth = Kitchen
 Cooking + Kitchen = Recipe
 Cooking + Sushi Bar = Sushi Chef
+Cooking + Pioneer = Cuisine
+Cooking + Pioneer = Frontier Cuisine

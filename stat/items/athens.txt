@@ -9,3 +9,4 @@ City + Pottery = Athens
 Usages:
 =======
 Athens + City = Acropolis
+Athens + Pioneer = Democracy

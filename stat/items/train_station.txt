@@ -1,0 +1,11 @@
+==================================
+= Train Station
+==================================
+
+created by:
+===========
+Locomotive + Room = Train Station
+
+Usages:
+=======
+Pioneer + Train Station = Railroad

@@ -1,0 +1,12 @@
+==================================
+= Viewing Platform
+==================================
+
+created by:
+===========
+Eiffel Tower + Room = Viewing Platform
+
+Usages:
+=======
+Pioneer + Viewing Platform = Observation Deck
+Pioneer + Viewing Platform = Observation Tower

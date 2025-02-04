@@ -9,3 +9,4 @@ Legend + Robin Hood = Folk Hero
 Usages:
 =======
 Folk Hero + Wishful Thinking = Robin Williams
+Folk Hero + Pioneer = Johnny Appleseed

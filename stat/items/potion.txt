@@ -15,3 +15,4 @@ Plant Growth + Potion = Herbology
 Existencialism + Potion = Essentialism
 Potion + Rebirth = Elixir Of Immortality
 Blight + Potion = Plague
+Pioneer + Potion = Doctor

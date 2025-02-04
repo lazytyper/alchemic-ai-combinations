@@ -9,3 +9,4 @@ Fake + Rose = Faux Flower
 Usages:
 =======
 Faux Flower + Room = Decoration
+Faux Flower + Pioneer = Silk Road

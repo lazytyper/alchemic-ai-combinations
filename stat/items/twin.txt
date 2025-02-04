@@ -10,3 +10,4 @@ Baby + Baby = Twin
 Usages:
 =======
 Astrology + Twin = Gemini
+Time + Twin = Twinsanity

@@ -11,4 +11,4 @@ Usages:
 Fire + Sand = Glass
 Plants + Sand = Cactus Desert
 Flower + Sand = Desert Rose
-Room + Sand = .sandbox
+Room + Sand = Sandbox

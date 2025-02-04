@@ -9,3 +9,4 @@ Punch + Rose = Punchline
 Usages:
 =======
 Punchline + Rose = Comedy
+Masquerade + Punchline = Joke

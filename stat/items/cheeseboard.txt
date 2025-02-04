@@ -9,3 +9,4 @@ Cheese + Masquerade = Cheeseboard
 Usages:
 =======
 Cheeseboard + Combine Harvester + Floribunda + Kelpie = Farmstead
+Cheeseboard + Pioneer = Cheesemonger

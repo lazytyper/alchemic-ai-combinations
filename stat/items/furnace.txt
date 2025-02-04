@@ -9,3 +9,4 @@ Fossil Fuel + Room = Furnace
 Usages:
 =======
 Furnace + Pot Of Gold = Molten Gold
+Furnace + Pioneer = Smelting

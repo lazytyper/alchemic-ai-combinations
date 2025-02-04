@@ -1,0 +1,11 @@
+==================================
+= Potions
+==================================
+
+created by:
+===========
+Flower + Magic = Potions
+
+Usages:
+=======
+Potions + Room = Potionmaster

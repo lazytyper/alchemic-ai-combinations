@@ -9,3 +9,4 @@ Raceway + Trophy = Victory
 Usages:
 =======
 Prize + Victory = Reward
+Pioneer + Victory = Pioneering

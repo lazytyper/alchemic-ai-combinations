@@ -9,3 +9,4 @@ Hazard + Kraken = Dangerous Beast
 Usages:
 =======
 Dangerous Beast + Room = Monster Lair
+Dangerous Beast + Pioneer = Grizzy Adams

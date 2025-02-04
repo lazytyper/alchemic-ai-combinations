@@ -9,3 +9,4 @@ Animal + Picnic = Antelope
 Usages:
 =======
 Antelope + Flower = Antelopehorn
+Antelope + Pioneer = Prairie Dog

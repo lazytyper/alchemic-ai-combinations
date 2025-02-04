@@ -9,3 +9,4 @@ Liquid + Liquid = Soup
 Usages:
 =======
 Monster + Soup = Monsterpiece
+Pioneer + Soup = Frontier Stew

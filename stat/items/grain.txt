@@ -10,3 +10,4 @@ Usages:
 =======
 Grain + Grain = Wheat
 Alcohol + Grain = Whiskey
+Grain + Pioneer = Wheatley

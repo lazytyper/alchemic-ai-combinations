@@ -9,3 +9,4 @@ Aquaman + Tree Spirit = Ent
 Usages:
 =======
 Ent + Room = Entertainment
+Ent + Rose = Entourage

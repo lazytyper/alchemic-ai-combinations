@@ -9,3 +9,4 @@ Biosphere + Evolution = Life Forms
 Usages:
 =======
 Life Forms + Wildlife = Animals
+Life Forms + Pioneer = Biologist

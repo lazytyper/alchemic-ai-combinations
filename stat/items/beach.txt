@@ -14,3 +14,4 @@ Beach + Miami = Florida
 Beach + Rose = Sunburn
 Beach + Song = Calypso
 Beach + Puzzle = Sandcastle
+Beach + Masquerade = Summer Carnival

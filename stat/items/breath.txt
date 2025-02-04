@@ -11,3 +11,4 @@ Usages:
 Breath + Life = Soul
 Breath + Clay = Sculpture
 Breath + Hazard = Toxicity
+Breath + Pioneer = Frontier

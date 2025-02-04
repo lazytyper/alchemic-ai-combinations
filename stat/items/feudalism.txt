@@ -10,3 +10,4 @@ Usages:
 =======
 Arrow + Feudalism = Archery
 Eclipse + Feudalism = Dark Ages
+Feudalism + Time = Feudal System

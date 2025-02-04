@@ -9,3 +9,4 @@ Bonfire + Bonfire = Flame Princess
 Usages:
 =======
 Flame Princess + Mars = Fire Planet
+Flame Princess + Pioneer = Firestarter

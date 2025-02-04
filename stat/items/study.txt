@@ -1,0 +1,11 @@
+==================================
+= Study
+==================================
+
+created by:
+===========
+Library + Room = Study
+
+Usages:
+=======
+Pioneer + Study = Researcher

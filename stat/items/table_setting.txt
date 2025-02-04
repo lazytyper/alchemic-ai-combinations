@@ -9,3 +9,4 @@ Substance + Tablecloth = Table Setting
 Usages:
 =======
 Pumpkin Coach + Table Setting = Dinner Party
+Pioneer + Table Setting = Tableau

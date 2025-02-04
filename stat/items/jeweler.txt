@@ -9,3 +9,4 @@ Goldsmith + Goldsmith = Jeweler
 Usages:
 =======
 Healer + Jeweler = Gemsmith
+Jeweler + Pioneer = Cartier

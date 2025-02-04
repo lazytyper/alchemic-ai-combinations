@@ -9,3 +9,4 @@ Flower + Myth = Narcissus
 Usages:
 =======
 Narcissus + Rose = Echo Chamber
+Narcissus + Pioneer = Narcissist

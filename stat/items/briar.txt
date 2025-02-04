@@ -9,3 +9,4 @@ Forest + Rose = Briar
 Usages:
 =======
 Briar + Rose = Thorn
+Briar + Masquerade = Beeswax

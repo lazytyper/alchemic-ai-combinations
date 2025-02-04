@@ -10,3 +10,4 @@ Usages:
 =======
 Airship + Dragonair = Dragonsphere
 Airship + Venom = Sky Pirate
+Airship + Pioneer = Zeppelin

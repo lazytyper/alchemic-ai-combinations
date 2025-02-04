@@ -9,3 +9,4 @@ Poet + Puzzle = Riddle
 Usages:
 =======
 Author + Riddle = Sphinx
+Pioneer + Riddle = Sage

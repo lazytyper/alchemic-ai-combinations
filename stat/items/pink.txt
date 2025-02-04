@@ -9,3 +9,4 @@ Magenta + Red = Pink
 Usages:
 =======
 Hazard + Pink = Flamingo
+Pink + Pioneer = Pinkie Pie

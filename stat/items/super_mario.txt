@@ -9,3 +9,4 @@ Mushroom + Mushroom + Mushroom + Mushroom = Super Mario
 Usages:
 =======
 Mushroom + Super Mario = 1-Up
+Pioneer + Super Mario = Mario Kart

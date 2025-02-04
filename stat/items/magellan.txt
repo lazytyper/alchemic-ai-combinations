@@ -6,6 +6,7 @@ created by:
 ===========
 Archipelago + Explorer = Magellan
 Explorer + Rose = Magellan
+Pioneer + Venus = Magellan
 
 Usages:
 =======

@@ -6,6 +6,7 @@ created by:
 ===========
 Cider + Rose = Wine
 Drink + Rose = Wine
+Drink + Red = Wine
 
 Usages:
 =======
@@ -14,3 +15,4 @@ Pearl + Wine = Oyster
 Wine + Wine + Wine + Wine = Drunkenness
 Room + Wine = Tasting
 Room + Wine = Cellar
+Red + Wine = Sangria

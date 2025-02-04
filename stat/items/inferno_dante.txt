@@ -9,3 +9,4 @@ Hell + Rose = Inferno Dante
 Usages:
 =======
 Inferno Dante + Rose = Divine Comedy
+Inferno Dante + Pioneer = Dante Alighieri

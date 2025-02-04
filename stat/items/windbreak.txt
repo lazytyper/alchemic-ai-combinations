@@ -10,3 +10,4 @@ Usages:
 =======
 Tsunami + Windbreak = Storm Surge
 Frog + Windbreak = Tadpole
+Pioneer + Windbreak = Shelterbelt

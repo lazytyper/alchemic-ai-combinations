@@ -9,3 +9,4 @@ Internet + Jobs = Gig Economy
 Usages:
 =======
 Gig Economy + Room = Co-Living
+Gig Economy + Pioneer = Entrepreneur

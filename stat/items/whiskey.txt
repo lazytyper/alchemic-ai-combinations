@@ -5,6 +5,7 @@
 created by:
 ===========
 Alcohol + Grain = Whiskey
+Distiller + Pioneer = Whiskey
 
 Usages:
 =======

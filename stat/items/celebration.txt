@@ -10,3 +10,4 @@ Usages:
 =======
 Celebration + Eagle = Independence
 Celebration + Monster = Partygoer
+Celebration + Pioneer = Festivity

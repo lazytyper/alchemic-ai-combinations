@@ -9,3 +9,4 @@ Alcoholic + Human = Drunkard
 Usages:
 =======
 City + Drunkard = Dublin
+Drunkard + Pioneer = Frontiersman

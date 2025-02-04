@@ -10,3 +10,4 @@ Jaws + Road Trip = Sharknado
 Usages:
 =======
 Mermaid + Sharknado = Merman
+Pioneer + Sharknado = Stormchaser

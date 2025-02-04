@@ -9,3 +9,4 @@ Dermatology + Monster = Dermatologist
 Usages:
 =======
 Dermatologist + Monster = Skinwalker
+Dermatologist + Pioneer = Friedman

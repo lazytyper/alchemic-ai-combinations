@@ -17,3 +17,5 @@ Agriculture + Drought = Irrigation
 Agriculture + Moonlight = Moon Tree
 Agriculture + Hazard = Faming Risk
 Agriculture + City = Urban Farming
+Agriculture + Masquerade = Harvest Ball
+Agriculture + Farmland = Countryside

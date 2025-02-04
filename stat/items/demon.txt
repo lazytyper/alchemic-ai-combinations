@@ -13,3 +13,4 @@ Demon + Fortress = Demonology
 Demon + Partner = Demonlord
 Demon + Genie = Djinn
 Demon + Jasmine = Demoness
+Demon + Pioneer = Demonstrator

@@ -9,3 +9,4 @@ Dreamer + Rose = Landscaper
 Usages:
 =======
 Landscaper + Rose = Pruner
+Landscaper + Pioneer = Landscape Architect

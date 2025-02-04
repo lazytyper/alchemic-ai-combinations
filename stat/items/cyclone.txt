@@ -10,3 +10,4 @@ Usages:
 =======
 Avatar + Cyclone = Aang
 Cyclone + Horoscope = Stormscope
+Cyclone + Pioneer = Storm Chaser

@@ -9,3 +9,4 @@ Eco-Warrior + Hillary = Climate Advocate
 Usages:
 =======
 Climate Advocate + Rose = Greta Thunberg
+Climate Advocate + Time = Climate Action

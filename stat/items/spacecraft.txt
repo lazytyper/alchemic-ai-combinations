@@ -5,9 +5,11 @@
 created by:
 ===========
 Driver + Milky Way = Spacecraft
+Apollo + Pioneer = Spacecraft
 
 Usages:
 =======
 Dorian Gray + Spacecraft = Eternal Voyage
 Astronaut + Spacecraft = Neil Armstrong
 Moon + Spacecraft = Lunar Module
+Pioneer + Spacecraft = Voyager

@@ -14,3 +14,4 @@ Gold Coin + Material = Treasure Map
 Liquid + Material = Metal Alloy
 Material + Material = Metal Alloy
 Material + Tablecloth = Covering
+Material + Pioneer = Bronze

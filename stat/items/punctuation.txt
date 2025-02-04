@@ -10,3 +10,4 @@ Usages:
 =======
 Flower + Punctuation = Flourish
 Midnight + Punctuation = Semicolon
+Pioneer + Punctuation = Punctuator

@@ -5,6 +5,7 @@
 created by:
 ===========
 Detective + Legend = Sherlock Holmes
+Detective + Pioneer = Sherlock Holmes
 
 Usages:
 =======

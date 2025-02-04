@@ -1,0 +1,11 @@
+==================================
+= Woodworker
+==================================
+
+created by:
+===========
+Lumberjack + Pioneer = Woodworker
+
+Usages:
+=======
+Pioneer + Woodworker = Carpenter

@@ -9,3 +9,4 @@ Neptune + Poseidon = Trident
 Usages:
 =======
 Horoscope + Trident = Pisces
+Pioneer + Trident = Poseidon

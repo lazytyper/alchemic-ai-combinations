@@ -14,3 +14,4 @@ Bee + Cherry Blossom = Honey
 Cherry Blossom + Cherry Blossom = Sakura
 Cherry Blossom + Cherry Blossom + Cherry Blossom + Cherry Blossom = Hanami
 Cherry Blossom + Cherry Blossom + Cherry Blossom + Cherry Blossom = Cherry Blossom Tree
+Cherry Blossom + Pioneer = Blossom Trail

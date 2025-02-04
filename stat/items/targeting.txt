@@ -9,3 +9,4 @@ Bullseye + Cyberpunk = Targeting
 Usages:
 =======
 Jaws + Targeting = Shark
+Pioneer + Targeting = Maketer

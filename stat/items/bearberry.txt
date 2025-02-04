@@ -9,3 +9,4 @@ Rose + Yogi Bear = Bearberry
 Usages:
 =======
 Bearberry + Pele = Earth Goddess
+Bearberry + Pioneer = Groundcover

@@ -18,3 +18,5 @@ Motorcycle + Rose = Motorcyclist
 City + Motorcycle = Traffic
 Couple + Motorcycle = Sidecar
 Messenger + Motorcycle = Delivery
+Motorcycle + Pioneer = Harley
+Motorcycle + Pioneer = Harley-Davidson

@@ -9,3 +9,4 @@ Bacteria + Water = Contamination
 Usages:
 =======
 Contamination + Lightning = Radioactivity
+Contamination + Pioneer = Thinker

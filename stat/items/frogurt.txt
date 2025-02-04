@@ -9,3 +9,4 @@ Frog Farm + Tourist = Frogurt
 Usages:
 =======
 Frogurt + Radioactivity = Mutant Frog
+Frogurt + Pioneer = Froyo

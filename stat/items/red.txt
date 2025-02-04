@@ -12,3 +12,5 @@ Blue + Red = Purple
 Purple + Red = Magenta
 Magenta + Red = Pink
 Flowers + Red = Roses
+Red + Wine = Sangria
+Drink + Red = Wine

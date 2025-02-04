@@ -5,6 +5,7 @@
 created by:
 ===========
 Engineer + Space = Rocket
+Pioneer + Thing = Rocket
 
 Usages:
 =======

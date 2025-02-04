@@ -10,3 +10,4 @@ Usages:
 =======
 Notebook + Rose = Diary
 Hazard + Notebook = Labyrinth
+Notebook + Pioneer = Journaling

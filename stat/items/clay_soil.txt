@@ -10,3 +10,4 @@ Usages:
 =======
 Clay Soil + Lava Lamp = Magma Lamp
 Agronomy + Clay Soil = Soil Science
+Clay Soil + Pioneer = Sod

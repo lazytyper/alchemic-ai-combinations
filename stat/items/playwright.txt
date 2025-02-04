@@ -9,3 +9,4 @@ Playhouse + Romeo = Playwright
 Usages:
 =======
 Ballerina + Playwright = Dancer
+Playwright + Time = Script

@@ -9,3 +9,4 @@ Flower + Hillary = Rosemary
 Usages:
 =======
 Rose + Rosemary = Aromatherapy
+Pioneer + Rosemary = Herb

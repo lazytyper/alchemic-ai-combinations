@@ -15,3 +15,4 @@ Mermaid + Sharknado = Merman
 Mermaid + Merman = Merfolk
 Clownfish + Mermaid = Aqualad
 City + Mermaid = Copenhagen
+Mermaid + Pioneer = Mermaidtail

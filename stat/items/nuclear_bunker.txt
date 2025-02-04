@@ -1,0 +1,11 @@
+==================================
+= Nuclear Bunker
+==================================
+
+created by:
+===========
+Nuclear Sub + Room = Nuclear Bunker
+
+Usages:
+=======
+Nuclear Bunker + Pioneer = Survivalist

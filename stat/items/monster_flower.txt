@@ -9,3 +9,4 @@ Kaiju + Rose = Monster Flower
 Usages:
 =======
 Monster Flower + Rose = Carnivorous Plant
+Monster Flower + Pioneer = Corpse Plant

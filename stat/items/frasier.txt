@@ -11,3 +11,4 @@ Usages:
 Frasier + Rose = Thorne
 Frasier + Heaven = Cheers
 Frasier + Thing = Phrasing
+Frasier + Pioneer = Shriner

@@ -18,3 +18,4 @@ Animalia + Everest = Yeti
 Everest + Rose = Everose
 Everest + Rose = Himalaya
 Everest + Grimm's Fairy Tales = Mountain Tales
+Everest + Pioneer = Conqueror

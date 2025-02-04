@@ -1,0 +1,11 @@
+==================================
+= Greetings
+==================================
+
+created by:
+===========
+Nightlife + Pioneer = Greetings
+
+Usages:
+=======
+Greetings + Pioneer = Hello World

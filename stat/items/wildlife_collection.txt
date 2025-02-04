@@ -9,3 +9,4 @@ Animals + Photobook = Wildlife Collection
 Usages:
 =======
 Union + Wildlife Collection = Conservation
+Pioneer + Wildlife Collection = Conservationist

@@ -9,3 +9,4 @@ Duplicate + Farming = Cloning
 Usages:
 =======
 Cloning + Hazard = Biohazard
+Cloning + Pioneer = Dolly

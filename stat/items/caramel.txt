@@ -12,3 +12,4 @@ Caramel + Caramel = Toffee
 Caramel + Fragrance = Caramella
 Apple + Caramel = Candy
 Caramel + Duplicate = Caramelize
+Caramel + Pioneer = Rollercoaster

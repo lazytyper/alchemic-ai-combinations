@@ -9,3 +9,4 @@ Allergy + Genie = Malady
 Usages:
 =======
 Couple + Malady = Love Sickness
+Malady + Pioneer = Disease Hunter

@@ -9,3 +9,4 @@ Orange + Orange = Fruit
 Usages:
 =======
 Fruit + Fruit + Fruit + Fruit = Bunch
+Fruit + Pioneer = Appleseed
