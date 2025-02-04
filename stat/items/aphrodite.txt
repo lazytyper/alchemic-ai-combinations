@@ -16,3 +16,4 @@ Aphrodite + Zeus = Hera
 Aphrodite + Partner = Eros
 Aphrodite + Playhouse = Theatre
 Aphrodite + Room = Love Nest
+Aphrodite + Balloon = Love Bird

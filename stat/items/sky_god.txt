@@ -10,3 +10,4 @@ Usages:
 =======
 Sky God + Wasteland = Air Disaster
 Fireplace + Sky God = Hephaestus
+Sky God + Wine = Dionysus

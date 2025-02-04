@@ -12,3 +12,4 @@ Avatar + Shrek = Animation
 Avatar + Cyclone = Aang
 Avatar + Imagination = Dreamscape
 Avatar + Rights = Personhood
+Avatar + Cherry Blossom = Sakura Spirit

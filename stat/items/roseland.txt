@@ -9,3 +9,4 @@ Adventureland + Rose = Roseland
 Usages:
 =======
 Hazard + Roseland = Hazelnut
+Cherry Blossom + Roseland = Floral Park

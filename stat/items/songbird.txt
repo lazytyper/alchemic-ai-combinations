@@ -9,3 +9,4 @@ Bird + Windsong = Songbird
 Usages:
 =======
 Hazard + Songbird = Canary
+Songbird + Wine = Nightingale

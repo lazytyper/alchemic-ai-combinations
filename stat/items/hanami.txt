@@ -11,3 +11,4 @@ Usages:
 Hanami + Time = Sakura
 Hanami + Hanami + Hanami + Hanami = Cherry Blossoms
 Hanami + Rose = Flower View
+Cherry Blossom + Hanami = Sakura Viewing

@@ -1,0 +1,11 @@
+==================================
+= Hallway
+==================================
+
+created by:
+===========
+Room + Room = Hallway
+
+Usages:
+=======
+Cherry Blossom + Hallway = Hanami Walk

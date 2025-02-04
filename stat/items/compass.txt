@@ -10,3 +10,4 @@ Navigation + Rose = Compass
 Usages:
 =======
 Compass + Rose = Map
+Compass + Wine = Wineware

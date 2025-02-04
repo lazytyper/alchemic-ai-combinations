@@ -10,3 +10,4 @@ Usages:
 =======
 Library + Rose = Bookstore
 Library + Room = Study
+Cherry Blossom + Library = Bookstagram

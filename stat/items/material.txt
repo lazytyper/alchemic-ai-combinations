@@ -16,3 +16,5 @@ Liquid + Material = Metal Alloy
 Material + Material = Metal Alloy
 Material + Tablecloth = Covering
 Material + Pioneer = Bronze
+Heart + Material = Heartfelt
+Letter + Material = Paper

@@ -11,3 +11,4 @@ Usages:
 Blueprint + Science = Technology
 Blueprint + Rose = Bluebook
 Blueprint + Pokemon = Porygon
+Blueprint + Wine = Designated Driver

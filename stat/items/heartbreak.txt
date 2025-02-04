@@ -11,3 +11,4 @@ Love + Mistake = Heartbreak
 Usages:
 =======
 Heartbreak + House = Boarded Up
+Cherry Blossom + Heartbreak = Love Hotel

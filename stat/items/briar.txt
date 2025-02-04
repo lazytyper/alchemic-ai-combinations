@@ -10,3 +10,4 @@ Usages:
 =======
 Briar + Rose = Thorn
 Briar + Masquerade = Beeswax
+Briar + Wine = Brandy

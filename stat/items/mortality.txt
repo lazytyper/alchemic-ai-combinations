@@ -9,3 +9,4 @@ Death + Human = Mortality
 Usages:
 =======
 Immortality + Mortality = Life Cycle
+Mortality + Wine = Decadence

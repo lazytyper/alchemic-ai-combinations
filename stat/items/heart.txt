@@ -19,3 +19,5 @@ Heart + Letter = Loveletter
 Heart + Photo = Snapshot
 Color + Heart = Redemption
 Heart + Pioneer = Heartthrob
+Heart + Material = Heartfelt
+Balloon + Heart + Heart = Hot Air

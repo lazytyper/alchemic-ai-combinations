@@ -11,3 +11,4 @@ Usages:
 Fishing Boat + Ocean = Fisherman
 Fishing Boat + Rose = Bloodbath
 Fishing Boat + Room = Fishing Cabin
+Fishing Boat + Wine = Fishing Vessel

@@ -9,3 +9,4 @@ Cave System + Substance = Stalactite
 Usages:
 =======
 Stalactite + Substance = Mineral
+Stalactite + Wine = Wineglass

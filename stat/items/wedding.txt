@@ -9,3 +9,4 @@ Las Vegas + Romance = Wedding
 Usages:
 =======
 Ring + Wedding = Ceremony
+Commitment + Wedding = Matrimony

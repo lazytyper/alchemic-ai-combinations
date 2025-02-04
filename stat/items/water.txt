@@ -36,3 +36,4 @@ Telephone + Water = Dialysis
 Color + Water = Blue
 Gremlin + Water = Mogwai
 Substance + Water = Acid
+Water + Wine = Grape Juice

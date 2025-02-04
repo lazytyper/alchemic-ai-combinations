@@ -17,3 +17,5 @@ Perspective + Soil = Landscape
 Eco-Friendly + Soil = Compost
 Flower + Soil = Rose Bush
 Garden History + Soil = Agronomy
+Cherry Blossom + Soil = Sakura Tree
+Soil + Wine = Terroir

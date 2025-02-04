@@ -9,3 +9,12 @@ Flower Tower + Masquerade = Balloon
 Usages:
 =======
 Balloon + Pioneer = Aviator
+Aphrodite + Balloon = Love Bird
+Balloon + Lava Lamp = Globe
+Balloon + Rose = Balloonflower
+Balloon + Heart + Heart = Hot Air
+Balloon + Postcard = Airmail
+Balloon + Eros = Cupid's Arrow
+Balloon + Balloon = Helium
+Balloon + Helium = Blimp
+Balloon + Cherry Blossom = Float

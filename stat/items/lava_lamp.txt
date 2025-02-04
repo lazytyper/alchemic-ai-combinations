@@ -16,3 +16,4 @@ Lava Lamp + Life = Volcanic Eruption
 Clay Soil + Lava Lamp = Magma Lamp
 Lava Lamp + Underwater World = Aquarium Lamp
 Jurassic Park + Lava Lamp = Dinosaur Lamp
+Balloon + Lava Lamp = Globe

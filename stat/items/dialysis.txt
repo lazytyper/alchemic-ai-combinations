@@ -9,3 +9,4 @@ Telephone + Water = Dialysis
 Usages:
 =======
 Dialysis + Moon Landing = Space Medicine
+Dialysis + Wine = Blood Detox

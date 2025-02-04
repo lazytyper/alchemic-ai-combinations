@@ -9,3 +9,4 @@ Letter + Photo = Postcard
 Usages:
 =======
 Postcard + Time = Timeline
+Balloon + Postcard = Airmail

@@ -13,3 +13,4 @@ Diamond + Marriage = Ring
 Marriage + Ring = Wedding Band
 Marriage + Marriage = Union
 Marriage + Soulmate = Partner
+Commitment + Marriage = Vow

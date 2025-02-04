@@ -18,3 +18,4 @@ Combustion + Eco-Friendly Cuisine = Sustainable Cooking
 Cloud + Combustion = Smog
 Combustion + Stone = Fire Rock
 Combustion + Engine = Car
+Combustion + Wine = Firewater

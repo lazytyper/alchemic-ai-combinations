@@ -1,0 +1,11 @@
+==================================
+= Nurse
+==================================
+
+created by:
+===========
+Healthcare + Worker = Nurse
+
+Usages:
+=======
+Nurse + Wine = Nursemaid

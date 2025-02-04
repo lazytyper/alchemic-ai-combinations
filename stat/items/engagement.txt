@@ -11,3 +11,4 @@ Usages:
 =======
 Engagement + Engagement Ring = Proposal
 Engagement + Soulmate = Partnership
+Engagement + Soulmate = Commitment
