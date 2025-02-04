@@ -10,3 +10,4 @@ Usages:
 =======
 Dragon Cult + Dragon Energy = Dragon Worship
 Dragon Energy + Nuclear = Dragon Power
+Dragon Energy + Pioneer = New World

@@ -5,6 +5,7 @@
 created by:
 ===========
 Flowers + Red = Roses
+Rosedust + Substance = Roses
 
 Usages:
 =======

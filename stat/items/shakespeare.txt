@@ -9,3 +9,4 @@ Author + Rose = Shakespeare
 Usages:
 =======
 Shakespeare + Time = Hamlet
+Matter + Shakespeare = Weight

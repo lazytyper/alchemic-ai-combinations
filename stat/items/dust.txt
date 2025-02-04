@@ -13,3 +13,4 @@ Dust + Fire = Ashes
 Dust + Samsara = Reincarnation
 Allergy + Dust + Steam = Sinus Infection
 Dust + Star = Comet
+Dust + Substance = Powder

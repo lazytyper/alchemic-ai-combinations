@@ -13,3 +13,4 @@ Loneliness + Treasure = Bittersweet
 Design Failure + Treasure = Found Object
 Cybercrime + Treasure = Cryptojacking
 Treasure + Treasure + Treasure + Treasure = Pile
+Treasure + Treasure = Hoard

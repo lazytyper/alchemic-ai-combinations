@@ -9,3 +9,4 @@ Mist + Photosynthesis = Fogbow
 Usages:
 =======
 Fogbow + Thunder = Rainbow
+Fogbow + Pioneer = Huckleberry

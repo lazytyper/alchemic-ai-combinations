@@ -9,3 +9,4 @@ Baby + Human = Child
 Usages:
 =======
 Baby + Birth + Child + Newborn = Infant
+Child + Pioneer = Wonderer

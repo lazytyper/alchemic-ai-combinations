@@ -13,3 +13,4 @@ Drought + Lost Civilization = Atlantis
 Drought + Water = Thirst
 Catastrophe + Drought = Famine
 Agriculture + Drought = Irrigation
+Drought + Pioneer = Dustbowl

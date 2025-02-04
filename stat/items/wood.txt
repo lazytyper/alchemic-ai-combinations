@@ -5,6 +5,7 @@
 created by:
 ===========
 Material + Tree = Wood
+Aspen Tree + Matter = Wood
 
 Usages:
 =======

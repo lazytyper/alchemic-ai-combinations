@@ -1,0 +1,11 @@
+==================================
+= Immunization
+==================================
+
+created by:
+===========
+Substance + Vaccination = Immunization
+
+Usages:
+=======
+Immunization + Matter = Vaccine

@@ -10,3 +10,4 @@ Usages:
 =======
 Biology + Blood = Anatomy
 Biology + Evolution = Natural Selection
+Acid + Biology = Digestion

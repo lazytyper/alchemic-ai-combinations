@@ -1,0 +1,11 @@
+==================================
+= Barroom
+==================================
+
+created by:
+===========
+Alcoholic + Room = Barroom
+
+Usages:
+=======
+Barroom + Pioneer = Saloon

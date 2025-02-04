@@ -11,3 +11,4 @@ Usages:
 Trophy + Usa = Championship
 Raceway + Trophy = Victory
 Award + Trophy = Prize
+Pioneer + Trophy = Achievement

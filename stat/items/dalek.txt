@@ -9,3 +9,4 @@ Doctor Who + Tiger = Dalek
 Usages:
 =======
 Dalek + Monster = Exterminator
+Dalek + Pioneer = Space Invader

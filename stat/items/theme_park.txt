@@ -12,3 +12,4 @@ Ranger + Theme Park = Adventureland
 Fire Magic + Theme Park = Fireworks
 Dreamboat + Theme Park = Fantasyland
 Star Trek + Theme Park = Starfleet Academy
+Pioneer + Theme Park = Disneyland

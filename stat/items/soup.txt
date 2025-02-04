@@ -10,3 +10,4 @@ Usages:
 =======
 Monster + Soup = Monsterpiece
 Pioneer + Soup = Frontier Stew
+Soup + Substance = Broth

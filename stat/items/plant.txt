@@ -28,3 +28,4 @@ Animal + Plant = Venus Flytrap
 Heavenly Star + Plant = Starflower
 Liquid + Plant = Tea
 Color + Plant = Green
+Plant + Substance = Herbal Remedy

@@ -10,3 +10,4 @@ Usages:
 =======
 Demonic Ritual + Diamond = Soul Gem
 Cosmic Static + Demonic Ritual = Chaos Magic
+Demonic Ritual + Pioneer = Witch Trial

@@ -9,3 +9,4 @@ House + Ice Cream = Cupcake
 Usages:
 =======
 Cupcake + Human = Baker
+Cupcake + Matter = Cakehole

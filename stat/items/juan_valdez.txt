@@ -9,3 +9,4 @@ Jumpshot + Rose = Juan Valdez
 Usages:
 =======
 Hazard + Juan Valdez = Coffee Break
+Juan Valdez + Pioneer = Coffee Icon

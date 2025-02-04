@@ -10,3 +10,4 @@ Usages:
 =======
 Daytona + Race = Nascar
 Daytona + Rose = Sportscar
+Daytona + Substance = Racing

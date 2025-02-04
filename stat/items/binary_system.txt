@@ -12,3 +12,4 @@ Binary System + Binary System = Dual System
 Binary System + Fireplace = Computer
 Binary System + Camera = Digital Image
 Binary System + Hazard = Risk
+Binary System + Pioneer = Ada Lovelace

@@ -9,3 +9,4 @@ Bluff + Room = Poker
 Usages:
 =======
 Poker + Room = Cardroom
+Pioneer + Poker = Wild West

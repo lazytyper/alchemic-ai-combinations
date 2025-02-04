@@ -11,3 +11,4 @@ Usages:
 Comfort + House = Home
 Comfort + Home = Cozy
 Campfire + Comfort = S'mores
+Comfort + Pioneer = Comforter

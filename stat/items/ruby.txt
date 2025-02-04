@@ -12,3 +12,4 @@ Usages:
 Music + Ruby = Garnet
 Blue + Ruby = Sapphire
 Room + Ruby = Buffet
+Ruby + Substance = Garnet

@@ -9,3 +9,4 @@ Human + Trombone = Saxophonist
 Usages:
 =======
 Room + Saxophonist = Jam Session
+Pioneer + Saxophonist = Coltrane

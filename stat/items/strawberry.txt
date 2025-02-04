@@ -10,3 +10,4 @@ Usages:
 =======
 City + Strawberry = Shortcake
 Pressure + Strawberry = Jam
+Cream + Strawberry = Strawberryshortcake

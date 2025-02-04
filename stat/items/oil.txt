@@ -10,3 +10,4 @@ Usages:
 =======
 Dough + Oil = Pizza
 Oil + Sunflower = Cooking
+Oil + Substance = Lubricant

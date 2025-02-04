@@ -5,7 +5,9 @@
 created by:
 ===========
 Baker + Baker = Cake
+Cakeism + Substance = Cake
 
 Usages:
 =======
 Cake + Knife = Slice
+Cake + Substance = Baker's Yeast

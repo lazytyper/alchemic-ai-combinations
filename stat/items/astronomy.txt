@@ -10,3 +10,4 @@ Usages:
 =======
 Astronomy + Universe = Cosmology
 Astronomy + Purgatory = Celestial Realm
+Astronomy + Pioneer = Galileo

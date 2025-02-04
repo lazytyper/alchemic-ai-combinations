@@ -9,3 +9,4 @@ Lizardmen + Monster = Reptilian Warrior
 Usages:
 =======
 Reptilian Warrior + Room = Lizard Lair
+Pioneer + Reptilian Warrior = Lizard King

@@ -5,6 +5,7 @@
 created by:
 ===========
 Forge + Rust = Metal
+Ore + Substance = Metal
 
 Usages:
 =======

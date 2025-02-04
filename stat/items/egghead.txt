@@ -9,3 +9,4 @@ Frittata + Human = Egghead
 Usages:
 =======
 Egghead + Moonhopper = Moonbrain
+Egghead + Matter = Stephen Hawking

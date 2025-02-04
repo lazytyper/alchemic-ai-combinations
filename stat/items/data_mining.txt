@@ -1,0 +1,11 @@
+==================================
+= Data Mining
+==================================
+
+created by:
+===========
+Computer + Substance = Data Mining
+
+Usages:
+=======
+Data Mining + Substance = Data Science

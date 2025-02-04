@@ -9,3 +9,4 @@ Rose + Roseobacter = Rosobacter
 Usages:
 =======
 Rose + Rosobacter = Rosesobacter
+Pioneer + Rosobacter = Microbe

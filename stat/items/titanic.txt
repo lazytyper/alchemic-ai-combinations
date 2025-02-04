@@ -15,3 +15,4 @@ Usages:
 =======
 Rock + Titanic = Iceberg
 Rose + Titanic = Jack
+Diamond + Titanic = Heart Necklace

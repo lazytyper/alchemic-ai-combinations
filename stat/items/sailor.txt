@@ -12,3 +12,4 @@ Usages:
 Rose + Sailor = Tattoo
 Comic Book + Sailor = Popeye
 Partner + Sailor = Shipmate
+Moon + Sailor = Serena

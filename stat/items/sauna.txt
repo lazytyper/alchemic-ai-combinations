@@ -14,3 +14,4 @@ Reincarnation + Sauna = Sweat Lodge
 Sauna + Sweat Lodge = Steam Room
 Bliss + Sauna = Euphoria
 Room + Sauna = Steamroom
+Sauna + Substance = Detox

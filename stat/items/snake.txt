@@ -13,3 +13,4 @@ Eve + Snake = Original Sin
 Sin + Snake = Temptation
 Snake + Temptation = Satan
 Snake + Woodstock = Snoopy
+Pioneer + Snake = Cobracommander

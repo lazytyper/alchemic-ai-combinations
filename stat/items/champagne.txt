@@ -10,3 +10,4 @@ Usages:
 =======
 Champagne + City = Champaign
 Champagne + Sparkling Wine = Bubbly
+Champagne + Pioneer = Hemingway

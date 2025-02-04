@@ -9,3 +9,4 @@ Desentization + Legend = Mythos
 Usages:
 =======
 Genie + Mythos = Genesis
+Mythos + Pioneer = Mythmaker

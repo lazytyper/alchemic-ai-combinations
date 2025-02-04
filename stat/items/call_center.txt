@@ -9,3 +9,4 @@ Human + Telephone = Call Center
 Usages:
 =======
 Call Center + Call Center = Customer Service
+Call Center + Pioneer = Telemarket

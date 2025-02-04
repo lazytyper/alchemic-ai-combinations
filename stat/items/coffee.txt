@@ -11,3 +11,4 @@ Usages:
 Coffee + Drink = Espresso
 Coffee + Plant = Arabica
 Coffee + Plant = Espresso Bean
+Coffee + Substance = Caffeine

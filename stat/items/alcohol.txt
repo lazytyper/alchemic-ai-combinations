@@ -5,6 +5,7 @@
 created by:
 ===========
 Liquid + Wine = Alcohol
+Cider + Substance = Alcohol
 
 Usages:
 =======

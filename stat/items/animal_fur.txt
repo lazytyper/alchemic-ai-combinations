@@ -1,0 +1,11 @@
+==================================
+= Animal Fur
+==================================
+
+created by:
+===========
+Substance = Animal Fur
+
+Usages:
+=======
+Animal Fur + Substance = Fabric

@@ -10,3 +10,4 @@ Usages:
 =======
 High + Human = Giant
 Cannabis + High = Marijuana
+High + Substance = Intoxication

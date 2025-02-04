@@ -9,3 +9,4 @@ Milky Way + Rose = Galaxy Flower
 Usages:
 =======
 Galaxy Flower + Pioneer = Starseed
+Galaxy Flower + Matter = Starburst

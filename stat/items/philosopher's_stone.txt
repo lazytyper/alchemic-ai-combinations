@@ -10,3 +10,4 @@ Usages:
 =======
 Philosopher's Stone + Philosopher's Stone = Eternal Life
 Monster + Philosopher's Stone = Transformers
+Philosopher's Stone + Substance = Exlixir Of Life

@@ -10,3 +10,4 @@ Usages:
 =======
 Gravekeeper + Gravekeeper = Necromancer
 Airplane + Gravekeeper = Sky Burial
+Gravekeeper + Pioneer = Digger

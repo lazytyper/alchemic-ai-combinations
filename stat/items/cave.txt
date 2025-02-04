@@ -14,3 +14,4 @@ Athlete + Cave = Spelunker
 Cave + Waterfall = Grotto
 Cave + Rose = Stalagmite
 Cave + Locomotive = Trainwreck
+Cave + Substance = Mineral

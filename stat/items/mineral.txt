@@ -1,0 +1,12 @@
+==================================
+= Mineral
+==================================
+
+created by:
+===========
+Stalactite + Substance = Mineral
+Cave + Substance = Mineral
+
+Usages:
+=======
+Mineral + Substance = Ore

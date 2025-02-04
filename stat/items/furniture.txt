@@ -1,0 +1,11 @@
+==================================
+= Furniture
+==================================
+
+created by:
+===========
+Coffee Table + Pioneer = Furniture
+
+Usages:
+=======
+Furniture + Substance = Wooden Chair

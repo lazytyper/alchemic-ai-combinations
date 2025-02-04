@@ -10,3 +10,4 @@ Bittersweet + Rose = Mourning
 Usages:
 =======
 Mourning + Rose = Funeral
+Mourning + Pioneer = Mourner

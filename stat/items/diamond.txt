@@ -19,3 +19,5 @@ Diamond + Romeo = Juliet
 Diamond + Juliet = Jewel
 Diamond + Sun = Star
 Diamond + Rose = Engagement
+Diamond + Substance = Carbon
+Diamond + Titanic = Heart Necklace

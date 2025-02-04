@@ -10,3 +10,4 @@ Usages:
 =======
 Tremor + Trumpet Player = Trombone
 Room + Trumpet Player = Jazz Club
+Pioneer + Trumpet Player = Loius Armstrong

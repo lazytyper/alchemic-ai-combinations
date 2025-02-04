@@ -9,3 +9,4 @@ Civic + Love = Civility
 Usages:
 =======
 Civility + Room = Assembly
+Civility + Pioneer = Gentleman

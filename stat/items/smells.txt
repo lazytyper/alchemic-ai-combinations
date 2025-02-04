@@ -9,3 +9,4 @@ Nirvana + Rose = Smells
 Usages:
 =======
 Cowboy + Smells = Cattle
+Smells + Substance = Scent

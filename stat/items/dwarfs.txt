@@ -9,3 +9,4 @@ Room + Snow White = Dwarfs
 Usages:
 =======
 Dwarfs + Pioneer = Gold Rush
+Dwarfs + Pioneer = Dwarfism

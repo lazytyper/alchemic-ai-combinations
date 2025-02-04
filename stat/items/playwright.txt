@@ -10,3 +10,6 @@ Usages:
 =======
 Ballerina + Playwright = Dancer
 Playwright + Time = Script
+Pioneer + Playwright = Dramatist
+Pioneer + Playwright = Pinocchio
+Matter + Playwright = Drama

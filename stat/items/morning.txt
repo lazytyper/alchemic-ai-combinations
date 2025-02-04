@@ -12,3 +12,4 @@ Morning + Time = Breakfast
 Candlelight + Morning = Daybreak
 Morning + Sky = Sunset
 Hazard + Morning = Morningstar
+Morning + Pioneer = Wakefulness

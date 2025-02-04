@@ -1,0 +1,11 @@
+==================================
+= Ore
+==================================
+
+created by:
+===========
+Mineral + Substance = Ore
+
+Usages:
+=======
+Ore + Substance = Metal

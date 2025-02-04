@@ -9,3 +9,4 @@ Nature Reserve + Pollen = Biodiversity
 Usages:
 =======
 Biodiversity + Room = Biome
+Biodiversity + Pioneer = Ecological Succession

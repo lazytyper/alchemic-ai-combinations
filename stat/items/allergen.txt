@@ -1,0 +1,11 @@
+==================================
+= Allergen
+==================================
+
+created by:
+===========
+Pollen + Substance = Allergen
+
+Usages:
+=======
+Allergen + Substance = Allergenicity

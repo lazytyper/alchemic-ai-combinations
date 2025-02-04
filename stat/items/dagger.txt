@@ -10,3 +10,4 @@ Usages:
 =======
 Dagger + Survivor = Swordsman
 Dagger + Moonwalker = Moonblade
+Dagger + Pioneer = Daggerboard

@@ -14,3 +14,4 @@ Candy + Sugar = Sweets
 Palm Tree + Sugar = Sugarcane
 Campfire + Sugar = Marshmallow
 Hazard + Sugar = Sweetness
+Substance + Sugar = Caramel

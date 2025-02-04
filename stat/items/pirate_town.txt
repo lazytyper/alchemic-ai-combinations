@@ -9,3 +9,4 @@ Captain Hook + City = Pirate Town
 Usages:
 =======
 Hazard + Pirate Town = Treasure Island
+Pioneer + Pirate Town = Buccaneer

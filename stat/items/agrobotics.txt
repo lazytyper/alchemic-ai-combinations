@@ -1,0 +1,11 @@
+==================================
+= Agrobotics
+==================================
+
+created by:
+===========
+Painting + Soulstone = Agrobotics
+
+Usages:
+=======
+Agrobotics + Pioneer = Robot Farmer

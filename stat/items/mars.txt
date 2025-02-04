@@ -13,3 +13,4 @@ Duplicate + Mars = Twin
 Flame Princess + Mars = Fire Planet
 City + Mars = Terraforming
 Mars + Room = Wormhole
+Mars + Pioneer = Rover

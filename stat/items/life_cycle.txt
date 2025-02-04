@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Life Cycle = Birth
 Life Cycle + Life Cycle = Metamorphosis
+Life Cycle + Pioneer = Succession

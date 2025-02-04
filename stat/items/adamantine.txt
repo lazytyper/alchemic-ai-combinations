@@ -9,3 +9,4 @@ Steel + Steel = Adamantine
 Usages:
 =======
 Adamantine + Detection Dog = Tremarctus
+Adamantine + Substance = Indestructible

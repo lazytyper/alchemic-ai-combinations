@@ -9,3 +9,4 @@ Rose + Stardust = Rosedust
 Usages:
 =======
 Rose + Rosedust = Lip Gloss
+Rosedust + Substance = Roses

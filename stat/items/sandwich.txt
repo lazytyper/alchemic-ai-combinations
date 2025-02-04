@@ -13,3 +13,5 @@ Breakfast + Sandwich = Bagel
 Bagel + Sandwich = Lunch
 Fireplace + Sandwich = Toasty
 Room + Sandwich = Lunchroom
+Pioneer + Sandwich = Club
+Pioneer + Sandwich = Lunchbox

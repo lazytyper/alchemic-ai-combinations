@@ -10,3 +10,4 @@ Usages:
 =======
 Brick + Smokebox = Locomotive
 Room + Smokebox = Smoker
+Pioneer + Smokebox = Steam Engine

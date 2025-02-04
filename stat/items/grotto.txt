@@ -10,3 +10,4 @@ Usages:
 =======
 Animal + Grotto = Zoo
 Grotto + Monster = Cave Beast
+Grotto + Substance = Grottoes

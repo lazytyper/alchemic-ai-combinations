@@ -5,6 +5,7 @@
 created by:
 ===========
 Apple + Pie = Caramel
+Substance + Sugar = Caramel
 
 Usages:
 =======
@@ -13,3 +14,4 @@ Caramel + Fragrance = Caramella
 Apple + Caramel = Candy
 Caramel + Duplicate = Caramelize
 Caramel + Pioneer = Rollercoaster
+Caramel + Substance = Sauce

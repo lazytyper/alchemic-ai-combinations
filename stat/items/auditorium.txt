@@ -9,3 +9,4 @@ Oratory + Room = Auditorium
 Usages:
 =======
 Auditorium + Pioneer = Mouthpiece
+Auditorium + Pioneer = Stagecraft

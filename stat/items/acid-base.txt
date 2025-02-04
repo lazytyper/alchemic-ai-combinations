@@ -9,3 +9,4 @@ Neutralisation + Pioneer = Acid-Base
 Usages:
 =======
 Acid-Base + Pioneer = Buffer
+Acid-Base + Substance = Salt

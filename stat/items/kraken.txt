@@ -9,3 +9,4 @@ Aquarium + Monster = Kraken
 Usages:
 =======
 Hazard + Kraken = Dangerous Beast
+Kraken + Pioneer = Krakenhunter

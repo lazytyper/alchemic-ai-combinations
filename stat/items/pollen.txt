@@ -17,3 +17,4 @@ Heat + Pollen = Fever
 Photograph + Pollen = Photo-Reactive
 Pollen + Sacrifice = Flowers
 Pigment + Pollen = Paintbrush
+Pollen + Substance = Allergen

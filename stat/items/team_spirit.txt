@@ -10,3 +10,4 @@ Usages:
 =======
 Dartfrog + Team Spirit = Cheerleader
 Hazard + Team Spirit = Risk Management
+Pioneer + Team Spirit = Collaboration

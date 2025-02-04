@@ -12,3 +12,4 @@ Cider + Rose = Wine
 Cider + Song = Folklore
 Cider + Liquid = Vinegar
 Cider + Liquid = Cyder
+Cider + Substance = Alcohol

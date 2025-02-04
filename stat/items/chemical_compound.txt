@@ -10,3 +10,4 @@ Usages:
 =======
 Carbon Dioxide + Chemical Compound = Carbonic Acid
 Chemical Compound + Pioneer = Einstein
+Chemical Compound + Substance = Molecule

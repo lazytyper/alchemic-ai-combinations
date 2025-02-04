@@ -10,3 +10,4 @@ Drink + Espresso = Latte
 Usages:
 =======
 Drink + Latte = Cappuccino
+Latte + Substance = Caffeine

@@ -9,3 +9,4 @@ Dalek + Monster = Exterminator
 Usages:
 =======
 Exterminator + Room = Bug Spray
+Exterminator + Pioneer = Bug Buster

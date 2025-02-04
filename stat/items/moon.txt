@@ -14,3 +14,5 @@ Apollo 11 + Moon = Lunar Landing
 Moon + Spacecraft = Lunar Module
 Moon + Moon = Lunar Eclipse
 Moon + Rose = Lunaria
+Moon + Sailor = Serena
+Moon + Pioneer = Lunar Mission

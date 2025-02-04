@@ -9,3 +9,4 @@ Guardian + Guardian = Security Guard
 Usages:
 =======
 Computer + Security Guard = Surveillance System
+Pioneer + Security Guard = Frontier Guard

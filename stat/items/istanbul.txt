@@ -5,7 +5,9 @@
 created by:
 ===========
 City + Rose = Istanbul
+Constantinople + Pioneer = Istanbul
 
 Usages:
 =======
 Istanbul + Nascar = Raceway
+Istanbul + Pioneer = Constantinople

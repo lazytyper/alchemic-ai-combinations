@@ -1,0 +1,11 @@
+==================================
+= Stalactite
+==================================
+
+created by:
+===========
+Cave System + Substance = Stalactite
+
+Usages:
+=======
+Stalactite + Substance = Mineral

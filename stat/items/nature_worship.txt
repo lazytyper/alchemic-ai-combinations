@@ -9,3 +9,4 @@ Druid + Religion = Nature Worship
 Usages:
 =======
 Nature Worship + Volcano = Pele
+Nature Worship + Pioneer = Animism

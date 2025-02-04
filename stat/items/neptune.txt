@@ -10,3 +10,4 @@ Usages:
 =======
 Neptune + Spellcasting = Aquaman
 Neptune + Poseidon = Trident
+Neptune + Substance = Neptunium

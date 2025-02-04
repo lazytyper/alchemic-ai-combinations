@@ -9,3 +9,4 @@ Prankster + Rose = Jester
 Usages:
 =======
 Blade Runner + Jester = Trickster
+Jester + Matter = Quark

@@ -9,3 +9,4 @@ Lantern + Room = Light
 Usages:
 =======
 Light + Pioneer = Lightyear
+Light + Substance = Phosphorescence

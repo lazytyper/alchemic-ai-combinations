@@ -11,3 +11,4 @@ Usages:
 Alpha + Alphabet = Letter
 Alphabet + Tremor = Quake
 Alphabet + City = Language
+Alphabet + Pioneer = Bacon

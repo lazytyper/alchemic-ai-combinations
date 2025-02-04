@@ -10,3 +10,4 @@ Usages:
 =======
 Cinderella + Glass + Slipper = Cinderella's Slip
 Calzone + Noise + Reincarnation + Slipper = Sneaker
+Pioneer + Slipper = Slippery

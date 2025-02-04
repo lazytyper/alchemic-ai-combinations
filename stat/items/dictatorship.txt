@@ -10,3 +10,4 @@ Usages:
 =======
 Dictatorship + Hazard = Tyranny
 Dictatorship + Room = Dungeon
+Dictatorship + Pioneer = Authoritarism

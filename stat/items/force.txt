@@ -10,3 +10,4 @@ Usages:
 =======
 Force + Force = Pressure
 Force + Love = Attraction
+Force + Pioneer = Forerunner

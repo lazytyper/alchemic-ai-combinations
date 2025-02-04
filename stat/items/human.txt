@@ -151,3 +151,4 @@ Human + Sleeve = Arm
 Human + Radioactivity = Mutation
 High + Human = Giant
 Doghouse + Human = Pet Owner
+Digestion + Human = Enzymes

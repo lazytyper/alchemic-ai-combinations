@@ -11,3 +11,4 @@ Usages:
 Cannabis + Smoke = High
 Cannabis + Pestle = Tincture
 Cannabis + High = Marijuana
+Cannabis + Pioneer = Hempstead
