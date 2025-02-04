@@ -9,3 +9,4 @@ Bird + Peace = Dove
 Usages:
 =======
 Dove + Monster = Heavens
+Dove + Wine = Peace Offering

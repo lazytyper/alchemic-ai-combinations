@@ -9,3 +9,4 @@ Agribusiness + Blood Sport = Blood Farming
 Usages:
 =======
 Blood Farming + Substance = Vampirism
+Blood Farming + Wine = Bloodmeal

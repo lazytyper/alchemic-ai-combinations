@@ -14,3 +14,4 @@ Dice + Human = Gambling
 Dice + Outlaw = Gambler
 Dice + Flower = Lucky Charms
 Dice + Room = Gaming
+Dice + Wine = Gamble

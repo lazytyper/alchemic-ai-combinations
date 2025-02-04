@@ -9,3 +9,4 @@ Chalk + River = Sediment
 Usages:
 =======
 Hazard + Sediment = Landslide
+Sediment + Wine = Lees

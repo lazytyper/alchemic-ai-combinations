@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Brew
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Liquid + Tea = Brew
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Brew + Wine = Mead

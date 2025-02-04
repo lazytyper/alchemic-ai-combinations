@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Potionmaster
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Potions + Room = Potionmaster
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Potionmaster + Wine = Winemaster

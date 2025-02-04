@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Milkman
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Hazard + Milk = Milkman
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Milkman + Wine = Milkmaid

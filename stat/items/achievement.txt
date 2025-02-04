@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Achievement
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Pioneer + Trophy = Achievement
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Achievement + Wine = Ecstasy

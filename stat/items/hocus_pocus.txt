@@ -9,3 +9,4 @@ Hut + Witch = Hocus Pocus
 Usages:
 =======
 Hocus Pocus + Trombone = Trombonist
+Hocus Pocus + Wine = Witches Brew

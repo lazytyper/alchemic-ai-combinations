@@ -8,4 +8,4 @@ Ashes + Elements = Alchemy
 
 Usages:
 =======
-Alchemy + Editor = Aditorial
+Alchemy + Editor = Editorial

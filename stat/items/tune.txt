@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Tune
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Jam + Song = Tune
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Tune + Wine = Musicality

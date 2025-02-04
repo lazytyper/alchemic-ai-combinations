@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Echolocation
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Echo + Room = Echolocation
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Echolocation + Wine = Bathtub

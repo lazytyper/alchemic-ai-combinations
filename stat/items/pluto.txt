@@ -9,3 +9,4 @@ Famine + Hades = Pluto
 Usages:
 =======
 Island Romance + Pluto = Romance Novel
+Pluto + Wine = Likelihood

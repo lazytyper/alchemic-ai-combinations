@@ -8,4 +8,4 @@ Adventurer + Editing = Editor
 
 Usages:
 =======
-Alchemy + Editor = Aditorial
+Alchemy + Editor = Editorial

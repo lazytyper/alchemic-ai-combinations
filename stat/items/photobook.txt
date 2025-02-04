@@ -30,3 +30,4 @@ Navigator + Photobook = Travelogue
 Journey + Photobook = Travelogue
 Photobook + Voyage = Travelogue
 Blanket + Photobook = Memory Quilt
+Photobook + Wine = Wish Book

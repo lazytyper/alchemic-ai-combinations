@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Editorial
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Alchemy + Editor = Editorial
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Editorial + Wine = Journalism

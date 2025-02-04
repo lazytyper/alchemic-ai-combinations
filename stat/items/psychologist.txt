@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Psychologist
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Pioneer + Psychology = Psychologist
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Psychologist + Wine = Counseling

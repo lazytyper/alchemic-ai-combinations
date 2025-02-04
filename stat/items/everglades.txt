@@ -9,3 +9,4 @@ Alligator + Florida = Everglades
 Usages:
 =======
 Animal + Everglades = Alligator
+Everglades + Wine = Swamp Grape

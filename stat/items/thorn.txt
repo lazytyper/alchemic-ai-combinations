@@ -9,3 +9,4 @@ Briar + Rose = Thorn
 Usages:
 =======
 Pioneer + Thorn = Thornbush
+Thorn + Wine = Thicket

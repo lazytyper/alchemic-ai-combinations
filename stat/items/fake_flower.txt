@@ -12,3 +12,4 @@ Fake Flower + Imitation = Silk Flower
 Fake Flower + Poison = Death Blossom
 Fake Flower + Vampire Bat = Blood Rose
 Fake Flower + Sushi Bar = Floral Sushi
+Fake Flower + Wine = Faux Bouquet

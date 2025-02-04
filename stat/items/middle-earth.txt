@@ -11,3 +11,4 @@ Usages:
 Middle-Earth + Ring = Frodo
 Middle-Earth + Pioneer = Hobbit
 Middle-Earth + Pioneer = Frontierland
+Middle-Earth + Wine = Mirkwood

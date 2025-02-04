@@ -10,3 +10,4 @@ Usages:
 =======
 Clock + Rose = Timepiece
 Clock + Room = Time Chamber
+Clock + Wine = Wino'clock

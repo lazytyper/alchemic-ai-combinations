@@ -10,3 +10,4 @@ Usages:
 =======
 Cyclist + Scenery = Bicycle Tour
 Cyclist + Cyclist = Race
+Cyclist + Wine = Veloce

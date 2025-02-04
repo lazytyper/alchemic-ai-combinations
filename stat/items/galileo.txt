@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Galileo
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Astronomy + Pioneer = Galileo
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Galileo + Wine = Telescope

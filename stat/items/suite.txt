@@ -9,3 +9,4 @@ Quadruple + Room = Suite
 Usages:
 =======
 Pioneer + Suite = Conductor
+Suite + Wine = Tasting Room

@@ -9,3 +9,4 @@ Airplane + Gravekeeper = Sky Burial
 Usages:
 =======
 Room + Sky Burial = Funeral Home
+Sky Burial + Wine = Death Ritual

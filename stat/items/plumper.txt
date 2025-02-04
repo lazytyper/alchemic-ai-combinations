@@ -1,12 +1,11 @@
 ==================================
-= Addiction
+= Plumper
 ==================================
 
 created by:
 ===========
-Elise + Song = Addiction
+Chicken + Growth Potion = Plumper
 
 Usages:
 =======
-Addiction + Song = Earworm
-Addiction + Wine = Alcoholism
+Plumper + Wine = Claret
