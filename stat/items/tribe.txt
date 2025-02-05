@@ -11,3 +11,4 @@ Usages:
 Jungle + Tribe = Amazon
 Tribe + Wreckage = Tribalism
 Rose + Tribe = Objective
+Christmas + Tribe = Pagans

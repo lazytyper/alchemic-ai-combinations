@@ -14,3 +14,4 @@ Marriage + Ring = Wedding Band
 Marriage + Marriage = Union
 Marriage + Soulmate = Partner
 Commitment + Marriage = Vow
+Christmas + Marriage = Wedding Bells

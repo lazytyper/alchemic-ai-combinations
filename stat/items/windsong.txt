@@ -9,3 +9,4 @@ Heaven + Hurricane = Windsong
 Usages:
 =======
 Bird + Windsong = Songbird
+Origami + Windsong = Paper Crane

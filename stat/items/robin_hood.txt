@@ -13,3 +13,4 @@ Forest + Robin Hood = Outlaw
 Castle + Robin Hood = Sherwood
 Legend + Robin Hood = Folk Hero
 Robin Hood + Wine = Wineberry
+Origami + Robin Hood = Damn Good

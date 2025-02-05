@@ -9,3 +9,4 @@ Pioneer + Snack = Trail Mix
 Usages:
 =======
 Trail Mix + Wine = Snack Pairing
+Origami + Trail Mix = Snack Art

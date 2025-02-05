@@ -10,4 +10,6 @@ Usages:
 =======
 Inferno + Ocean = Tsunami
 Inferno + Planet = Venus
+Inferno + Planet = Hellfire Planet
 Energy + Inferno = Thermal Power
+Inferno + Wine = Vermouth

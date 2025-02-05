@@ -10,3 +10,4 @@ Usages:
 =======
 Lumberjack + Room = Log Cabin
 Lumberjack + Pioneer = Woodworker
+Lumberjack + Morningstar = Battle Axe

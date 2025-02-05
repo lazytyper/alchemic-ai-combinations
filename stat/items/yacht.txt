@@ -13,3 +13,4 @@ Fishing + Yacht = Yachting
 City + Yacht = Marina
 Oceanographer + Yacht = Yachtmaster
 Honeymoon + Yacht = Cruise
+Color + Yacht = Carribean

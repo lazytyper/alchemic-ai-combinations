@@ -15,3 +15,5 @@ Couple + Rowboat = Loveboat
 Couple + Malady = Love Sickness
 Couple + Sleep = Bed
 Couple + Motorcycle = Sidecar
+Couple + Couple + Couple + Couple = Eight
+Couple + Sexuality = Intimacy

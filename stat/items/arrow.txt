@@ -17,3 +17,4 @@ Arrow + Feudalism = Archery
 Arrow + Frog = Dartfrog
 Arrow + Pyramid = Obelisk
 Arrow + Room = Arrowroot
+Arrow + Origami = Dart

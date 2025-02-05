@@ -1,0 +1,11 @@
+==================================
+= Quantum Computing
+==================================
+
+created by:
+===========
+Supercomputer + Supercomputer = Quantum Computing
+
+Usages:
+=======
+Quantum Computing + Quantum Computing = Superposition Gates

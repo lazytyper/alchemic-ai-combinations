@@ -9,3 +9,4 @@ Pollution + Smokestack = Emissions
 Usages:
 =======
 Emissions + Pioneer = Tesla
+Emissions + Origami = Green Design

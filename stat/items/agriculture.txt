@@ -21,3 +21,5 @@ Agriculture + Farmland = Countryside
 Agriculture + Moonlight = Moonboot
 Agriculture + Moonlight = Harvest Moon
 Agriculture + Moonlight = Moonscape
+Agriculture + Christmas = Poinsettia
+Agriculture + Origami = Paper Flower

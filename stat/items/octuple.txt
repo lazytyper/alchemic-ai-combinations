@@ -1,0 +1,11 @@
+==================================
+= Octuple
+==================================
+
+created by:
+===========
+Quadruple + Quadruple = Octuple
+
+Usages:
+=======
+Octuple + Octuple = Sixteen

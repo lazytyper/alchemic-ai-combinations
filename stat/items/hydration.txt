@@ -10,3 +10,4 @@ Usages:
 =======
 Hydration + Sorcerer = Water Mage
 Dehydration + Hydration = Electrolyte
+Hydration + Origami = Water Crane

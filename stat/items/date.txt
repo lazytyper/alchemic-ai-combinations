@@ -14,3 +14,4 @@ Date + Social Media = Dating App
 Date + Tadpole Pond = Frog Pond
 Date + Impact Crater = Meteorite
 Date + Water Mage = Aquaflora
+Color + Date = Calendar

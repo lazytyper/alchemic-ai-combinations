@@ -9,3 +9,4 @@ Duplication + Songwriter = Composer
 Usages:
 =======
 Composer + Pioneer = Beethoven
+Color + Composer = Vivaldi

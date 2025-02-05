@@ -12,3 +12,4 @@ Chaos + Human = Anarchy
 Animal + Chaos = Pandemonium
 Chaos + Room = Disorder
 Chaos + Wine = Bacchanalia
+Chaos + Origami = Crumpling

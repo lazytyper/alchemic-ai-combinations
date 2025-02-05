@@ -9,3 +9,4 @@ Capture + Mouse = Trap
 Usages:
 =======
 Fireplace + Trap = Firetrap
+Color + Trap = Occultism

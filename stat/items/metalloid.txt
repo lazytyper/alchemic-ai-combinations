@@ -9,3 +9,4 @@ Neptunium + Substance = Metalloid
 Usages:
 =======
 Metalloid + Substance = Silicon
+Color + Metalloid = Chromatism

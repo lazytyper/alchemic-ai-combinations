@@ -12,3 +12,4 @@ Voyage + Voyage = Journey
 Serene + Voyage = Serenity
 Voyage + Weekend = Getaway
 Photobook + Voyage = Travelogue
+Christmas + Voyage = Holiday Cruise

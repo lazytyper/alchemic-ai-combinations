@@ -11,3 +11,4 @@ Usages:
 Racecar + Racecar = Palindrome
 Lotus + Racecar = Elise
 Hermes + Racecar = Speedster
+Color + Racecar = Paintjob

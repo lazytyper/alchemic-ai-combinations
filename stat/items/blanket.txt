@@ -11,3 +11,4 @@ Usages:
 Blanket + Photobook = Memory Quilt
 Blanket + Picnic = Basket
 Blanket + Table = Tablecloth
+Blanket + Color = Throw

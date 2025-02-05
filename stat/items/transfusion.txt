@@ -9,3 +9,4 @@ Blood + Blood = Transfusion
 Usages:
 =======
 Transfusion + Vampire = Blood Bank
+Color + Transfusion = Blood Type

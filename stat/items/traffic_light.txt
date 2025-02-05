@@ -1,0 +1,11 @@
+==================================
+= Traffic Light
+==================================
+
+created by:
+===========
+Color + Engineer = Traffic Light
+
+Usages:
+=======
+Color + Traffic Light = Signal

@@ -12,3 +12,4 @@ Digital Image + Photography = Photomanipulation
 Computer + Photography = Editing
 Album + Photography = Cover
 Camera + Photography = Image Capture
+Color + Photography = Filter

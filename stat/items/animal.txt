@@ -53,3 +53,4 @@ Animal + Watson = Sherlock
 Animal + Pokemon = Pikachu
 Animal + Hazard = Zoo Safety
 Animal + Doghouse = Kennel
+Animal + Christmas = Reindeer

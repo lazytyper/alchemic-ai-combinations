@@ -9,3 +9,4 @@ Nest + Terrarium = Habitat
 Usages:
 =======
 Gandalf + Habitat = Middle-Earth
+Habitat + Origami = Homes

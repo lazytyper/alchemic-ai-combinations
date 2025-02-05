@@ -9,3 +9,4 @@ Fireplace + Rebecca = Bookshelf
 Usages:
 =======
 Bookshelf + Museum = Library
+Bookshelf + Origami = Bookfold

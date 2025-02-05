@@ -9,3 +9,4 @@ Pioneer + Soundwave = Speaker
 Usages:
 =======
 Pioneer + Speaker = Advocate
+Origami + Speaker = Sound Wave

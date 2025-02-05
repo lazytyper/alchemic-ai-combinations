@@ -11,3 +11,4 @@ Usages:
 Fireplace + Gandalf = Wizardry
 Gandalf + Love = Wizards
 Gandalf + Habitat = Middle-Earth
+Color + Gandalf = Greybeard

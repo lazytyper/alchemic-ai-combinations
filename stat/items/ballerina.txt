@@ -10,3 +10,4 @@ Usages:
 =======
 Ballerina + Playwright = Dancer
 Ballerina + Hazard = Safety Dance
+Ballerina + Origami = Swan

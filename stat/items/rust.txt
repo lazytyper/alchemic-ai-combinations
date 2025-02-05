@@ -11,3 +11,4 @@ Usages:
 Rust + Time = Corrosion
 Blacksmith + Rust = Forge
 Forge + Rust = Metal
+Color + Rust = Brown

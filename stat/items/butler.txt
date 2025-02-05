@@ -9,3 +9,4 @@ Human + Mansion = Butler
 Usages:
 =======
 Butler + City = Alfred
+Butler + Color = Gaiter

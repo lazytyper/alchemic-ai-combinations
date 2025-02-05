@@ -11,3 +11,4 @@ Usages:
 =======
 Ash + Love = Cinderella
 Ash + Room = Ashtray
+Ash + Color = Gray

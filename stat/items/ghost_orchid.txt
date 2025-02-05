@@ -11,3 +11,4 @@ Usages:
 Ghost Orchid + Rose = Phantom Flower
 Ghost Orchid + Hazard = Heliconia
 Ghost Orchid + Monster = Phantom Plant
+Color + Ghost Orchid = Phantasmagoria

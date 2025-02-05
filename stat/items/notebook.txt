@@ -11,3 +11,4 @@ Usages:
 Notebook + Rose = Diary
 Hazard + Notebook = Labyrinth
 Notebook + Pioneer = Journaling
+Color + Notebook = Sketchbook

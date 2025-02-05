@@ -21,3 +21,4 @@ Color + Heart = Redemption
 Heart + Pioneer = Heartthrob
 Heart + Material = Heartfelt
 Balloon + Heart + Heart = Hot Air
+Fairy Tale + Heart = Fairy Tale Romance

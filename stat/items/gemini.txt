@@ -9,3 +9,4 @@ Astrology + Twin = Gemini
 Usages:
 =======
 Gemini + Photoshop = Digital Twins
+Color + Gemini = Multicolor

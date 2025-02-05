@@ -10,3 +10,4 @@ Usages:
 =======
 Adobe + Fireworks = Luminaria
 Fireworks + Rose = Explosion Of Petals
+Fireworks + Origami = Sparkle

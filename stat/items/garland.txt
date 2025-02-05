@@ -9,3 +9,4 @@ Festival + Flower = Garland
 Usages:
 =======
 Garland + Hazard = Wreath
+Garland + Origami = Paper Wreath

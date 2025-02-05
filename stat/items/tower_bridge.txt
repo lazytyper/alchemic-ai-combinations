@@ -9,3 +9,4 @@ Monument + Thames = Tower Bridge
 Usages:
 =======
 Pioneer + Tower Bridge = Wayfinder
+Origami + Tower Bridge = Paper Bridge

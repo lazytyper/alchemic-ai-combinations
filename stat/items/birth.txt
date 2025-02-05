@@ -12,3 +12,4 @@ Birth + Human = Baby
 Birth + Cosplay = Costume Party
 Baby + Birth = Newborn
 Baby + Birth + Child + Newborn = Infant
+Birth + Christmas = Jesus

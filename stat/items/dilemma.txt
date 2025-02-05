@@ -10,3 +10,4 @@ Usages:
 =======
 Dilemma + Radioactivity = Hazard
 Dilemma + Giant = Goliath
+Dilemma + Origami = Folding Problem

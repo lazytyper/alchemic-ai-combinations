@@ -9,3 +9,4 @@ Apathy + Pioneer = Slacker
 Usages:
 =======
 Pioneer + Slacker = Procrastinator
+Color + Slacker = Couch Potato

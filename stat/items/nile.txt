@@ -9,3 +9,4 @@ Egypt + River = Nile
 Usages:
 =======
 Animal + Nile = Crocodile
+Nile + Origami = Papyrus

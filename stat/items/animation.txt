@@ -16,3 +16,5 @@ Animation + Evil = Maleficent
 Animation + Rainbow Frog = Kermit
 Animation + Candle = Wax Figure
 Animation + Pharao = Mummy Movie
+Animation + Sexuality = Hentai
+Animation + Origami = Animagi

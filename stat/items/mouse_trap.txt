@@ -10,3 +10,4 @@ Usages:
 =======
 Mouse + Mouse Trap = Capture
 Mouse Trap + Rose = Love Trap
+Color + Mouse Trap = Pink Panther

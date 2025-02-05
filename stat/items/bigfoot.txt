@@ -9,3 +9,4 @@ Monster Truck + Pioneer = Bigfoot
 Usages:
 =======
 Bigfoot + Substance = Fur Coat
+Bigfoot + Sexuality = Cryptozoology

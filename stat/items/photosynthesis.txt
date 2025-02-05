@@ -14,3 +14,4 @@ Nature + Photosynthesis = Carbon Dioxide
 Photosynthesis + Sunflower = Energy Production
 Mist + Photosynthesis = Fogbow
 Photosynthesis + Timeworn = Ancient Energy
+Christmas + Photosynthesis = Holiday Cheer

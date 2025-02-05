@@ -9,3 +9,4 @@ Hut + Hut = Cabin
 Usages:
 =======
 Cabin + Stargazing = Observatory
+Cabin + Wine = Cabinfever

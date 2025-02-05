@@ -9,3 +9,5 @@ Rose + Technology = Robotics
 Usages:
 =======
 Pioneer + Robotics = Roboticist
+Robotics + Wine = Robot Sommelier
+Color + Robotics = Chromatics

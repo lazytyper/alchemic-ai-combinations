@@ -9,3 +9,4 @@ Mineral + Substance = Ore
 Usages:
 =======
 Ore + Substance = Metal
+Color + Ore = Copper

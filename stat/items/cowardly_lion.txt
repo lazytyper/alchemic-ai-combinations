@@ -9,3 +9,4 @@ City + Cowardice = Cowardly Lion
 Usages:
 =======
 Cowardly Lion + Pioneer = Brave Explorer
+Cowardly Lion + Origami = Paper Lion

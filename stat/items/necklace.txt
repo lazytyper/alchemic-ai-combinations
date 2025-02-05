@@ -5,6 +5,7 @@
 created by:
 ===========
 Pearl + Rose = Necklace
+Beads + Color = Necklace
 
 Usages:
 =======

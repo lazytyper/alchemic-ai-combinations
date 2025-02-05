@@ -10,3 +10,4 @@ Usages:
 =======
 Human + Shadow = Silhouette
 Ariel + Shadow = Underwater Ballet
+Origami + Shadow = Shadowgraph

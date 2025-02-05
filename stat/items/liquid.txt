@@ -5,7 +5,6 @@
 created by:
 ===========
 Melt + Melt + Melt + Melt = Liquid
-Roses + Roses = Liquid
 
 Usages:
 =======
@@ -28,3 +27,5 @@ Liquid + Matter = Solution
 Liquid + Plant = Tea
 Liquid + Tea = Brew
 Liquid + Paint = Color
+Liquid + Roses + Roses = Rose Water
+Liquid + Origami = Hydrofoil

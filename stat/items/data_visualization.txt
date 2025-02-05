@@ -9,3 +9,4 @@ Pioneer + Tableau = Data Visualization
 Usages:
 =======
 Data Visualization + Pioneer = Florence Nightingale
+Data Visualization + Origami = Data Art

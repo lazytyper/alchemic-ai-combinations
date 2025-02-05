@@ -5,7 +5,6 @@
 created by:
 ===========
 Fish + Sun = Sunset
-Morning + Sky = Sunset
 
 Usages:
 =======

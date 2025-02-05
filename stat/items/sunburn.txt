@@ -10,3 +10,4 @@ Usages:
 =======
 Rose + Sunburn = Aloe Vera
 Room + Sunburn = Sunroom
+Color + Sunburn = Redness

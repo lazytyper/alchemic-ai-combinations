@@ -9,3 +9,5 @@ Cider + Liquid = Vinegar
 Usages:
 =======
 Room + Vinegar = Cleaner
+Christmas + Vinegar = Pickle
+Origami + Vinegar = Salad Dressing

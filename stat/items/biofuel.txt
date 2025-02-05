@@ -9,3 +9,4 @@ Plant + Renewable Energy = Biofuel
 Usages:
 =======
 Biofuel + Fire = Energy
+Biofuel + Origami = Biodegradable Paper

@@ -9,3 +9,4 @@ Monkey + Monkey = Chimpanzee
 Usages:
 =======
 Chimpanzee + Room = Monkey Business
+Chimpanzee + Color = Simians

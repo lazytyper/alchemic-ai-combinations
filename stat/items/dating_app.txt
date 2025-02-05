@@ -9,3 +9,4 @@ Date + Social Media = Dating App
 Usages:
 =======
 Dating App + Rose = Bumble
+Color + Dating App = Tinderella

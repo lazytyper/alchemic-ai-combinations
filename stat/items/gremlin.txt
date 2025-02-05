@@ -9,3 +9,4 @@ Color + Monster = Gremlin
 Usages:
 =======
 Gremlin + Water = Mogwai
+Color + Gremlin = Gizmo

@@ -17,3 +17,4 @@ Atlantis + Castle = Myth
 Atlantis + Reflection Error = Mirage
 Atlantis + Hate = Lost Love
 Atlantis + Nemo = Nautilus
+Atlantis + Christmas = Holiday Myth

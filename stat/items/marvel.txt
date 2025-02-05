@@ -9,3 +9,4 @@ Superhero + Universe = Marvel
 Usages:
 =======
 Marvel + Storybook = Fairytale
+Color + Marvel = Comics

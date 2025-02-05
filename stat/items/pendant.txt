@@ -9,3 +9,4 @@ Necklace + Rose = Pendant
 Usages:
 =======
 Pendant + Pioneer = Pendulum
+Origami + Pendant = Paper Jewelry

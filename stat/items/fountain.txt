@@ -9,3 +9,4 @@ Eternal Youth + Hazard = Fountain
 Usages:
 =======
 Fountain + Pioneer = Fountainhead
+Fountain + Love = Wishing Well

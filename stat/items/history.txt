@@ -17,3 +17,4 @@ History + President = Lincoln
 History + Rome = Ancient Empire
 History + Vatican = Papal States
 History + Radioactivity = Radiocarbon
+Christmas + History = Tradition

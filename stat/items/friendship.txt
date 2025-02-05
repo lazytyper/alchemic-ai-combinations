@@ -10,3 +10,4 @@ Usages:
 =======
 Bond + Friendship = Camaraderie
 Friendship + Infant = Bromance
+Friendship + Wine = Wine-Tasting

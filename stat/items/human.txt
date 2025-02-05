@@ -152,3 +152,6 @@ Human + Radioactivity = Mutation
 High + Human = Giant
 Doghouse + Human = Pet Owner
 Digestion + Human = Enzymes
+Human + Sixteen = Teenager
+Human + Sexuality = Gender
+Color + Human = Skin

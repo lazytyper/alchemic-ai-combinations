@@ -10,3 +10,4 @@ Usages:
 =======
 Pruner + Robinhood = Treehugger
 Pioneer + Pruner = Gardener
+Origami + Pruner = Paper Cutter

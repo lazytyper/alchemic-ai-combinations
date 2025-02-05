@@ -9,3 +9,4 @@ Gold Rush + Pioneer = Prospector
 Usages:
 =======
 Pioneer + Prospector = Gold Seeker
+Origami + Prospector = Paper Gold

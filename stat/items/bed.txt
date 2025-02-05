@@ -10,3 +10,4 @@ Usages:
 =======
 Bed + Genie = Dream
 Bed + Hazard = Bedbug
+Bed + Color = Bedspread

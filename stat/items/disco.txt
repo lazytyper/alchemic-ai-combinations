@@ -9,3 +9,4 @@ City + Dance = Disco
 Usages:
 =======
 City + Disco = Nightclub
+Disco + Sexuality = Sex Appeal

@@ -9,3 +9,4 @@ Rose + Windhorse = Windrose
 Usages:
 =======
 Windrose + Wine = Vintage
+Origami + Windrose = Compass Rose

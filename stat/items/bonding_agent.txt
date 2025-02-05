@@ -9,3 +9,4 @@ Bond + Fossil = Bonding Agent
 Usages:
 =======
 Bonding Agent + Pioneer = Adhesive
+Bonding Agent + Origami = Paper Glue

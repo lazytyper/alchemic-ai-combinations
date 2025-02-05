@@ -9,3 +9,4 @@ Mona Lisa + Rose = Lisa
 Usages:
 =======
 Lisa + Rose = Rosalita
+Color + Lisa = Monalisa

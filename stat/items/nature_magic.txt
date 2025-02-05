@@ -12,3 +12,4 @@ Dryad + Nature Magic = Tree Spirit
 Nature Magic + Toxin = Poison Ivy
 Dino Art + Nature Magic = Dragonscale
 Nature Magic + Pioneer = Earth Mage
+Color + Nature Magic = Biodynamics

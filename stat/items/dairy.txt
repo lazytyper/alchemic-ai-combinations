@@ -9,3 +9,4 @@ Bottle + Milk = Dairy
 Usages:
 =======
 Baby + Dairy = Formula
+Christmas + Dairy = Eggnog

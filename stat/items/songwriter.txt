@@ -10,3 +10,4 @@ Usages:
 =======
 Rockstar + Songwriter = Musician
 Duplication + Songwriter = Composer
+Color + Songwriter = Purple Rain

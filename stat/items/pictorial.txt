@@ -9,3 +9,4 @@ Dance + Photobook = Pictorial
 Usages:
 =======
 Lipstick + Pictorial = Lip Art
+Origami + Pictorial = Paper Art

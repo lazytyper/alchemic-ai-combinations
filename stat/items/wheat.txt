@@ -10,3 +10,4 @@ Usages:
 =======
 Pressure + Wheat = Flour
 Wheat + Windmill = Flour
+Color + Wheat = Golden

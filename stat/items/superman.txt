@@ -10,3 +10,4 @@ Usages:
 =======
 Superman + Universe = Justice League
 Monster + Superman = Monsterman
+Color + Superman = Kryptonite

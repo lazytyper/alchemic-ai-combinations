@@ -10,3 +10,4 @@ Usages:
 =======
 Fruitcake + Pioneer = Pecan Pie
 Fruitcake + Substance = Cakeism
+Christmas + Fruitcake = Holiday Dessert

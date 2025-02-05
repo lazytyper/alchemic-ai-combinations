@@ -9,3 +9,4 @@ Margherita + Melody = Pizza Song
 Usages:
 =======
 Hazard + Pizza Song = Chorus
+Color + Pizza Song = Rainbow Pizza

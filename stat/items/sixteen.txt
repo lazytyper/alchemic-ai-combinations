@@ -1,0 +1,14 @@
+==================================
+= Sixteen
+==================================
+
+created by:
+===========
+Eight + Eight = Sixteen
+Octuple + Octuple = Sixteen
+
+Usages:
+=======
+Human + Sixteen = Teenager
+Sixteen + Sixteen = Thirty-Two
+Sixteen + Sixty-Four = Kilobyte

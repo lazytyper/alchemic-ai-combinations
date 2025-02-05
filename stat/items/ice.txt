@@ -9,3 +9,4 @@ Solid + Water = Ice
 Usages:
 =======
 Ice + Molten Gold = Golden Sculpture
+Ice + Origami = Snowflake

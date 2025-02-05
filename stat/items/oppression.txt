@@ -9,3 +9,4 @@ Dystopia + Hunger Games = Oppression
 Usages:
 =======
 Oppression + Pioneer = Resistance
+Color + Oppression = Rainbow Flag

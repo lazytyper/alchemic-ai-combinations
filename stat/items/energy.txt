@@ -20,3 +20,5 @@ Battery + Energy = Power
 Energy + Power = Force
 Energy + Flower = Solar Power
 Einstein's Theory + Energy = Mass
+Color + Energy = Light
+Energy + Origami = Kinetic Art

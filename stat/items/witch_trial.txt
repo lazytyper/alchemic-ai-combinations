@@ -9,3 +9,4 @@ Demonic Ritual + Pioneer = Witch Trial
 Usages:
 =======
 Pioneer + Witch Trial = Salem Witch
+Color + Witch Trial = Black Magic

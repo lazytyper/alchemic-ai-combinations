@@ -9,3 +9,4 @@ Eagle + Eagle + Sky = Air Force
 Usages:
 =======
 Air Force + Space = Spacelink
+Air Force + Wine = Buzzard

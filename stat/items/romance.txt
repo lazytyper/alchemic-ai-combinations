@@ -16,3 +16,4 @@ Fireplace + Romance = Coziness
 Cozy + Fireplace + Romance = Candlelight
 Candlelight + Romance = Ambiance
 Las Vegas + Romance = Wedding
+Romance + Teenager + Teenager = Young Love

@@ -1,0 +1,11 @@
+==================================
+= Luminosity
+==================================
+
+created by:
+===========
+Color + Radiance = Luminosity
+
+Usages:
+=======
+Color + Luminosity = Light

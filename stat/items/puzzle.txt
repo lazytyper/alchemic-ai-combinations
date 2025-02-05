@@ -12,3 +12,4 @@ Poet + Puzzle = Riddle
 Puzzle + Sentence = Wordplay
 Beach + Puzzle = Sandcastle
 Matter + Puzzle = Problem
+Origami + Puzzle = Puzzlebox

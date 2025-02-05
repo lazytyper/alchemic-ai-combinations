@@ -16,3 +16,4 @@ Fairy Tale + Rose = Beauty
 Fairy + Fairy Tale = Pixie Dust
 Fairy Tale + Magic Carpet = Aladdin
 Fairy Tale + Wolf = Red Riding Hood
+Fairy Tale + Heart = Fairy Tale Romance

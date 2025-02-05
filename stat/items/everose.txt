@@ -9,3 +9,4 @@ Everest + Rose = Everose
 Usages:
 =======
 Everose + Rose = Pinkification
+Color + Everose = Rose Gold

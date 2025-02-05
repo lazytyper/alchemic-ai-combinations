@@ -10,3 +10,4 @@ Usages:
 =======
 Rose + Sandstorm = Desert Bloom
 Pioneer + Sandstorm = Dust Bowl
+Origami + Sandstorm = Dust Art

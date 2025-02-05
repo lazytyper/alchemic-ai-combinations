@@ -9,3 +9,4 @@ Evolution + Paradise Lost = Darwin
 Usages:
 =======
 City + Darwin = Sydney
+Darwin + Origami = Evolutionary Art

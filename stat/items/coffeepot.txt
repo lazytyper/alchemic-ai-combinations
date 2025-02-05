@@ -9,3 +9,4 @@ Coffee Table + Hazard = Coffeepot
 Usages:
 =======
 Coffeepot + Hazard = Explosion
+Coffeepot + Color = Painter

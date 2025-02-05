@@ -30,3 +30,4 @@ Letter + Matter = Litter
 Letter + Litter = Literature
 Letter + Literature = Writing
 Ink + Letter = Letterhead
+Christmas + Letter = Card

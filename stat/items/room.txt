@@ -227,3 +227,4 @@ Room + Sand = Sandbox
 Jadeite + Room = Jewel Box
 Kermit + Room = Muppet
 London + Room = Hogwarts
+Christmas + Room = Snowglobe

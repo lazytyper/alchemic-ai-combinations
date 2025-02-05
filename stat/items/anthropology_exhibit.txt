@@ -9,3 +9,4 @@ History Museum + Human = Anthropology Exhibit
 Usages:
 =======
 Anthropology Exhibit + Pioneer = Smithsonian
+Anthropology Exhibit + Origami = Cultural Art

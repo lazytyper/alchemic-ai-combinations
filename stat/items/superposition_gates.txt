@@ -1,0 +1,11 @@
+==================================
+= Superposition Gates
+==================================
+
+created by:
+===========
+Quantum Computing + Quantum Computing = Superposition Gates
+
+Usages:
+=======
+Superposition Gates + Superposition Gates = Quantum Computer

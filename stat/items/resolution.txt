@@ -1,0 +1,11 @@
+==================================
+= Resolution
+==================================
+
+created by:
+===========
+Camera + Megapixel = Resolution
+
+Usages:
+=======
+High + Resolution = Hdr

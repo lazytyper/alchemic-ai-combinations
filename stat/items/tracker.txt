@@ -11,3 +11,4 @@ Usages:
 Detective + Tracker = Sleuth
 Song + Tracker = Playlist
 Firebat + Tracker = Scout
+Origami + Tracker = Folding Map

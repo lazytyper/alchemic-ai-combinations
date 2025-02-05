@@ -9,3 +9,4 @@ Jester + Matter = Quark
 Usages:
 =======
 Matter + Quark = Atom
+Color + Quark = Chromodynamics

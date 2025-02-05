@@ -9,3 +9,4 @@ Air + Charmander = Smogon
 Usages:
 =======
 Room + Smogon = Battlefield
+Origami + Smogon = Gamba

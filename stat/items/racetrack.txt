@@ -11,3 +11,4 @@ Usages:
 Bicycle + Racetrack = Velodrome
 Racetrack + Stormwatch = Chase
 Racetrack + Wine = Chateau
+Color + Racetrack = Rainbow Road

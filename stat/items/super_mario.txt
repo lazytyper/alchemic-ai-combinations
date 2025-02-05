@@ -10,3 +10,4 @@ Usages:
 =======
 Mushroom + Super Mario = 1-Up
 Pioneer + Super Mario = Mario Kart
+Origami + Super Mario = Paper Mario

@@ -9,3 +9,4 @@ Starship + Toddler = Space Explorer
 Usages:
 =======
 Hazard + Space Explorer = Astrohazard
+Origami + Space Explorer = Papercraft Astronaut

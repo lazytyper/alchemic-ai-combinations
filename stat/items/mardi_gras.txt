@@ -9,3 +9,4 @@ Florida + Masquerade = Mardi Gras
 Usages:
 =======
 Mardi Gras + Power Outage = Dark Carnival
+Color + Mardi Gras = Beads

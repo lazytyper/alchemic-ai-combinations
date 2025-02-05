@@ -17,3 +17,4 @@ Paradise + Water = Oasis
 Paradise + Rockstar = Heavenly Star
 Eagle + Paradise = Eagle's Nest
 Genie + Paradise = Wishes
+Paradise + Wine = Elysium

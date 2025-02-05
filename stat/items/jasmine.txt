@@ -9,3 +9,4 @@ Aladdin + Flower = Jasmine
 Usages:
 =======
 Demon + Jasmine = Demoness
+Color + Jasmine = Green Tea

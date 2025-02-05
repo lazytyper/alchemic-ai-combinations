@@ -1,0 +1,11 @@
+==================================
+= Cocktail
+==================================
+
+created by:
+===========
+Alcohol + Liquid = Cocktail
+
+Usages:
+=======
+Cocktail + Color = Cosmopolitan

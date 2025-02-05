@@ -11,3 +11,4 @@ Usages:
 Photograph + Pollen = Photo-Reactive
 Computer + Photograph = Digital
 Binary + Photograph = Pixel
+Color + Photograph = Saturation

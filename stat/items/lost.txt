@@ -10,3 +10,4 @@ Usages:
 =======
 Blade + Lost = Bladeless
 Capricorn + Lost = Goalkeeper
+Color + Lost = Colorscape

@@ -9,3 +9,4 @@ Hipster + Hipster + Hipster + Hipster = Group Of Friends
 Usages:
 =======
 Chrononaut + Group Of Friends = Time Travelers
+Color + Group Of Friends = Squad

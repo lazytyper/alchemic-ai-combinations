@@ -29,3 +29,5 @@ Heavenly Star + Plant = Starflower
 Liquid + Plant = Tea
 Color + Plant = Green
 Plant + Substance = Herbal Remedy
+Farmland + Plant = Crop
+Plant + Zombie = Halloween

@@ -1,0 +1,11 @@
+==================================
+= Spaceship
+==================================
+
+created by:
+===========
+City + Starship = Spaceship
+
+Usages:
+=======
+Color + Spaceship = Futuristic

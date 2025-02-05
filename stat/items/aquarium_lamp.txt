@@ -10,3 +10,4 @@ Usages:
 =======
 Aquarium Lamp + Cosmology = Star Light
 Aquarium Lamp + Room = Mood Light
+Aquarium Lamp + Color = Colorful Aquarium

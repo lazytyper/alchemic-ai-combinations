@@ -10,3 +10,4 @@ Usages:
 =======
 Gatorade + Room = Hydration Station
 Gatorade + Pioneer = Energizer
+Gatorade + Wine = Grapeade

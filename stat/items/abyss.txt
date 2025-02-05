@@ -11,3 +11,4 @@ Usages:
 Abyss + Cloudforest = Darkness
 Abyss + Nautilus = Submarine
 Abyss + Rose = Threshold
+Abyss + Color = Abyssal

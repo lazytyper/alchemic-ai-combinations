@@ -9,3 +9,4 @@ Catastrophe + Drought = Famine
 Usages:
 =======
 Famine + Hades = Pluto
+Famine + Origami = Starvation

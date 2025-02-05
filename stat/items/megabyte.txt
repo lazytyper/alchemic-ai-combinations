@@ -1,0 +1,12 @@
+==================================
+= Megabyte
+==================================
+
+created by:
+===========
+Kilobyte + Kilobyte = Megabyte
+
+Usages:
+=======
+Megabyte + Megabyte = Gigabyte
+Megabyte + Pixel = Megapixel

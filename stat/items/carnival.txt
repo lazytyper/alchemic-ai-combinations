@@ -11,3 +11,5 @@ Usages:
 Carnival + Picnic = Festival
 Carnival + City = Rio
 Carnival + Room = Funhouse
+Carnival + Color = Parade
+Carnival + Paper = Confetti

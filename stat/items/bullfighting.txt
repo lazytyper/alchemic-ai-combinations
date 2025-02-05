@@ -9,3 +9,4 @@ Matador + Rose = Bullfighting
 Usages:
 =======
 Bullfighting + Wine = Tapas
+Bullfighting + Color = Red Cape

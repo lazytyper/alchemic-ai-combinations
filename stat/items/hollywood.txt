@@ -12,3 +12,5 @@ Award + Hollywood = Oscar
 Hollywood + Monument = Walk Of Fame
 Hollywood + Mountain = Hollywoodland
 Hollywood + Mountain = Result Beverly Hills
+Color + Hollywood = Technicolor
+Color + Hollywood = Red Carpet

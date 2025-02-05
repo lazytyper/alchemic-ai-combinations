@@ -11,3 +11,4 @@ Usages:
 =======
 Rose + T-Rex = Dinoflora
 Firedance + T-Rex = Dinosaur Dance
+Color + T-Rex = Dinosaur Art

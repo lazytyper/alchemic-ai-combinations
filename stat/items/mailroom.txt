@@ -10,3 +10,4 @@ Usages:
 =======
 Giant + Mailroom = Culinary
 Mailroom + Pioneer = Postmaster
+Mailroom + Origami = Folding Station

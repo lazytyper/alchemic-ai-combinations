@@ -9,3 +9,4 @@ Fool's Gold + Oxygen = Iron Oxide
 Usages:
 =======
 Iron Oxide + Oxygen = Rust
+Iron Oxide + Origami = Rustling

@@ -9,3 +9,4 @@ Material + Pot Of Gold = Gold Coin
 Usages:
 =======
 Gold Coin + Material = Treasure Map
+Color + Gold Coin = Golden Hue

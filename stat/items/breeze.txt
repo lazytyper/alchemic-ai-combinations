@@ -12,3 +12,4 @@ Breeze + Skyland = Airship
 Breeze + Diver = Windsurfer
 Breeze + Witchcraft = Air Magic
 Breeze + Sweets = Candyfloss
+Breeze + Wine = Windfall

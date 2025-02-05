@@ -9,3 +9,4 @@ Monster + Ruin = Abandoned Castle
 Usages:
 =======
 Abandoned Castle + Room = Haunted Chamber
+Abandoned Castle + Color = Ghost Castle

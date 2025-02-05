@@ -5,7 +5,9 @@
 created by:
 ===========
 Candy + Cookie + Milk = Dessert
+Christmas + Parfait = Dessert
 
 Usages:
 =======
 Dessert + Yogurt = Parfait
+Color + Dessert = Red Velvet

@@ -1,0 +1,12 @@
+==================================
+= Sixty-Four
+==================================
+
+created by:
+===========
+Thirty-Two + Thirty-Two = Sixty-Four
+
+Usages:
+=======
+Sixty-Four + Sixty-Four = Chessboard
+Sixteen + Sixty-Four = Kilobyte

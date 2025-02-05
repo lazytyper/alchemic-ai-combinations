@@ -10,3 +10,4 @@ Pioneer + Pope = Popeye
 Usages:
 =======
 Partner + Popeye = Spinach
+Color + Popeye = Olive Oil

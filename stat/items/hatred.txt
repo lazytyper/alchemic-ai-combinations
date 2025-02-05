@@ -9,3 +9,4 @@ Hate + Wisp = Hatred
 Usages:
 =======
 Hatred + Religion = Fanaticism
+Hatred + Sexuality = Lust

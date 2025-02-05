@@ -9,3 +9,4 @@ Agriculture + Desentization = Farm Therapy
 Usages:
 =======
 City + Farm Therapy = Urban Agriculture
+Farm Therapy + Origami = Art Therapy

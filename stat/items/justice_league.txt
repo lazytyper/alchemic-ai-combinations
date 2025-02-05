@@ -10,3 +10,4 @@ Usages:
 =======
 Justice League + Twilight = Vampire Hero
 Justice League + Masquerade = Masked Heroes
+Color + Justice League = Green Lantern

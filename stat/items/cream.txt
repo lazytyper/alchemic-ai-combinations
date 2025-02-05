@@ -10,3 +10,4 @@ Usages:
 =======
 Cream + Strawberry = Strawberryshortcake
 Cream + Substance = Lotion
+Color + Cream = Beige

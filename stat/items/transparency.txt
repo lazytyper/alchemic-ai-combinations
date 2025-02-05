@@ -11,3 +11,4 @@ Usages:
 Coconut + Transparency = Clear Water
 Rose + Transparency = Glasshouse
 Transparency + Wine = Clarity
+Origami + Transparency = Window Art

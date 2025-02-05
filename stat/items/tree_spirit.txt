@@ -9,3 +9,4 @@ Dryad + Nature Magic = Tree Spirit
 Usages:
 =======
 Aquaman + Tree Spirit = Ent
+Origami + Tree Spirit = Kodama

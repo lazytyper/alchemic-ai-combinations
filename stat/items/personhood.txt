@@ -9,3 +9,4 @@ Avatar + Rights = Personhood
 Usages:
 =======
 Personhood + Room = Living Space
+Color + Personhood = Identity

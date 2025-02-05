@@ -10,3 +10,4 @@ Usages:
 =======
 Mountain + Peak = Summit
 Mudshow + Peak = Circus
+Origami + Peak = Mountain Fold

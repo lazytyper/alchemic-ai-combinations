@@ -9,3 +9,4 @@ Digestion + Human = Enzymes
 Usages:
 =======
 Enzymes + Pioneer = Biochemist
+Enzymes + Teenager = Hormones

@@ -11,3 +11,4 @@ Usages:
 Iceberg + Ship = Titanic
 Crash + Iceberg = Titanic
 Iceberg + Iceberg = Titanic
+Color + Iceberg = Cyanobacteria

@@ -9,3 +9,4 @@ Clinton + President = Bill
 Usages:
 =======
 Bill + Pioneer = Billboard
+Bill + Origami = Money Art

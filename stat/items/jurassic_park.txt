@@ -11,3 +11,4 @@ Usages:
 Jurassic Park + Ranger = Dinosaurs
 Jurassic Park + Lava Lamp = Dinosaur Lamp
 Jurassic Park + Rose = T-Rex
+Color + Jurassic Park = Dinosaur Garden

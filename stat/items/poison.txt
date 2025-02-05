@@ -18,3 +18,4 @@ Plant + Poison = Nightshade
 Poison + Soulmate = Toxic Love
 Antidote + Poison = Cure
 Apple + Poison = Snow White
+Origami + Poison = Shuriken

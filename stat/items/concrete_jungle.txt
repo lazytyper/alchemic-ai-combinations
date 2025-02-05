@@ -9,3 +9,4 @@ Elements + New York = Concrete Jungle
 Usages:
 =======
 Concrete Jungle + Pioneer = Urban Explorer
+Color + Concrete Jungle = Urban Art

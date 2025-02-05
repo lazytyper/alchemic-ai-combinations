@@ -60,3 +60,4 @@ Life + Rain = Growth
 City + Life = Urbanization
 Life + Wood = Tree
 Life + Room = Nursing
+Life + Origami = Crane

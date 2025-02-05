@@ -9,3 +9,4 @@ Melt + Rose = Melrose
 Usages:
 =======
 Hazard + Melrose = Adamantium
+Color + Melrose = Pink Lemon

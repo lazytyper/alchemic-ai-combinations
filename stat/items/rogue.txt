@@ -9,3 +9,4 @@ Ogre + Rose = Rogue
 Usages:
 =======
 Rogue + Room = Rogue-Like
+Origami + Rogue = Ninja

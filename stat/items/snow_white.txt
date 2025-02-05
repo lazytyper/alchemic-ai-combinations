@@ -16,3 +16,4 @@ Apocalypso + Snow White = Grim Fairytale
 Royalty + Snow White = Queen Grimhilde
 Snow White + Song = Whistle
 Room + Snow White = Dwarfs
+Color + Snow White = Snowball

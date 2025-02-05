@@ -9,3 +9,4 @@ Baby + Baby + Baby + Baby = Quadruplets
 Usages:
 =======
 Quadruplets + Vase = Flowerpot
+Origami + Quadruplets = Paper Cranes

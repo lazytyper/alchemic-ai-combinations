@@ -10,3 +10,4 @@ Usages:
 =======
 Room + Stealth = Hiding Spot
 Room + Stealth = Hiding
+Origami + Stealth = Ninja

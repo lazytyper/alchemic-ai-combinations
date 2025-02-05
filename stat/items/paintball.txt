@@ -9,3 +9,4 @@ Battle Arena + Masquerade = Paintball
 Usages:
 =======
 Paintball + Pioneer = Splatterpunk
+Color + Paintball = Splat

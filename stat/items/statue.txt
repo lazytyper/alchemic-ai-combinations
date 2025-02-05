@@ -10,3 +10,4 @@ Monument + Rock = Statue
 Usages:
 =======
 Eternal Youth + Statue = Dorian Gray
+Color + Statue = Bronze

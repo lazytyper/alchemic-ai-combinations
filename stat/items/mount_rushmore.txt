@@ -11,4 +11,4 @@ Usages:
 =======
 Mount Rushmore + View = Landmark
 Mount Rushmore + President = Washington
-Mount Rushmore + Mount Rushmore + Mount Rushmore + Mount Rushmore = Mr Rushmore Monument
+Mount Rushmore + Mount Rushmore + Mount Rushmore + Mount Rushmore = Mt Rushmore Monument

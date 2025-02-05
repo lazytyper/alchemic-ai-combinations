@@ -14,3 +14,4 @@ Bond + Fossil = Bonding Agent
 Boat + Bond = Boatman
 Bond + Friendship = Camaraderie
 Bond + Pioneer = Daniel Boone
+Bond + Christmas = Bonding

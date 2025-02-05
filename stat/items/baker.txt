@@ -14,3 +14,4 @@ Baker + Milk = Cheesecake
 Baker + Cheese = Cheesecake
 Baker + Dancer = Cakewalk
 Baker + Pioneer = Breadwinner
+Baker + Christmas = Cookies

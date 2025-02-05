@@ -17,3 +17,4 @@ Rockstar + Songwriter = Musician
 Elvis Presley + Rockstar = Rock And Roll
 Rockstar + Singer = Popstar
 Heaven + Rockstar = Heavenly
+Origami + Rockstar = Paper Jam

@@ -11,3 +11,5 @@ Usages:
 Dictatorship + Hazard = Tyranny
 Dictatorship + Room = Dungeon
 Dictatorship + Pioneer = Authoritarism
+Color + Dictatorship = Red Terror
+Christmas + Dictatorship = Santa Claus

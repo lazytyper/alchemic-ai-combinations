@@ -9,4 +9,4 @@ Rosedust + Substance = Roses
 
 Usages:
 =======
-Roses + Roses = Liquid
+Liquid + Roses + Roses = Rose Water

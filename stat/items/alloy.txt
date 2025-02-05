@@ -12,3 +12,4 @@ Alloy + Alloy = Steel
 Alloy + Rose = Bronze
 Alloy + Vodka = Bemol
 Alloy + Monster = Hybrid
+Alloy + Origami = Metal Crane

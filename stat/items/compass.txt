@@ -11,3 +11,4 @@ Usages:
 =======
 Compass + Rose = Map
 Compass + Wine = Wineware
+Color + Compass = Magnet

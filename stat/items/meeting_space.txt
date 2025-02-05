@@ -9,3 +9,4 @@ Design Conference + Room = Meeting Space
 Usages:
 =======
 Meeting Space + Pioneer = Coworking
+Meeting Space + Origami = Folding Room

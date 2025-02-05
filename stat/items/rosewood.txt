@@ -10,3 +10,4 @@ Usages:
 =======
 Fireplace + Rosewood = Woodstove
 Devil's Garden + Rosewood = Harsh Beauty
+Color + Rosewood = Woodstain

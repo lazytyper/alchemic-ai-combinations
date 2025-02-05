@@ -10,3 +10,4 @@ Usages:
 =======
 Fisherman + Sailboat = Mariner
 Fisherman + Genie = Wishmaster
+Fisherman + Origami = Paper Boat

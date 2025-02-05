@@ -10,3 +10,4 @@ Usages:
 =======
 Hocus Pocus + Trombone = Trombonist
 Hocus Pocus + Wine = Witches Brew
+Hocus Pocus + Origami = Magic Paper

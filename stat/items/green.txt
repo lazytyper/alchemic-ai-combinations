@@ -9,3 +9,4 @@ Color + Plant = Green
 Usages:
 =======
 Green + Room = Groom
+Color + Green = Emerald

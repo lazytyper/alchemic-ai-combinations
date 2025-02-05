@@ -11,3 +11,4 @@ Usages:
 Glass + Nemo = Glassfish
 Atlantis + Nemo = Nautilus
 City + Nemo = Emo
+Color + Nemo = Finding Dory

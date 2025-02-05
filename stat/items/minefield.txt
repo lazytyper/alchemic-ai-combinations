@@ -1,0 +1,11 @@
+==================================
+= Minefield
+==================================
+
+created by:
+===========
+Cakewalk + Hazard = Minefield
+
+Usages:
+=======
+Christmas + Minefield = Ghosts

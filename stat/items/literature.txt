@@ -9,3 +9,4 @@ Letter + Litter = Literature
 Usages:
 =======
 Letter + Literature = Writing
+Literature + Origami = Book Folding

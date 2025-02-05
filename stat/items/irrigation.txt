@@ -10,3 +10,4 @@ Usages:
 =======
 Irrigation + Jackson = Jacksonville
 Archer + Irrigation = Bowman
+Irrigation + Origami = Water Art

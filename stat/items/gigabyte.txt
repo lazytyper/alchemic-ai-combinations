@@ -1,0 +1,11 @@
+==================================
+= Gigabyte
+==================================
+
+created by:
+===========
+Megabyte + Megabyte = Gigabyte
+
+Usages:
+=======
+Gigabyte + Gigabyte = Terabyte

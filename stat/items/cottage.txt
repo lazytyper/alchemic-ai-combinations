@@ -9,3 +9,4 @@ Gingerbread + House = Cottage
 Usages:
 =======
 Binary Code + Cottage = Cottagecore
+Color + Cottage = Colorful

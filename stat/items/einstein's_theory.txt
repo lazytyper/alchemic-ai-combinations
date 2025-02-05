@@ -9,3 +9,4 @@ Scientific Discovery + Scientist = Einstein's Theory
 Usages:
 =======
 Einstein's Theory + Energy = Mass
+Color + Einstein's Theory = Relativity

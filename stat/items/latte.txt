@@ -11,3 +11,4 @@ Usages:
 =======
 Drink + Latte = Cappuccino
 Latte + Substance = Caffeine
+Color + Latte = Mocha

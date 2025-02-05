@@ -10,3 +10,4 @@ Usages:
 =======
 Author + Riddle = Sphinx
 Pioneer + Riddle = Sage
+Origami + Riddle = Paper Puzzle

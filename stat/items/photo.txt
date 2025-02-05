@@ -19,3 +19,4 @@ Album + Laptop + Photo = Slideshow
 Album + Computer + Photo = Photobook
 Photo + Rose = Photograph
 Camera + Photo = Picture
+Origami + Photo = Photogram

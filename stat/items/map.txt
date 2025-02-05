@@ -9,3 +9,4 @@ Compass + Rose = Map
 Usages:
 =======
 Map + Rose = Navigation
+Map + Origami = Map-Folding

@@ -9,3 +9,4 @@ Druid + Scroll = Spellbook
 Usages:
 =======
 Spellbook + Woodstock = Magic Festival
+Color + Spellbook = Grimoire

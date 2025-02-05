@@ -1,0 +1,11 @@
+==================================
+= Warning
+==================================
+
+created by:
+===========
+Flare + Hazard = Warning
+
+Usages:
+=======
+Color + Warning = Alert

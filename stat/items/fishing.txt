@@ -10,3 +10,4 @@ Usages:
 =======
 Fishing + Human = Angler
 Fishing + Yacht = Yachting
+Fishing + Origami = Fish Paper

@@ -10,3 +10,5 @@ Usages:
 =======
 Room + Woman = Madame
 Room + Woman = Womb
+Color + Woman = Pink
+Sexuality + Woman = Femininity

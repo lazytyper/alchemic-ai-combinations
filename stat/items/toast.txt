@@ -9,3 +9,4 @@ Bread + Time = Toast
 Usages:
 =======
 Time + Toast = Breakfast
+Color + Toast = Toastmaster

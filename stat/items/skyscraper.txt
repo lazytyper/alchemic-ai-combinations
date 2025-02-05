@@ -9,3 +9,4 @@ Building + Building = Skyscraper
 Usages:
 =======
 Skyscraper + Worker = Construction
+Origami + Skyscraper = Paper Architect

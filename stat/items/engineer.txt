@@ -11,3 +11,5 @@ Usages:
 Engineer + Space = Rocket
 Engineer + Steve Jobs = Innovator
 Engineer + Room = Lab
+Color + Engineer = Traffic Light
+Engineer + Origami = Folding Machine

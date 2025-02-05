@@ -10,3 +10,5 @@ Usages:
 =======
 Blueprint + Science = Technology
 Radioactivity + Science = Nuclear
+Color + Science = Chromatography
+Origami + Science = Paper Engineering

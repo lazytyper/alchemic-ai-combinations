@@ -9,3 +9,4 @@ Dehydration + Hydration = Electrolyte
 Usages:
 =======
 Electrolyte + Elixir Of Immortality = Life Potion
+Electrolyte + Origami = Paper Battery

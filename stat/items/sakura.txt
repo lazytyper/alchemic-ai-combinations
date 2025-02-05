@@ -14,3 +14,4 @@ Sakura + Wind = Petals
 Death + Sakura = Sakura-Mori
 Cherry Blossoms + Sakura = Flowers
 Sakura + Wine = Sake
+Christmas + Sakura = Cherry Blossom

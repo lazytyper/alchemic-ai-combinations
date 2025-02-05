@@ -10,3 +10,4 @@ Usages:
 =======
 Cocoon + Cocoon + Cocoon + Cocoon = Caterpillar
 Cocoon + Cocoon + Cocoon = Chrysalis
+Cocoon + Origami = Silk Art

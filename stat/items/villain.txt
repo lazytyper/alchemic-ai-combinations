@@ -10,3 +10,4 @@ Usages:
 =======
 Fairy Godmother + Villain = Enchantress
 Pioneer + Villain = Antihero
+Color + Villain = Joker

@@ -1,0 +1,11 @@
+==================================
+= Asimov
+==================================
+
+created by:
+===========
+Pioneer + Roboticist = Asimov
+
+Usages:
+=======
+Asimov + Color = Foundation

@@ -9,3 +9,4 @@ Hominid + Rose = Neanderthal
 Usages:
 =======
 Neanderthal + Room = Cavern
+Neanderthal + Origami = History Art

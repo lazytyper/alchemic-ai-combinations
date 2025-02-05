@@ -9,3 +9,4 @@ Aquatic Fun + Hazard = Waterpark
 Usages:
 =======
 Pioneer + Waterpark = Splashdown
+Color + Waterpark = Splash

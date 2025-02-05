@@ -10,3 +10,4 @@ Usages:
 =======
 Animal + Windhorse = Pegasus
 Rose + Windhorse = Windrose
+Origami + Windhorse = Paper Kite

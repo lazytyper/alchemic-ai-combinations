@@ -9,3 +9,4 @@ Radioactivity + Scientist = Radiation
 Usages:
 =======
 Radiation + Wine = Radon
+Color + Radiation = Green Glow

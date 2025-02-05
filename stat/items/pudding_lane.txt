@@ -9,3 +9,4 @@ London + Monument = Pudding Lane
 Usages:
 =======
 Hiking + Pudding Lane = Conundrum
+Origami + Pudding Lane = Paper Street

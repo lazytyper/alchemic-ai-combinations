@@ -11,3 +11,4 @@ Usages:
 =======
 Anglerfish + Rose = Love Bite
 Anglerfish + Rose = Lovebite
+Anglerfish + Color = Bioluminence

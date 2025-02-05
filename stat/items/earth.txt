@@ -33,3 +33,4 @@ Earth + Enlightenment = Zen
 Earth + Landscape = Terrain
 Earth + Earth + Earthquake = Tectonic Plate
 Comet + Earth = Impact Crater
+Christmas + Earth = Santa

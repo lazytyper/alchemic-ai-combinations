@@ -9,3 +9,4 @@ Singer + Woodstock = Hendrix
 Usages:
 =======
 Hendrix + Wine = Purple Haze
+Hendrix + Origami = Lucid Dreams

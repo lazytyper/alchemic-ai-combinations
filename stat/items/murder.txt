@@ -9,3 +9,4 @@ Mystery Novel + Rose = Murder
 Usages:
 =======
 City + Murder = Crime
+Murder + Origami = Cranes

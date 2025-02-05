@@ -9,3 +9,4 @@ Demon + Fortress = Demonology
 Usages:
 =======
 Demonology + Pioneer = Demon Hunter
+Color + Demonology = Carmine

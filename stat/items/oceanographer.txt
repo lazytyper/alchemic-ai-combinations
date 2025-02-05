@@ -10,3 +10,4 @@ Usages:
 =======
 Oceanographer + Rose = Coral
 Oceanographer + Yacht = Yachtmaster
+Color + Oceanographer = Blue Ocean

@@ -13,3 +13,4 @@ Political Corruption + Sun = Sunshine Law
 Political Corruption + Rose = Money Laundering
 Political Corruption + Room = Smoking Gun
 Pioneer + Political Corruption = Reformer
+Color + Political Corruption = Pork Barrel

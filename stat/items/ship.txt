@@ -17,3 +17,4 @@ Mariner + Ship = Sailor
 Iceberg + Ship = Titanic
 Ship + Stars = Starship
 Cruise + Ship = Liner
+Animatronic + Ship = Robot Pirate

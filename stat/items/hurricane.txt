@@ -14,3 +14,4 @@ Hard Place + Hurricane = Disaster
 Heaven + Hurricane = Windsong
 Hurricane + Vase = Windbreak
 Hope + Hurricane = Stormbreak
+Color + Hurricane = Greyhound

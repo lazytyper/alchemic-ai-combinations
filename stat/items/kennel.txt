@@ -1,0 +1,11 @@
+==================================
+= Kennel
+==================================
+
+created by:
+===========
+Animal + Doghouse = Kennel
+
+Usages:
+=======
+Kennel + Origami = Dog House

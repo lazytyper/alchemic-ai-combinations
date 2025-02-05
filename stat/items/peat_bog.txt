@@ -9,3 +9,4 @@ Moss + Moss + Moss = Peat Bog
 Usages:
 =======
 Monster + Peat Bog = Swamp Creature
+Color + Peat Bog = Mire

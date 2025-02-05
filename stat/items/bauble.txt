@@ -1,0 +1,11 @@
+==================================
+= Bauble
+==================================
+
+created by:
+===========
+Hazard + Knife = Bauble
+
+Usages:
+=======
+Bauble + Color = Ornament

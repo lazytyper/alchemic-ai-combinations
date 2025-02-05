@@ -9,3 +9,4 @@ Carbon Dioxide + Fire = Carbon Monoxide
 Usages:
 =======
 Carbon Monoxide + Storm = Danger
+Carbon Monoxide + Color = Safety Sign

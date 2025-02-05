@@ -10,3 +10,4 @@ Usages:
 =======
 Sorceress + Waves = Sea Witch
 Animal + Sorceress = Beastmaster
+Color + Sorceress = Purlpe Witch

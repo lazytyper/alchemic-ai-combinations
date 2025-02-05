@@ -1,0 +1,11 @@
+==================================
+= Smoker
+==================================
+
+created by:
+===========
+Room + Smokebox = Smoker
+
+Usages:
+=======
+Color + Smoker = Smoky Hue

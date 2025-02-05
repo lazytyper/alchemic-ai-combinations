@@ -9,3 +9,4 @@ Echo Chamber + Pioneer = Soundwave
 Usages:
 =======
 Pioneer + Soundwave = Speaker
+Color + Soundwave = Synesthesia

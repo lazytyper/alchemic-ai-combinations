@@ -10,3 +10,4 @@ Usages:
 =======
 Dogman + Dogman = Duplication
 Dogman + Room = Doghouse
+Dogman + Religion = Dogma

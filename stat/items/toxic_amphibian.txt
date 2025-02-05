@@ -10,3 +10,4 @@ Usages:
 =======
 Thing + Toxic Amphibian = Poison Dart
 Giant + Toxic Amphibian = Frogzilla
+Color + Toxic Amphibian = Poison Dart Frog

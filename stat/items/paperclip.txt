@@ -1,0 +1,11 @@
+==================================
+= Paperclip
+==================================
+
+created by:
+===========
+Origami + Settler = Paperclip
+
+Usages:
+=======
+Origami + Paperclip = Fly

@@ -10,3 +10,4 @@ Usages:
 =======
 Animal + Doghouse = Kennel
 Doghouse + Human = Pet Owner
+Christmas + Doghouse = Poundcake

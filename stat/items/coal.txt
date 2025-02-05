@@ -14,3 +14,4 @@ Coal + Sustainable Farming = Biochar
 Coal + Racecourse = Cinder Track
 Coal + Pressure = Diamond
 Coal + Woodstock = Rock Music
+Coal + Origami = Coalmine

@@ -9,3 +9,4 @@ Aang + Growth Potion = Avatar State
 Usages:
 =======
 Avatar State + Fireplace = Firebending
+Avatar State + Color = Energybending

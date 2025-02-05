@@ -1,0 +1,11 @@
+==================================
+= Rural Area
+==================================
+
+created by:
+===========
+City + Farm = Rural Area
+
+Usages:
+=======
+Color + Rural Area = Pastoral

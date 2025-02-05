@@ -10,3 +10,4 @@ Usages:
 =======
 Monster Truck + Rose = Monster Bloom
 Monster Truck + Pioneer = Bigfoot
+Monster Truck + Origami = Paper Beast

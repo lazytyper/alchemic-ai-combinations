@@ -10,3 +10,4 @@ Usages:
 =======
 Ecotourism + Rose = Sustainable Garden
 Ecotourism + Superhero = Ecohero
+Color + Ecotourism = Green Tourism

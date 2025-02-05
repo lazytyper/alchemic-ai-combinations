@@ -6,6 +6,7 @@ created by:
 ===========
 Harvest + Onsen Sakura = Cherry Blossom
 Sakura + Tree = Cherry Blossom
+Christmas + Sakura = Cherry Blossom
 
 Usages:
 =======
@@ -35,3 +36,4 @@ Cherry Blossom + Enchanted Forest = Fairy Grove
 Cherry Blossom + Roseland = Floral Park
 Cherry Blossom + Philosophy = Whimsical Thought
 Cherry Blossom + Hanami = Sakura Viewing
+Cherry Blossom + Sexuality = Cytomegalovirus

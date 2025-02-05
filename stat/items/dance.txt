@@ -11,3 +11,5 @@ Usages:
 Dance + Rose = Ballerina
 City + Dance = Disco
 Dance + Photobook = Pictorial
+Dance + Origami = Flexibility
+Dance + Origami = Pantomime

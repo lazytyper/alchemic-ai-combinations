@@ -70,3 +70,4 @@ Fireplace + Theater = Storytelling
 Fireplace + Satan = Hellfire
 Detective Story + Fireplace = Mystery Novel
 Cookie + Fireplace = S'more
+Christmas + Fireplace = Stockings

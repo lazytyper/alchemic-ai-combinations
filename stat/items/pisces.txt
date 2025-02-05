@@ -9,3 +9,4 @@ Horoscope + Trident = Pisces
 Usages:
 =======
 Pisces + Rose = Flower Child
+Pisces + Sexuality = Sexiness

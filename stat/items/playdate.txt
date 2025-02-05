@@ -11,3 +11,4 @@ Usages:
 Matchmaker + Playdate = Party
 Lipstick + Playdate = Makeup Party
 Hazard + Playdate = Playground
+Color + Playdate = Palette

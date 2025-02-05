@@ -9,3 +9,5 @@ Hermes + Racecar = Speedster
 Usages:
 =======
 Athlete + Speedster = Sprinter
+Origami + Speedster = Paper Plane
+Origami + Speedster = Paperplane

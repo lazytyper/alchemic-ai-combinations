@@ -9,3 +9,4 @@ Cellar + Room = Basement
 Usages:
 =======
 Basement + Cellar = Underground
+Basement + Color = Swatch

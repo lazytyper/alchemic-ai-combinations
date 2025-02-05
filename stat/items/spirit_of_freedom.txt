@@ -9,3 +9,4 @@ Eagle + Ghost Town = Spirit Of Freedom
 Usages:
 =======
 Blob + Spirit Of Freedom = Liberation
+Spirit Of Freedom + Wine = Libation

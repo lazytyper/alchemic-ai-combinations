@@ -1,0 +1,11 @@
+==================================
+= Dashboard
+==================================
+
+created by:
+===========
+Road Tripper + Rose = Dashboard
+
+Usages:
+=======
+Color + Dashboard = Speedometer

@@ -10,3 +10,4 @@ Usages:
 =======
 Hiking + Rose = Montrose
 Hiking + Pudding Lane = Conundrum
+Color + Hiking = Rainbow Trail

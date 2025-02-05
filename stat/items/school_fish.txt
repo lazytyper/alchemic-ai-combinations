@@ -9,3 +9,4 @@ Fish + Fish = School Fish
 Usages:
 =======
 Purgatory + School Fish = Detention
+Color + School Fish = Rainbow Trout

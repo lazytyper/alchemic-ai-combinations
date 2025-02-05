@@ -9,3 +9,4 @@ Human + Love Spell = Enchantment
 Usages:
 =======
 Enchantment + Life = Magic Potion
+Color + Enchantment = Charm

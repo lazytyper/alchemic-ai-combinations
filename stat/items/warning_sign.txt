@@ -1,0 +1,12 @@
+==================================
+= Warning Sign
+==================================
+
+created by:
+===========
+Chalkboard + Hazard = Warning Sign
+Hazard + Mimicry = Warning Sign
+
+Usages:
+=======
+Color + Warning Sign = Stoplight

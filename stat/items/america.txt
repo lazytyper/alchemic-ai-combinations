@@ -11,3 +11,4 @@ Usages:
 America + Captain = Steve Rogers
 America + America + America + America = Usa
 America + Pioneer = Frontier
+America + Color = Flag

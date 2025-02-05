@@ -10,3 +10,4 @@ Usages:
 =======
 Animal + Elvis = Hound Dog
 City + Elvis = Memphis
+Color + Elvis = Blue Suede

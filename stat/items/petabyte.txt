@@ -1,0 +1,11 @@
+==================================
+= Petabyte
+==================================
+
+created by:
+===========
+Terabyte + Terabyte = Petabyte
+
+Usages:
+=======
+Petabyte + Petabyte = Exabyte

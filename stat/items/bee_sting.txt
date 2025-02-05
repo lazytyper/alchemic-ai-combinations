@@ -9,3 +9,4 @@ Hazard + Honeybee = Bee Sting
 Usages:
 =======
 Bee Sting + Pioneer = Beecher
+Bee Sting + Origami = Stingray

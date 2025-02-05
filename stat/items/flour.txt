@@ -10,3 +10,4 @@ Wheat + Windmill = Flour
 Usages:
 =======
 Flour + Water = Dough
+Flour + Origami = Paper Mache

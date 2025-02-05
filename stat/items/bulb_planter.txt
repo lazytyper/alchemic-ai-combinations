@@ -9,3 +9,4 @@ Earth Crisis + Rose = Bulb Planter
 Usages:
 =======
 Bulb Planter + Fairy Garden = Whimsy
+Bulb Planter + Origami = Flower Sculpture

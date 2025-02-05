@@ -9,3 +9,4 @@ City + Rock And Roll = Rock Concert
 Usages:
 =======
 Rock Concert + Room = Asmr
+Origami + Rock Concert = Paper Shredder

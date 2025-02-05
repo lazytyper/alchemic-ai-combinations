@@ -12,3 +12,4 @@ Charizard + Society = Dragon Cult
 Charizard + Dryad = Dragonwood
 Charizard + Ghostbuster = Spirit Flame
 Charizard + Quarantine = Charizard-19
+Charizard + Origami = Paper Dragon

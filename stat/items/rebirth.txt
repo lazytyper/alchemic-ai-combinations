@@ -11,3 +11,4 @@ Usages:
 =======
 Bicycle + Rebirth = Cycle
 Potion + Rebirth = Elixir Of Immortality
+Christmas + Rebirth = Yule

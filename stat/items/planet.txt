@@ -9,6 +9,7 @@ Earth + Earth = Planet
 Usages:
 =======
 Inferno + Planet = Venus
+Inferno + Planet = Hellfire Planet
 Fire + Planet = Sun
 Evolution + Planet = Life
 Life + Planet = Living World
@@ -21,3 +22,4 @@ Desert + Planet = Mars
 Planet + Wave = Neptune
 Planet + Renewable Energy = Earth Hour
 Planet + Sandworm = Arrakis
+Planet + Sexuality = Mars Venus

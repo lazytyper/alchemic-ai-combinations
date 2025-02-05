@@ -11,3 +11,4 @@ Usages:
 Hope + Perspective = Optimism
 Evil Twin + Perspective = Moral Ambiguity
 Perspective + Soil = Landscape
+Color + Perspective = Hue Shift

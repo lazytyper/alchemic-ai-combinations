@@ -10,3 +10,4 @@ Usages:
 =======
 Pioneer + Suite = Conductor
 Suite + Wine = Tasting Room
+Color + Suite = Playing Cards

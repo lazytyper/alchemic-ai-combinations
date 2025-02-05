@@ -9,3 +9,4 @@ Clay Soil + Pioneer = Sod
 Usages:
 =======
 Pioneer + Sod = Sodbuster
+Color + Sod = Grass

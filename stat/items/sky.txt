@@ -20,4 +20,4 @@ Iceland + Sky = Northern Lights
 Night + Sky = Midnight
 Midnight + Sky = Nighttime
 Nighttime + Sky = Stars
-Morning + Sky = Sunset
+Morning + Sky = Sunrise

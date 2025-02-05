@@ -22,3 +22,4 @@ Glass + House = Window
 Glass + Sculpture = Crystal
 Glass + Whiskey = Tumbler
 Glass + Sun = Sunglasses
+Glass + Origami = Glassware

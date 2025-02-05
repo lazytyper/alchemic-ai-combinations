@@ -10,3 +10,4 @@ Usages:
 =======
 Jack + Rose = Titanic
 Flutter Heart + Jack = Jackpot
+Jack + Origami = Jackknife

@@ -9,3 +9,4 @@ Mushroom + Mushroom = Fungi
 Usages:
 =======
 Fungi + Mario = Supermario
+Fungi + Origami = Mushroom Art

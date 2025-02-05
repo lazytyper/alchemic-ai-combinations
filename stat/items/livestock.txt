@@ -14,3 +14,4 @@ Computer + Livestock = Farmbot
 Livestock + Mirage = Cattle Drive
 Livestock + Rose = Cowardice
 Livestock + Rose = Coward
+Color + Livestock = Rainbow Sheep

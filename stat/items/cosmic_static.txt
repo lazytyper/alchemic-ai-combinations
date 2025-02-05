@@ -9,3 +9,4 @@ Galaxy + Noise = Cosmic Static
 Usages:
 =======
 Cosmic Static + Demonic Ritual = Chaos Magic
+Color + Cosmic Static = Neon Galaxy

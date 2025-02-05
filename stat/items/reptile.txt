@@ -10,3 +10,4 @@ Usages:
 =======
 Reptile + Watson = Lizard
 Pioneer + Reptile = Dinosaur
+Color + Reptile = Green Lizard

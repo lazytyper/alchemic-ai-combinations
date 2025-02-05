@@ -9,3 +9,4 @@ Chemical Compound + Substance = Molecule
 Usages:
 =======
 Molecule + Substance = Compound
+Christmas + Molecule = Chemistry

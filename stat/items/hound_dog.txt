@@ -10,3 +10,4 @@ Usages:
 =======
 Animal + Hound Dog = Bloodhound
 Bloodhound + Hound Dog = Detection Dog
+Hound Dog + Wine = Blues

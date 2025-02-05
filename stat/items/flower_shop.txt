@@ -1,0 +1,11 @@
+==================================
+= Flower Shop
+==================================
+
+created by:
+===========
+Bouquet + Rose = Flower Shop
+
+Usages:
+=======
+Flower Shop + Origami = Paper Bouquet

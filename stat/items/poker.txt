@@ -10,3 +10,5 @@ Usages:
 =======
 Poker + Room = Cardroom
 Pioneer + Poker = Wild West
+Color + Poker = Blackjack
+Color + Poker = Flush

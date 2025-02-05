@@ -12,3 +12,4 @@ Feather + Feather = Wing
 Feather + Rescue Squad = Angel
 Feather + Room = Featherbed
 Feather + Time = Lightness
+Color + Feather = Peacock

@@ -12,3 +12,4 @@ Usages:
 Mudslide + Reality Show + Replica = Mudshow
 Mudslide + Rose = Roserade
 Magic Stone + Mudslide = Blob
+Color + Mudslide = Muddiness
