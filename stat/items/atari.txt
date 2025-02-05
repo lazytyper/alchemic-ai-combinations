@@ -9,3 +9,4 @@ Gaming + Pioneer = Atari
 Usages:
 =======
 Atari + Pioneer = Game Changer
+Atari + Chocolate = Game Bar

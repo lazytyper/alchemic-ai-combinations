@@ -9,3 +9,4 @@ Romance Potion + Rose = Love Elixir
 Usages:
 =======
 Animatron + Love Elixir = Robot Romance
+Chocolate + Love Elixir = Cupid's Brew

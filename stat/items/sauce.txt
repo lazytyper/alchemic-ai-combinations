@@ -10,3 +10,4 @@ Usages:
 =======
 Sauce + Substance = Saucepan
 Color + Sauce = Reduction
+Sauce + Tokyo = Teriyaki

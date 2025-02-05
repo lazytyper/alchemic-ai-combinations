@@ -10,3 +10,4 @@ Usages:
 =======
 Fireplace + Swordsman = Flameblade
 Sky Pirate + Swordsman = Skywalker
+Swanlake + Swordsman = Swordplay

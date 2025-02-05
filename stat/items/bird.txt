@@ -23,3 +23,6 @@ Bird + Windsong = Songbird
 Bird + Computer + River = Byte
 Bird + Rose = Nightingale
 Bird + Photobook = Birdwatching
+Bird + Pirate = Parrot
+Bird + Rum = Rumrunner
+Bird + Mailman = Postman

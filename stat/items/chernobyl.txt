@@ -11,3 +11,4 @@ Usages:
 Chernobyl + Fukushima = Nuclear Disaster
 Chernobyl + Chernobyl = Disaster
 Chernobyl + Oceanic Paradise = Underworld
+Chernobyl + Chocolate = Chernobylite

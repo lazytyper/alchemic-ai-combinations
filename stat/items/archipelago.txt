@@ -13,3 +13,4 @@ Archipelago + National Park = Nature Reserve
 Archipelago + Copycat = Imitator
 Archipelago + Explorer = Magellan
 Archipelago + Pioneer = Island Explorer
+Archipelago + Origami = Island Fold

@@ -14,3 +14,4 @@ Award + Hollywood = Oscar
 Award + Pokemon = Ash Ketchu
 Award + Mosaic = Trophy
 Award + Trophy = Prize
+Award + Tokyo = Nobel Prize

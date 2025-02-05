@@ -9,3 +9,4 @@ Legends + Room = Legendarium
 Usages:
 =======
 Legendarium + Pioneer = Tolkien
+Legendarium + Moonlight Romance = Moonlit Legend

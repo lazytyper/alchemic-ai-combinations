@@ -1,0 +1,11 @@
+==================================
+= Hound
+==================================
+
+created by:
+===========
+Animal + Tracker = Hound
+
+Usages:
+=======
+Animal + Hound = Dog

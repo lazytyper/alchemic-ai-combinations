@@ -10,3 +10,4 @@ Usages:
 =======
 Healer + Jeweler = Gemsmith
 Jeweler + Pioneer = Cartier
+Jeweler + Swan = Birdy

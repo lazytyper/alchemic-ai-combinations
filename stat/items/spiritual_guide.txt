@@ -9,3 +9,4 @@ Religion + Sherpa = Spiritual Guide
 Usages:
 =======
 Love Potion + Spiritual Guide = Soulmate
+Blackrock + Spiritual Guide = Oracle

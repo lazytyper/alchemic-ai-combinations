@@ -9,3 +9,4 @@ Matter + Shakespeare = Weight
 Usages:
 =======
 Matter + Weight = Mass
+Chocolate + Weight = Musketeer

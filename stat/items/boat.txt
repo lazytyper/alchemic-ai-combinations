@@ -18,3 +18,4 @@ Boat + Rower = Rowboat
 Boat + Dream = Dreamboat
 Apple + Boat = Carmina
 Boat + Music = Ferryman
+Boat + Origami = Paperboat

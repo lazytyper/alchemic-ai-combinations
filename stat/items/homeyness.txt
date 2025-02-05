@@ -9,3 +9,4 @@ Coziness + House = Homeyness
 Usages:
 =======
 Homeyness + Woodstock = Bohemian
+Chocolate + Homeyness = Comfort Food

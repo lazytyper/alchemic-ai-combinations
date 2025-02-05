@@ -12,3 +12,4 @@ Rust + Time = Corrosion
 Blacksmith + Rust = Forge
 Forge + Rust = Metal
 Color + Rust = Brown
+Love + Rust = Corroded Heart

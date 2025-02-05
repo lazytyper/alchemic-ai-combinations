@@ -9,3 +9,4 @@ Animal + Baby = Cub
 Usages:
 =======
 Cub + Time = Cookie
+Cub + Tokyo = Bear

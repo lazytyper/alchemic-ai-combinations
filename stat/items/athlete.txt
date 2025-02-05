@@ -20,3 +20,4 @@ Athlete + Heaven = Olympian
 Athlete + Speedster = Sprinter
 Athlete + Cave = Spelunker
 Athlete + Genie = Wishbone
+Athlete + Pride = Sportmanship

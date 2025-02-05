@@ -10,3 +10,4 @@ Usages:
 =======
 Frog Giggling + Spacelink = Moonhopper
 City + Spacelink = Starlink
+Spacelink + Swan = Cygnus

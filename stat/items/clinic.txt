@@ -11,3 +11,4 @@ Usages:
 Clinic + Worker = Healthcare
 Clinic + Hazard = Biologics
 Clinic + Room = Waiting Area
+Chocolate + Clinic = Candy Shop

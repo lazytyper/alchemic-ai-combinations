@@ -10,3 +10,4 @@ Usages:
 =======
 Quadruple + Room = Suite
 Quadruple + Quadruple = Octuple
+Origami + Quadruple = Fortune-Teller

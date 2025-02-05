@@ -15,3 +15,4 @@ Batman + Partner = Robin
 Batman + Ghost = Phantom
 Batman + Rose = Dark Knight
 Batman + Rose = Batarang
+Batman + Pride = Justice

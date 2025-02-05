@@ -15,3 +15,4 @@ Sauna + Sweat Lodge = Steam Room
 Bliss + Sauna = Euphoria
 Room + Sauna = Steamroom
 Sauna + Substance = Detox
+Origami + Sauna = Steam Crane

@@ -41,3 +41,4 @@ Computer + Photography = Editing
 Computer + Photograph = Digital
 Computer + Monster = Virus
 Computer + Substance = Data Mining
+Computer + Deep Learning = Ai

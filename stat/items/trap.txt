@@ -10,3 +10,4 @@ Usages:
 =======
 Fireplace + Trap = Firetrap
 Color + Trap = Occultism
+Origami + Trap = Mechanical Crane

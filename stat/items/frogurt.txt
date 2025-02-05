@@ -10,3 +10,4 @@ Usages:
 =======
 Frogurt + Radioactivity = Mutant Frog
 Frogurt + Pioneer = Froyo
+Chocolate + Frogurt = Frozen Dessert

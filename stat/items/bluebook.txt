@@ -9,3 +9,4 @@ Blueprint + Rose = Bluebook
 Usages:
 =======
 Bluebook + Rose = Citations
+Bluebook + Moonlight Romance = Sensationalism

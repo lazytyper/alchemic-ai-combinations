@@ -20,3 +20,4 @@ Camera + Photography = Image Capture
 Camera + Photo = Picture
 Camera + Pixel = Pixelation
 Camera + Megapixel = Resolution
+Camera + Moonlight Romance = Moonlit Photography

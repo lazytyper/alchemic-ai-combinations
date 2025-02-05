@@ -9,3 +9,4 @@ Arrow + Feudalism = Archery
 Usages:
 =======
 Archery + Pioneer = Robin Hood
+Archery + Swan = Swanbow

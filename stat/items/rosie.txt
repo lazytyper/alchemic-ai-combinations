@@ -9,3 +9,4 @@ Rose + Siri = Rosie
 Usages:
 =======
 Rosie + Substance = Burgundy
+London + Rosie = Londoner

@@ -10,3 +10,4 @@ Usages:
 =======
 Electrolyte + Elixir Of Immortality = Life Potion
 Electrolyte + Origami = Paper Battery
+Electrolyte + Origami = Electro-Origami

@@ -12,3 +12,4 @@ Obsidian + Obsidian = Mirror
 Obsidian + Spell = Magic Stone
 Obsidian + Rose = Airplane
 City + Obsidian = Blackrock
+Obsidian + Vacation = Black Sand

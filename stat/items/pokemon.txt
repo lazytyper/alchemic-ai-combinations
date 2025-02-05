@@ -5,6 +5,7 @@
 created by:
 ===========
 Animal + Charmander = Pokemon
+Cartoon + Tokyo = Pokemon
 
 Usages:
 =======

@@ -9,3 +9,4 @@ Illustration + Robinhood = Cartoon
 Usages:
 =======
 Cartoon + Photobook = Comic Book
+Cartoon + Tokyo = Pokemon

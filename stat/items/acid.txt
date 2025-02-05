@@ -9,3 +9,4 @@ Substance + Water = Acid
 Usages:
 =======
 Acid + Biology = Digestion
+Acid + Origami = Dissolution

@@ -9,3 +9,4 @@ Biomeachanoid + Room = Simulacrum
 Usages:
 =======
 Pioneer + Simulacrum = Simulation
+Simulacrum + Swan = Cygnet

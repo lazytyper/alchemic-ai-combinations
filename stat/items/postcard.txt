@@ -10,3 +10,4 @@ Usages:
 =======
 Postcard + Time = Timeline
 Balloon + Postcard = Airmail
+Origami + Postcard = Pop-Up

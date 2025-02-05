@@ -13,3 +13,4 @@ Dough + Fire = Bread
 Apple + Dough = Pie
 Dough + Oil = Pizza
 Dough + Rose = Doughnut
+Dough + Origami = Dumpling

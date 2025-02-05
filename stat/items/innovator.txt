@@ -10,3 +10,4 @@ Usages:
 =======
 Computer + Innovator = Jobs
 Innovator + Rose = Edison
+Innovator + Tokyo = Elon Musk

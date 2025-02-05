@@ -17,3 +17,5 @@ Cozy + Fireplace + Romance = Candlelight
 Candlelight + Romance = Ambiance
 Las Vegas + Romance = Wedding
 Romance + Teenager + Teenager = Young Love
+Ai + Romance = Virtual Love
+Ai Humanoid + Romance = Lovebot

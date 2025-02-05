@@ -9,3 +9,4 @@ Royalty + Snow White = Queen Grimhilde
 Usages:
 =======
 Queen Grimhilde + Rose = Snow White
+Love + Queen Grimhilde = Evil Queen

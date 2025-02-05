@@ -11,3 +11,4 @@ Usages:
 Glitter + Musician = Glamour
 Glitter + Musician = Popstar
 Glitter + Popstar = Glitterati
+Glitter + Origami = Sparkle Paper

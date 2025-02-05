@@ -11,3 +11,4 @@ Usages:
 Animatron + Rose = Robotic Flower
 Animatron + Shortcake = Animatronic
 Animatron + Love Elixir = Robot Romance
+Animatron + Origami = Robotic Crane

@@ -16,3 +16,4 @@ Heaven + Society = Utopia
 Athlete + Heaven = Olympian
 Heaven + Rockstar = Heavenly
 Frasier + Heaven = Cheers
+Heaven + Moonlight Romance = Clair De Luna

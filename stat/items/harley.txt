@@ -9,3 +9,4 @@ Motorcycle + Pioneer = Harley
 Usages:
 =======
 Harley + Origami = Harleyquinn
+Harley + Moonlight Romance = Moonlight Ride

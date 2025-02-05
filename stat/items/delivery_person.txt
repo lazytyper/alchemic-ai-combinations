@@ -1,0 +1,11 @@
+==================================
+= Delivery Person
+==================================
+
+created by:
+===========
+Paper Boy + Postmate = Delivery Person
+
+Usages:
+=======
+Delivery Person + Letter = Mailman

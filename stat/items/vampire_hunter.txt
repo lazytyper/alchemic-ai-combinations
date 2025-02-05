@@ -9,3 +9,4 @@ Bat + Lifeguard = Vampire Hunter
 Usages:
 =======
 Dracula + Vampire Hunter = Van Helsing
+Swan + Vampire Hunter = Swanlake

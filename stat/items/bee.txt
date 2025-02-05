@@ -12,3 +12,4 @@ Bee + Orchard = Honey
 Bee + Forest = Honeycomb
 Bee + Flower Garden = Honeycomb
 Bee + Cherry Blossom = Honey
+Bee + Moonlight Romance = Beeswax Candle

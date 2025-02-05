@@ -9,3 +9,5 @@ History + President = Lincoln
 Usages:
 =======
 Lincoln + Washington = Dollar
+Lincoln + Moonlight Romance = Moonlight Night
+Author + Lincoln = Biography

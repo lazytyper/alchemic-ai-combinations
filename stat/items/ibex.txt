@@ -9,3 +9,4 @@ Animal + Mountain = Ibex
 Usages:
 =======
 Goat + Ibex = Capricorn
+Ibex + Love = Heartstrings

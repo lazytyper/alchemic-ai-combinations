@@ -9,3 +9,4 @@ Conflict + Skyland = Skyward Sword
 Usages:
 =======
 Matter + Skyward Sword = Link
+Love + Skyward Sword = Zelda

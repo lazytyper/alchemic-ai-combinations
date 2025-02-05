@@ -1,0 +1,11 @@
+==================================
+= Sprinter
+==================================
+
+created by:
+===========
+Athlete + Speedster = Sprinter
+
+Usages:
+=======
+Sprinter + Tokyo = Olympics

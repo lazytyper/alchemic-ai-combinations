@@ -9,3 +9,4 @@ Agatha Christie + Monster = Murderer
 Usages:
 =======
 Murderer + Pioneer = Jack The Ripper
+Murderer + Origami = James Bond

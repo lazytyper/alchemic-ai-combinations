@@ -9,3 +9,4 @@ Firedance + T-Rex = Dinosaur Dance
 Usages:
 =======
 Dinosaur Dance + Pioneer = Dinosaur Explorer
+Dinosaur Dance + Moonlight Romance = Dino-Mite

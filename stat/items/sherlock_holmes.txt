@@ -11,3 +11,4 @@ Usages:
 =======
 Partner + Sherlock Holmes = Watson
 Sherlock Holmes + Watson = Crime Solving
+Author + Sherlock Holmes = Conan Doyle

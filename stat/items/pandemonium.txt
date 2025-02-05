@@ -5,6 +5,7 @@
 created by:
 ===========
 Animal + Chaos = Pandemonium
+Pandamonium + Tokyo = Pandemonium
 
 Usages:
 =======

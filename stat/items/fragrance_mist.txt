@@ -10,3 +10,4 @@ Usages:
 =======
 Fireplace + Fragrance Mist = Scented Candle
 Fragrance Mist + Hazard = Scent Bomb
+Fragrance Mist + Origami = Scented Paper

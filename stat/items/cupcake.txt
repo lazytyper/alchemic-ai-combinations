@@ -10,3 +10,4 @@ Usages:
 =======
 Cupcake + Human = Baker
 Cupcake + Matter = Cakehole
+Chocolate + Cupcake = Brownie

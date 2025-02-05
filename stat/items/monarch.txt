@@ -16,3 +16,4 @@ Fortress + Monarch = Castle
 Monarch + Queen = Sovereign
 Castle + Monarch + Queen = Royalty
 Castle + Monarch = Palace
+Monarch + Swan = Swanqueen

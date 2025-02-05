@@ -12,3 +12,4 @@ Moonwalker + Musician = Jackson
 Jackson + Moonwalker = Michaeljackson
 Dagger + Moonwalker = Moonblade
 Moonwalker + Pioneer = Michael Jackson
+Author + Moonwalker = Armstrong

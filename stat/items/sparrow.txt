@@ -9,3 +9,5 @@ Rose + Wing = Sparrow
 Usages:
 =======
 Rose + Sparrow = Rosyfinch
+Caribbean + Sparrow = Birdwatching
+Pirate + Sparrow = Jack Daw

@@ -10,3 +10,4 @@ Geyser + Island = Iceland
 Usages:
 =======
 Iceland + Sky = Northern Lights
+Ghost World + Iceland = Otherworld

@@ -9,3 +9,4 @@ Evolution + Human = Homo Sapiens
 Usages:
 =======
 Charmander + Homo Sapiens = Salamander
+Homo Sapiens + Neanderthal = Human Evolution

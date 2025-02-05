@@ -10,3 +10,4 @@ Usages:
 =======
 Batch + Hearth = Bakehouse
 Cooking + Hearth = Kitchen
+Hearth + Moonlight Romance = Candlelight

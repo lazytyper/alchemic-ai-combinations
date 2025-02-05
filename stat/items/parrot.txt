@@ -1,0 +1,12 @@
+==================================
+= Parrot
+==================================
+
+created by:
+===========
+Bird + Pirate = Parrot
+
+Usages:
+=======
+Color + Parrot = Macaw
+Caribbean + Parrot = Rum

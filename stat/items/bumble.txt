@@ -9,3 +9,4 @@ Dating App + Rose = Bumble
 Usages:
 =======
 Bumble + Rose = Bumblebee
+Bumble + Moonlight Romance = Bee Movie

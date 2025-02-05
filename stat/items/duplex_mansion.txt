@@ -9,3 +9,4 @@ House + House = Duplex Mansion
 Usages:
 =======
 City + Duplex Mansion = Townhouse
+Duplex Mansion + Swanlake = Estate

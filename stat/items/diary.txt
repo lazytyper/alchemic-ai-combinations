@@ -9,3 +9,4 @@ Notebook + Rose = Diary
 Usages:
 =======
 Diary + Origami = Notepad
+Diary + Love = Journal

@@ -9,3 +9,4 @@ Festival + Star = Celebrity
 Usages:
 =======
 Celebrity + Pioneer = Innovation
+Celebrity + Origami = Paper-Folding

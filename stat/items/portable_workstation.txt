@@ -9,3 +9,4 @@ Computer + Laptop = Portable Workstation
 Usages:
 =======
 Portable Workstation + Room = Office
+Origami + Portable Workstation = Office Art

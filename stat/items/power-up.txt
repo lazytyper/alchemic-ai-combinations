@@ -10,3 +10,4 @@ Usages:
 =======
 Legend + Power-Up = Mythical Potion
 Power-Up + Wishful Thinking = Wish Granting
+Power-Up + Swan = Swannery

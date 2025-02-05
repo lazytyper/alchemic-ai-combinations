@@ -9,3 +9,4 @@ Lunchtime + Time = Noon
 Usages:
 =======
 Christmas + Noon = Noontime
+Moonlight Romance + Noon = Moondust

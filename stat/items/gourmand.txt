@@ -10,3 +10,4 @@ Usages:
 =======
 Gourmand + Pioneer = Foodie
 Cherry Blossom + Gourmand = Sakura Cuisine
+Chocolate + Gourmand = Chocolatier

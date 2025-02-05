@@ -9,3 +9,4 @@ Hazard + Mushroom Planet = Toxic Fungi
 Usages:
 =======
 Pioneer + Toxic Fungi = Mycologist
+Swan + Toxic Fungi = Death Cap

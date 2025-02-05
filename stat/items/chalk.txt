@@ -5,6 +5,7 @@
 created by:
 ===========
 Calcium Carbonate + Water = Chalk
+Calcium Carbonate + Substance = Chalk
 
 Usages:
 =======

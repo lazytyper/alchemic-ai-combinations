@@ -9,3 +9,4 @@ Fairy Light + Rose = Lightbulb
 Usages:
 =======
 Lightbulb + Wine = Brighter Ideas
+Lightbulb + Origami = Illumination

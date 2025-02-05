@@ -12,3 +12,4 @@ Usages:
 Animal + Frankenstein = Hybrid Animal
 Fireplace + Frankenstein = Frankenfire
 Frankenstein + Pioneer = Monster
+Author + Frankenstein = Shelley

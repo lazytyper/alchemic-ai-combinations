@@ -12,3 +12,4 @@ Royalty + Snow White = Queen Grimhilde
 Guardsman + Royalty = Knight
 Charmander + Royalty = Fire King
 City + Royalty = London
+Chocolate + Royalty = Godiva

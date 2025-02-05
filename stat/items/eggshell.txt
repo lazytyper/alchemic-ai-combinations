@@ -9,3 +9,5 @@ Human + Poultry = Eggshell
 Usages:
 =======
 Eggshell + Eggshell = Calcium Carbonate
+Eggshell + Substance = Calcium Carbonate
+Eggshell + Substance = Calcium

@@ -26,3 +26,4 @@ Fish + Otter = Riverbank
 Fish + Fish + Fish + Fish = School
 Fish + Fish + Fish = School
 Fish + Fish = School Fish
+Fish + Origami = Koi

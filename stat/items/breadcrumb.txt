@@ -9,3 +9,4 @@ Crumb + Matter = Breadcrumb
 Usages:
 =======
 Breadcrumb + Substance = Morsel
+Breadcrumb + Fairy Tale = Hansel

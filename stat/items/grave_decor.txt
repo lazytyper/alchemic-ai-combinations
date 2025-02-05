@@ -9,3 +9,4 @@ Death Flower + Room = Grave Decor
 Usages:
 =======
 Grave Decor + Pioneer = Tombstone
+Grave Decor + Moonlight Romance = Ghostly Love

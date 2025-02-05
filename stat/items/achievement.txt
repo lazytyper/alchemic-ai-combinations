@@ -9,3 +9,4 @@ Pioneer + Trophy = Achievement
 Usages:
 =======
 Achievement + Wine = Ecstasy
+Achievement + Tokyo = Success

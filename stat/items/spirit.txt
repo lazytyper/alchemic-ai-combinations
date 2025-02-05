@@ -14,3 +14,4 @@ Nature + Spirit = Druid
 Poison + Spirit = Venom
 Journey + Spirit = Soulsearching
 Powerhouse + Spirit = Dynamo
+Pride + Spirit = Passion

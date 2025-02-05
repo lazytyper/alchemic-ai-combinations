@@ -1,0 +1,13 @@
+==================================
+= Robo-Dog
+==================================
+
+created by:
+===========
+Dog + Robot = Robo-Dog
+
+Usages:
+=======
+Robo-Dog + Robo-Dog = Duplicate Canine
+Robo-Dog + Robo-Dog = Duplicate Robot
+Robo-Dog + Robo-Dog = Two-Word Answers Only

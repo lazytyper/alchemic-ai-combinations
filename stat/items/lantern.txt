@@ -10,3 +10,4 @@ Usages:
 =======
 Lantern + Room = Light
 Lantern + Pioneer = Lightbearer
+Lantern + Origami = Öanternfly

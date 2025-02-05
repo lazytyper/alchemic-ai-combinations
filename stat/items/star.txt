@@ -13,3 +13,4 @@ Star + Star + Star + Star = Supernova
 Dust + Star = Comet
 Heavenly + Star = Stargazer
 Festival + Star = Celebrity
+Star + Swan = Starling

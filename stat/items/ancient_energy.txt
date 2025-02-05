@@ -9,3 +9,4 @@ Photosynthesis + Timeworn = Ancient Energy
 Usages:
 =======
 Ancient Energy + Origami = Kinetic Sculpture
+Ancient Energy + Moonlight Romance = Moon Energy

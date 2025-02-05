@@ -9,3 +9,4 @@ Animation + Rainbow Frog = Kermit
 Usages:
 =======
 Kermit + Room = Muppet
+Kermit + Moonlight Romance = Frog Prince

@@ -9,3 +9,4 @@ Bread + Decay = Mold
 Usages:
 =======
 Microscope + Mold = Fungus
+Love + Mold = Care

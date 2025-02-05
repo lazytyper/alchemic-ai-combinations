@@ -9,3 +9,4 @@ Animal + Windhorse = Pegasus
 Usages:
 =======
 Pegasus + Room = Stable
+Origami + Pegasus = Paper Wings

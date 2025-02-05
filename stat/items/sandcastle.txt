@@ -9,3 +9,4 @@ Beach + Puzzle = Sandcastle
 Usages:
 =======
 Pioneer + Sandcastle = Beachcomb
+Origami + Sandcastle = Art Form

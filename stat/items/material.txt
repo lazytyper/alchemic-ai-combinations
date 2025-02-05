@@ -19,3 +19,4 @@ Material + Pioneer = Bronze
 Heart + Material = Heartfelt
 Letter + Material = Paper
 Color + Material = Leather
+Material + Tattoo = Inked Skin

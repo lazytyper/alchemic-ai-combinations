@@ -19,3 +19,4 @@ Art + Landscape = Painting
 Earth + Landscape = Terrain
 City + Landscape = Urban Spraw
 Landscape + Room = Skylight
+Chocolate + Landscape = Maypole

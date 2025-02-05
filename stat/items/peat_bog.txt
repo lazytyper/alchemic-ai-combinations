@@ -10,3 +10,4 @@ Usages:
 =======
 Monster + Peat Bog = Swamp Creature
 Color + Peat Bog = Mire
+Love + Peat Bog = Bogwood

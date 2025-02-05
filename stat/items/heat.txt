@@ -10,3 +10,4 @@ Usages:
 =======
 Fire + Heat = Flame
 Heat + Pollen = Fever
+Heat + Origami = Thermodynamics

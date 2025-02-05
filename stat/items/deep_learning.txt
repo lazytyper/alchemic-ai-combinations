@@ -10,3 +10,5 @@ Computer + Computer + Computer + Computer = Deep Learning
 Usages:
 =======
 Animal + Deep Learning = Neural Network
+Computer + Deep Learning = Ai
+Deep Learning + Robot = Ai Humanoid

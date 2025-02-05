@@ -9,3 +9,4 @@ Human + Shadow = Silhouette
 Usages:
 =======
 Color + Silhouette = Outline
+Origami + Silhouette = Shadow Art

@@ -10,3 +10,4 @@ Color + Humans = Skin
 Usages:
 =======
 Color + Skin = Complexion
+Love + Skin = Touch

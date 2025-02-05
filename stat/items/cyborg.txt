@@ -9,3 +9,4 @@ Cyberverse + Human = Cyborg
 Usages:
 =======
 Cyborg + Nightmare = Robot
+Chocolate + Cyborg = Memcmp

@@ -9,3 +9,4 @@ Imitation + Origami = Mock-Up
 Usages:
 =======
 Mock-Up + Origami = Paper Model
+Love + Mock-Up = Heart Design

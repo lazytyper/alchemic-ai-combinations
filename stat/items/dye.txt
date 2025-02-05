@@ -9,3 +9,4 @@ Color + Herbalist = Dye
 Usages:
 =======
 Dye + Origami = Kintsugi
+Dye + Moonlight Romance = Bluetooth

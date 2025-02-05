@@ -11,3 +11,4 @@ Usages:
 Angler + Sailing = Fishing Boat
 Angler + Rose = Anglerfish
 Angler + Giant = Anglerfish
+Angler + Origami = Fish Art

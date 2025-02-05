@@ -10,3 +10,4 @@ Usages:
 =======
 Mystery Novel + Rose = Murder
 Masquerade + Mystery Novel = Whodunit
+Moonlight Romance + Mystery Novel = Noir

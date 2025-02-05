@@ -9,3 +9,4 @@ Holiday + Substance = Vacation
 Usages:
 =======
 Substance + Vacation = Resort
+Obsidian + Vacation = Black Sand

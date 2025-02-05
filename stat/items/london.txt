@@ -14,3 +14,6 @@ Bridge + London = Thames
 London + Monument = Pudding Lane
 Hazard + London = Baker Street
 London + Room = Hogwarts
+Folding Map + London = Tube Map
+Airplane + London = Jetsetter
+London + Rosie = Londoner

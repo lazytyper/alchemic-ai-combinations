@@ -9,3 +9,4 @@ Ent + Rose = Entourage
 Usages:
 =======
 Entourage + Homestead = Farm Team
+Entourage + Origami = Paper Chase

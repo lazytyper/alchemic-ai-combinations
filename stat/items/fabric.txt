@@ -9,3 +9,4 @@ Animal Fur + Substance = Fabric
 Usages:
 =======
 Fabric + Substance = Textile
+Fabric + Swanlake = Tutu

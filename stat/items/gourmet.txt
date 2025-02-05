@@ -9,3 +9,4 @@ Food Truck + Pioneer = Gourmet
 Usages:
 =======
 Gourmet + Pioneer = Gourmand
+Gourmet + Moonlight Romance = Moonlit Dinner

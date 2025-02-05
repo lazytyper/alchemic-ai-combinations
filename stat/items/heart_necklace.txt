@@ -9,3 +9,4 @@ Diamond + Titanic = Heart Necklace
 Usages:
 =======
 Heart Necklace + Origami = Lovelace
+Chocolate + Heart Necklace = Love Charm

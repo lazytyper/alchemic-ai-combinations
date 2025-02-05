@@ -9,3 +9,4 @@ Heart + Weekend = Lovefest
 Usages:
 =======
 Hazard + Lovefest = Date Night
+Chocolate + Lovefest = Chocolatefest

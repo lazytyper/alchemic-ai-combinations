@@ -11,3 +11,4 @@ Usages:
 City + Marina = Harbour
 Marina + Rebecca = Marinara
 Hillary + Marina = Clinton
+Marina + Moonlight Romance = Love Boat

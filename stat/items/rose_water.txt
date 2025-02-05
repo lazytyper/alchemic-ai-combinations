@@ -9,3 +9,4 @@ Liquid + Roses + Roses = Rose Water
 Usages:
 =======
 Origami + Rose Water = Floral Art
+Rose Water + Tattoo = Body Art

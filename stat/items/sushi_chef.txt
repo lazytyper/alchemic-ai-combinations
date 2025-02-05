@@ -9,3 +9,4 @@ Cooking + Sushi Bar = Sushi Chef
 Usages:
 =======
 Recipe + Sushi Chef = Nigiri
+Sushi Chef + Tokyo = Sushi Master

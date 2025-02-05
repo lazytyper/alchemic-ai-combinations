@@ -18,3 +18,4 @@ Breakfast + Park = Brunch
 Brunch + Park = Picnic
 Park + Picnic = Lunchtime
 City + Park = Bench
+Date Night + Park + Two-Word Answers Only = Romantic Picnic

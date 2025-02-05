@@ -10,3 +10,4 @@ Usages:
 =======
 Blade Runner + Jester = Trickster
 Jester + Matter = Quark
+Jester + Swan = Swansong

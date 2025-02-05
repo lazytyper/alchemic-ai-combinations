@@ -11,3 +11,4 @@ Usages:
 Ball + Masquerade = Mask
 Ball + Cinderella = Gown
 Ball + City = Football
+Ball + Moonlight Romance = Moonball

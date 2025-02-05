@@ -9,3 +9,4 @@ Rock Concert + Room = Asmr
 Usages:
 =======
 Asmr + Color = Sensation
+Asmr + Tattoo = Pain Relief

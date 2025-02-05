@@ -9,3 +9,4 @@ Eruption + Pollination = Flowering
 Usages:
 =======
 Flowering + Lamplight = Night Bloom
+Chocolate + Flowering = Cacao

@@ -9,3 +9,4 @@ Genie + History Museum = Timekeeper
 Usages:
 =======
 Design Failure + Timekeeper = Watchdog
+Love + Timekeeper = Heartwatch

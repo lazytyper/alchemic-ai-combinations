@@ -10,3 +10,4 @@ Usages:
 =======
 Addiction + Song = Earworm
 Addiction + Wine = Alcoholism
+Addiction + Chocolate = Chocoholic

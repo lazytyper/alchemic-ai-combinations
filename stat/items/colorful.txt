@@ -9,3 +9,4 @@ Color + Cottage = Colorful
 Usages:
 =======
 Colorful + Origami = Kite
+Colorful + Moonlight Romance = Moonbow

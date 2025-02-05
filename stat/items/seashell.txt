@@ -10,3 +10,4 @@ Usages:
 =======
 Color + Seashell = Iridescence
 Seashell + Sexuality = Venus Shell
+Chocolate + Seashell = Truffle

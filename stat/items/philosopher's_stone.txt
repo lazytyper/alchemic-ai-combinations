@@ -11,4 +11,5 @@ Usages:
 Philosopher's Stone + Philosopher's Stone = Eternal Life
 Monster + Philosopher's Stone = Transformers
 Philosopher's Stone + Substance = Exlixir Of Life
+Philosopher's Stone + Substance = Elixir Of Life
 Origami + Philosopher's Stone = Transmutation

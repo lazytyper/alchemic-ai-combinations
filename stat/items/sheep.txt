@@ -1,0 +1,11 @@
+==================================
+= Sheep
+==================================
+
+created by:
+===========
+Animal + Farmer = Sheep
+
+Usages:
+=======
+Animal + Sheep = Wool

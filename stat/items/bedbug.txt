@@ -9,3 +9,4 @@ Bed + Hazard = Bedbug
 Usages:
 =======
 Bedbug + Color = Infestation
+Bedbug + Love = Cuddlebug

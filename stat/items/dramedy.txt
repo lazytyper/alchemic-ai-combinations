@@ -9,3 +9,4 @@ Peacekeeper + Tragicomedy = Dramedy
 Usages:
 =======
 Christmas + Dramedy = Holiday Special
+Chocolate + Dramedy = Bitter-Sweet

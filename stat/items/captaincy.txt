@@ -9,3 +9,4 @@ Captain + Degradation = Captaincy
 Usages:
 =======
 Captaincy + Pokemon = Captain Pokemon
+Captaincy + Origami = Napkin Folding

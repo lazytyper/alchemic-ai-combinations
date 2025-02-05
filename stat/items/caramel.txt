@@ -15,3 +15,4 @@ Apple + Caramel = Candy
 Caramel + Duplicate = Caramelize
 Caramel + Pioneer = Rollercoaster
 Caramel + Substance = Sauce
+Caramel + Chocolate = Snickers

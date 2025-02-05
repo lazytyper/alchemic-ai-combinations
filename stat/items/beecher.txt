@@ -9,3 +9,4 @@ Bee Sting + Pioneer = Beecher
 Usages:
 =======
 Beecher + Pioneer = Stowe
+Beecher + Chocolate = Charity

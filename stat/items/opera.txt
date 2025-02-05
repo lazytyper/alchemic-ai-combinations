@@ -12,3 +12,4 @@ Opera + Room = Operetta
 Opera + Room = Box
 City + Opera = Metropolitan
 Opera + Pioneer = Carmen
+Moonlight Romance + Opera = Nocturne

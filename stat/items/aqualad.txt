@@ -9,3 +9,4 @@ Clownfish + Mermaid = Aqualad
 Usages:
 =======
 Aqualad + Flame Flower = Fire Water
+Aqualad + Moonlight Romance = Mermaid Love

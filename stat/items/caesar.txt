@@ -5,7 +5,9 @@
 created by:
 ===========
 Human + Rome = Caesar
+Brutus + Brutus = Caesar
 
 Usages:
 =======
 Caesar + Photobook = Salad
+Caesar + Tokyo = Sushi Salad

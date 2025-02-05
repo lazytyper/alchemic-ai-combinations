@@ -12,3 +12,4 @@ Dryad + Sustainable Paradise = Eco-Paradise
 Sustainable Paradise + Woodland = Eco-Forest
 Alpha + Sustainable Paradise = Eco Utopia
 Color + Sustainable Paradise = Eco-Chic
+Sustainable Paradise + Swan = Eco-Resort

@@ -9,3 +9,4 @@ Crime + Fire Sky = Arsonist
 Usages:
 =======
 Arsonist + Illustration = Fire Art
+Arsonist + Tattoo = Tattooist

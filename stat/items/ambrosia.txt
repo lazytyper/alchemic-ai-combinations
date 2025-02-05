@@ -11,3 +11,4 @@ Usages:
 Ambrosia + Cinder Track = Track Food
 Ambrosia + Rose = Nectar
 Ambrosia + Pioneer = Food Truck
+Ambrosia + Chocolate = Indulgence

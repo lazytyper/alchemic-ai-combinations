@@ -11,3 +11,4 @@ Usages:
 Pizza + Recipe = Cookbook
 Recipe + Sushi Chef = Nigiri
 Hazard + Recipe = Cooking Show
+Origami + Recipe = Folding Instructions

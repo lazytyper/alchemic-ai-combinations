@@ -11,3 +11,5 @@ Usages:
 Superman + Universe = Justice League
 Monster + Superman = Monsterman
 Color + Superman = Kryptonite
+Moonlight Romance + Superman = Moonman
+Author + Superman = Clark Kent

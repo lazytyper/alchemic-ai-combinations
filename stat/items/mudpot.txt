@@ -10,3 +10,4 @@ Usages:
 =======
 Mudpot + Sailing = Mudslide
 Mudpot + Pioneer = Geothermal
+Moonlight Romance + Mudpot = Moondance

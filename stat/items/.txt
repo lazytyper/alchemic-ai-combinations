@@ -7,4 +7,5 @@ created by:
 
 Usages:
 =======
- + Phosphorescence + Substance = Glow
+ + Robo-Dog + Robo-Dog = Duplicate Robot
+ + Robo-Dog + Robo-Dog = Two-Word Answers Only

@@ -32,3 +32,6 @@ Partner + Popeye = Spinach
 Partner + Sailor = Shipmate
 Morpheus + Partner = Dream Team
 Christmas + Partner = Gift
+Hansel + Partner = Gretel
+Julius Caesar + Partner = Brutus
+Brutus + Partner = Betrayal

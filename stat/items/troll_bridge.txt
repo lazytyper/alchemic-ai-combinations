@@ -9,3 +9,4 @@ Monster + Rings = Troll Bridge
 Usages:
 =======
 Monster + Troll Bridge = Troll
+Chocolate + Troll Bridge = Grendel

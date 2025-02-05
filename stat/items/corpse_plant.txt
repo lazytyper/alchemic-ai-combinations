@@ -9,3 +9,4 @@ Monster Flower + Pioneer = Corpse Plant
 Usages:
 =======
 Corpse Plant + Pioneer = Rafflesia
+Corpse Plant + Love = Hidden Passion

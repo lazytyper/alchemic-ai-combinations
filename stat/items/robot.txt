@@ -12,3 +12,5 @@ Love + Robot = Android
 Enterprise + Robot = Starfleet
 Robot + Star Trek = Borg
 Robot + Rose = Transformer
+Deep Learning + Robot = Ai Humanoid
+Dog + Robot = Robo-Dog

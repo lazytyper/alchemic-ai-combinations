@@ -5,7 +5,6 @@
 created by:
 ===========
 Chalkboard + Hazard = Warning Sign
-Hazard + Mimicry = Warning Sign
 
 Usages:
 =======

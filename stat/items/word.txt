@@ -10,5 +10,9 @@ Usages:
 =======
 Letter + Word = Sentence
 Word + Word = Crossword
+Word + Word = Dictionary
+Word + Word = Hyphen
+Word + Word = Newsfeed
+Word + Word = Newspaper
 Monster + Word = Wordsmith
 Color + Word = Blackboard

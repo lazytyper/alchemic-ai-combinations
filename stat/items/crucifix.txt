@@ -9,3 +9,4 @@ Cross + Masquerade = Crucifix
 Usages:
 =======
 Crucifix + Pioneer = Crossroads
+Crucifix + Moonlight Romance = Vampire Love

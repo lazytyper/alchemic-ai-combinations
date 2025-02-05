@@ -11,3 +11,4 @@ Usages:
 Rose + Watercolor = Floral Painting
 Rose + Watercolor = Roseart
 Paintbrush + Watercolor = Artwork
+Moonlight Romance + Watercolor = Moonlit Pair

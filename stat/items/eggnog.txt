@@ -9,3 +9,4 @@ Christmas + Dairy = Eggnog
 Usages:
 =======
 Christmas + Eggnog = Nog
+Eggnog + Origami = Ornate Egg

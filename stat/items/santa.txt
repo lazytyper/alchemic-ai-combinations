@@ -9,3 +9,4 @@ Christmas + Earth = Santa
 Usages:
 =======
 Christmas + Santa = Sleigh
+Author + Santa = Claus

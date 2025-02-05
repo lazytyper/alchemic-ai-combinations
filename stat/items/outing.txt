@@ -9,3 +9,4 @@ Festival + Picnic = Outing
 Usages:
 =======
 Outing + Picnic = Excursion
+Moonlight Romance + Outing = Moonlit Date

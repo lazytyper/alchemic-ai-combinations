@@ -10,3 +10,4 @@ Usages:
 =======
 Carbonation + Water = Soda
 Carbonation + Color = Soda Pop
+Carbonation + Origami = Bubble Art

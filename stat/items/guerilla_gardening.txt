@@ -10,3 +10,4 @@ Usages:
 =======
 Guerilla Gardening + Rose = Flower Power
 Guerilla Gardening + Photobook = Green Thumb
+Guerilla Gardening + Origami = Green Art

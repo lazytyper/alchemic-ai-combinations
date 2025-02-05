@@ -9,3 +9,4 @@ Pioneer + Storm Chaser = Stormtrooper
 Usages:
 =======
 Pioneer + Stormtrooper = Süace Soldier
+Moonlight Romance + Stormtrooper = Light Saber

@@ -20,3 +20,4 @@ Cloud + Cloud + Cloud + Cloud = Stormy Sky
 Cloud + Cloud + Cloud = Storm
 Cloud + Cloud + Cloud = Rainbow
 Cloud + Exploration = Skydiving
+Chocolate + Cloud = Fudge

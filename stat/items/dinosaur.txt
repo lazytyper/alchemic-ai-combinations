@@ -15,3 +15,4 @@ Dinosaur + Universe = Jurassic Park
 Dinosaur + Dinosaur = T-Rex
 Dinosaur + Medusa = Dino-Gorgon
 Dinosaur + Hell = Tyrannosaurus
+Dinosaur + Swanlake = Duckbill

@@ -11,3 +11,5 @@ Usages:
 Melody + Rose = Song
 Melody + Romeo = Melodrama
 Margherita + Melody = Pizza Song
+Melody + Swanlake = Tchaikovsky
+Melody + Moonlight Romance = Moonlit Serenade

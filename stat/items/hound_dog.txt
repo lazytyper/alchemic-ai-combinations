@@ -11,3 +11,4 @@ Usages:
 Animal + Hound Dog = Bloodhound
 Bloodhound + Hound Dog = Detection Dog
 Hound Dog + Wine = Blues
+Hound Dog + Origami = Dog Bowl

@@ -10,3 +10,4 @@ Usages:
 =======
 Laura Ingalls + Matter = Little House
 Color + Laura Ingalls = Blue Bonnet
+Laura Ingalls + Origami = Paper Doll

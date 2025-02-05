@@ -9,3 +9,5 @@ Memory + Monster = Trauma
 Usages:
 =======
 Color + Trauma = Bruise
+Moonlight Romance + Trauma = Anxiety
+Origami + Trauma = Stress Relief

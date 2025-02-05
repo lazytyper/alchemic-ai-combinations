@@ -10,3 +10,4 @@ Usages:
 =======
 Hero + Human = Superman
 Excalibur + Hero = King Arthur
+Author + Hero = Novel

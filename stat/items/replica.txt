@@ -14,3 +14,4 @@ Mudskipper + Replica = Motorcycle
 Mudslide + Reality Show + Replica = Mudshow
 Creative Suite + Replica = Photoshop
 Flutter Heart + Replica = Love Token
+Love + Replica = Affection

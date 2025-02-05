@@ -10,3 +10,4 @@ Usages:
 =======
 Blacksmith + Sword = Excalibur
 Blacksmith + Rust = Forge
+Blacksmith + Swan = Swordsmith

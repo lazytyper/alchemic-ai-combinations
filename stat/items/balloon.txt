@@ -18,4 +18,4 @@ Balloon + Eros = Cupid's Arrow
 Balloon + Balloon = Helium
 Balloon + Helium = Blimp
 Balloon + Cherry Blossom = Float
-Balloon + Origami = Ballonicorn
+Balloon + Origami = Balloonicorn

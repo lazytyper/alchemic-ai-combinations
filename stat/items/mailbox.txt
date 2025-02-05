@@ -5,6 +5,7 @@
 created by:
 ===========
 Mail + Rose = Mailbox
+Letter + Postman = Mailbox
 
 Usages:
 =======

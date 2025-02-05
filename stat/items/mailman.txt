@@ -1,0 +1,11 @@
+==================================
+= Mailman
+==================================
+
+created by:
+===========
+Delivery Person + Letter = Mailman
+
+Usages:
+=======
+Bird + Mailman = Postman

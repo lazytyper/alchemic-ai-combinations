@@ -9,3 +9,4 @@ Cake + Substance = Baker's Yeast
 Usages:
 =======
 Baker's Yeast + Substance = Fermentation
+Baker's Yeast + Origami = Bread Sculpture

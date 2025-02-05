@@ -10,3 +10,4 @@ Usages:
 =======
 Charcoal + Rumor = Smoke Signal
 Earthquake + Rumor = Tremor
+Rumor + Tokyo = Gossip Girl

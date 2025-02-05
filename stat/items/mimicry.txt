@@ -10,4 +10,5 @@ Usages:
 =======
 Mimicry + Trees = Camouflage
 Mimicry + Rose = Chameleon
-Hazard + Mimicry = Warning Sign
+Hazard + Mimicry = Warning Signal
+Hazard + Mimicry = Deception

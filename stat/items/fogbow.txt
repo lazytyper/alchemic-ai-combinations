@@ -10,3 +10,4 @@ Usages:
 =======
 Fogbow + Thunder = Rainbow
 Fogbow + Pioneer = Huckleberry
+Fogbow + Swan = Cloud Bridge

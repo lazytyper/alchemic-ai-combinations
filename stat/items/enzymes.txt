@@ -10,3 +10,4 @@ Usages:
 =======
 Enzymes + Pioneer = Biochemist
 Enzymes + Teenager = Hormones
+Enzymes + Origami = Foldase

@@ -9,3 +9,4 @@ Rap + Room = Rapunzel
 Usages:
 =======
 Pioneer + Rapunzel = Tress
+Pride + Rapunzel = Hair Flip

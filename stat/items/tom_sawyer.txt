@@ -9,3 +9,4 @@ Pioneer + Rosy Cheeks = Tom Sawyer
 Usages:
 =======
 Pioneer + Tom Sawyer = Huckleberry Finn
+Author + Tom Sawyer = Twain

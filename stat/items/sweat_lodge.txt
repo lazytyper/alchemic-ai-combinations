@@ -12,3 +12,4 @@ Sauna + Sweat Lodge = Steam Room
 Steam Room + Sweat Lodge = Sauna
 Mistress + Sweat Lodge = Healing Ceremony
 Hopeful Cynicism + Sweat Lodge = Realism
+Moonlight Romance + Sweat Lodge = Spiritual Retreat

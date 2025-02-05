@@ -15,3 +15,5 @@ Pirate + Ship = Captain Hook
 Pirate + Pirate = Crewmate
 Captain + Pirate = Hook
 Computer + Pirate = Hacker
+Pirate + Sparrow = Jack Daw
+Bird + Pirate = Parrot

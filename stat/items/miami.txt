@@ -13,3 +13,4 @@ Beach + Miami = Florida
 Festival + Miami = Ultra
 Flower + Miami = Hibiscus
 Hazard + Miami = Hazardous
+Miami + Moonlight Romance = Moonlight Beach

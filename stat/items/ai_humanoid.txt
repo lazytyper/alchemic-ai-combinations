@@ -1,0 +1,11 @@
+==================================
+= Ai Humanoid
+==================================
+
+created by:
+===========
+Deep Learning + Robot = Ai Humanoid
+
+Usages:
+=======
+Ai Humanoid + Romance = Lovebot

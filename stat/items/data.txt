@@ -9,3 +9,4 @@ Android + Star Trek = Data
 Usages:
 =======
 Computer + Data = Information
+Chocolate + Data = Codec

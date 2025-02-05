@@ -9,3 +9,4 @@ City + Obsidian = Blackrock
 Usages:
 =======
 Blackrock + Color = Blackhole
+Blackrock + Spiritual Guide = Oracle

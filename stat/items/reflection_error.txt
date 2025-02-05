@@ -11,3 +11,4 @@ Usages:
 Atlantis + Reflection Error = Mirage
 Fireplace + Reflection Error = Heatave
 Pioneer + Reflection Error = Hindsight
+Chocolate + Reflection Error = Self-Reflection
