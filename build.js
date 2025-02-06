@@ -123,7 +123,7 @@ function createHTML() {
     const preHTML = `<!DOCTYPE html>
 <html>
 <head>
-    <title>Alchemy</title>
+    <title>AlchemicAI Combination List</title>
     <style>
         body {
             font-family: Arial, sans-serif;
