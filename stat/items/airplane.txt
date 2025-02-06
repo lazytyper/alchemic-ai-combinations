@@ -13,3 +13,4 @@ Airplane + Disaster = Crash
 Airplane + Gravekeeper = Sky Burial
 Airplane + Quarantine = Flyover
 Airplane + London = Jetsetter
+Airplane + Emotion = Jetlag

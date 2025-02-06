@@ -9,3 +9,4 @@ Heart + Rock = Heartstone
 Usages:
 =======
 Heartstone + Pioneer = Card Game
+Heartstone + Tattoo = Inkstone

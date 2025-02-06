@@ -9,3 +9,4 @@ Kiln + Maximum Happiness = Social Liberation
 Usages:
 =======
 Pioneer + Social Liberation = Freedom Fighter
+Blanket + Social Liberation = Freedom Quilt

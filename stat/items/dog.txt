@@ -9,3 +9,6 @@ Animal + Hound = Dog
 Usages:
 =======
 Dog + Robot = Robo-Dog
+Dog + Tattoo = Dognapper
+Dog + Tattoo = Pawprint
+Dog + Tattoo = Sailor Jerry

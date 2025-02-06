@@ -9,3 +9,4 @@ Goalkeeper + Origami = Paper Boy
 Usages:
 =======
 Paper Boy + Postmate = Delivery Person
+Emotion + Paper Boy = Newsprint

@@ -9,3 +9,4 @@ Commitment + Matter = Leadership
 Usages:
 =======
 Leadership + Loyalty = Fellowship
+Emotion + Leadership = Emotial Intelligence

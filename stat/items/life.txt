@@ -61,3 +61,4 @@ City + Life = Urbanization
 Life + Wood = Tree
 Life + Room = Nursing
 Life + Origami = Crane
+Emotion + Life = Passion

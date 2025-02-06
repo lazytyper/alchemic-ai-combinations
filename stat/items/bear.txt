@@ -9,3 +9,4 @@ Cub + Tokyo = Bear
 Usages:
 =======
 Bear + Tokyo = Panda
+Bear + Blanket = Teddy

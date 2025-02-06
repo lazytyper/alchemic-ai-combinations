@@ -9,3 +9,4 @@ Blade Runner + Jester = Trickster
 Usages:
 =======
 Pioneer + Trickster = Loki
+Emotion + Trickster = Mischief

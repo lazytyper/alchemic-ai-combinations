@@ -11,3 +11,4 @@ Usages:
 Evolution + Found Object = Artifacts
 Flower + Found Object = Art Assemblage
 Found Object + Hazard = Treasure Hunt
+Emotion + Found Object = Art Installation

@@ -9,3 +9,4 @@ Heart + Pioneer = Heartthrob
 Usages:
 =======
 Color + Heartthrob = Crush
+Heartthrob + Tattoo = Hardbody

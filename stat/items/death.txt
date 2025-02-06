@@ -21,3 +21,4 @@ Death + Gravedigger = Gravekeeper
 Buddhism + Death = Nirvana
 Death + Rose = Black Widow
 Death + Sakura = Sakura-Mori
+Blanket + Death = Shroud

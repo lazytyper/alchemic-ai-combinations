@@ -9,3 +9,4 @@ Autumnal + Origami = Leaf
 Usages:
 =======
 Leaf + Origami = Paper Frog
+Blanket + Leaf = Autumn

@@ -9,3 +9,4 @@ Forever + Nature Guardian = Earthkeeper
 Usages:
 =======
 Earthkeeper + Moonlight Romance = Nurture
+Blanket + Earthkeeper = Naturist

@@ -9,3 +9,4 @@ Musician + Soul = Ray Charles
 Usages:
 =======
 Ray Charles + Song = Georgia
+Emotion + Ray Charles = Soul Music

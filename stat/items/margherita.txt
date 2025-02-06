@@ -9,3 +9,4 @@ Cheese + Pizza = Margherita
 Usages:
 =======
 Margherita + Melody = Pizza Song
+Blanket + Margherita = Napoli

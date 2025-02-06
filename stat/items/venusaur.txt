@@ -9,3 +9,4 @@ Monster + Plants = Venusaur
 Usages:
 =======
 Monster + Venusaur = Bulbasaur
+Blanket + Venusaur = Snoriax

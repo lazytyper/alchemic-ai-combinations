@@ -85,3 +85,4 @@ Chocolate + Homesteader = Cocoa Farmer
 Chocolate + Holiday Spirit = Hot Cocoa
 Chocolate + Muppet = Cookie Monster
 Chocolate + Dickens = Caboodle
+Chocolate + Reaper = Thief

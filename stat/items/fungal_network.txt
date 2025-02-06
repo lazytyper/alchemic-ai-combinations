@@ -9,3 +9,4 @@ Mushroom Circle + Pioneer = Fungal Network
 Usages:
 =======
 Cherry Blossom + Fungal Network = Mycorrhiza
+Blanket + Fungal Network = Mycelium

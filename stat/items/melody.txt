@@ -13,3 +13,4 @@ Melody + Romeo = Melodrama
 Margherita + Melody = Pizza Song
 Melody + Swanlake = Tchaikovsky
 Melody + Moonlight Romance = Moonlit Serenade
+Blanket + Melody = Lullaby

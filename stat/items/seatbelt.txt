@@ -9,3 +9,4 @@ Pioneer + Safety = Seatbelt
 Usages:
 =======
 Origami + Seatbelt = Safety Fold
+Emotion + Seatbelt = Safety Belt

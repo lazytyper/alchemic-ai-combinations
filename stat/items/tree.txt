@@ -17,3 +17,4 @@ Forest + Tree = Woodland
 Fire + Tree = Ash
 Sakura + Tree = Cherry Blossom
 Material + Tree = Wood
+Blanket + Tree = Hammock

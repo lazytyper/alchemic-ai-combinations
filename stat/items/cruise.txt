@@ -9,3 +9,4 @@ Honeymoon + Yacht = Cruise
 Usages:
 =======
 Cruise + Ship = Liner
+Blanket + Cruise = Comedian

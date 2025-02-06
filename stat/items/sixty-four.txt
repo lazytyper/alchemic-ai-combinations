@@ -10,3 +10,4 @@ Usages:
 =======
 Sixty-Four + Sixty-Four = Chessboard
 Sixteen + Sixty-Four = Kilobyte
+Blanket + Sixty-Four = Nintendo

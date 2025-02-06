@@ -14,3 +14,4 @@ City + Yacht = Marina
 Oceanographer + Yacht = Yachtmaster
 Honeymoon + Yacht = Cruise
 Color + Yacht = Caribbean
+Blanket + Yacht = Boathook

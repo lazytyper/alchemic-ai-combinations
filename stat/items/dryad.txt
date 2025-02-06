@@ -15,3 +15,4 @@ Dryad + Terrarium = Plant Spirit
 Dryad + Nature Magic = Tree Spirit
 Dryad + Sustainable Paradise = Eco-Paradise
 Dryad + Rose = Flower Spirit
+Blanket + Dryad = Tree Hugger

@@ -12,3 +12,4 @@ Detective + Legend = Sherlock Holmes
 Detective + Tracker = Sleuth
 Detective + Forensics = Investigation
 Detective + Pioneer = Sherlock Holmes
+Detective + Emotion = Emotionalism

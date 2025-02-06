@@ -1,0 +1,12 @@
+==================================
+= Stormscope
+==================================
+
+created by:
+===========
+Cyclone + Horoscope = Stormscope
+
+Usages:
+=======
+Blanket + Stormscope = Weather Radar
+Emotion + Stormscope = Emotional Storm

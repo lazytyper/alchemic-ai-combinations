@@ -1,0 +1,11 @@
+==================================
+= Broom
+==================================
+
+created by:
+===========
+Bottle + Room = Broom
+
+Usages:
+=======
+Blanket + Broom = Sweeper

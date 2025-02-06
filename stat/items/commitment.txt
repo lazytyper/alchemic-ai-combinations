@@ -14,3 +14,4 @@ Commitment + Matter = Matter-Of-Fact
 Commitment + Matter = Loyalty
 Commitment + Wedding = Matrimony
 Commitment + Loyalty = Devotion
+Blanket + Commitment = Covenant

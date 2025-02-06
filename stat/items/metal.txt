@@ -10,3 +10,4 @@ Ore + Substance = Metal
 Usages:
 =======
 Metal + Metal = Alloy
+Metal + Tattoo = Piercing

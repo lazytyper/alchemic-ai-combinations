@@ -10,3 +10,4 @@ Usages:
 =======
 Digital Garden + Rose = Cyberflora
 Digital Garden + Greenhouse = Smart Farm
+Blanket + Digital Garden = Sleep Sanctuary

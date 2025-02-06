@@ -10,3 +10,4 @@ Usages:
 =======
 Bookshelf + Museum = Library
 Bookshelf + Origami = Bookfold
+Bookshelf + Quarantine = Booknook

@@ -9,3 +9,4 @@ Liquid + Tea = Brew
 Usages:
 =======
 Brew + Wine = Mead
+Blanket + Brew = Tea Cozy

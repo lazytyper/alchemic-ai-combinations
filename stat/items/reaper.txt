@@ -9,3 +9,5 @@ Death + Death = Reaper
 Usages:
 =======
 Reaper + Reaper = Grimm
+Chocolate + Reaper = Thief
+Reaper + Thief = Assassin

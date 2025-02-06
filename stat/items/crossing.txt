@@ -9,3 +9,4 @@ Farmbot + River Styx = Crossing
 Usages:
 =======
 Crossing + Rose = Crossroad
+Blanket + Crossing = Pedestrian

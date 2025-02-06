@@ -16,3 +16,4 @@ Word + Word = Newsfeed
 Word + Word = Newspaper
 Monster + Word = Wordsmith
 Color + Word = Blackboard
+Blanket + Word = Boomerang

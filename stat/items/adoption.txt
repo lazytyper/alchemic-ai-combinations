@@ -1,0 +1,11 @@
+==================================
+= Adoption
+==================================
+
+created by:
+===========
+Animal + Pet Shelter = Adoption
+
+Usages:
+=======
+Adoption + Blanket = Security

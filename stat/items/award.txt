@@ -11,7 +11,7 @@ Usages:
 Award + Musician = Grammy
 Award + Robin Williams = Oscar
 Award + Hollywood = Oscar
-Award + Pokemon = Ash Ketchu
+Award + Pokemon = Ash Ketchum
 Award + Mosaic = Trophy
 Award + Trophy = Prize
 Award + Tokyo = Nobel Prize

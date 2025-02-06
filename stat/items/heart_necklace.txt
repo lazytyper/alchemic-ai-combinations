@@ -10,3 +10,5 @@ Usages:
 =======
 Heart Necklace + Origami = Lovelace
 Chocolate + Heart Necklace = Love Charm
+Alfred + Heart Necklace = Alfredo
+Heart Necklace + Tattoo = Heartagram

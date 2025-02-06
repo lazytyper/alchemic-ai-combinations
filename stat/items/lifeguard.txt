@@ -11,3 +11,4 @@ Usages:
 Lifeguard + Ocean = Beach
 Bat + Lifeguard = Vampire Hunter
 Color + Lifeguard = Safety Buoy
+Blanket + Lifeguard = Beach Towel

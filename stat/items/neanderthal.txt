@@ -10,4 +10,5 @@ Usages:
 =======
 Neanderthal + Room = Cavern
 Neanderthal + Origami = History Art
+Neanderthal + Origami = Prehistoric Art
 Homo Sapiens + Neanderthal = Human Evolution

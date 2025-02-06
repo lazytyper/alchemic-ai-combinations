@@ -10,3 +10,4 @@ Usages:
 =======
 Puzzle + Sentence = Wordplay
 Sentence + Song = Lyric
+Emotion + Sentence = Expression

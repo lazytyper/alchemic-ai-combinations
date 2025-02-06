@@ -75,3 +75,4 @@ Hellbound + Time = Daemon
 Oscar + Time = Wilde
 Sashimi + Time = Aging Fish
 Anarchy + Time = Chaos Theory
+Blanket + Time = Travel

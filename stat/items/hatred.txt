@@ -10,3 +10,4 @@ Usages:
 =======
 Hatred + Religion = Fanaticism
 Hatred + Sexuality = Lust
+Emotion + Hatred = Resentment

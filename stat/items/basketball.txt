@@ -10,3 +10,4 @@ Usages:
 =======
 Basketball + Monster = Monstars
 Basketball + Room = Courtroom
+Basketball + Blanket = Couch

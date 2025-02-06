@@ -9,3 +9,5 @@ Animal + Desert = Camel
 Usages:
 =======
 Camel + Camel = Dromedary
+Blanket + Camel = Camelback
+Camel + Tattoo = Cameltoe

@@ -10,3 +10,4 @@ Usages:
 =======
 Computer + Window = Desktop
 Hazard + Window = Pane
+Blanket + Window = Curtain

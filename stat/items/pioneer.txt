@@ -511,3 +511,5 @@ Death Blossom + Pioneer = Death Star
 Pioneer + Spring Break = Springsteen
 Pioneer + Springsteen = Boss
 Pioneer + Wine = Winemaker
+Pioneer + Wolfgang = Mozart
+Emotion + Pioneer = Empowermenr

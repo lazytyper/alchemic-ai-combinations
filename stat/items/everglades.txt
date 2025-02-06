@@ -10,3 +10,4 @@ Usages:
 =======
 Animal + Everglades = Alligator
 Everglades + Wine = Swamp Grape
+Everglades + Tattoo = Inkscape

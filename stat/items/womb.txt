@@ -9,3 +9,4 @@ Room + Woman = Womb
 Usages:
 =======
 Origami + Womb = Nothings
+Emotion + Womb = Motherhood

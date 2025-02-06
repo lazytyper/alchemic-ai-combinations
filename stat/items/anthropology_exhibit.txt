@@ -10,3 +10,4 @@ Usages:
 =======
 Anthropology Exhibit + Pioneer = Smithsonian
 Anthropology Exhibit + Origami = Cultural Art
+Anthropology Exhibit + Emotion = Empathy

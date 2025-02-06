@@ -10,3 +10,4 @@ Usages:
 =======
 Lyric + Monster = Lyricist
 Lyric + Room = Lyricism
+Blanket + Lyric = Songbook

@@ -9,3 +9,4 @@ Cherry Blossom + Time = Spring
 Usages:
 =======
 Monster + Spring = Hydra
+Blanket + Spring = Mattess

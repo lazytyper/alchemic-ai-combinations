@@ -9,3 +9,4 @@ Blood Rose + Dehydration = Bloodlust
 Usages:
 =======
 Bloodlust + Wine = Sanguine
+Blanket + Bloodlust = Red Cloak

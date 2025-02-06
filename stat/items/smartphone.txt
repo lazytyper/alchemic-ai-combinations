@@ -13,3 +13,4 @@ Rose + Smartphone = Selfie Stick
 Camera + Smartphone = Phonecam
 Camera + Smartphone = Phoneography
 Smartphone + Volcano = Eruption Alert
+Blanket + Smartphone = Audiobook

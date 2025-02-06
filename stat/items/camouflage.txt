@@ -11,3 +11,4 @@ Usages:
 Camouflage + Frog = Chameleon
 Camouflage + Genie = Invisibility
 Camouflage + Rose = Fox
+Blanket + Camouflage = Ghillie Suit

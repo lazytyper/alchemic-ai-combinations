@@ -12,3 +12,4 @@ Eco-Warrior + Hillary = Climate Advocate
 Eco-Warrior + Photoshop = Eco-Artist
 Eco-Warrior + Pioneer = Environment
 Eco-Warrior + Pioneer = Environmentalist
+Blanket + Eco-Warrior = Green Cover

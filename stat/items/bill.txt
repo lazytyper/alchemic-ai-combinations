@@ -10,3 +10,4 @@ Usages:
 =======
 Bill + Pioneer = Billboard
 Bill + Origami = Money Art
+Bill + Emotion = Invoice

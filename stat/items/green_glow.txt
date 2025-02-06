@@ -9,3 +9,4 @@ Color + Radiation = Green Glow
 Usages:
 =======
 Color + Green Glow = Radiance
+Emotion + Green Glow = Envy

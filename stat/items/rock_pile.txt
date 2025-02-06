@@ -9,3 +9,4 @@ Pebble + Pebble + Pebble = Rock Pile
 Usages:
 =======
 Angel + Rock Pile = Rock Band
+Blanket + Rock Pile = Rocking Chair

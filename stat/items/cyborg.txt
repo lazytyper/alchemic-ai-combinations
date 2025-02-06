@@ -10,3 +10,4 @@ Usages:
 =======
 Cyborg + Nightmare = Robot
 Chocolate + Cyborg = Memcmp
+Cyborg + Emotion = Sentience

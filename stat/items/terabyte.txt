@@ -10,3 +10,4 @@ Usages:
 =======
 Terabyte + Terabyte = Petabyte
 Pixel + Terabyte = Pixel Art
+Blanket + Terabyte = Sleeper Agent

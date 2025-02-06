@@ -9,4 +9,4 @@ Hollywood + Mountain = Result Beverly Hills
 Usages:
 =======
 Flower + Result Beverly Hills = Rosewood
-Origami + Result Beverly Hills = Beverly Hills Hop
+Origami + Result Beverly Hills = Beverly Hills Cop

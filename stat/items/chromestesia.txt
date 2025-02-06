@@ -9,3 +9,4 @@ Color + Synesthesia = Chromestesia
 Usages:
 =======
 Chromestesia + Color = Synaesthesia
+Chromestesia + Emotion = Color Music

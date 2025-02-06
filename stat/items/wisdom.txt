@@ -9,3 +9,4 @@ Knowledge + Knowledge = Wisdom
 Usages:
 =======
 Color + Wisdom = Purple Sage
+Emotion + Wisdom = Insight

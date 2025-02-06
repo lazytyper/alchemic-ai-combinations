@@ -11,3 +11,4 @@ Usages:
 Living World + Living World = Biosphere
 Destruction + Living World = Apocalypse
 Living World + Soul = Nature Spirit
+Blanket + Living World = Comfort Zone

@@ -62,3 +62,5 @@ Christmas + Shield = Shieldmaiden
 Bond + Christmas = Bonding
 Christmas + Partner = Gift
 Christmas + Gift = Present
+Blanket + Christmas = Snuggle
+Blanket + Christmas = Stocking

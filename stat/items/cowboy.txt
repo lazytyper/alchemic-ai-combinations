@@ -5,6 +5,7 @@
 created by:
 ===========
 Cow + Rose = Cowboy
+Blanket + Milk = Cowboy
 
 Usages:
 =======

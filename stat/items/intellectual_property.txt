@@ -9,3 +9,4 @@ Conflict + Copyright = Intellectual Property
 Usages:
 =======
 Intellectual Property + Room = Think Tank
+Blanket + Intellectual Property = Patent

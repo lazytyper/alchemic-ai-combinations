@@ -9,3 +9,4 @@ Duke Ellington + Pioneer = Music Legend
 Usages:
 =======
 Music Legend + Pioneer = Beetles
+Emotion + Music Legend = Beatles

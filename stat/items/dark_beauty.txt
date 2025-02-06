@@ -9,3 +9,4 @@ Fallen Angel + Rose = Dark Beauty
 Usages:
 =======
 Dark Beauty + Throne = Gothic Queen
+Dark Beauty + Emotion = Gothic Romance

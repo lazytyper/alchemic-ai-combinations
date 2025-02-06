@@ -10,3 +10,4 @@ Usages:
 =======
 Folk Hero + Wishful Thinking = Robin Williams
 Folk Hero + Pioneer = Johnny Appleseed
+Blanket + Folk Hero = Paul Bunyan

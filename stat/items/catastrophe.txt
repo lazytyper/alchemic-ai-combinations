@@ -13,3 +13,4 @@ Catastrophe + Drought = Famine
 Catastrophe + Electricity = Blackout
 Catastrophe + Wizard = Cataclysm
 Catastrophe + Vampire Bat = Bloodsucker
+Catastrophe + Emotion = Catharsis

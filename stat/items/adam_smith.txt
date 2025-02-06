@@ -9,3 +9,4 @@ Economist + Pioneer = Adam Smith
 Usages:
 =======
 Adam Smith + Origami = Invisible Hand
+Adam Smith + Emotion = Moral Sentiment

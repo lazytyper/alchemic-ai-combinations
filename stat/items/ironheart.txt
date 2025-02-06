@@ -9,3 +9,4 @@ Nuclear Sub + Rose = Ironheart
 Usages:
 =======
 Ironheart + Rose = Metal Flower
+Blanket + Ironheart = Hero Cape

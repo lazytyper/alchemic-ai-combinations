@@ -12,3 +12,4 @@ Usages:
 Alcohol + Liquid = Cocktail
 Alcohol + Grain = Whiskey
 Alcohol + Origami = Cantaloupe
+Alcohol + Blanket = Hangover Cure

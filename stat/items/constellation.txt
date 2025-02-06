@@ -10,3 +10,4 @@ Usages:
 =======
 Animation + Constellation = Starry Night
 Constellation + Decimation = Starfall
+Constellation + Emotion = Starry-Eyed

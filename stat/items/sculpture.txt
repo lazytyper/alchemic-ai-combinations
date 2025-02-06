@@ -12,3 +12,4 @@ Sculpture + Zeus = Statue
 Darkness + Sculpture = Shadow
 Glass + Sculpture = Crystal
 Pioneer + Sculpture = Rodin
+Blanket + Sculpture = Installation

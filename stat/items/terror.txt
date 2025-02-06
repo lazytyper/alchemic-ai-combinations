@@ -9,3 +9,4 @@ Fear + Monster = Terror
 Usages:
 =======
 City + Terror = Panic
+Tattoo + Terror = Bodyart

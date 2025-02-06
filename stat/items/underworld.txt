@@ -13,3 +13,4 @@ Plant Spirit + Underworld = Shaman
 Underwater World + Underworld = Abyss
 Northern Lights + Underworld = Aurora Borealis
 Pioneer + Underworld = Dante
+Emotion + Underworld = Sadness

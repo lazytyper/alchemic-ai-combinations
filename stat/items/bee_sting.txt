@@ -10,3 +10,4 @@ Usages:
 =======
 Bee Sting + Pioneer = Beecher
 Bee Sting + Origami = Stingray
+Bee Sting + Emotion = Bitterness

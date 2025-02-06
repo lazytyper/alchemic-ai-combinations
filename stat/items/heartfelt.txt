@@ -9,3 +9,4 @@ Heart + Material = Heartfelt
 Usages:
 =======
 Color + Heartfelt = Emotion
+Heartfelt + Tattoo = Mantle

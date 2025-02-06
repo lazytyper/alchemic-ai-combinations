@@ -9,3 +9,4 @@ Batch + Hearth = Bakehouse
 Usages:
 =======
 Bakehouse + Rose = Bakery
+Bakehouse + Emotion = Breadwinner

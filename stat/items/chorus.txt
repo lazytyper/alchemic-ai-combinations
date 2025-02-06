@@ -9,3 +9,4 @@ Hazard + Pizza Song = Chorus
 Usages:
 =======
 Chocolate + Chorus = Cocoa Puffs
+Chorus + Emotion = Songwriting

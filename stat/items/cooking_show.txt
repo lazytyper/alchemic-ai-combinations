@@ -9,3 +9,4 @@ Hazard + Recipe = Cooking Show
 Usages:
 =======
 Cooking Show + Rose = Masterchef
+Cooking Show + Emotion = Foodie Drama

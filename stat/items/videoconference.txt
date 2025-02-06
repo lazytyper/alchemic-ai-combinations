@@ -10,3 +10,4 @@ Usages:
 =======
 Pioneer + Videoconference = Telepresence
 Color + Videoconference = Chromakey
+Emotion + Videoconference = Screen Presence

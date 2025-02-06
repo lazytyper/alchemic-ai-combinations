@@ -10,3 +10,4 @@ Usages:
 =======
 Union + Wildlife Collection = Conservation
 Origami + Union = Folding
+Blanket + Union = Hug

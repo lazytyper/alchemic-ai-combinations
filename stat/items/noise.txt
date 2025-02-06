@@ -12,3 +12,4 @@ Noise + Thunderstorm = Thunder
 Galaxy + Noise = Cosmic Static
 Calzone + Noise + Reincarnation + Slipper = Sneaker
 Noise + Rose = Music
+Blanket + Noise = Soundproofing

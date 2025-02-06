@@ -9,3 +9,4 @@ Multiverse + Room = Pocket Dimension
 Usages:
 =======
 Origami + Pocket Dimension = Folded Space
+Emotion + Pocket Dimension = Feelspace

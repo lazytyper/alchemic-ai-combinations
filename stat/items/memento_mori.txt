@@ -10,3 +10,4 @@ Usages:
 =======
 Memento Mori + Pioneer = Death March
 Memento Mori + Wine = Rare Vintage
+Blanket + Memento Mori = Death Shroud

@@ -10,3 +10,4 @@ Usages:
 =======
 City + Tulsa = Oklahoma
 Color + Tulsa = Art Hub
+Blanket + Tulsa = Blurred Background

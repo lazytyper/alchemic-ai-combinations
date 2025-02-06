@@ -9,3 +9,4 @@ Chocolate + Hydration Station = Cocoa Fountain
 Usages:
 =======
 Cocoa + Cocoa Fountain = Chocolate Fountain
+Blanket + Cocoa Fountain = Hot Chocolate

@@ -9,3 +9,4 @@ Twin + Wine = Twine
 Usages:
 =======
 Origami + Twine = String Art
+Emotion + Twine = Heartstring

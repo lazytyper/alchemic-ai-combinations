@@ -6,6 +6,7 @@ created by:
 ===========
 Aphrodite + Fireball = Love Potion
 Love + Potion = Love Potion
+Romance + Romance = Love Potion
 
 Usages:
 =======

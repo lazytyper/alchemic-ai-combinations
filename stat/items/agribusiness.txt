@@ -14,3 +14,4 @@ Agribusiness + Human = Agrarian
 Agribusiness + Blood Sport = Blood Farming
 Agribusiness + Chicken = Poultry
 Agribusiness + Origami = Farm Art
+Agribusiness + Blanket = Crop Over

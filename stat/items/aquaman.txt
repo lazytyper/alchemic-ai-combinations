@@ -11,3 +11,4 @@ Usages:
 Aquaman + Tree Spirit = Ent
 Aquaman + Hot Springs = Waterman
 Aquaman + Farming = Aquafarming
+Aquaman + Emotion = Waterworks

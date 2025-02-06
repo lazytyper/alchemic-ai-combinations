@@ -9,3 +9,4 @@ Boiler + Duplicates = Boilermaker
 Usages:
 =======
 Boilermaker + Pioneer = Brewmaster
+Boilermaker + Emotion = Liquid Courage

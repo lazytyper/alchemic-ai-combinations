@@ -10,3 +10,4 @@ Usages:
 =======
 Lava + Mud = Obsidian
 Lava + Water = Stone
+Blanket + Lava = Lava-Lamp

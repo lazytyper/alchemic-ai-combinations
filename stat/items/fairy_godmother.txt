@@ -13,3 +13,4 @@ Aurora Borealis + Fairy Godmother = Wish Come True
 Dance Party + Fairy Godmother = Ball Gown
 Fairy Godmother + Villain = Enchantress
 Fairy Godmother + Pioneer = Harvest Moon
+Emotion + Fairy Godmother = Wish Granter

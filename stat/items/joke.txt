@@ -9,3 +9,4 @@ Masquerade + Punchline = Joke
 Usages:
 =======
 Joke + Pioneer = Jokester
+Emotion + Joke = Laughter

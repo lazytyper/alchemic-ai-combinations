@@ -9,3 +9,4 @@ Color + Compass = Magnet
 Usages:
 =======
 Color + Magnet = Magnetic Field
+Blanket + Magnet = Fiberboard

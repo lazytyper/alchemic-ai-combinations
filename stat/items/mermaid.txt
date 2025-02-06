@@ -17,3 +17,4 @@ Clownfish + Mermaid = Aqualad
 City + Mermaid = Copenhagen
 Mermaid + Pioneer = Mermaidtail
 Color + Mermaid = Aquamarine
+Blanket + Mermaid = Tail

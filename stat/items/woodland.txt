@@ -11,3 +11,4 @@ Usages:
 Sustainable Paradise + Woodland = Eco-Forest
 Christmas + Woodland = Holly
 Origami + Woodland = Forestcraft
+Blanket + Woodland = Camping

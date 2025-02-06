@@ -9,3 +9,4 @@ Acid-Base + Pioneer = Buffer
 Usages:
 =======
 Buffer + Pioneer = Byte
+Buffer + Emotion = Emotional Support

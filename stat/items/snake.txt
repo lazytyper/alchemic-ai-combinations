@@ -14,3 +14,4 @@ Sin + Snake = Temptation
 Snake + Temptation = Satan
 Snake + Woodstock = Snoopy
 Pioneer + Snake = Cobracommander
+Emotion + Snake = Serpent's Kiss

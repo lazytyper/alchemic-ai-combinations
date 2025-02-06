@@ -10,3 +10,4 @@ Usages:
 =======
 Rhetoric + Speech = Oratory
 Michael + Rhetoric = Jordan
+Emotion + Rhetoric = Pathos

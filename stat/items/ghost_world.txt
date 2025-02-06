@@ -9,3 +9,4 @@ Haunted Planet + Ruin = Ghost World
 Usages:
 =======
 Ghost World + Iceland = Otherworld
+Emotion + Ghost World = Spiritism

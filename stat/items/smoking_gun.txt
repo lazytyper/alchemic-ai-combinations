@@ -9,3 +9,4 @@ Political Corruption + Room = Smoking Gun
 Usages:
 =======
 Smoking Gun + Wine = Pink Elephant
+Blanket + Smoking Gun = Smoke Screen

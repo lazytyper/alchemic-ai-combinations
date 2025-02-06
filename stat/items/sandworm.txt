@@ -10,3 +10,4 @@ Usages:
 =======
 Planet + Sandworm = Arrakis
 Sandworm + Theatre = Dune
+Blanket + Sandworm = Dune Worm

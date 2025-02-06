@@ -11,3 +11,4 @@ Usages:
 Jewelry + Photobook = Memory Locket
 Jewelry + Room = Jewelbox
 Jewelry + Origami = Jewelcraft
+Emotion + Jewelry = Amethyst

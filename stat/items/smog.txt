@@ -10,3 +10,4 @@ Usages:
 =======
 Dorian Gray + Smog = Decay
 City + Smog = Beijing
+Blanket + Smog = Fogbank

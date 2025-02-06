@@ -9,3 +9,4 @@ Christmas + Fireplace = Stockings
 Usages:
 =======
 Origami + Stockings = Folded Hosiery
+Emotion + Stockings = Pantyhose

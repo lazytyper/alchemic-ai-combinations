@@ -9,3 +9,4 @@ Lampshade + Room = Light Fixture
 Usages:
 =======
 Light Fixture + Pioneer = Light Bulb
+Blanket + Light Fixture = Lampkin

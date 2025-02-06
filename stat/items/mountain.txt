@@ -30,3 +30,4 @@ Mountain + Rose = Valley
 Mountain + Stone = Rocky Peak
 Locomotive + Mountain = Tunnel
 Mountain + Origami = Mountainfold
+Emotion + Mountain = Elation

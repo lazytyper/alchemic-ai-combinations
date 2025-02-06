@@ -11,3 +11,4 @@ Usages:
 Beauty + Perfume = Fragrance
 Perfume + Steam = Fragrance
 Perfume + Water = Fragrance Mist
+Blanket + Perfume = Comfort Scent

@@ -16,3 +16,4 @@ Day + Night = 24 Hours
 Day + Friday = Weekend
 Day + Weekend = Holiday
 Day + Twilight = Dusk
+Blanket + Day = Naptime

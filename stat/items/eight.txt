@@ -10,3 +10,4 @@ Usages:
 =======
 Eight + Eight = Sixteen
 Eight + Origami = Octopus
+Eight + Quartet = Octet

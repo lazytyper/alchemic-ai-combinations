@@ -10,3 +10,4 @@ Usages:
 =======
 Rosmarinus + Toxic Worker = Rosemary's Baby
 Hazard + Toxic Worker = Safety Gear
+Emotion + Toxic Worker = Burnout

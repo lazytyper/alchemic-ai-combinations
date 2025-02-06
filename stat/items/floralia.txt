@@ -9,3 +9,4 @@ Lamplight + Rose = Floralia
 Usages:
 =======
 Floralia + Holiday = Spring Festival
+Blanket + Floralia = Capelet

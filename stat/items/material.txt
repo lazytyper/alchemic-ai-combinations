@@ -20,3 +20,4 @@ Heart + Material = Heartfelt
 Letter + Material = Paper
 Color + Material = Leather
 Material + Tattoo = Inked Skin
+Emotion + Material = Love Tokens

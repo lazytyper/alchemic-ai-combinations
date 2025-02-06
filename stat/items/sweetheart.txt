@@ -9,3 +9,7 @@ Candy + Love = Sweetheart
 Usages:
 =======
 Candy + Sweetheart = Sugar Rush
+Sweetheart + Tattoo = Loveknot
+Sweetheart + Tattoo = Tattooed Heart
+Sweetheart + Tattoo = Loveletter
+Sweetheart + Tattoo = Love Mark

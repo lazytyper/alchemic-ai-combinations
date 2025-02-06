@@ -1,0 +1,11 @@
+==================================
+= Memcmp
+==================================
+
+created by:
+===========
+Chocolate + Cyborg = Memcmp
+
+Usages:
+=======
+Blanket + Memcmp = Memory Foam

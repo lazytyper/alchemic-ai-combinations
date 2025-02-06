@@ -9,3 +9,4 @@ Crop Damage + Shadow Self = Shadow Work
 Usages:
 =======
 Rose + Shadow Work = Psychology
+Emotion + Shadow Work = Self-Discovery

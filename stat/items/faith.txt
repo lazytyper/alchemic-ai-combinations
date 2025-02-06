@@ -12,3 +12,4 @@ Usages:
 Earth + Faith = Religion
 Faith + Jupiter = Zeus
 Faith + Salamander = Fire Spirit
+Emotion + Faith = Belief

@@ -9,3 +9,4 @@ Clock + Rose = Timepiece
 Usages:
 =======
 Rose + Timepiece = Ros Clock
+Emotion + Timepiece = Watchfulness

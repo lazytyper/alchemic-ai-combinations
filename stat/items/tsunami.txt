@@ -16,3 +16,4 @@ Ocean + Tsunami = Wave
 Tsunami + Windbreak = Storm Surge
 Desentization + Tsunami = Wave Therapy
 Moonlight Romance + Tsunami = Moonquake
+Blanket + Tsunami = Wavebreaker

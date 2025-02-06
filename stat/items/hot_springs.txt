@@ -10,3 +10,4 @@ Usages:
 =======
 Ecosystem + Hot Springs = Geothermal Field
 Aquaman + Hot Springs = Waterman
+Hot Springs + Tombstone = Spa Care

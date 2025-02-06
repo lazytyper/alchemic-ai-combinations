@@ -10,3 +10,4 @@ Usages:
 =======
 Composer + Pioneer = Beethoven
 Color + Composer = Vivaldi
+Blanket + Composer = Satie

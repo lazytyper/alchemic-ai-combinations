@@ -1,10 +1,12 @@
 ==================================
-= Tow Sawyer
+= Hug
 ==================================
 
 created by:
 ===========
+Blanket + Union = Hug
+Blanket + Greetings = Hug
 
 Usages:
 =======
-Author + Tow Sawyer = Twain
+Hug + Two-Word Answers Only + Warmth = Warm Embrace
