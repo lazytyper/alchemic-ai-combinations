@@ -79,6 +79,7 @@ for (let line of lines) {
 
 const itemsSorted = getItemsSortedByNames();
 
+/*
 itemsSorted.forEach(item => {
     const { name, create, use } = item;
     let content = [
@@ -114,6 +115,7 @@ itemsSorted.forEach(item => {
 
     }
 });
+*/
 
 function ref(name) {
     return '<a href="#' + name + '">' + formatElement(name) + '</a>';
