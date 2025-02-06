@@ -1,0 +1,9 @@
+cthulhu,cthulhu,same
+compulsion,ocean_serpent,owl,cthulhu
+gyarados,gyarados,pokemon,ocean_serpent
+pair,number,two
+contrast,mother,opposite
+opposite,spice,sweet
+bride,repetition,wedding_vows
+dino-suit,love_game,nuclear_energy,production
+lexical_stress,opposite,antonym

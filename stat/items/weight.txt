@@ -10,3 +10,4 @@ Usages:
 =======
 Matter + Weight = Mass
 Chocolate + Weight = Musketeer
+Balance + Weight = Scale

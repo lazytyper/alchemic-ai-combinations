@@ -5,6 +5,7 @@
 created by:
 ===========
 Ash + Color = Gray
+Black + White = Gray
 
 Usages:
 =======

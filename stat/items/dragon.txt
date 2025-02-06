@@ -10,3 +10,4 @@ Usages:
 =======
 Dragon + Fire = Dragonfire
 Dragon + Monster = Hydra
+Dragon + Serpent = Wyvern

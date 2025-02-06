@@ -11,3 +11,4 @@ Usages:
 Egypt + River = Nile
 City + Egypt = Cairo
 Egypt + Monster = Mummy
+Egypt + Tattoo = Hieroglyph

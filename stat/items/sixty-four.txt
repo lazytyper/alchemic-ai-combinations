@@ -8,6 +8,6 @@ Thirty-Two + Thirty-Two = Sixty-Four
 
 Usages:
 =======
-Sixty-Four + Sixty-Four = Chessboard
+Sixty-Four + Sixty-Four = Chess Board
 Sixteen + Sixty-Four = Kilobyte
 Blanket + Sixty-Four = Nintendo

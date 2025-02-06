@@ -1,0 +1,17 @@
+==================================
+= Barrel
+==================================
+
+created by:
+===========
+Wine + Wood = Barrel
+
+Usages:
+=======
+Barrel + Eight = Barrelage
+Barrel + Eight = Octave
+Barrel + Eight = Octopus
+Barrel + Octopus = Ink
+Barrel + Octopus = Barrelman
+Barrel + Serpent = Snakebite
+Barrel + Constellation = Orion

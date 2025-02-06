@@ -11,3 +11,4 @@ Usages:
 Flavor + Tokyo = Umami
 Chocolate + Flavor = Truffle
 Emotion + Flavor = Umami
+Flavor + Tastebud = Savory

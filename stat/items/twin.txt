@@ -12,3 +12,4 @@ Usages:
 Astrology + Twin = Gemini
 Time + Twin = Twinsanity
 Twin + Wine = Twine
+Number + Twin = Double

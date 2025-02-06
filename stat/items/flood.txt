@@ -10,3 +10,4 @@ Usages:
 =======
 Flood + Sherwood = Floodpain
 Flood + Love = Nothin
+Flood + Flood = Deluge

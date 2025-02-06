@@ -16,3 +16,5 @@ Cupid + Hellscape = Demon
 Cupid + Elvis Presley = Love Me Tender
 Cupid + Human = Love
 Cupid + Hot Date = Love Arrow
+Chess Board + Cupid = Love Game
+Chessboard + Cupid = Love Game

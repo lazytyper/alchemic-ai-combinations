@@ -11,3 +11,4 @@ Usages:
 Beauty + Obsession = Vanity
 Moonlight Romance + Obsession = Moonstruck
 Love + Obsession = Infatuation
+Obsession + Obsession = Compulsion

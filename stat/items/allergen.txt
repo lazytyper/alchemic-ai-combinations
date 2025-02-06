@@ -9,3 +9,4 @@ Pollen + Substance = Allergen
 Usages:
 =======
 Allergen + Substance = Allergenicity
+Allergen + Tattoo = Ink Allergy

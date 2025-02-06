@@ -10,3 +10,4 @@ Usages:
 =======
 Bakehouse + Rose = Bakery
 Bakehouse + Emotion = Breadwinner
+Bakehouse + Tattoo = Inkwell

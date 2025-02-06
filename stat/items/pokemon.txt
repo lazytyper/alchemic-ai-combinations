@@ -20,3 +20,6 @@ Computer + Pokemon = Virtual Reality
 Animal + Pokemon = Pikachu
 Blueprint + Pokemon = Porygon
 Pokemon + Room = Pokeball
+Pokemon + Tattoo = Inkay
+Deluge + Pokemon = Gyarados
+Gyarados + Gyarados + Pokemon = Ocean Serpent

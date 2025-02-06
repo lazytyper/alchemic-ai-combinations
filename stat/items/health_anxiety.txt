@@ -9,3 +9,4 @@ Hazard + Hypochondria = Health Anxiety
 Usages:
 =======
 Health Anxiety + Wine = Sommelier
+Health Anxiety + Wordplay = Lexical Stress

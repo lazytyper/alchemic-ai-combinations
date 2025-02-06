@@ -9,3 +9,4 @@ Life + Rain = Growth
 Usages:
 =======
 Baby + Growth = Toddler
+Booger + Growth = Mucus

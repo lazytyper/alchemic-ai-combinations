@@ -9,3 +9,4 @@ Melt + Melt + Melt = Puddle
 Usages:
 =======
 Pioneer + Puddle = Homesteader
+Puddle + Tattoo = Inkblot

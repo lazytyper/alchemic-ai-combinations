@@ -1,0 +1,11 @@
+==================================
+= Zodiac Sign
+==================================
+
+created by:
+===========
+Horoscope + Horoscope = Zodiac Sign
+
+Usages:
+=======
+Zodiac Sign + Zodiac Sign = Gemini Cancer

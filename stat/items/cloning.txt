@@ -10,3 +10,4 @@ Usages:
 =======
 Cloning + Hazard = Biohazard
 Cloning + Pioneer = Dolly
+Cloning + Tattoo = Tattooing

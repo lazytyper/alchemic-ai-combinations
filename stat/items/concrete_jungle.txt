@@ -10,3 +10,4 @@ Usages:
 =======
 Concrete Jungle + Pioneer = Urban Explorer
 Color + Concrete Jungle = Urban Art
+Concrete Jungle + Tattoo = City Art

@@ -1,0 +1,12 @@
+==================================
+= Chessboard
+==================================
+
+created by:
+===========
+Chess + Wood = Chessboard
+
+Usages:
+=======
+Chessboard + Cupid = Love Game
+Chessboard + Wood = Checkers

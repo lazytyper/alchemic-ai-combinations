@@ -11,3 +11,4 @@ Usages:
 Oceanic Paradise + Roscato = Vacationland
 Roscato + Time = Wine O'clock
 Pioneer + Roscato = Wine Explorer
+Roscato + Tattoo = Tattoed Rose

@@ -9,3 +9,4 @@ Animal + Night Breeze = Owl
 Usages:
 =======
 Owl + Room = Owlery
+Compulsion + Ocean Serpent + Owl = Cthulhu

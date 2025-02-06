@@ -10,3 +10,4 @@ Usages:
 =======
 Horoscope + Trident = Pisces
 Cyclone + Horoscope = Stormscope
+Horoscope + Horoscope = Zodiac Sign

@@ -9,3 +9,4 @@ Room + Sauna = Steamroom
 Usages:
 =======
 Pioneer + Steamroom = Train Conductor
+Steamroom + Tattoo = Entity

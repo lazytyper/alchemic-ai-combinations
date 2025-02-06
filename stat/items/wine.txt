@@ -138,3 +138,4 @@ Gatorade + Wine = Grapeade
 Cafeteria + Wine = Barista
 Duplex + Wine = Winehouse
 Christmas + Wine = Mull
+Wine + Wood = Barrel

@@ -9,3 +9,4 @@ Sky God + Wasteland = Air Disaster
 Usages:
 =======
 Air Disaster + Swanlake = Swan Dive
+Air Disaster + Tattoo = Blue Angel

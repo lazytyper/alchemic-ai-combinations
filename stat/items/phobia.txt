@@ -9,3 +9,4 @@ Animal + Fear = Phobia
 Usages:
 =======
 Phobia + Wine = Oenophobia
+Phobia + Tattoo = Fear Of Needles

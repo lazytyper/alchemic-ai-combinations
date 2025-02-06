@@ -13,3 +13,7 @@ Wood + Wood = Plywood
 Wood + Wood + Wood + Wood = Table
 Sherpa + Wood = Lumberjack
 Life + Wood = Tree
+Wine + Wood = Barrel
+Chess + Wood = Chessboard
+Chessboard + Wood = Checkers
+Chess Board + Wood = Wooden Chestboard

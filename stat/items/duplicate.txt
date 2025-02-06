@@ -14,3 +14,4 @@ Duplicate + Farming = Cloning
 Duplicate + Mars = Twin
 Duplicate + Rose = Clone
 Caramel + Duplicate = Caramelize
+Duplicate + Same = Repetition

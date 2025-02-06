@@ -9,3 +9,4 @@ Nature Magic + Pioneer = Earth Mage
 Usages:
 =======
 Earth Mage + Origami = Paper Golem
+Earth Mage + Tattoo = Earthbender

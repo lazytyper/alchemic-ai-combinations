@@ -16,3 +16,4 @@ Dinosaur + Dinosaur = T-Rex
 Dinosaur + Medusa = Dino-Gorgon
 Dinosaur + Hell = Tyrannosaurus
 Dinosaur + Swanlake = Duckbill
+Dinosaur + Space Suit = Dino-Suit

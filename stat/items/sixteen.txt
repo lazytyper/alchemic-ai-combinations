@@ -12,3 +12,4 @@ Usages:
 Human + Sixteen = Teenager
 Sixteen + Sixteen = Thirty-Two
 Sixteen + Sixty-Four = Kilobyte
+Addition + Sixteen = Calculator

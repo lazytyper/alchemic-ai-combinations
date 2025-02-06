@@ -1,0 +1,12 @@
+==================================
+= Identical
+==================================
+
+created by:
+===========
+Match + Same = Identical
+Equality + Same = Identical
+
+Usages:
+=======
+Identical + Same = Equal

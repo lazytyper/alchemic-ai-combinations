@@ -10,3 +10,4 @@ Usages:
 =======
 Flowering + Lamplight = Night Bloom
 Lamplight + Rose = Floralia
+Lamplight + Tattoo = Storyboard

@@ -1,0 +1,11 @@
+==================================
+= Calculator
+==================================
+
+created by:
+===========
+Addition + Sixteen = Calculator
+
+Usages:
+=======
+Calculator + Calculator = Abacus

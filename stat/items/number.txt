@@ -1,0 +1,16 @@
+==================================
+= Number
+==================================
+
+created by:
+===========
+Prime + Prime = Number
+
+Usages:
+=======
+Number + Number = Sum
+Number + Sum = Addition
+Number + Twin = Double
+Double + Number = Doublet
+Number + Twins = Pair
+Number + Pair = Two

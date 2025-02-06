@@ -10,3 +10,4 @@ Usages:
 =======
 Letter + Literature = Writing
 Literature + Origami = Book Folding
+Literature + Serpent = Ouroboros

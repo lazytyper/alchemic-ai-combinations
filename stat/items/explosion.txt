@@ -6,6 +6,7 @@ created by:
 ===========
 Coffeepot + Hazard = Explosion
 Hazard + Kaboom = Explosion
+Sweet Chaos + Tastebud = Explosion
 
 Usages:
 =======

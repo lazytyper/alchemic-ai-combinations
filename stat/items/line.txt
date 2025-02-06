@@ -1,0 +1,11 @@
+==================================
+= Line
+==================================
+
+created by:
+===========
+Point + Point = Line
+
+Usages:
+=======
+Line + Line = Parallelism

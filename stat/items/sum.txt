@@ -1,0 +1,12 @@
+==================================
+= Sum
+==================================
+
+created by:
+===========
+Number + Number = Sum
+
+Usages:
+=======
+Number + Sum = Addition
+Sum + Sum = Total

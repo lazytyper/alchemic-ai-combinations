@@ -9,3 +9,7 @@ Blanket + Tasting = Tastebud
 Usages:
 =======
 Sugar + Tastebud = Sweetness
+Rock Bottom + Tastebud = Flavorless
+Sweet Chaos + Tastebud = Flavor Explosion
+Sweet Chaos + Tastebud = Explosion
+Flavor + Tastebud = Savory

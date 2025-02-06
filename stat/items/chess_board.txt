@@ -1,0 +1,12 @@
+==================================
+= Chess Board
+==================================
+
+created by:
+===========
+Sixty-Four + Sixty-Four = Chess Board
+
+Usages:
+=======
+Chess Board + Cupid = Love Game
+Chess Board + Wood = Wooden Chestboard

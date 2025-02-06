@@ -9,3 +9,4 @@ Origami + Pruner = Paper Cutter
 Usages:
 =======
 Blanket + Paper Cutter = Cutting Board
+Paper Cutter + Tattoo = Cutout

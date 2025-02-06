@@ -1,0 +1,11 @@
+==================================
+= Double
+==================================
+
+created by:
+===========
+Number + Twin = Double
+
+Usages:
+=======
+Double + Number = Doublet

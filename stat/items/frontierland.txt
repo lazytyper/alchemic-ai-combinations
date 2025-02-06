@@ -9,3 +9,4 @@ Middle-Earth + Pioneer = Frontierland
 Usages:
 =======
 Frontierland + Pioneer = Pioneertown
+Frontierland + Tattoo = Tattooed Cowboy

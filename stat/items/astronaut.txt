@@ -12,3 +12,4 @@ Astronaut + Astronaut = Spacewalk
 Astronaut + Hell = Void
 Astronaut + Spacecraft = Neil Armstrong
 Astronaut + Origami = Space Crane
+Astronaut + Dressing Room = Space Suit

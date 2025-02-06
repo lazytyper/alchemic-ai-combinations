@@ -35,3 +35,6 @@ Dark Romance + Ocean = Blue Abyss
 Blossom + Ocean = Seashell
 Frogman + Ocean = Diver
 Ocean + Origami = Watercraft
+Ocean + Serpent = Leviathan
+Leviathan + Ocean = Moby Dick
+Moby Dick + Ocean = Whale

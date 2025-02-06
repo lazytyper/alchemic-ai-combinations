@@ -405,6 +405,7 @@ Morning + Pioneer = Wakefulness
 Farmageddon + Pioneer = Farmers
 Decay + Pioneer = Rustic
 Champagne + Pioneer = Hemingway
+Champagne + Pioneer = Chandon
 Pioneer + Tragedy = Barefoot Contessa
 Dancer + Pioneer = Martha Graham
 Pioneer + Sandwich = Club

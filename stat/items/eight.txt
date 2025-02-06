@@ -11,3 +11,7 @@ Usages:
 Eight + Eight = Sixteen
 Eight + Origami = Octopus
 Eight + Quartet = Octet
+Barrel + Eight = Barrelage
+Barrel + Eight = Octave
+Barrel + Eight = Octopus
+Barrelman + Eight = Pipeline

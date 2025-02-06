@@ -1,0 +1,11 @@
+==================================
+= Barrelman
+==================================
+
+created by:
+===========
+Barrel + Octopus = Barrelman
+
+Usages:
+=======
+Barrelman + Eight = Pipeline

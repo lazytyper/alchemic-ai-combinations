@@ -12,3 +12,5 @@ Love + Partnership = Relationship
 Partnership + Playhouse = Theater
 Animal + Partnership = Team
 Color + Partnership = Colorwheel
+Partnership + Same = Equality
+Partnership + Same = Twinship

@@ -10,3 +10,4 @@ Usages:
 =======
 Commitment + Loyalty = Devotion
 Leadership + Loyalty = Fellowship
+Loyalty + Tattoo = Tribal

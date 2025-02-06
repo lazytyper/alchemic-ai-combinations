@@ -11,3 +11,4 @@ Usages:
 Addiction + Song = Earworm
 Addiction + Wine = Alcoholism
 Addiction + Chocolate = Chocoholic
+Addiction + Compulsion = Obsessive Behavior

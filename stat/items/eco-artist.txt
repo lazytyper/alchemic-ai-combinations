@@ -9,3 +9,4 @@ Eco-Warrior + Photoshop = Eco-Artist
 Usages:
 =======
 Color + Eco-Artist = Green Artist
+Eco-Artist + Tattoo = Skin Art

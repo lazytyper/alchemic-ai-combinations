@@ -13,3 +13,4 @@ Conflict + Society = Strife
 Conflict + Copyright = Intellectual Property
 Conflict + Skyland = Skyward Sword
 Conflict + Rose = Warfare
+Conflict + Tattoo = Wrestling
