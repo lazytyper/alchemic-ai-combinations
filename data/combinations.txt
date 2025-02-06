@@ -4660,7 +4660,7 @@ couple,couple,couple,couple,eight
 eight,eight,sixteen
 human,sixteen,teenager
 teenager,enzymes,hormones
-love,hormones,oxytoxin
+love,hormones,oxytocin
 religion,dogman,dogma
 color,songwriter,purple_rain
 romance,teenager,teenager,young_love
@@ -6416,3 +6416,9 @@ lost,lost,causeway
 machine,machine,machine,machine,assembly_line
 assembly_line,assembly_line,mass_production
 causeway,causeway,bridge
+combustion,society,industry
+dino-suit,love_game,nuclear_energy,production,power_couple
+industry,industry,manufacturing
+causeway,line,manufacturing,production
+causeway,line,manufacturing,pipeline
+causeway,line,manufacturing,mohawk

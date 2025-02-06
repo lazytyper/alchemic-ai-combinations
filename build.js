@@ -1,3 +1,4 @@
+const { create } = require('domain');
 const fs = require('fs');
 
 const items = {};
@@ -77,6 +78,13 @@ for (let line of lines) {
     addline(line);
 }
 
+// read event data file
+const eventDataContent = require('fs').readFileSync('data/groups/valentine2025.txt', 'utf-8').trim();
+const eventItems = eventDataContent.split('\n').sort((a, b) => a.localeCompare(b));
+
+
+
+
 const itemsSorted = getItemsSortedByNames();
 
 /*
@@ -121,6 +129,17 @@ function ref(name) {
     return '<a href="#' + name + '">' + formatElement(name) + '</a>';
 }
 
+function createSubIndex(names) {
+    return names.map(item => {
+        if (item in itemNames) {
+            return `<a href="#${item}">${formatElement(item)}</a>`;
+        } else {
+            return '<span class="missing">' + formatElement(item) + '</span>';
+        }
+    }).join(', ');
+}
+
+
 function createHTML() {
     const preHTML = `<!DOCTYPE html>
 <html>
@@ -164,6 +183,17 @@ function createHTML() {
             background-color: #f2f2f2;
             overflow-y: auto;
         }
+        div.event-list {
+            width: calc(100% - 320px);
+            max-width: 800px;
+            border: 1px solid black;
+            padding: 10px;
+            background-color: #f2f2f2;
+        }
+        span.missing {
+            color: red;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>`; // end of preHTML
@@ -171,6 +201,13 @@ function createHTML() {
     const blocks = [];
 
     blocks.push('<h1>AlchemicAI Combination List</h1>');
+    blocks.push('<h2>Event Items (Valentine 2025)</h2>');
+    blocks.push('<div class="event-list">');
+
+    blocks.push(createSubIndex(eventItems));
+
+    blocks.push('</div>');
+
     blocks.push('<div class="index">');
     blocks.push(`<h2>Index (${itemsSorted.length} Items)</h2>`);
 
