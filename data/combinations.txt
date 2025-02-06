@@ -6278,16 +6278,3 @@ barrel,popstar,bandwagon
 barrel,disease_hunter,plague_doctor
 barrel,tom_sawyer,raft
 barrel,emotional_storm,emotional_disaster
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
-barrel,
