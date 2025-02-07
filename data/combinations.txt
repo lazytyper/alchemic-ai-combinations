@@ -6618,7 +6618,7 @@ cosmopolitan,ninjitsu,neon_ninja
 cosmopolitan,reflective_vest,nightlife_safety
 cosmopolitan,sophistication,urbane
 pioneer,parfait,perfection
-romanticism,romanticism,,gothic_literature
+romanticism,romanticism,gothic_literature
 candlelight,romantic_date,candlelit_diner
 candlelit_diner,romeo,romantic_tragedy
 candlelit_diner,apocalypse,doomsday_romance
