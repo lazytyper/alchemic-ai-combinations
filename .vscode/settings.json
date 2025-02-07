@@ -1,2 +1,14 @@
 {
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": ".*\\.txt$", // Falls du nur bestimmte Dateien möchtest, anpassen
+        "cmd": "sed -i -e 's/+/_/g' ${file}"
+      }
+    ]
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "index.html": true
+  }
 }

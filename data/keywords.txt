@@ -1,0 +1,8 @@
+# only for auto-suggestions
+polynesia
+virtual
+faerie
+lunar
+expert
+sonic
+thinking

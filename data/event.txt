@@ -1,0 +1,8 @@
+tattoo_heart,tattoo_heart,heart_tattoo
+scars,scars,permanent_reminder
+self-harm,self-harm,scars
+self-punishment,self-punishment,self-harm
+self-flagellation,self-flagellation,self-punishment
+eco-penance,eco-penance,eco-penance,self-flagellation
+eco-theatre,repentance,eco-penance
+heart_shape,permanent_reminder,two-word_answers_only,tattoo_heart

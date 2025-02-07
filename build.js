@@ -69,21 +69,27 @@ function addline(string) {
 }
 
 // read data file
-const dataContent = require('fs').readFileSync('data/combinations.txt', 'utf-8');
-const lines = dataContent.split('\n');
-for (let line of lines) {
-    line = line.trim();
-    if (line.startsWith('#')) continue;
-    if (line === '') continue;
-    addline(line);
+function readFile(filename) {
+    if (!fs.existsSync(filename)) {
+        //console.warn(`File not found: ${filename}`);
+        return;
+    }
+    const dataContent = require('fs').readFileSync(filename, 'utf-8');
+    const lines = dataContent.split('\n');
+    for (let line of lines) {
+        line = line.trim();
+        if (line.startsWith('#')) continue;
+        if (line === '') continue;
+        addline(line);
+    }
 }
 
+readFile('data/combinations.txt');
+//readFile('data/combinations2.txt');
+//readFile('data/event.txt');
 // read event data file
 const eventDataContent = require('fs').readFileSync('data/groups/valentine2025.txt', 'utf-8').trim();
 const eventItems = eventDataContent.split('\n').sort((a, b) => a.localeCompare(b));
-
-
-
 
 const itemsSorted = getItemsSortedByNames();
 
