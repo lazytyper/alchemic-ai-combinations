@@ -4,6 +4,10 @@
       {
         "match": ".*\\.txt$", // Falls du nur bestimmte Dateien möchtest, anpassen
         "cmd": "sed -i -e 's/+/_/g' ${file}"
+      },
+      {
+        "match": "dict\\.txt|keywords\\.txt",
+        "cmd": "sort ${file} | grep -v '^$' > ${file}.tmp && mv ${file}.tmp ${file}"
       }
     ]
   },
