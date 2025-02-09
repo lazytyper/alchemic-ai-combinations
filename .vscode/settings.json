@@ -13,6 +13,7 @@
   },
   "search.exclude": {
     "**/node_modules": true,
-    "index.html": true
+    "index.html": true,
+    "dict.txt": true
   }
 }
