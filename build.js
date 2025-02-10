@@ -94,44 +94,6 @@ const eventItems = eventDataContent.split('\n').sort((a, b) => a.localeCompare(b
 
 const itemsSorted = getItemsSortedByNames();
 
-/*
-itemsSorted.forEach(item => {
-    const { name, create, use } = item;
-    let content = [
-        '==================================',
-        '= ' + formatElement(name),
-        '==================================',
-        ''
-    ];
-
-    content.push('created by:');
-    content.push('===========')
-    for (let c of create) {
-        const ids = c.split('_');
-        const names = ids.map(id => items[id].name);
-        content.push(names.map(formatElement).join(' + ') + ' = ' + formatElement(name));
-    }
-
-    content.push('');
-
-    content.push('Usages:');
-    content.push('=======');
-
-    for (let c of use) {
-        const ids = c.split('_');
-        const names = ids.map(id => items[id].name);
-        const resultNames = combinations[c].map(id => items[id].name);
-        for (let resultName of resultNames) {
-            content.push(names.map(formatElement).join(' + ') + ' = ' + formatElement(resultName));
-        }
-
-        fs.writeFileSync(`stat/items/${name}.txt`, content.join('\n'));
-
-
-    }
-});
-*/
-
 function ref(name) {
     return '<a href="#' + name + '">' + formatElement(name) + '</a>';
 }
@@ -203,8 +165,7 @@ function createHTML() {
         }
     </style>
 </head>
-<body>`; // end of preHTML
-    // `
+<body>`;
     const blocks = [];
 
     blocks.push('<h1>AlchemicAI Combination List</h1>');
@@ -261,6 +222,99 @@ function createHTML() {
     fs.writeFileSync('index.html', preHTML + blocks.join('\n') + postHTML);
 }
 
+function createShortHTML() {
+    const preHTML = `<!DOCTYPE html>
+<html>
+<head>
+    <title>AlchemicAI Combination List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        h1 {
+            font-size: 1.5em;
+            text-decoration: underline;
+        }
+        h2 {
+            text-decoration: underline;
+            font-size: 1.2em;
+        }
+        h3 {
+            font-size: 1em;
+        }
+        div.index {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            bottom: 10px;
+            width: 300px;
+            border: 1px solid black;
+            padding: 10px;
+            background-color: #f2f2f2;
+            overflow-y: auto;
+        }
+        div.event-list {
+            width: calc(100% - 320px);
+            max-width: 800px;
+            border: 1px solid black;
+            padding: 10px;
+            background-color: #f2f2f2;
+        }
+        span.missing {
+            color: red;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>`;
+    const blocks = [];
+    blocks.push('<h1>AlchemicAI Combination List</h1>');
+    blocks.push('<h2>Event Items (Valentine 2025)</h2>');
+    blocks.push('<div class="event-list">');
+
+    blocks.push(createSubIndex(eventItems));
+
+    blocks.push('</div>');
+
+    blocks.push('<div class="index">');
+    blocks.push(`<h2>Index (${itemsSorted.length} Items)</h2>`);
+
+    blocks.push(itemsSorted.map(item => `<a href="#${item.name}">${formatElement(item.name)}</a>`).join(', '));
+
+    blocks.push('</div>');
+
+    for (let item of itemsSorted) {
+        const { name, create, use } = item;
+        let content = [
+            `<a name="${item.name}"></a><p><strong>${formatElement(name)}</strong>: `
+        ];
+        content.push(create.map(c => {
+            const ids = c.split(',');
+            const names = ids.map(id => items[id].name);
+            return `${names.map(ref).join(' + ')}`;
+        }).join(' or '));
+
+        content.push('</p><hr/>');
+
+        blocks.push(content.join('\n'));
+    }
+
+    const postHTML = '</body></html>';
+
+    fs.writeFileSync('index-short.html', preHTML + blocks.join('\n') + postHTML);
+}
 
 
 // items without known combinations
@@ -276,6 +330,7 @@ const itemsSortedByUsage = [...itemsSorted].sort((a, b) => {
 content = itemsSortedByUsage.map(item => `${formatElement(item.name)}: ${item.use.length}`).join('\n');
 fs.writeFileSync('stat/statistics.txt', content);
 createHTML();
+createShortHTML();
 
 function getNameList() {
     const res = [''];
