@@ -6774,7 +6774,7 @@ paris,appreciation,gratitude
 paris,casino,monte_carlo
 paris,dangerous,taxi_driver
 paris,body,bodyguard
-paris,teenager.parisian_youth
+paris,teenager,parisian_youth
 paris,handbook,guidebook
 paris,ghost_castle,phantom_fortress
 paris,craftsman,artisan
@@ -7717,7 +7717,6 @@ human,hunger_pangs,appetite
 human,ornate_egg,nesting_doll
 human,postmodernism,transhumanism
 human,acai,superfood
-human,vroom.humanoid
 human,saturnalia,festivus
 human,surrealism,dali
 cloth,art_hub,fabrication
@@ -9475,7 +9474,7 @@ dublin,dublin,double
 dublin,dublin,ireland
 lad,similar,dude
 lad,lad,brother
-dude,similar,bro
+dude,synonym,bro
 family,offspring,generation
 family,offspring,children
 community,person,person,citizen
@@ -9488,3 +9487,19 @@ companion,companion,sidekick
 companion,companion,partner
 duo,duo,quartet
 mother,mother,mother,mother,quadruplet
+human,vroom,humanoid
+desert,desert,desert,sahara
+parent,parent,ancestor
+woman,woman,sister
+twin,twin,sibling
+dolly,dolly,twin
+dolly,dolly,double
+dolly,dolly,doppelganger
+cinderella,opposites,ugly_stepsister
+cinderella,opposites,step-sisters
+same_place,same_place,same_location
+twin,lad,twinsies
+spouse,woman,wife
+woman,opposite,man
+children,opposite,adults
+mother,man,father

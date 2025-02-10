@@ -254,8 +254,14 @@ function createShortHTML() {
         h3 {
             font-size: 1em;
         }
-        p {
+        p.item {
             margin: 0;
+        }
+        a {
+            color: #000;
+        }
+        a:hover {
+            color: #00f;
         }
         div.index {
             position: fixed;
@@ -279,6 +285,12 @@ function createShortHTML() {
             color: red;
             font-style: italic;
         }
+        span.combi {
+            background: #ffc;
+            border: solid 1px #cc9;
+            padding: 2px 8px;
+            border-radius: 4px;
+        }
     </style>
 </head>
 <body>`;
@@ -301,12 +313,12 @@ function createShortHTML() {
     for (let item of itemsSorted) {
         const { name, create, use } = item;
         let content = [
-            `<a name="${item.name}"></a><p><strong>${formatElement(name)}</strong>: `
+            `<a name="${item.name}"></a><p class="item"><strong>${formatElement(name)}</strong>: `
         ];
         content.push(create.map(c => {
             const ids = c.split(',');
             const names = ids.map(id => items[id].name);
-            return `${names.map(ref).join(' + ')}`;
+            return `<span class="combi">${names.map(ref).join(' + ')}</span>`;
         }).join(' or '));
 
         content.push('</p><hr/>');
