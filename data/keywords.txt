@@ -8,6 +8,7 @@ bonding
 bounty
 climate
 collection
+content
 cosmic
 cursed
 detection
@@ -25,11 +26,13 @@ guilty
 institute
 little
 lunar
+marketing
 masterpiece
 mindful
 observation
 online
 overload
+phenomenon
 pleasure
 polynesia
 refuge

@@ -2,7 +2,7 @@
   "emeraldwalk.runonsave": {
     "commands": [
       {
-        "match": ".*\\.txt$", // Falls du nur bestimmte Dateien möchtest, anpassen
+        "match": "data/.*\\.txt$", // Falls du nur bestimmte Dateien möchtest, anpassen
         "cmd": "sed -i -e 's/+/_/g' ${file}"
       },
       {

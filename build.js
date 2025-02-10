@@ -25,8 +25,8 @@ function addItem(name) {
 function addCombination(names, resultName) {
     let keyItems = names.map(addItem);
     let resultId = addItem(resultName).id;
-    let keyIds = keyItems.map(item => item.id);
-    let combinationKey = keyIds.join('_');
+    let keyIds = keyItems.map(item => item.id).sort((a, b) => a - b);
+    let combinationKey = keyIds.join(',');
     let comb;
     if (combinations[combinationKey] === undefined) {
         comb = combinations[combinationKey] = [resultId];
@@ -232,7 +232,7 @@ function createHTML() {
         content.push('<h3>Created by:</h3>');
         content.push('<ul>');
         for (let c of create) {
-            const ids = c.split('_');
+            const ids = c.split(',');
             const names = ids.map(id => items[id].name);
             content.push(`<li>${names.map(ref).join(' + ')} = ${ref(name)}</li>`);
         }
@@ -242,7 +242,7 @@ function createHTML() {
             content.push('<h3>Usages:</h3>');
             content.push('<ul>');
             for (let c of use) {
-                const ids = c.split('_');
+                const ids = c.split(',');
                 const names = ids.map(id => items[id].name);
                 const resultNames = combinations[c].map(id => items[id].name);
                 for (let resultName of resultNames) {
@@ -261,6 +261,8 @@ function createHTML() {
     fs.writeFileSync('index.html', preHTML + blocks.join('\n') + postHTML);
 }
 
+
+
 // items without known combinations
 const itemsWithNoCreate = itemsSorted.filter(item => item.create.length === 0 && !(['air', 'earth', 'fire', 'water', 'random_item'].includes(item.name)));
 let content = itemsWithNoCreate.map(item => formatElement(item.name)).join('\n');
@@ -274,3 +276,26 @@ const itemsSortedByUsage = [...itemsSorted].sort((a, b) => {
 content = itemsSortedByUsage.map(item => `${formatElement(item.name)}: ${item.use.length}`).join('\n');
 fs.writeFileSync('stat/statistics.txt', content);
 createHTML();
+
+function getNameList() {
+    const res = [''];
+    for (let i = 1; i < autoId; i++) {
+        res.push(items[i].name);
+    }
+    return res;
+}
+
+function getCombos() {
+    const res = [null];
+    for (let i = 1; i < autoId; i++) {
+        res.push(items[i].create);
+    }
+    return res;
+}
+
+const names = getNameList();
+const namesFormatted = names.map(formatElement);
+fs.writeFileSync('app/el.json', JSON.stringify(namesFormatted));
+
+const combos = getCombos();
+fs.writeFileSync('app/cl.json', JSON.stringify(combos));
