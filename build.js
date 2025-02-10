@@ -261,7 +261,7 @@ function createHTML() {
 }
 
 // items without known combinations
-const itemsWithNoCreate = itemsSorted.filter(item => item.create.length === 0 && !(['air', 'earth', 'fire', 'water'].includes(item.name)));
+const itemsWithNoCreate = itemsSorted.filter(item => item.create.length === 0 && !(['air', 'earth', 'fire', 'water', 'random_item'].includes(item.name)));
 let content = itemsWithNoCreate.map(item => formatElement(item.name)).join('\n');
 fs.writeFileSync('stat/missing.txt', content);
 

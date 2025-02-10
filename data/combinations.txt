@@ -9196,3 +9196,9 @@ country,diplomacy,embassy
 accessory,bow_decoration,gift_ribbon,two-word_answers_only,gift_bow
 bow_decoration,gift_bow,gift_ribbon,two-word_answers_only,gift_embellishment
 bow_decoration,embassy,gift_embellishment,two-word_answers_only,ribbon_bow
+locksmith,metal,key
+locksmith,key,lock
+locksmith,locksmith,metal,keysmith
+couple,heart,lock,love,padlock
+couple,padlock,love_lock
+
