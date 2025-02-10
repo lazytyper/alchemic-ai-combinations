@@ -85,6 +85,7 @@ function readFile(filename) {
 }
 
 readFile('data/combinations.txt');
+readFile('data/new.txt');
 //readFile('data/combinations2.txt');
 //readFile('data/event.txt');
 // read event data file
