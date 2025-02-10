@@ -254,6 +254,9 @@ function createShortHTML() {
         h3 {
             font-size: 1em;
         }
+        p {
+            margin: 0;
+        }
         div.index {
             position: fixed;
             top: 10px;
@@ -293,7 +296,7 @@ function createShortHTML() {
 
     blocks.push(itemsSorted.map(item => `<a href="#${item.name}">${formatElement(item.name)}</a>`).join(', '));
 
-    blocks.push('</div>');
+    blocks.push('</div><hr/>');
 
     for (let item of itemsSorted) {
         const { name, create, use } = item;
