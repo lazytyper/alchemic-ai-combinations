@@ -356,16 +356,36 @@ function getNameList() {
 }
 
 function getCombos() {
-    const res = [null];
-    for (let i = 1; i < autoId; i++) {
-        res.push(items[i].create);
+    const res = [];
+    for (let key in combinations) {
+        const ids = key.split(',').map(id => parseInt(id));
+        const resultIds = combinations[key];
+        res.push([ids, resultIds]);
     }
     return res;
 }
 
 const names = getNameList();
 const namesFormatted = names.map(formatElement);
-fs.writeFileSync('app/el.json', JSON.stringify(namesFormatted));
 
 const combos = getCombos();
-fs.writeFileSync('app/cl.json', JSON.stringify(combos));
+
+const data = {
+    names: namesFormatted,
+    combos,
+};
+
+const html = `<!DOCTYPE html>
+<html>
+<head>
+    <title>AlchemicAI Combination List</title>
+    <script>
+        const data = ${JSON.stringify(data)};
+        console.log(data.combos);
+    </script>
+</head>
+<body>
+</body>
+</html>`;
+
+fs.writeFileSync('app/index.html', html);

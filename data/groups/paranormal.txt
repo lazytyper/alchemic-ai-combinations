@@ -1,0 +1,6 @@
+alien
+demon
+ghost
+vampire
+werewolf
+zombie
