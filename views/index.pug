@@ -1,0 +1,15 @@
+doctype html
+html
+    head
+        title= title
+        link(rel='stylesheet' href='/main.css')
+        script(type='module').
+            window.data=!{JSON.stringify(data)};
+        script(src='/app.js')
+        block head
+    body
+        .container
+            #inputform
+                input#search(type='text' placeholder='element' autocomplete='off')
+                button#searchbtn Search
+            #solutions
