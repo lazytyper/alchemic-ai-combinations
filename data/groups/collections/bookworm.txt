@@ -1,0 +1,10 @@
+dickens
+dostoevsky
+doyle
+hemingway
+king
+orwell
+shakespeare
+tolkien
+twain
+verne

@@ -1,0 +1,7 @@
+border_collie
+corgi
+german_shepherd
+golden_retriever
+husky
+poodle
+pug

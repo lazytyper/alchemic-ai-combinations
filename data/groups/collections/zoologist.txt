@@ -1,0 +1,10 @@
+bear
+cheetah
+chimpanzee
+crocodile
+elephant
+horse
+lion
+mouse
+whale
+wolf

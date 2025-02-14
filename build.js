@@ -88,7 +88,7 @@ readFile('data/new.txt');
 //readFile('data/combinations2.txt');
 //readFile('data/event.txt');
 // read event data file
-const eventDataContent = require('fs').readFileSync('data/groups/valentine2025.txt', 'utf-8').trim();
+const eventDataContent = require('fs').readFileSync('data/groups/events/valentine2025.txt', 'utf-8').trim();
 const eventItems = eventDataContent.split('\n').sort((a, b) => a.localeCompare(b));
 
 const itemsSorted = getItemsSortedByNames();
