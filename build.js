@@ -363,28 +363,3 @@ function getCombos() {
     }
     return res;
 }
-
-const names = getNameList();
-const namesFormatted = names.map(formatElement);
-
-const combos = getCombos();
-
-const data = {
-    names: namesFormatted,
-    combos,
-};
-
-const html = `<!DOCTYPE html>
-<html>
-<head>
-    <title>AlchemicAI Combination List</title>
-    <script>
-        const data = ${JSON.stringify(data)};
-        console.log(data.combos);
-    </script>
-</head>
-<body>
-</body>
-</html>`;
-
-fs.writeFileSync('app/index.html', html);
