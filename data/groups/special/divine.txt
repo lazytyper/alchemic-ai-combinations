@@ -1,5 +1,6 @@
 addition
 antonym
+birthplace
 derivative
 equivalent
 liquid
@@ -9,11 +10,14 @@ meaning
 multiplication
 number
 opposite
+past_tense
 property
 random_item
 same
 similar
+slang
 solid
 substance
 synonym
+two-word_answers_only
 zero
