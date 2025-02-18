@@ -346,20 +346,3 @@ fs.writeFileSync('stat/statistics.txt', content);
 createHTML();
 createShortHTML();
 
-function getNameList() {
-    const res = [''];
-    for (let i = 1; i < autoId; i++) {
-        res.push(items[i].name);
-    }
-    return res;
-}
-
-function getCombos() {
-    const res = [];
-    for (let key in combinations) {
-        const ids = key.split(',').map(id => parseInt(id));
-        const resultIds = combinations[key];
-        res.push([ids, resultIds]);
-    }
-    return res;
-}
