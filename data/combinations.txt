@@ -17424,8 +17424,6 @@ neighbor,northeast,poland,belarus
 neighbor,northeast,kansas,missouri
 neighbor,northeast,pennsylvania,pittsburgh
 neighbor,northeast,triangulation
-neighbor,northeast,zimbabwe
-neighbor,northeast,matabeleland
 neighbor,northeast,togo,togolese
 neighbor,northeast,fiji,minimalism
 neighbor,northeast,tajikistan,neighboring
@@ -17441,7 +17439,7 @@ neighbor,northeast,missouri,illinois
 neighbor,northeast,switzerland,appenzell
 neighbor,northeast,japan,sachertorte
 neighbor,northeast,georgia,carolinas
-neighbor,northeast,Norway,Norwegian
+neighbor,northeast,norway,norwegian
 neighbor,northeast,montana,north_dakota
 neighbor,northeast,uae,locality
 neighbor,northeast,chile,chilehead
