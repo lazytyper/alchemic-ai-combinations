@@ -10,10 +10,15 @@ textarea {
 }
 
 input,
+select,
 button {
   border: solid 1px #ccc;
   font-size: 16px;
   padding: 8px;
+}
+
+label {
+  font-weight: bold;
 }
 
 input[type="text"] {
@@ -92,4 +97,12 @@ span.close {
 
 span.close::after {
   content: "X";
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+p {
+  margin: 0.5em 0;
 }

@@ -1,7 +1,8 @@
 doctype html
 html
     head
-        title= title
+        title AlchemicAI elements search
+        meta(charset='utf-8')
         link(rel='stylesheet' href='/main.css')
         script(type='module').
             window.data=!{JSON.stringify(data)};
@@ -9,7 +10,20 @@ html
         block head
     body
         .container
+            h1 Alchemic AI elements search
+            p 
+                span#element-count 0
+                != ' '
+                | elements available
             #inputform
                 input#search(type='text' placeholder='element' autocomplete='off')
                 button#searchbtn Search
+                != ' '
+                label(style='margin-left:2em') Search method:
+                != ' '
+                select#search-method
+                    option(value='0') Fuzzy search
+                    option(value='1') Contains term (like in game)
+                    option(value='2') Begins with term (like in game)
+                    option(value='3') Ends with term
             #solutions

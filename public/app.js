@@ -35,6 +35,29 @@ function fuzzySearch(query, words, limit = 50) {
         .map(result => result.word);
 }
 
+function contains(query, words, limit = 50) {
+    if (!query) return [];
+    query = query.toLowerCase();
+    return words.filter(word => word.toLowerCase().includes(query)).slice(0, limit);
+}
+
+function startsWith(query, words, limit = 50) {
+    if (!query) return [];
+    query = query.toLowerCase();
+    return words.filter(word => word.toLowerCase().startsWith(query)).slice(0, limit);
+}
+
+function endsWith(query, words, limit = 50) {
+    if (!query) return [];
+    query = query.toLowerCase();
+    return words.filter(word => word.toLowerCase().endsWith(query)).slice(0, limit);
+}
+
+const searchMethods = [fuzzySearch, contains, startsWith, endsWith];
+let limit = 100;
+
+let searchMethod = fuzzySearch;
+
 function mkAutocomplete(input, allowNew = false) {
     const container = document.createElement('div');
     container.classList.add('autocomplete-container');
@@ -60,6 +83,12 @@ function mkAutocomplete(input, allowNew = false) {
         activeIndex = 0;
     }
 
+    document.getElementById('search-method').addEventListener('change', function () {
+        searchMethod = searchMethods[this.selectedIndex];
+        console.log('Search method:', searchMethod.name);
+        input.dispatchEvent(new Event('input'));
+    });
+
     input.addEventListener('input', function () {
         const query = this.value.trim();
         if (!query) {
@@ -68,7 +97,7 @@ function mkAutocomplete(input, allowNew = false) {
             return;
         }
 
-        let results = fuzzySearch(query, window.data.names, 50);
+        let results = searchMethod(query, window.data.namesSorted, 100);
 
         if (JSON.stringify(results) === JSON.stringify(lastResults)) {
             // Vorschläge haben sich nicht geändert → Verhindert Flackern
@@ -234,6 +263,7 @@ function addSolutions(resultId) {
 
 document.addEventListener('DOMContentLoaded', function () {
     const startElements = ['Fire', 'Water', 'Air', 'Earth'];
+    document.getElementById('element-count').textContent = window.data.names.length;
     startElements.forEach(name => {
         const id = getId(name);
         window.data.create[id] = [];
@@ -255,6 +285,6 @@ document.addEventListener('DOMContentLoaded', function () {
             alert('Element not found');
         }
     });
-
+    window.data.namesSorted = window.data.names.sort();
 
 });

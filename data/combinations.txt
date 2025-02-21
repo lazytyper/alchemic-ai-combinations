@@ -17844,3 +17844,15 @@ washingtondc,district,washingtonians
 columbia,columbia,columbia,districtofcolumbia
 washingtondc,district,washingtonia
 washingtonia,district,washington_dc
+capital,new_jersey,trenton
+capital,west_virginia,charleston
+capital,michigan,lansing
+metropolis,maryland,baltimore
+metropolis,alaska,ice_city
+metropolis,tunisia,carthage
+metropolis,mississippi,river_cty
+metropolis,alabama,magnolia_city
+metropolis,benin,cotonou
+metropolis,arkansas,arkham
+metropolis,south_dakota,sioux_falls
+legends,triplets,trilogy
