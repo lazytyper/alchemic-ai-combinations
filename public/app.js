@@ -85,7 +85,6 @@ function mkAutocomplete(input, allowNew = false) {
 
     document.getElementById('search-method').addEventListener('change', function () {
         searchMethod = searchMethods[this.selectedIndex];
-        console.log('Search method:', searchMethod.name);
         input.dispatchEvent(new Event('input'));
     });
 
@@ -285,6 +284,7 @@ document.addEventListener('DOMContentLoaded', function () {
             alert('Element not found');
         }
     });
-    window.data.namesSorted = window.data.names.sort();
+
+    window.data.namesSorted = [...window.data.names].sort();
 
 });
