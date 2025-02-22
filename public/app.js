@@ -219,14 +219,29 @@ function formatElement(name) {
 }
 
 function addCombination(combination, el) {
-    const elements = combination.map(getName);
+    const packed = [];
+    let lastId = combination[0];
+    let count = 1;
 
-    for (let i = 0; i < elements.length; i++) {
-        el.appendChild(createElement(combination[i]));
-        if (i < elements.length - 1) {
-            el.appendChild(document.createTextNode(' + '));
+    for (let i = 1; i < combination.length; i++) {
+        if (combination[i] === lastId) {
+            count++;
+        } else {
+            packed.push({ id: lastId, count });
+            lastId = combination[i];
+            count = 1;
         }
     }
+    packed.push({ id: lastId, count });
+    packed.forEach((item, index) => {
+        if (index > 0) {
+            el.appendChild(document.createTextNode(' + '));
+        }
+        el.appendChild(createElement(item.id));
+        if (item.count > 1) {
+            el.appendChild(document.createTextNode(` ×${item.count}`));
+        }
+    });
 }
 
 function addSolutions(resultId) {
