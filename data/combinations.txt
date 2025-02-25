@@ -1638,7 +1638,7 @@ dream,boat,dreamboat
 genie,time,time-traveler
 time-traveler,time,paradox
 genie,mythos,genesis
-genie,fossil,biomeachanoid
+genie,fossil,biomechanoid
 genie,pokemon,magikarp
 genie,poker_chip,wish_chip
 genie,fisherman,wishmaster
@@ -3646,7 +3646,7 @@ room,vatican,chapel
 room,abandoned_castle,haunted_chamber
 room,tinder,tinderbox
 room,knight,knightmare
-room,biomeachanoid,simulacrum
+room,biomechanoid,simulacrum
 room,submarine,submersible
 room,cycling,bike_shed
 room,alcoholic,barroom
@@ -4152,7 +4152,7 @@ pioneer,malady,disease_hunter
 pioneer,disease_hunter,epidemologist
 pioneer,astronomy,galileo
 pioneer,poker,wild_west
-pioneer,bacteria,bioremeditation
+pioneer,bacteria,bioremediation
 acid-base,substance,salt
 water,substance,acid
 acid,biology,digestion
@@ -4962,7 +4962,7 @@ color,dating_app,tinderella
 color,personhood,identity
 color,gemini,multicolor
 color,link,chain
-color,anglerfish,bioluminence
+color,anglerfish,bioluminesence
 color,suite,playing_cards
 color,oxymoron,blacklight
 color,explosive,firework
@@ -7435,7 +7435,8 @@ dozen,baker,pastries
 pastries,bullfighting,churros
 pastries,eco-artist,cake_artist
 pastries,toffee,tart
-pastries,biologics,biomakery
+pastries,biologics,biobakery
+pastries,biologics,biometrics
 pastries,life_cycle,baker's_dozen
 pastries,carbon_dating,cake_slices
 pastries,mamma,mammal
@@ -13245,7 +13246,7 @@ past_tense,rockwood,rocked
 past_tense,advantage,advantaged
 past_tense,rubber_band,bounced
 past_tense,age,aged
-past_tense,biodefense,bioreparation
+past_tense,biodefense,biopreparation
 past_tense,tattooing,inked
 past_tense,sexuality,hetronormativity
 past_tense,apple_of_love,loved
@@ -17357,7 +17358,7 @@ riverbend,riverbend,bend
 baseball,hat,cap
 hat,wordplay,surname
 neighbor,east,albania,kosovo
-neighbor,east,kyrgyzstan
+neighbor,east,tajikistan,kyrgyzstan
 neighbor,east,armenia,azerbaijan
 neighbor,south,malaysia,singapore
 country,lionfish,barbados
@@ -19876,7 +19877,7 @@ country,neighbor,mali,west,senegal
 country,neighbor,east,senegal,gambia
 country,neighbor,cameroon,south,gabon
 country,neighbor,sierra_leone,north,guinea
-country,neighbor,north,guinea,guinea-bissau
+country,north,guinea,guinea-bissau
 country,neighbor,east,micronesia,palau
 country,neighbor,east,tuvalu,funafuti
 country,neighbor,east,tuvalu,kiribati
@@ -20347,3 +20348,20 @@ antonym,bikini_bottom,apple_jelly
 antonym,bilingual,monolingual
 antonym,bilingualism,monolingualism
 antonym,bike_stands,kickstand
+antonym,apple_jelly,orange_jam
+antonym,billboard,libretto
+antonym,binder,looser
+antonym,binding,unbinding
+antonym,binge-fest,fasting
+antonym,biocode,codex
+antonym,biodefense,antibiotics
+antonym,biodiversity_loss,biodiversity_gain
+antonym,bioengineer,biodesigner
+antonym,biofilm,antibiofilm
+antonym,biopolitics,necropolitics
+antonym,biopsy,diagnosis
+antonym,diagnosis,prognosis
+antonym,bioremediation,remediation
+antonym,bionic_chair,smart_seat
+antonym,biopreparation,antibody
+antonym,bird_pokemon,rock_type
