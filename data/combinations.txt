@@ -29720,7 +29720,7 @@ explorer,pirate,corsair
 conquistador,explorer,discoverer
 conquistador,explorer,cortes
 body_positivity,design_activism,inclusive_design
-oppose,inclusive_design,exclusive_design
+opposite,inclusive_design,exclusive_design
 body_positivity,design_activism,body_activism
 cyber_hygiene,design_activism,cyber_activism
 design_activism,game_theory,social_strategy
