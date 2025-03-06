@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const items = {};
-const itemNames = {}
+const itemNames = Object.create(null);
 const combinations = {};
 
 let autoId = 1;
