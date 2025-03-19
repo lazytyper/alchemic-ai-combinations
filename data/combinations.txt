@@ -40101,8 +40101,7 @@ dog_park,doghouse,dogtopia
 dog_breed,war,warhound
 dog_breed,simulation,dog_simulator
 dog_breed,ride,dogsled
-dog_breed,mark,dalmation_spot
-dog_breed,houndstooth,dalmation_coat
+dog_breed,mark,dalmatian_spot
 dog_breed,fairy_tale,dragon_dog
 documentation,programming,code_comments
 doctor,president,dr__biden
