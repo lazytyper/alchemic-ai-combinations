@@ -89,7 +89,7 @@ function mkAutocomplete(input, allowNew = false) {
     });
 
     input.addEventListener('input', function () {
-        const query = this.value.trim();
+        const query = this.value;
         if (!query) {
             clearSuggestions();
             lastResults = [];
