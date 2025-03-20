@@ -1,5 +1,5 @@
-<!DOCTYPE html><html><head><title>AlchemicAI elements search</title><style type="text/css">body {
-  background-color: #000;
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>AlchemicAI elements search</title><style type="text/css">body {
+  background-color: #2c3e50;
   color: #fff;
   font-family: sans-serif;
 }
@@ -12,7 +12,7 @@ textarea {
 input,
 select,
 button {
-  border: solid 1px #ccc;
+  border: solid 1px #fff;
   font-size: 16px;
   padding: 8px;
 }
@@ -25,15 +25,21 @@ input[type="text"] {
   width: 300px;
 }
 
+input,
+select,
+textarea {
+  background-color: #fff;
+  color: #000;
+}
+
 button {
-  background-color: #333;
+  background-color: #1967d2;
   color: #fff;
   cursor: pointer;
 }
 
 input:focus {
   border-color: #fff;
-  background-color: #faa;
 }
 .autocomplete-container {
   position: absolute;
@@ -42,8 +48,9 @@ input:focus {
 }
 
 .autocomplete-suggestions {
-  background: #333;
-  border: 1px solid #ccc;
+  background: #fff;
+  color: #000;
+  border: 1px solid #fff;
   border-radius: 4px;
   max-height: 200px;
   overflow-y: auto;
@@ -62,8 +69,8 @@ input:focus {
 
 .autocomplete-suggestions li:hover,
 .autocomplete-suggestions li.active {
-  background: #444;
-  font-weight: bold;
+  background: #1967d2;
+  color: #fff;
 }
 
 #code {
@@ -74,10 +81,11 @@ input:focus {
 span.element {
   color: #eee;
   cursor: pointer;
-  padding: 2px 10px;
-  border: solid 1px #eee;
-  background-color: #888;
+  padding: 2px 2px;
+  border: solid 1px #2c3e50;
   border-radius: 5px;
+  text-decoration: underline;
+  font-size: 125%;
 }
 
 .solution {
@@ -282,6 +290,7 @@ function mkAutocomplete(input, allowNew = false) {
         if (event.target.tagName === 'LI') {
             input.value = event.target.textContent;
             clearSuggestions();
+            search();
         }
     });
 
@@ -384,6 +393,17 @@ function addSolutions(resultId) {
     document.getElementById('solutions').appendChild(el);
 }
 
+function search() {
+    const name = document.getElementById('search').value.trim();
+    let id = getId(name);
+    if (id === -1) {
+        id = getId(formatElement(formatBack(name)));
+    }
+    if (id !== -1) {
+        addSolutions(id);
+    }
+}
+
 document.addEventListener('DOMContentLoaded', function () {
     const startElements = ['Fire', 'Water', 'Air', 'Earth'];
     document.getElementById('element-count').textContent = window.data.names.length;
@@ -395,19 +415,7 @@ document.addEventListener('DOMContentLoaded', function () {
     mkAutocomplete(input);
 
     const searchBtn = document.getElementById('searchbtn');
-    searchBtn.addEventListener('click', function (event) {
-        const name = input.value.trim();
-        document.getElementById('solutions').innerHTML = '';
-        let id = getId(name);
-        if (id === -1) {
-            id = getId(formatElement(formatBack(name)));
-        }
-        if (id !== -1) {
-            addSolutions(id);
-        } else {
-            alert('Element not found');
-        }
-    });
+    searchBtn.addEventListener('click', search);
 
     window.data.namesSorted = [...window.data.names].sort();
 

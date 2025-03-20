@@ -173,6 +173,7 @@ function mkAutocomplete(input, allowNew = false) {
         if (event.target.tagName === 'LI') {
             input.value = event.target.textContent;
             clearSuggestions();
+            search();
         }
     });
 
@@ -275,6 +276,17 @@ function addSolutions(resultId) {
     document.getElementById('solutions').appendChild(el);
 }
 
+function search() {
+    const name = document.getElementById('search').value.trim();
+    let id = getId(name);
+    if (id === -1) {
+        id = getId(formatElement(formatBack(name)));
+    }
+    if (id !== -1) {
+        addSolutions(id);
+    }
+}
+
 document.addEventListener('DOMContentLoaded', function () {
     const startElements = ['Fire', 'Water', 'Air', 'Earth'];
     document.getElementById('element-count').textContent = window.data.names.length;
@@ -286,19 +298,7 @@ document.addEventListener('DOMContentLoaded', function () {
     mkAutocomplete(input);
 
     const searchBtn = document.getElementById('searchbtn');
-    searchBtn.addEventListener('click', function (event) {
-        const name = input.value.trim();
-        document.getElementById('solutions').innerHTML = '';
-        let id = getId(name);
-        if (id === -1) {
-            id = getId(formatElement(formatBack(name)));
-        }
-        if (id !== -1) {
-            addSolutions(id);
-        } else {
-            alert('Element not found');
-        }
-    });
+    searchBtn.addEventListener('click', search);
 
     window.data.namesSorted = [...window.data.names].sort();
 

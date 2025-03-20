@@ -3,7 +3,7 @@ const data = require('./lib/functions.js');
 
 const blocks = [];
 
-blocks.push('<!DOCTYPE html><html><head><title>AlchemicAI elements search</title><style type="text/css">');
+blocks.push('<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>AlchemicAI elements search</title><style type="text/css">');
 blocks.push(fs.readFileSync('./public/main.css', 'utf8'));
 blocks.push('</style><script type="text/javascript">window.data=');
 blocks.push(JSON.stringify({
