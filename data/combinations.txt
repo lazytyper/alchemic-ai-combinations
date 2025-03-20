@@ -28936,7 +28936,7 @@ bobotie,bobotie,bobobo
 body_horror,body_horror,dismemberment
 body_parts,body_parts,armpit
 body_positivity,body_positivity,self_love
-bodybuilder,bodybuilder,arnold_schwarzenegg
+bodybuilder,bodybuilder,arnold_schwarzeneg
 bodyguard,bodyguard,security_detail
 bodywork,bodywork,auto_repair
 bogwood,bogwood,pieces
@@ -43227,3 +43227,16 @@ mad_woman,nightmare,banshee
 emeraldine,magic_gem,two-word_answers_only,cursed_jewel
 treasure_hunt,treasure_hunt,pirate_map
 emeraldine,magic_gem,two-word_answers_only,magic_emerald
+war,wax,waxwork
+terminator,terminator,arnold_schwarzeneg
+terminator,terminator,robot_assassin
+stone,stone,stone,cromlech
+sprite,sprite,lemon_lime
+spider-man,two-word_answers_only,web_slinger
+spider-man,starfish,spiderfish
+spa,wild_west,wellness_ranch
+soil,st_patrick,green_earth
+soil,st_patrick,druid_magic
+smartwatch,wedding_dress,wedding_tech
+slideshow,whiskey,presentation_tips
+shamrock,space_shuttle,celestial_luck
