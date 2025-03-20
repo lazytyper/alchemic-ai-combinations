@@ -108,6 +108,10 @@ span.close::after {
   content: "X";
 }
 
+div.flash {
+  background-color: #8aa4be;
+}
+
 h1 {
   font-size: 24px;
   margin: 0;
@@ -320,14 +324,16 @@ function showSingle() {
     return single;
 }
 
-function createElement(id) {
+function createElementSpan(id, clickable = true) {
     const name = getName(id);
     const el = document.createElement('span');
     el.classList.add('element');
     el.textContent = name;
-    el.addEventListener('click', function () {
-        addSolutions(id);
-    });
+    if (clickable) {
+        el.addEventListener('click', function () {
+            addSolutions(id);
+        });
+    }
     return el;
 }
 
@@ -359,7 +365,7 @@ function addCombination(combination, el) {
         if (index > 0) {
             el.appendChild(document.createTextNode(' + '));
         }
-        el.appendChild(createElement(item.id));
+        el.appendChild(createElementSpan(item.id));
         if (item.count > 1) {
             el.appendChild(document.createTextNode(` ×${item.count}`));
         }
@@ -370,7 +376,9 @@ function addSolutions(resultId) {
     const el = document.createElement('div');
     el.classList.add('solution');
     el.id = formatBack(getName(resultId));
-    if (document.getElementById(el.id) !== null) {
+    const div = document.getElementById(el.id);
+    if (div !== null) {
+        flashDiv(div);
         return;
     }
 
@@ -378,7 +386,7 @@ function addSolutions(resultId) {
     if (!creates || creates.length === 0) {
         return;
     }
-    el.appendChild(createElement(resultId));
+    el.appendChild(createElementSpan(resultId, false));
     el.appendChild(document.createTextNode(' = '));
 
     for (let i = 0; i < creates.length; i++) {
@@ -406,6 +414,13 @@ function search() {
     if (id !== -1) {
         addSolutions(id);
     }
+}
+
+function flashDiv(div) {
+    div.classList.add('flash');
+    setTimeout(() => {
+        div.classList.remove('flash');
+    }, 500);
 }
 
 document.addEventListener('DOMContentLoaded', function () {

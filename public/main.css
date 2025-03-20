@@ -108,6 +108,10 @@ span.close::after {
   content: "X";
 }
 
+div.flash {
+  background-color: #8aa4be;
+}
+
 h1 {
   font-size: 24px;
   margin: 0;
