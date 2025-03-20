@@ -70,30 +70,36 @@
       td {
         border: 1px solid #333;
         padding: 8px;
-        text-align: left;
+        text-align: center;
       }
       th {
         background: #007bff;
         color: white;
       }
       tr.is-new {
-        background: #32cd32;
+        background: #33ce33;
       }
       table.new-only tr:not(.is-new) {
         display: none;
       }
       td.element-name {
         font-weight: bold;
+        text-align: left;
       }
     </style>
   </head>
   <body>
     <div class="container">
       <div class="top-section">
-        <textarea id="inputArea" placeholder="Enter data..."></textarea>
+        <textarea
+          id="inputArea"
+          placeholder="Paste your combination history data..."
+          spellcheck="false"
+        ></textarea>
         <div class="controls">
           <label
-            ><input type="checkbox" id="optionCheck" />New Items only</label
+            ><input type="checkbox" id="optionCheck" />Display only new
+            results</label
           >
           <span>
             <button id="createTable">Create Table</button>
@@ -150,8 +156,11 @@
                 tr.appendChild(td);
                 for (let i = 0; i < 4; i++) {
                   td = document.createElement("td");
-                  const text = formatElement(element.Elements[i] || "");
-                  td.textContent = formatElement(text);
+                  let text = formatElement(element.Elements[i] || "");
+                  if (text === "Two-Word Answers Only") {
+                    text = "TWAO";
+                  }
+                  td.textContent = text;
                   if (element.Status === 3) {
                     tr.classList.add("is-new");
                   }
