@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Table Generator</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background-color: #f4f4f4;
+      }
+      .container {
+        min-width: 800px;
+        background: white;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        height: 90vh;
+      }
+      .top-section {
+        flex: 0 0 auto;
+      }
+      textarea {
+        width: 100%;
+        height: 120px;
+        resize: none;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      .controls {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 10px;
+      }
+      button {
+        padding: 8px 16px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button:hover {
+        background: #0056b3;
+      }
+      .table-container {
+        flex: 1;
+        overflow-y: auto;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        background: #fff;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th,
+      td {
+        border: 1px solid #333;
+        padding: 8px;
+        text-align: left;
+      }
+      th {
+        background: #007bff;
+        color: white;
+      }
+      tr.is-new {
+        background: #32cd32;
+      }
+      table.new-only tr:not(.is-new) {
+        display: none;
+      }
+      td.element-name {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="top-section">
+        <textarea id="inputArea" placeholder="Enter data..."></textarea>
+        <div class="controls">
+          <label
+            ><input type="checkbox" id="optionCheck" />New Items only</label
+          >
+          <span>
+            <button id="createTable">Create Table</button>
+            <button id="copy">Copy for Spreadsheet</button>
+          </span>
+        </div>
+      </div>
+      <div class="table-container">
+        <table id="resultTable">
+          <thead>
+            <tr>
+              <th>Element Name</th>
+              <th>Parent 1</th>
+              <th>Parent 2</th>
+              <th>Parent 3</th>
+              <th>Parent 4</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Table rows will be dynamically added here -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <script>
+      function formatElement(name) {
+        name = name.replace(/_/g, " ");
+        return name
+          .toLowerCase()
+          .replace(/(^|[0-9\- ])([a-z])/g, (match, p1, p2) => {
+            return p1 + p2.toUpperCase();
+          });
+      }
+      document
+        .getElementById("createTable")
+        .addEventListener("click", function () {
+          let inputText = document.getElementById("inputArea").value;
+          let tableBody = document
+            .getElementById("resultTable")
+            .querySelector("tbody");
+          tableBody.innerHTML = ""; // Clear table before adding new rows
+          try {
+            const elements = JSON.parse(inputText);
+            if (Array.isArray(elements)) {
+              elements.forEach((element) => {
+                if (element.Status === 0) {
+                  return;
+                }
+                const row = [];
+                const tr = document.createElement("tr");
+                let td = document.createElement("td");
+                td.textContent = formatElement(formatElement(element.Result));
+                td.classList.add("element-name");
+                tr.appendChild(td);
+                for (let i = 0; i < 4; i++) {
+                  td = document.createElement("td");
+                  const text = formatElement(element.Elements[i] || "");
+                  td.textContent = formatElement(text);
+                  if (element.Status === 3) {
+                    tr.classList.add("is-new");
+                  }
+                  tr.appendChild(td);
+                }
+                tableBody.appendChild(tr);
+              });
+            }
+          } catch (error) {
+            return;
+          }
+        });
+      document
+        .getElementById("optionCheck")
+        .addEventListener("change", function () {
+          const table = document.getElementById("resultTable");
+          if (this.checked) {
+            table.classList.add("new-only");
+          } else {
+            table.classList.remove("new-only");
+          }
+        });
+      document.getElementById("copy").addEventListener("click", function () {
+        const table = document.getElementById("resultTable");
+        const rows = table.querySelectorAll("tr");
+        const data = [];
+        const skip = document.getElementById("optionCheck").checked;
+        rows.forEach((row) => {
+          if (skip && !row.classList.contains("is-new")) {
+            return;
+          }
+          const rowData = [];
+          row.querySelectorAll("td").forEach((cell) => {
+            rowData.push(cell.textContent);
+          });
+          data.push(rowData.join("\t"));
+        });
+        navigator.clipboard.writeText(data.join("\n"));
+      });
+    </script>
+  </body>
+</html>
