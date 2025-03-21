@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>AI Alchemy Item Viewer</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background-color: #f4f4f4;
+      }
+      .container {
+        min-width: 800px;
+        background: white;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        height: 90vh;
+      }
+      .top-section {
+        flex: 0 0 auto;
+      }
+      .controls {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 10px;
+        gap: 10px;
+      }
+      button {
+        padding: 8px 16px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button:hover {
+        background: #0056b3;
+      }
+      .table-container {
+        flex: 1;
+        overflow-y: auto;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        background: #fff;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th,
+      td {
+        border: 1px solid #333;
+        padding: 8px;
+        text-align: center;
+      }
+      th {
+        background: #007bff;
+        color: white;
+      }
+      td.element-name {
+        font-weight: bold;
+        text-align: left;
+      }
+      .more-rows {
+        text-align: center;
+        font-style: italic;
+        margin-top: 10px;
+      }
+      .bottom-controls {
+        margin-top: 8px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="top-section">
+        <label for="fileInput"
+          >Select the data files under files (the one with the encrypted-looking
+          name)</label
+        >
+        <input type="file" id="fileInput" accept=".bin" />
+        <div class="controls">
+          <label
+            ><input type="checkbox" id="quoteStrings" /> Quote problematic
+            strings (for Sheets)</label
+          >
+          <button id="copyButton">Copy table</button>
+        </div>
+      </div>
+      <div class="table-container" id="tableContainer"></div>
+      <div class="bottom-controls" id="bottomControls"></div>
+    </div>
+
+    <script>
+      const categoryList =
+        "Abstract Concepts,Activities,Adornments,Animals,Artifacts,Attractions,Celebrity,Celestial Objects,Characters,Chemistry,Crafts,Culture,Effects,Electronics,Elixirs,Emotions,Entertainment,Events,Fashion,Fiction,Finance,Food,Furniture,Games,Geography,Health,History,Humans,Knowledge,Materials,Metals,Minerals,Mythical,Natural Elements,Occupation,Phenomenons,Physics,Plants,Sensitive Material,Structures,Tools,Trademark,Undefined Category,Vehicles".split(
+          ","
+        );
+
+      function formatElement(name, quoteForSheets = false) {
+        name = name
+          .toLowerCase()
+          .replace(
+            /(^|[0-9\- ])([a-z])/g,
+            (match, p1, p2) => p1 + p2.toUpperCase()
+          );
+
+        if (
+          quoteForSheets &&
+          (/^\d/.test(name) || /^(true|false)$/i.test(name))
+        ) {
+          name = "'" + name;
+        }
+        return name;
+      }
+
+      function parseBinary(buffer, quoteForSheets = false) {
+        const data = new Uint8Array(buffer);
+        let offset = 0;
+        const rows = [];
+
+        while (offset < data.length) {
+          if (offset + 8 > data.length) break;
+
+          const nameLength = data[offset];
+          offset += 4;
+
+          if (offset + nameLength > data.length) break;
+
+          const nameBytes = data.slice(offset, offset + nameLength);
+          const decodedName = new TextDecoder().decode(nameBytes);
+          const name = formatElement(decodedName, quoteForSheets);
+          offset += nameLength;
+
+          const categories = [];
+          for (let i = 0; i < 3; i++) {
+            const catId = data[offset + i];
+            const category = catId === 255 ? "" : categoryList[catId];
+            categories.push(category);
+          }
+
+          const entryEnd = Math.min(offset + 8, data.length);
+          offset = entryEnd;
+
+          rows.push([name, ...categories]);
+        }
+
+        return rows;
+      }
+
+      function renderTable(rows) {
+        const table = document.createElement("table");
+        const thead = document.createElement("thead");
+        thead.innerHTML =
+          "<tr><th>Name</th><th>Category 1</th><th>Category 2</th><th>Category 3</th></tr>";
+        table.appendChild(thead);
+
+        const tbody = document.createElement("tbody");
+        for (const row of rows) {
+          const tr = document.createElement("tr");
+          row.forEach((cell, index) => {
+            const td = document.createElement("td");
+            td.textContent = cell;
+            if (index === 0) td.classList.add("element-name");
+            tr.appendChild(td);
+          });
+          tbody.appendChild(tr);
+        }
+
+        table.appendChild(tbody);
+        return table;
+      }
+
+      function tableToTSV(rows) {
+        return rows.map((row) => row.join("\t")).join("\n");
+      }
+
+      let allRows = [];
+      let showingAll = false;
+
+      document
+        .getElementById("fileInput")
+        .addEventListener("change", async (event) => {
+          const file = event.target.files[0];
+          if (!file) return;
+          const quote = document.getElementById("quoteStrings").checked;
+
+          const buffer = await file.arrayBuffer();
+          allRows = parseBinary(buffer, quote);
+          showingAll = false;
+          updateTable();
+        });
+
+      function updateTable() {
+        const tableContainer = document.getElementById("tableContainer");
+        const bottomControls = document.getElementById("bottomControls");
+        tableContainer.innerHTML = "";
+        bottomControls.innerHTML = "";
+
+        const visibleRows = showingAll ? allRows : allRows.slice(0, 100);
+        tableContainer.appendChild(renderTable(visibleRows));
+
+        if (!showingAll && allRows.length > 100) {
+          const moreInfo = document.createElement("div");
+          moreInfo.className = "more-rows";
+          moreInfo.textContent = `${allRows.length - 100} more rows`;
+          tableContainer.appendChild(moreInfo);
+
+          const showAllButton = document.createElement("button");
+          showAllButton.textContent = "Show all rows";
+          showAllButton.addEventListener("click", () => {
+            showingAll = true;
+            updateTable();
+          });
+          bottomControls.appendChild(showAllButton);
+        }
+      }
+
+      document.getElementById("copyButton").addEventListener("click", () => {
+        if (!allRows.length) return;
+        const tsv = tableToTSV(allRows);
+        navigator.clipboard
+          .writeText(tsv)
+          .then(() => alert("All rows copied to clipboard!"))
+          .catch((err) => alert("Copy failed: " + err));
+      });
+    </script>
+  </body>
+</html>
