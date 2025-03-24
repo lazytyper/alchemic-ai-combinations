@@ -217,8 +217,10 @@ function formatBack(name) {
 }
 
 function formatElement(name) {
-    name = name.split('-').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join('-');
-    return name.split('_').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
+    name = name.replace(/_/g, ' ');
+    return name.toLowerCase().replace(/(^|[0-9\- ])([a-z])/g, (match, p1, p2) => {
+        return p1 + p2.toUpperCase();
+    });
 }
 
 function addCombination(combination, el) {
