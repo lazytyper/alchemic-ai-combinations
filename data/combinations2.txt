@@ -1,1 +1,2 @@
-decimal,twenty-five,quarter
+lgbt_history,histories,queer_history
+queer_history,queer_history,queer_studies
