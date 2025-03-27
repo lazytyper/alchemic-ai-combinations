@@ -1529,7 +1529,6 @@ dreaminess,jungle,dreamscapes
 spouse,hulk,she-hulk
 feather,rescue_squad,angel
 angel,angel,archangel
-angel,angel,angel,angel,seraphim_chair
 angel,angel,angel,trinity
 cloud,cloud,cloud,cloud,stormy_sky
 cloud,cloud,cloud,storm
@@ -2024,8 +2023,7 @@ grim_reaper,blossom,death_flower
 eclipse,online_dating,moonlight_romance
 wasteland,poultry,chicken_run
 bread,bloodroot,breadroot
-moonflower,protector,night_guard
-night_guard,museum,nightwatchman
+night_guardian,museum,nightwatchman
 nightwatchman,museum,ghost
 science,blueprint,technology
 dinosaur,dinosaur,t-rex
@@ -2968,7 +2966,6 @@ townhouse,tiger,tigertown
 rome,history,ancient_empire
 vatican,history,papal_states
 washington,history,american_revolution
-mount_rushmore,mount_rushmore,mount_rushmore,mount_rushmore,mt_rushmore_monument
 america,america,america,america,usa
 usa,president,biden
 lincoln,washington,dollar
@@ -3770,7 +3767,6 @@ time,rescue_squad,emergency_response
 time,phrasing,timing
 time,prose,narrative
 time,frodo,hobbiton
-time,dust_bunny,memory_tree
 time,batarang,batmobile
 time,climate_advocate,climate_action
 time,liquid_smoke,barbecue
@@ -3847,7 +3843,6 @@ pioneer,airship,zeppelin
 pioneer,fruit,appleseed
 pioneer,super_mario,mario_kart
 pioneer,pink,pinkie_pie
-pioneer,swordfish,herman_me
 pioneer,honeysuckle,johnny_cash
 pioneer,roommate,settler
 pioneer,subway,transit
@@ -4009,7 +4004,6 @@ pioneer,roscato,wine_explorer
 pioneer,cheese_bouquet,corporate_swindle
 pioneer,hacktivism,julian_assange
 pioneer,monster_truck,bigfoot
-pioneer,black_widow,scarlet_johansson
 pioneer,eternal_flame,light_bearer
 pioneer,nature_spirituality,nature_mystic
 pioneer,echo_chamber,soundwave
@@ -4057,7 +4051,6 @@ pioneer,vatican,pope
 pioneer,prairie_dog,chuckwagon
 pioneer,timelessness,legacy
 pioneer,caramel,rollercoaster
-pioneer,dangerous_beast,grizzy_adams
 pioneer,waterpark,splashdown
 pioneer,contradiction,oxymoron
 pioneer,lantern,lightbearer
@@ -4097,7 +4090,7 @@ pioneer,pope,popeye
 pioneer,rollercoaster,thrillseeker
 pioneer,punctuation,punctuator
 pioneer,bohemian,minnesotan
-pioneer,grizzy_adams,mountain_man
+pioneer,grizzly_adams,mountain_man
 pioneer,frankenstein,monster
 pioneer,splashdown,apollo
 pioneer,speaker,advocate
@@ -4159,7 +4152,6 @@ moon,sailor,serena
 resonance,cotton_candy,sweet_sound
 pioneer,florida,floridian
 pioneer,comedy,mark_twain
-pioneer,nectar,joshua_quincy
 pioneer,butterfly,nature_advocate
 pioneer,team_spirit,collaboration
 pioneer,playwright,dramatist
@@ -4490,7 +4482,6 @@ wine,ice_cream,sorbetto
 wine,rower,viniculture
 wine,nurse,nursemaid
 wine,cautionary_tale,grapevine
-wine,fishing_cabin,fishing_lod
 wine,prayer,communion
 wine,combustion,firewater
 wine,bullfighting,tapas
@@ -5092,7 +5083,7 @@ origami,diary,notepad
 origami,arrow,dart
 origami,foodpreneur,folds
 origami,farm_therapy,art_therapy
-origami,mt_rushmore_monument,paper_sculpture
+origami,mt__rushmore_monument,paper_sculpture
 origami,poison,shuriken
 origami,famine,starvation
 origami,smelting,metal_crane
@@ -5366,9 +5357,7 @@ moonlight_romance,martha_graham,dance_drama
 moonlight_romance,spring_festival,moonlight_festival
 moonlight_romance,barista,coffee_date
 moonlight_romance,harley,moonlight_ride
-moonlight_romance,floral_painting,moonlit_boutique
 moonlight_romance,pastoral,moonlit_greenery
-moonlight_romance,hiding,moonlit_rendezvouz
 moonlight_romance,holiday_spirit,love_light
 moonlight_romance,sleepover,pajama_party
 moonlight_romance,island_explorer,moonlit_adventure
@@ -5381,14 +5370,12 @@ moonlight_romance,mona_lisa,artistic_love
 moonlight_romance,miami,moonlight_beach
 moonlight_romance,waterlily,peaceful_evening
 moonlight_romance,asteroid,starlit_love
-moonlight_romance,wormhole,spirit_journey
 moonlight_romance,iron_man,moon_knight
 moonlight_romance,vaccine,love_shot
 moonlight_romance,novelist,moonlit_story
 moonlight_romance,tumbler,drunk_poetry
 moonlight_romance,red_carpet,celebrity_love
 moonlight_romance,black_widow,dark_love
-moonlight_romance,lincoln,moonlight_night
 moonlight_romance,superman,moonman
 moonlight_romance,hunger_games,star-crossed_lovers
 moonlight_romance,warning_signal,love_alarm
@@ -5519,7 +5506,6 @@ author,superman,clark_kent
 author,titanic,james_cameron
 author,moonwalker,armstrong
 author,hero,novel
-author,knowledge,scholarf
 author,lincoln,biography
 author,santa,claus
 author,frankenstein,shelley
@@ -5719,7 +5705,6 @@ chocolate,paper_lantern,mooncake
 chocolate,twister,twixter
 chocolate,study_session,brain_food
 chocolate,catdog,chococat
-chocolate,paper_moon,moonpie
 chocolate,cloud,fudge
 chocolate,beecher,charity
 chocolate,ornate_egg,easter_egg
@@ -5803,7 +5788,6 @@ blanket,plateau,badlands
 blanket,naturist,nudist_resort
 blanket,yacht,boathook
 blanket,floral_arrangement,flower_quilt
-blanket,spring,mattess
 blanket,fungal_network,mycelium
 blanket,earthkeeper,naturist
 blanket,folding_paper,napkin
@@ -6994,7 +6978,6 @@ sustainability,theater,eco-drama
 sustainability,theatre,green_stage
 sustainability,theater,green_stage
 sustainability,mosaic,ecosculpture
-sustainability,buzzkill,greenwash
 sustainability,bluegrass,greengrass
 sustainability,self-love,self-sustainability
 sustainability,orthodontist,eco-dentist
@@ -7281,7 +7264,6 @@ animal,globe,earthworm
 animal,ecosculpture,wildlife_art
 animal,aphrodisiac,musk
 animal,emergency,ambulance
-animal,rousseau,nobel_savage
 animal,wizards,magical_creature
 animal,magician,familiar
 animal,illusionist,rabbit
@@ -7371,7 +7353,6 @@ anxiety,confirmation_bias,paranoia
 biology,couple,reproduction
 age,cloning,germination,tree,bonsai
 earth,globalization,trade
-life_force,mewtwo,psychic_pokemonm
 trade,freedom,capitalism
 trade,comedian,stand-up
 trade,love_tokens,barter
@@ -7501,7 +7482,6 @@ comforter,blanket,bedding
 bedspread,blanket,bedding_set
 quilt,quilt,patchwork
 bedspread,quilt,coverlet
-bedspread,james_bond,shaked_not_stirred
 bedspread,cheeky_gesture,wink
 bedspread,copy,book_cover
 bedspread,dessert_pairing,bedtime_snack
@@ -7757,7 +7737,7 @@ human,bagel,bagelhead
 human,urban_farmer,agripreneur
 human,death_cap,mushroom_man
 human,sardine_can,tongue-in-cheek
-human,mt_rushmore_monument,monumental
+human,mt__rushmore_monument,monumental
 human,disease_hunter,pathologist
 human,stormwatch,meteorologist
 human,line,queue
@@ -7781,7 +7761,6 @@ human,threshold,humankind
 human,crowd,audience
 human,scoundrel,rascal
 human,mocktail,bartender
-human,circle,hola-hoop
 human,expression,body_language
 human,bollywood,actor
 human,eco-ink,eco-human
@@ -7889,7 +7868,6 @@ human,dungeon_master,game_master
 human,leadership,manager
 human,rosewood,wooden_figurine
 human,hearthstone,mage
-human,david,michelange
 human,islander,native
 human,vanity,narcissism
 human,equality,rights
@@ -8088,7 +8066,6 @@ bear,yellowstone,grizzly
 grizzly,honeycomb,bearhug
 grizzly,bearhug,grizzlybear
 park_ranger,grizzlybear,wildlife_protector
-bearpaw,bearpaw,snowshow
 commitment,vow,oath
 commitment,digestion,dedication
 commitment,silk_art,silkroad
@@ -8103,7 +8080,6 @@ commitment,sparrow,fidelity
 commitment,aviation,flight_plan
 commitment,dust_bunny,binding_vow
 commitment,bacteria,biofilm
-commitment,pirate_dance,swashbuck
 commitment,book,contract
 commitment,safety_buoy,lifebuoy
 commitment,chiron,mentor
@@ -8351,7 +8327,7 @@ wine-tasting,mulled_wine,wine_festival
 wine-tasting,goodbye_android,farewell_toast
 wine-tasting,nautical_science,vinology
 wine-tasting,firephone,vintage_gadget
-wine-tasting,herman_me,books_and_wine
+wine-tasting,herman_melville,books_and_wine
 wine-tasting,boss,wow-factor
 wine-tasting,spirit_jar,spirits
 wine-tasting,volcano_roll,sushi_pairing
@@ -8374,7 +8350,6 @@ wine-tasting,mocktail,mocktail-tasting
 wine-tasting,coconut,pina_colada
 wine-tasting,trunk_call,cellar_door
 wine-tasting,reindeer,rudolph
-wine-tasting,momtographer,momotography
 wine-tasting,misunderstanding,bad_review
 wine-tasting,mummy,underground_cellar
 wine-tasting,pointer,tasting_note
@@ -8864,7 +8839,7 @@ cellar_door,batmobile,secret_lair
 cellar_door,memory_quilt,nostalgia_quilt
 cellar_door,money,treasure_chest
 cellar_door,mutants,mole_people
-cellar_door,scarlet_johansson,scarlett_o'hara
+cellar_door,scarlett_johansson,scarlett_o'hara
 cellar_door,microscope,science_lab
 cellar_door,facebook,social_network
 cellar_door,energizer,mystery_machine
@@ -9065,7 +9040,6 @@ security,foolhardy,recklessness
 security,multiverse,parallel_universe
 security,red_cross,first_aid
 security,glitter,glitterbomb
-security,authenticity,trustworth
 security,daybreak,dawn_patrol
 security,death_march,survivor's_guilt
 security,artificial,intelligence
@@ -9297,7 +9271,6 @@ loot,treasure,box,chest
 treasure,box,loot,lootbox
 lootbox,matter,randomization
 lootbox,lootbox,duplicate_items
-social_media,trainwreck,viral_desaster
 social_media,portable_workstation,content_creator
 social_media,influencer,content_creator
 social_media,ashram,influencer
@@ -9311,7 +9284,6 @@ social_media,clay,pottery_influencer
 social_media,crime,cyberbullying
 social_media,mama,momfluencer
 social_media,amadeus,mozart's_influence
-social_media,emotion_detector,mood_track
 social_media,avalanche,virality
 social_media,censorship,filter_bubble
 social_media,inkblot,rorschach_test
@@ -9376,7 +9348,6 @@ social_media,love_alarm,relationship_status
 social_media,cosmopolitanism,global_connectivity
 social_media,ecology,eco-social
 social_media,rock_concert,livestream
-social_media,grimm's_fairy_tales,virtal_stories
 social_media,poisoned_heart,toxic_influence
 social_media,celestial_love,influencer_romance
 social_media,parallel_universe,digital_multiverse
@@ -9982,7 +9953,6 @@ two-word_answers_only,paper_shredder,confetti_maker
 two-word_answers_only,world_cup,soccer_trophy
 two-word_answers_only,cinematic_charm,movie_magic
 two-word_answers_only,mirkwood,dark_forest
-two-word_answers_only,mozart,musical_ger
 two-word_answers_only,hellebore,winter_rose
 two-word_answers_only,eco-gaming,sustainable_play
 two-word_answers_only,sparrow,bird_song
@@ -10121,7 +10091,6 @@ city,dip,mexico
 city,pirate,tortuga
 city,import_export,trade_hub
 city,elephant_communication,elephant_rumble
-city,middle_earth,minas_trith
 city,heliconia,botanica
 city,dagger,daggerfall
 city,panettone,milan
@@ -10138,7 +10107,6 @@ city,smokey_bear,smoky_mountain
 city,fairy_door,faeryville
 city,horror,silent_hill
 emotion,ursula,horror
-city,moon_rover,lunar_color
 city,himalayan_salt,salt_lake
 adobe_muse,greece,web_design
 city,web_design,cybercity
@@ -10315,7 +10283,6 @@ knife,satire,parody
 knife,baby,babysitter
 knife,good_life,carpe_diem
 knife,mistletoe,kissing_ball
-knife,compassion,heartwarm
 knife,drum_furniture,drum_kit
 knife,fake_news,hoax
 knife,fish_house,fish_fry
@@ -10789,7 +10756,6 @@ luck_charm,luck_charm,rabbit's_foot
 luck,luck,luck,luck,good_fortune
 luck,plant,clover
 clover,clover,four-leaf
-clover,clover,luck_symbol
 two-word_answers_only,good_fortune,lucky_charm
 two-word_answers_only,lucky_charm,four-leaf_clover
 four-leaf_clover,four-leaf_clover,good_luck
@@ -11191,7 +11157,7 @@ country,crewmate,countrymen
 country,dwarfism,lilliput
 country,artisan,crafts_fair
 country,windows,blinds
-country,virtal_stories,nationwide_news
+country,viral_stories,nationwide_news
 country,racism,discrimination
 lilliput,human,lilliputian
 country,apprehension,borderline
@@ -12012,7 +11978,6 @@ evolution,abraham,creationism
 evolution,hair_accessory,curlers
 evolution,petabyte,datafication
 evolution,book,origin
-evolution,candy,sugar_glide
 evolution,art_therapy,psychoanalysis
 evolution,fan,darwinism
 evolution,jello,gelation
@@ -12035,7 +12000,7 @@ evolution,foodie,omnivore
 evolution,pirate's_punch,mutiny
 evolution,socialization,sociobiology
 evolution,twelve,decade
-evolution,moonlit_boutique,lunar_flora
+evolution,moonlit_bouquet,lunar_flora
 evolution,paper_architect,evolutionary_design
 evolution,fake_news,misconception
 evolution,fountainhead,objectivism
@@ -12508,7 +12473,6 @@ antonym,vampire_cloak,sunlight
 antonym,safety_sign,danger_sign
 antonym,wind,calm
 antonym,madame_tussauds,madame_tussaud
-antonym,blanket_statement,specifity
 antonym,wild_vine,cultivated_grape
 antonym,innovator,traditionalist
 antonym,cold_coffee,hot_coffee
@@ -12579,7 +12543,6 @@ antonym,viral_signal,signal_loss
 antonym,raceway,speedway
 antonym,opponent,friend
 antonym,dog_bowl,cat_dish
-antonym,online_streaming,offline_view
 antonym,coloration,monochrome
 antonym,testimony,counterargument
 antonym,maverick,conformist
@@ -12829,7 +12792,6 @@ antonym,backroom,front_office
 antonym,ansel_adams,synthesis
 antonym,border_patrol,open_immigration
 police,police,officer
-police,police,law_inforcement
 acronym,punch,knock
 acronym,punch,punchline
 antonym,shadow_clock,sun_dial
@@ -12927,7 +12889,6 @@ antonym,fragrance_notes,scentless
 antonym,market_force,supply_curve
 antonym,wine_tour,sober_journey
 antonym,flat_earth,round_earth
-antonym,conscience,unconsiousness
 antonym,promise_ring,broken_promise
 antonym,smoked_herbs,fresh_spices
 antonym,luau,kula
@@ -13015,7 +12976,7 @@ heat_wave,battle_royale,survival_game
 precious,central_park,golden_oasis
 foster_parent,cartoner,adoptive_parent
 trap_shooting,eco-chic,green_arrow
-specifity,scoundrel,rascality
+specificity,scoundrel,rascality
 many,lizard_king,jim_morrison
 mulled_wine,quantum_mechanics,dark_matter
 aquapolis,amazement,aquatic_wonder
@@ -13058,7 +13019,6 @@ antonym,plumper,thinness
 antonym,grape_stomper,wine_treader
 antonym,miracle,natural_law
 antonym,calendar,planner
-antonym,billiards,pool_clue
 antonym,existence,nonexistence
 antonym,rosiness,paleness
 antonym,invisible_man,visible_man
@@ -13549,7 +13509,6 @@ antonym,time_capsule,future_relic
 antonym,nutella_spread,peanut_butter
 antonym,disinfectant,antiseptic
 antonym,libertarian,authoritarian
-antonym,quadrant,othagonality
 antonym,necklace,choker
 antonym,speedway,slow_lane
 antonym,mountaineer,flatlander
@@ -14128,7 +14087,6 @@ earth,eevee,pokemon_evolution
 eevee,pokemon_evolution,eeveelution
 glowstick,pokemon_evolution,eevee_evolution
 glowstick,pokemon_evolution,vaporeon
-glowstick,pokemon_evolution,luminous_evolutin
 pokemon,swampert,sobble
 glitch,pokemon,missingno
 cricket,cricket,pokemon,pincurchin
@@ -14334,7 +14292,6 @@ eevee,vaporeon,water_stone
 eevee,vaporeon,waterstone
 blastoise,megastone,blastoisinite
 blastoise,megastone,blastoiseite
-gengar,megastone,masagengar
 gengar,megastone,gengarite
 megastone,mewtwo,mewtwonite
 megastone,steelix,steelixite
@@ -15002,7 +14959,6 @@ pokemon_evolution,wooper,quagsire
 fennekin,pokemon_evolution,braixen
 braixen,pokemon_evolution,delphox
 team_rocket_duo,team_rocket_duo,team_rocket_quartet
-team_rocket_duo,team_rocket_duo,jesse_james
 team_rocket,team_rocket,reinforcement
 team_rocket,team_rocket,doubletrouble
 team_rocket,team_rocket,duplicate_team
@@ -15794,7 +15750,6 @@ antonym,telemarket,customer
 antonym,monastery,nunnery
 antonym,cursed_flame,blessed_light
 antonym,speakeasy,silent_bar
-antonym,fated_love,unrequited
 antonym,alakazam,abracadabra
 antonym,captain,crewman
 antonym,chocolate_taster,bitter_critic
@@ -15904,7 +15859,6 @@ antonym,demonic_ritual,angelic_invocation
 antonym,data_sculpture,information_art
 antonym,togepi,castform
 antonym,globalization,localization
-antonym,indie,meinstream
 antonym,amber,jet
 antonym,liquid_air,gas_fire
 antonym,dancing_queen,dancing_king
@@ -16278,7 +16232,6 @@ candidate,movie,election
 compound,reforestation,forestation
 antonym,256_ultra_balls,full_moon
 antonym,abandoned,rescued
-antonym,abandoned_city,populatd_town
 antonym,abandoned_village,thriving_city
 antonym,abandoned_city,prosperous_town
 antonym,ability,inability
@@ -16495,7 +16448,6 @@ antonym,aurora_park,sunset_garden
 antonym,audience,performer
 antonym,attorney,defendant
 antonym,attract,repel
-antonym,atomic_structure,undertainty
 antonym,athens_smog,clear_skies
 antonym,atheism,theism
 antonym,astronautics,tangibility
@@ -16621,7 +16573,6 @@ antonym,beef,vegetarianism
 antonym,gigantamaxing,minimization
 antonym,war_zone,peaceful_area
 antonym,calm_sea,stormy_ocean
-antonym,puff_pastry,flasky_crust
 antonym,nimbasa,jersey
 antonym,pirate_bay,landlock
 antonym,grape_vineyard,blackberry
@@ -16632,7 +16583,6 @@ antonym,straight_man,funny_man
 antonym,eco-snack,junk_food
 antonym,mind_map,concept_map
 antonym,royal_couple,commoners
-antonym,kaiserreich,weimarer_republic
 antonym,rustic_cafe,urban_bistro
 antonym,silk_art,cotton_craft
 antonym,bike_storage,car_park
@@ -16691,7 +16641,6 @@ synonym,discovery,invention
 synonym,digital_romance,e-love
 synonym,fire_performer,flame_juggler
 synonym,ph_scale,acidity
-synonym,normality,ordinaress
 synonym,devotion,worship
 synonym,ocean_breeze,sea_air
 synonym,charizard_master,dragon_master
@@ -16720,7 +16669,6 @@ synonym,nuclear_reactor,fission_plant
 synonym,sweater,jumper
 synonym,kangaroo,joey
 synonym,solid,dense
-synonym,space_station,obital_base
 synonym,eagle,hawk
 synonym,opera,aria
 synonym,supernova,nova
@@ -16846,7 +16794,6 @@ synonym,vodka,liquor
 synonym,internet,online
 synonym,guerrilla,partisan
 synonym,claw,talon
-synonym,billion,milionaire
 synonym,sustainability,eco-friendliness
 synonym,thesaurus,reference
 synonym,pain,agony
@@ -17152,7 +17099,6 @@ random_item,holiday,vacation_souvenir
 random_item,sushi,rice_ball
 random_item,tsar,sickle
 random_item,colosseum,arena_chair
-random_item,whisky,old_fashion
 random_item,esports,gaming_chair
 random_item,nuclear_fission,atomic_bomb
 random_item,godzilla,monstrous
@@ -17738,7 +17684,6 @@ capital,malaysia,kuala_lumpur
 capital,comoros,moroni
 capital,dakota,pierre
 capital,suriname,paramaribo
-capital,bhutan,thiumpu
 capital,montana,helena
 capital,slovakia,bratislava
 capital,eritrea,asmara
@@ -17816,7 +17761,6 @@ capital,michigan,lansing
 metropolis,maryland,baltimore
 metropolis,alaska,ice_city
 metropolis,tunisia,carthage
-metropolis,mississippi,river_cty
 metropolis,alabama,magnolia_city
 metropolis,benin,cotonou
 metropolis,arkansas,arkham
@@ -17860,7 +17804,6 @@ food,uk,fish_and_chips
 food,armenia,lavash
 food,albania,byrek
 food,malaysia,nasi_lemak
-food,chisinau,moldovan_cousine
 food,delmarva,crab_cakes
 food,new_zealand,kiwi_fruit
 food,togo,takeout
@@ -17873,7 +17816,6 @@ food,cuba,mojo
 food,iran,kebab
 food,addis_ababa,injera
 food,missouri,bbq_ribs
-food,charleston,shrimps_and_grits
 food,trinidad,doubles
 food,car,drive-thru
 food,kingston,jerk_chicken
@@ -17975,7 +17917,6 @@ drink,moroni,mormon_tea
 drink,kuala_lumpur,teh_tarik
 drink,latvia,black_balsam
 drink,liberia,palmwine
-drink,serbia,rankija
 drink,kathmandu,lassi
 drink,alaska,iced_tea
 drink,tehran,chai
@@ -18142,7 +18083,6 @@ antonym,slipped,gripped
 antonym,dressing_room,stage_fright
 antonym,elvis,presley
 antonym,fireside,waterfront
-antonym,estrogen,testosteron
 antonym,chronos,kairos
 antonym,bloodstain,clean_slate
 antonym,folded_towel,flat_sheet
@@ -18261,7 +18201,6 @@ antonym,steel_drum,wooden_drum
 antonym,nose,ear
 antonym,don_juanism,celibacy
 antonym,global_health,disparity
-antonym,jet,propreller
 antonym,individualism,collectivism
 antonym,openings,closures
 antonym,shadow_boxing,light_sparring
@@ -18314,7 +18253,6 @@ antonym,empty_space,fullness
 antonym,gentleman,ruffian
 antonym,bookmarked,unmarked
 antonym,fairy_potion,cursed_elixir
-antonym,woodland_sprite,wicked_flair
 antonym,crisis_management,stability_plan
 antonym,x-wings,tie_fighters
 antonym,soccer_star,teamplayer
@@ -18900,7 +18838,6 @@ acronym,stalemate,deadlock
 acronym,dakota,dacron
 acronym,tropical_resort,tropicana
 acronym,anything,crazy
-acronym,participation,particrazy
 acronym,deconstruct,reconstruct
 acronym,organization,organigram
 acronym,self-punishment,masochism
@@ -19686,7 +19623,6 @@ light,light,light,tricolor
 photon,photon,light_beam
 light_beam,focus,laser
 wwii,harbour,dunkirk
-harbour,hawaii,pearl_harbour
 1984,future,dystopian_society
 surveillance_system,futurism,smart_city
 urban_planning,urban_planning,urban_planning,urban_planning,city_design
@@ -20969,7 +20905,6 @@ synonym,antihalatory,verisimilitude
 synonym,antiquity,ancientness
 synonym,antisocial,asocial
 synonym,anxiety,worry
-synonym,anything,synonimity
 synonym,anywhere,anyplace
 synonym,ap_journalist,reporter
 synonym,apart,separate
@@ -21000,8 +20935,6 @@ pikachu_jet,pikachu_perfume,pikachu_fragrance
 flying_pikachu,pikachu_jet,pikachu_plane,pikachu_airliner
 pikachu_airliner,pikachu_jet,pikachu_plane,pikachu_airplane
 synonym,acupuncture,needling
-synonym,aquarist,ichtyologist
-synonym,araquanid_shiny,hyponotist
 synonym,arcade_machine,game_console
 synonym,arcade_system,game_console
 synonym,archaeologist,antiquarian
@@ -21115,7 +21048,6 @@ antonym,contrarian,dissenter
 antonym,contraries,contradictions
 antonym,contrast,comparison
 antonym,contrast_painting,complementary_art
-antonym,convenient,inconvenient
 antonym,conversion,reversal
 antonym,cook-off,bake-off
 antonym,cooked_fish,raw_fish
@@ -21380,11 +21312,9 @@ antonym,blackout_party,whiteout_event
 antonym,body_mass,weight_loss
 antonym,bollywood_cinema,tollywood_cinema
 antonym,businessman,philanthropist
-antonym,cab_fare,taxi_rider
 antonym,caffeine_crash,energy_boost
 antonym,celery,parsley
 antonym,ceremonial_ribbon,ribbon_cutting
-antonym,citizen_kane,local_subject
 antonym,city_streets,rural_roads
 antonym,contrast_colors,complementary_colors
 antonym,conwoman,honest_man
@@ -21513,7 +21443,6 @@ antonym,blue_wave,red_tide
 antonym,crop_damage,crop_success
 antonym,crop_failure,bounty
 antonym,crop_scientist,weed_expert
-antonym,cross-section,interactive
 antonym,crossbones,skull
 antonym,crossbow,potshot
 antonym,crossed,uncrossed
@@ -21608,7 +21537,6 @@ warning_signal,warning_signal,alarm_bell
 warp_drive,warp_drive,warp_engine
 water_balloon,water_balloon,water_bomb
 united_nations,united_nations,united_nations,general_assembly
-united_nations,united_nations,united_nations,second_council
 twin_cities,twin_cities,minneapolis-st_paul
 urban,urban,xmlns
 urban,urban,suburbia
@@ -22321,7 +22249,6 @@ antonym,car_crash,safe_driving
 antonym,breakthrough,setback
 antonym,cars,bicycles
 antonym,catalysis,inhibition
-antonym,cellular_automaton,gobal_system
 antonym,ceramic_garden,garden_gnome
 antonym,ceramic_vase,glass_jar
 antonym,charybdis,scylla
@@ -22811,7 +22738,6 @@ frozen,tundra,arctic
 frying,oil,fried
 germany,prussia,german_empire
 geyser,mud_pit,mud_volcano
-gengar,ghost_candle,will-o-the-w
 anorith,pokemon_evolution,armaldo
 aquarium_complex,aquarium_complex,aquarium_complex,aquarium_complex,aquarium_exhibit
 binary_system,twin_blades,dual_processor
@@ -22996,7 +22922,6 @@ figure_skating,hockey,ice_dance,skating,ice_sports
 frosting,material,icing_fabric
 hisui,sneasel,sneasler
 hisui,sneasel,fighting_type
-hisui,sneasel,wavile
 hockey,puck,ice_rink
 hoenn,vigor,vigoroth
 holiday_spirit,rosewater,rose_spirit
@@ -23335,7 +23260,6 @@ bonding_hormone,life_planet,mother_earth
 bonding_hormone,life_planet,love_earth
 bonding_hormone,stone,love_rock
 cartel,mona_lisa,art_syndicate
-cobalion,terrakion,vintuous_knight
 cobalion,terrakion,keldeo
 cyberhacker,hive,nuclear_bomb,cyberwarfare
 cyberhacker,hive,nuclear_bomb,cyberbomb
@@ -23398,7 +23322,6 @@ multiple_guards,multiple_guards,sentries
 multiple_guards,multiple_guards,security_team
 multiples,single,plural
 mumbai,neighbor,maharashtra
-musical,social_security,music_right
 musical,social_security,musicology
 musical_theatre,musical_theatre,broadway_show
 musical_theatre,musical_theatre,show_tunes
@@ -23485,7 +23408,6 @@ needlework,sewing_kit,sewing_needle
 needlework,steampunk,stitchpunk
 negative,negative,positive
 neglect,negligence,carelessness
-neglect,negligence,neglectfulness
 neo,neo,matrix_themes
 new_kicks,new_shoes,opposite,old_boots
 new_shoes,old_shoes,opposite,shoe_store
@@ -23771,7 +23693,6 @@ vacation_destination,vacation_destination,resort_island
 vacuum_cleaner,water,wet_vacuum
 vagina,synonym,pussy
 wealthy,past_tense,richness
-green,pepper,japaleno
 automotive_finance,car_industry,autofinance
 boxer,deepwater_vessel,boxship
 cybergoth,speedy_development,new_wave
@@ -23917,7 +23838,6 @@ dopamine,nash_equilibrium,reward_balance
 dopamine,nash_equilibrium,incentive
 dopamine,sewing,feelgood
 egypt,wonderdrug,penicillin
-egypt,wonderdrug,pharaohs
 healing_garden,impatiens,healing_plant
 love_drug,relationship_growth,couples_therapist
 mindbender,psychotrope,mindtrap
@@ -24192,7 +24112,6 @@ antonym,autopilot,manual_control
 antonym,baby_boeing,rowan_atkinson
 antonym,bamboo_crate,wooden_box
 antonym,beach_protection,shore_erosion
-antonym,bean,springbean
 antonym,beauty_queen,ugly_betty
 antonym,believer,doubter
 antonym,bicycle_boom,bike_crash
@@ -24338,7 +24257,6 @@ moment,moment,instant_replay
 moment,moment,instant
 instant,synonym,quickly
 antonym,analog_studio,digital_studio
-antonym,benevolent,malevolent
 antonym,diploma,certificate
 antonym,dipping,swimming
 antonym,directions,coordinates
@@ -24629,7 +24547,6 @@ hyperactivity,random_item,energetic_toy
 energy,zine,energize
 mechanics,physics,engineering
 equation_sign,equation_sign,equality_sign
-ovarian_detorsion,ovarian_detorsion,overian_surgery
 elder_wand,elder_wand,deathly_hallows
 dark_ecology,human,eco-humanism
 automobile,epistemology,car_knowledge
@@ -24878,7 +24795,6 @@ antonym,cat_whisperer,dog_trainer
 antonym,ceiling_fan,floor_vent
 antonym,clean_joke,dirty_humor
 antonym,code_optimization,deoptimization
-antonym,conjugation,misanthrop
 antonym,courtier,petition
 antonym,cyberhero,cybervillain
 antonym,cyberlife,digital_nature
@@ -25460,7 +25376,6 @@ alien_art,random_item,extraterrestrial_craft
 random_item,tavern,pub_crawl
 alien_art,random_item,alien_artifact
 lava_lamp,random_item,ambient_light
-fool's_errand,random_item,wild_goose_chases
 c_is_for,c_is_for,c_is_for,c_is_for,carcinoid
 c_is_for,c_is_for,c_is_for,c_is_for,letter_c
 jetblue_airways,jetblue_airways,jetblue_airlines
@@ -25678,7 +25593,6 @@ bestseller,reflection_pool,self-help
 book,behavior,self-help
 65536,dollar,money_machine
 65536,dollar,sextillionare
-celebrity,mathematics,leonardo_fibunacci
 celebrity,mathematics,shakuntala_dev
 nootropic,psychotrope,smart_drugs
 coal,necklace,smoky_quartz
@@ -25697,7 +25611,6 @@ deepwater_vessel,dumbledore,dumbledore's_army
 deepwater_vessel,dumbledore,submariner
 bog_creature,firebender,swamp_spirit
 bog_creature,firebender,swampfire
-acronym,online,swordart,swoardartonline
 element,lagos,titanium_dioxide
 animal_crossing,battlefield,tom_nook
 cavity,chewing,toothache
@@ -26007,13 +25920,11 @@ dermatologist,tabula_rasa,flawless_skin
 barricade,dermatologist,skin_barrier
 barricade,dermatologist,skin_shield
 past_tense,watercolor,washed
-mass,past_tense,weighed
 past_tense,treasure_map,x_marks
 bowstring,musical,tool,string_instrument
 strategy,tool,planer
 detector_design,frog,frogger,bug_repellent
 detector_design,frog,washingtonia,bug_zapper
-option,probiotic,symbiotic
 option,probiotic,kombucha
 probiotic,vagina,vaginal_flora
 christmas,decorated_tree,tree_ornament
@@ -26250,7 +26161,6 @@ addition,bamboo_mat,abalone
 bamboo_artisan,bamboo_artisan,bamboo_craftsman
 basketball_analytics,court_game,food_critic,game_winner
 abbreviation,badminton,badmin
-abbreviation,badminton,shufflecock
 badminton,board_game_printer,game_bird
 bamboo_organizer,wagon,storage_cart
 bamboo_artisan,bamboo_craftsman,bamboo_artist
@@ -26280,7 +26190,6 @@ antonym,adjacent,literal_sense
 antonym,advanced,basic
 antonym,aeropunk,biopunk
 antonym,affinity,offset
-antonym,ai_assistant,human_help
 antonym,1905,populism
 antonym,1937,1936
 antonym,add,subtract
@@ -26291,7 +26200,6 @@ antonym,altered,unaltered
 antonym,american_icon,foreign_symbol
 antonym,amniotic_sac,umbilical_cord
 antonym,analyzed,synthesized
-antonym,bamboo_cutlery,plastic_utensil
 antonym,creation_story,destruction_myth
 antonym,furry,scaly
 antonym,germ_theory,miasma
@@ -26786,7 +26694,7 @@ antonym,fireproof,flammable
 antonym,faux_leather,genuine_leather
 antonym,fistful,handful
 antonym,flipper,heel
-antonym,fishing_lod,hunting_cabin
+antonym,fishing_lodge,hunting_cabin
 antonym,fishing_cabin,hunting_lodge
 antonym,fireball,iceball
 antonym,fire_giant,ice_dwarf
@@ -26889,7 +26797,6 @@ antonym,gamer's_guilt,pastime
 antonym,geodude,regional_deity
 antonym,gas_giant,rocky_planet
 antonym,gemstone_collection,settings
-antonym,general_assembly,special_assembly
 antonym,genuine_leather,synthetic_leather
 antonym,gentle_embrace,tight_grip
 antonym,gaulish_deity,trade_deity
@@ -27009,7 +26916,6 @@ antonym,gambling_addiction,responsible_gaming
 antonym,futurism,revivalism
 antonym,game_bar,rule_book
 antonym,frog_prince,sad_princess
-antonym,fragrance_mask,scent_block
 antonym,fragrance_mist,scent_spray
 antonym,golden_pair,silver_spoon
 antonym,fool,smart
@@ -27106,7 +27012,6 @@ austrian,austrian,austroasiatic
 v,v,equals
 diurnal,diurnal,daytime
 finesse,finesse,ultimate
-tasting_menu,tasting_menu,multi_course
 vinegar,vinegar,pickling
 pickling,pickling,cucumber
 cucumber,skin_care,facial_mask
@@ -27363,7 +27268,6 @@ fourteen,1816,sum,addition,1830
 212,212,boiling_point
 22,22,44
 2400_years,2400_years,4800_years
-300th_anniversary,300th_anniversary,tercentary
 31,31,october
 32gigabits,32gigabits,64gigabits
 4mb,4mb,local_loop
@@ -27481,7 +27385,6 @@ aeroplane,aeroplane,double-decker
 adventure_quest,adventure_quest,game_series
 aerosol,aerosol,gaseous_spray
 afro,afro,frother
-afro-punk,afro-punk,fashion_movement
 afrocentrism,afrocentrism,afrocentricity
 afrofuturism,afrofuturism,afrofuturist
 after,after,later
@@ -27742,7 +27645,6 @@ apple_music,apple_music,itunes
 apple_pie,apple_pie,sweet_dreams
 applejack,applejack,apple_brandy
 application,application,software_program
-apprentice,apprentice,jorneyman
 approval,approval,unanimity
 april_fool's,april_fool's,prank_day
 aqua_park,aqua_park,waterworld
@@ -27766,7 +27668,6 @@ aquarium_lamp,aquarium_lamp,aquarium_lighting
 aquatic_pokemon,aquatic_pokemon,water_types
 aquatic_therapy,aquatic_therapy,aquatic_rehabilitation
 aquawoman,aquawoman,aquawomen
-arabian_nights,arabian_nights,scheherazzade
 cat,male,comic,catman
 cat,lasagna,garfield
 garfield,actor,andrew
@@ -28488,7 +28389,6 @@ bamboo_baby,bamboo_baby,bamboo_shoot
 bamboo_beam,bamboo_beam,bamboo_structure
 bamboo_cutlery,bamboo_cutlery,bamboo_utensil
 bamboo_lantern,bamboo_lantern,bamboo_lamp
-bamboo_mat,bamboo_mat,japanese_tatani
 balkan_peninsula,balkan_peninsula,balkan_state
 hairless,hairless,bare
 bamboo_music,bamboo_music,bamboo_symphony
@@ -28719,7 +28619,6 @@ bird_watcher,bird_watcher,ornithologist
 birdbrain,birdbrain,silly
 birdman,birdman,bird_person
 birdseed,birdseed,oil_field
-birdshot,birdshot,shutgun_shell
 birdwatching,birdwatching,ornithology
 birdwoman,birdwoman,harpy
 1870,addition,one,year,1871
@@ -29215,7 +29114,6 @@ boxer,boxer,muhammad_ali
 boxing_ring,boxing_ring,boxing_arena
 boxship,boxship,container_ship
 boy_band,boy_band,nsync
-boyband,boyband,larger_band
 boys,boys,fraternal_twins
 brahma,brahma,metaphysics
 braiding,braiding,braids
@@ -29249,7 +29147,6 @@ breadcrumb,breadcrumb,reservation
 breadwinner,breadwinner,provider
 breakdancing,breakdancing,hip-hop
 breakdown,breakdown,sheer_fear
-breakout,breakout,solitair_the_card
 chiptune,chiptune,8-bit_music
 hat_trick,hat_trick,6_goals
 deep_well,deep_well,water_source
@@ -29329,7 +29226,6 @@ brutality,brutality,extreme_violence
 bts,bts,bangtan
 bubble,bubble,toil_and_trouble
 bubble_art,bubble_art,bubbles
-bubble_tea,bubble_tea,tabioca_pearls
 brouhaha,brouhaha,fuss
 brow,brow,forehead
 brownies,brownies,double_fudge
@@ -29494,7 +29390,6 @@ eco-punk,herbcraft,green_witch
 eco-punk,herbcraft,green_witchcraft
 dog_actor,hocus_pocus,pumpkin_pie,bette_midler
 dog_actor,pumpkin_pie,reality,dogtoberfest
-bicycle,tandem,two_seater
 bicycle,tandem,bike_taxi
 bicycle,stunt,bmx
 matter,tandem,mattered
@@ -30723,7 +30618,6 @@ action,drunken_despair,ice,led_zeppelin
 agro-aviation,bubble_wrap,air_cushion
 airboat,freedom_ride,air_ride
 airplane,japan,world_war_ii,zero_fighter
-alcohol,jammer,quarantini,quarrantini
 anatomical_mask,random_item,surveillance_machine,face_recognition
 apocalypse,microscope,number,analyser
 apocalypse,microscope,number,apocalyptic_vision
@@ -31108,7 +31002,6 @@ app_designer,app_designer,app_developer
 appendage,appendage,limbs
 apple_leather,apple_leather,ethereal
 aqua_yoga,aqua_yoga,aqua_fitness
-aquaforce,aquaforce,merine_current
 aquatic_sculpture,aquatic_sculpture,mermaid_statue
 aquatic_survival,aquatic_survival,aquatic_skills
 arcade_games,arcade_games,retro_gaming
@@ -31142,7 +31035,6 @@ betrayal_theme,betrayal_theme,double-cross
 bicycle_chain,bicycle_chain,chain_bicycle
 bicycle_fashion,bicycle_fashion,breezy_chic
 bicycle_lane,bicycle_lane,dedicated_path
-bike_taxi,bike_taxi,rikshaw
 bikini_bar,bikini_bar,bikini_contest
 bilbo_baggins,bilbo_baggins,bilbo
 biocomputer,biocomputer,biocomputing
@@ -31507,7 +31399,6 @@ drill,tool,drill-bit
 drill,tool,auger
 hoverboard,survivor,aboveboard
 microbiology,quantum_detector,biophotonics
-present,brainstem,giftstem
 character,chocolate_hangover,walking_dead,zombie_bites
 aircraft_designer,stealth_fighter,lockheed_martin
 aircraft_designer,stealth_fighter,lockheed
@@ -32634,7 +32525,6 @@ antonym,bioethicist,ethicist
 antonym,biomining,sustainable_mining
 antonym,biomolecular,anti-vortex
 antonym,biomonitor,bioindicator
-antonym,bionic_seat,organic_chait
 antonym,biophotonic,photonics
 antonym,bioshock,rapture
 antonym,biplane,monoplane
@@ -32982,7 +32872,6 @@ antonym,helmet,faceguard
 antonym,hidden,visible
 antonym,hiding,revealing
 antonym,hiking,resting
-antonym,holism,particlularism
 antonym,honda,chevy
 antonym,hopper,dumper
 antonym,icarus,daedalus
@@ -33129,8 +33018,6 @@ mountain,jeep,offroad_safari
 9999,9999,ninety-nine_thousand
 acapella,acapella,vocal_harmony
 acrobatic_duo,acrobatic_duo,acrobatic_quartet
-action_figure,action_figure,toy_storre
-action_principle,action_principle,varionational_calculus
 acute_relief,acute_relief,acute_care
 adult_entertainer,adult_entertainer,cinnamon_challenge
 adult_entertainment,adult_entertainment,strip_club
@@ -33438,7 +33325,6 @@ carjacker,carjacker,carjacking
 carmen_sandiego,carmen_sandiego,red_jacket
 carnivine,carnivine,carnivorous
 aerobics,aerobics,zumba
-animation_company,animation_company,studio_ghibly
 barium,barium,barkeeper
 boatyard,boatyard,boat_builder
 brooch_collection,brooch_collection,duplicate_brooches
@@ -33467,7 +33353,6 @@ cardiologist,cardiologist,heart_surgeon
 carmageddon,carmageddon,traffic_chaos
 case,case,briefcase
 case_study,case_study,research_paper
-cash_cow,cash_cow,profability
 cash_flow,cash_flow,income_statement
 cash_machine,cash_machine,atm
 atm,synonym,cashpoint
@@ -33477,7 +33362,6 @@ drug_lord,stimulant,narco
 cartel,narco,narcocartel
 narco,president,narco-president
 briefcase,briefcase,attache_case
-cast,cast,nothing_there
 cast_away,cast_away,wilson
 caspian_sea,caspian_sea,caspian
 casserole,casserole,double-duty
@@ -34324,7 +34208,6 @@ costume_party,costume_party,duplicate_costumes
 costume_party,costume_party,duplicate_event
 duplicate_event,duplicate_event,consecutive_event
 consecutive_event,consecutive_event,sequence_event
-cottage_pie,cottage_pie,still_cottage
 cottagecore,cottagecore,cottage_garden
 cough,cough,reflux
 council_session,council_session,agenda
@@ -34958,7 +34841,6 @@ ocean,shinrin-yoku,blue_therapy
 ocean,shinrin-yoku,sea_therapy
 mario_trilogy,mario_trilogy,mario_hexalogy
 platformer_game,platformer_game,mario_bros
-platformer_game,platformer_game,metroidvana
 platformer_game,platformer_game,platformer_sequel
 machinery,machinery,enhancer
 scarlet_witch,scarlet_witch,wanda_maximoff
@@ -36556,10 +36438,8 @@ swan,swan,double_entendre
 cold_storage,cold_storage,refrigeration
 floral_symphony,floral_symphony,floral_harmony
 lilliput,lilliput,miniature_world
-miniature_world,miniature_world,minitature_universe
-minitature_universe,minitature_universe,quantum_reality
-minitature_universe,minitature_universe,nano_verse
-nano_verse,nano_verse,quantum_realm
+miniature_universe,miniature_universe,quantum_reality
+nano-verse,nano-verse,quantum_realm
 quantum_realm,quantum_realm,quantum_universe
 miniature_world,miniature_world,microverse
 miniature_world,miniature_world,model_village
@@ -36644,7 +36524,6 @@ xenogears,xenogears,xeno
 xenogears,xenogears,xenosaga
 xeno,xeno,zeta
 wiggle,wiggle,shimmy
-wiggle,wiggle,undolation
 thirty-nine,thirty-nine,seventy-eight
 seventy-eight,seventy-eight,one_hundred_fifty-six
 survival_guide,survival_guide,wilderness_survival
@@ -36845,8 +36724,7 @@ aquatic_kingdom,aquatic_kingdom,ocean_realm
 ocean_realm,ocean_realm,sea_world
 sea_world,sea_world,marine_park
 marine_park,marine_park,marine_reserve
-marine_reserve,marine_reserve,ocean_santuary
-ocean_santuary,ocean_santuary,ocean_conservation
+ocean_sanctuary,ocean_sanctuary,ocean_conservation
 ocean_conservation,ocean_conservation,marine_protected_area
 marine_protected_area,marine_protected_area,conservation_zone
 marine_protected_area,marine_protected_area,conservation_area
@@ -37047,12 +36925,10 @@ mirrored_woodland,mirrored_woodland,infinity_forest
 infinity_forest,infinity_forest,endless_woods
 endless_woods,endless_woods,infinite_forest
 bejewelled,bejewelled,jewels
-bdsm,bdsm,sadomachism
-sadomachism,sadomachism,extreme_pain
+sadomasochism,sadomasochism,extreme_pain
 belt_sander,belt_sander,sanding_machine
 e-relationship,e-relationship,virtual_connection
 sanding_machine,sanding_machine,sander
-hawaii_jersey,hawaii_jersey,haiwaii_shirt
 bark_park,bark_park,crawl_space
 olympic_gold,olympic_gold,olympic_champion
 olympic_gold,olympic_gold,olympic_record
@@ -37084,7 +36960,6 @@ hall_of_fame,hall_of_fame,hall_of_greatness
 hall_of_fame,hall_of_fame,hall_of_legends
 hall_of_fame,hall_of_fame,hall_of_mirrors
 sql_deadlock,sql_deadlock,deadlock_prevention
-sql_deadlock,sql_deadlock,scaphold
 deadlock_prevention,deadlock_prevention,deadlock_avoidance
 deadlock_avoidance,deadlock_avoidance,deadlock_resolution
 zenmaster,zenmaster,multimaster
@@ -37109,7 +36984,6 @@ fashionable_duo,fashionable_duo,fashionable_couple
 fashion_trendsetters,fashion_trendsetters,style_icons
 fashionable_couple,fashionable_couple,trendy_duo
 trendy_duo,trendy_duo,influencer_couple
-influencer_couple,influencer_couple,pwer_duo
 bamboo_wand,bamboo_wand,bamboo_staff
 cloverfield,cloverfield,giant_monster
 cloverfield,cloverfield,kevin
@@ -38081,7 +37955,6 @@ multi-core,multi-core,multi-tasking
 multi-core,multi-core,processor_power
 modularity,modularity,convenience
 modularity,modularity,modular_system
-modularity,modularity,repititiveness
 lobby,lobby,reception_desk
 lobby,lobby,bobby
 multi-processor,multi-processor,dual_cpu
@@ -38266,9 +38139,8 @@ mint_soup,mint_soup,mint_smoothie
 mint_smoothie,mint_smoothie,mintshake
 double-sided,double-sided,flipbook
 double-sided,double-sided,four-sided
-doubletonguing,doubletonguing,howley_monkey
 doubletonguing,doubletonguing,twintonguing
-howley_monkey,howley_monkey,howler
+howler_monkey,howler_monkey,howler
 twintonguing,twintonguing,tuning
 double-load,double-load,four-way_play
 double-load,double-load,quadruple_load
@@ -38390,7 +38262,6 @@ anti-nausea_meds,anti-nausea_meds,motion_sickness_pills
 drug_combination,drug_combination,polypharmacy
 drug_combination,drug_combination,polytherapy
 drug_combination,drug_combination,medication_cocktail
-dual_antiemetic,dual_antiemetic,pebtobismol
 amsacrine,amsacrine,therapeutic_agent
 anti-nausea,anti-nausea,bupropion
 nausea,nausea,vomiting
@@ -38400,6 +38271,7 @@ polypharmacy,polypharmacy,overmedication
 polypharmacy,polypharmacy,polypharmaceutical
 polypharmacy,polypharmacy,polypharmacology
 polypharmacy,polypharmacy,polysubstance
+dual_antiemetic,dual_antiemetic,pebtobismol
 pebtobismol,pebtobismol,pepto
 pebtobismol,pebtobismol,pepto-bismol
 pebtobismol,pebtobismol,pepto_bismol
@@ -39127,7 +38999,6 @@ foursome,threesome,fivesome
 fortress,pin_cushion,bioshield
 franciscan,friar,monk,religious
 fortification,shield,bulwark
-fortification,memory_enhancer,neotropic
 fortification,memory_enhancer,brain_boost
 fortepiano,website,88keys
 force,pottery,claymore
@@ -39461,7 +39332,6 @@ chicken,chain_restaurant,kfc
 fish,chain_restaurant,chain_restaurant
 sushi,chain_restaurant,sushirrito
 cocktail,yule,yulelog
-cocktail,yule,nocktail
 cobweb,vatican,cloisters
 clubbing,consumerism,materialism
 undead_army,undead_army,undead_army,undead_army,zombie_horde
@@ -39799,7 +39669,6 @@ megaplex,megaplex,multiplex
 multiplex,multiplex,multiplexing
 multiplexing,multiplexing,duplexing
 multiplexing,multiplexing,multiplexed
-multiplexing,multiplexing,multiplipexing
 duplexing,duplexing,duplex_printer
 duplexing,duplexing,duplex_printing
 duplexing,duplexing,duplex_machine
@@ -41602,7 +41471,6 @@ glaze,nanomaterial,ceramic_coating
 food_decoration,minivan,vampire_film,blood_mobile
 eco-cottage,eco-village,rustic,sustainability,eco-town
 decrease,phantom_circuit,singer,ghost_note
-billionaire,millionaire,trillionare
 budget,daltonism,disability_grant
 brand,skateboarding,vans
 brahmaputra,heritage_fabric,watcher,assamese_textile
@@ -41819,13 +41687,11 @@ rowing,rowing,double_scull
 double_scull,double_scull,four-person_boat
 double_scull,double_scull,pair_rowing
 double_scull,double_scull,single_owner
-single_owner,single_owner,soul_proprietor
 gumball,gumball,gummy
 gummy,gummy,gummies
 gummy,gummy,extra_chewy
 airbnb,airbnb,rental_hosting
 rental_hosting,rental_hosting,hosting_rental
-rental_hosting,rental_hosting,prosperty_management
 rental_hosting,rental_hosting,subletting
 hosting_rental,hosting_rental,hosting_service
 subletting,subletting,sublease
@@ -42141,7 +42007,6 @@ boom,telemedicine,virtual_visit
 virtual_visit,virtual_visit,video_tour
 video_tour,video_tour,descriptive_video
 visitor_center,visitor_center,information_hub
-bullock_cart,bullock_cart,tandem_cart
 vlogging,vlogging,vlogception
 vlogging,vlogging,video_blogging
 ghostbuster,venkman,venkman's_ghost
@@ -42150,7 +42015,6 @@ book_series,video_chatting,zoom_book_club
 book_series,venice_canal,waterways
 zoom_book_club,zoom_book_club,virtual_reading
 virtual_library,virtual_library,digital_archive
-digital_archive,digital_archive,offline_library
 digital_archive,digital_archive,digital_archives
 blacksmithing,master_swordsmith,forge_master
 blacksmithing,swordsmith,blackblade
@@ -42246,7 +42110,6 @@ random_item,soda_pop,fizz_drink
 random_item,schorl,tourmaline
 metalloid,metalloid,semimetal
 metalloid,metalloid,semi-metal
-metalloid,metalloid,none-metal
 metalloid,metalloid,diboron
 flash,irish,flashdance
 flag,tricolor,two-word_answers_only,flagship
@@ -42501,7 +42364,6 @@ meta-hipster,meta-hipster,self-parody
 meta-hipster,meta-hipster,unavailable
 nerdom,nerdom,geekdom
 self-parody,self-parody,meta-humor
-geekdom,geekdom,hard_culture
 geekdom,geekdom,superfan
 superfan,superfan,ultimate_fan
 superfan,superfan,die-hard
@@ -45236,7 +45098,6 @@ antonym,uncle_tom,aunt_lydia
 acronym,transformers,autobots
 automation,past_tense,automated
 blue_sky,greece,azure_sea
-finance,autobots,moneybots
 car_model,quattro_gmbh,audi_rs
 finance,bayern,investments
 finance,evolution,evolutionary_economics
@@ -46625,21 +46486,17 @@ pokemon_evolution,slothfulness,vigor,sloth_evolution
 past_tense,tie,knotted
 past_tense,review,evaluated
 past_tense,repair,repaired
-past_tense,rebrand,renamed
 ornithology,sandpaper,bird_grit
 opposite,urban_exploration,nature_hiking
 neutered,past_tense,castrated
 moonshine,puppet_master,whiskey_chaser
 mockumentary,past_tense,mocked
-minneapolis,sister_city,saint_paul
 mentee,past_tense,mentality
 mechanoid,past_tense,machined
-material,sweet_justice,sufi
 malfeasance,novel,crime_story
 limerick,spring,springtime_poem
 japan,tatami_chair,zaisu
 ireland,labradoodle,irish_doodle
-intention,intention,sing-along
 inkwell,optimism,cstring
 infant,tangerine,nartjie
 hula_hoop,past_tense,hula_hooped
@@ -46648,13 +46505,11 @@ hangover,hangover,hangover,ireland,dublin_cure
 hacking,wonderdrug,cybermedicine
 garment,plywood,sheathing
 gamer_slang,j_k_rowling,word_map,game_wizard
-furniture,ipad,tablet_chair
 frittata,past_tense,fritted
 free_lunch,memory_allocation,buffer_overflow
 fountain,infinity_loop,monopoly,endless_wealth
 fortune-telling,ireland,celtic_prophecy
 force,past_tense,forced
-force,past_tense,force_persuasion
 fools,synonym,idiots
 food,magic_city,culinary_alchemy
 flower,graphic_designer,botanical_typography
@@ -46698,7 +46553,6 @@ eco-therapy,past_tense,recovering
 eco-criticism,past_tense,ecocritique
 earth_art,emerald_isle,green_landscape
 earrings,fireplace,earring_rack
-dream,pot_of_gold,wish_fultillment
 double_spice_blend,movie,culinary_drama
 double_safety,pokemon,doubles_battle
 dogfight,ireland,fighting_dogs
@@ -46706,7 +46560,6 @@ dog,poodle,poodle-dog
 dog_actor,gothic_stove,pumpkin_pie,cult_favorite
 django,past_tense,jangled
 divine_flame,gastropod,mollusk,cuttlefish
-disaster_relief,states,federal_aid
 disability,eagle,cripple
 directory_enquiries,past_tense,located
 digitization,samurai,cyber-samurai
@@ -48210,7 +48063,6 @@ audience_participation,audience_participation,interactive_show
 coding_school,coding_school,coding_academy
 interactive_show,interactive_show,interactive_experience
 coding_academy,coding_academy,computer_school
-slang,warp,weirding
 overgrowth,past_tense,overgrew
 launchpad_x,verb_phrase,ableton_live
 20,past_tense,rat,ratted
