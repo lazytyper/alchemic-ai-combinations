@@ -1,2 +1,3 @@
 lgbt_history,histories,queer_history
 queer_history,queer_history,queer_studies
+anagram,luciferan,almanac
