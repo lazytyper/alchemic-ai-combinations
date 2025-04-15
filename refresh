@@ -1,0 +1,5 @@
+#!/bin/bash
+node tools/clean.js 
+node tools/analyse.js > tmp/new.csv
+node tools/sortnew.js
+node tools/stat.js  
