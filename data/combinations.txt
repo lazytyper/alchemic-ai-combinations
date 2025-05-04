@@ -94292,3 +94292,5 @@ epic_artifact,klingon_dialect,bat'leth
 forty-niners,homophone,gold_diggers
 abbreviation,forty-niners,49ers
 49ers,bay_area,full_name,sports_franchise,jimmy_garoppolo
+moon,vehicle,moonlander
+moon,vehicle,moonbuggy
