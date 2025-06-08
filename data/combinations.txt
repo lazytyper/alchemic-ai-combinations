@@ -16384,7 +16384,6 @@ new_york_city,airport,jfk
 bridge,dallas,desperation
 landmark,turin,mole_antonelliana
 landmark,barcelona,sagrada_familia
-landmark,cologne,cologne_cathedral
 associate,associate,colleague
 bakery,bakery,pastry_shop
 tablet,tablet,ipad
@@ -126090,7 +126089,6 @@ edifice,four-letter_word,shorten,verb_phrase,bldg
 crypto_gamer,improvident,gamer_coin
 yard_decoration,knot_tying,knot_garden
 bamboo_bookmark,bamboo_bookmark,bamboo_bookend
-goblin_witch,goblin_queen,goblin_sorceress
 ethical_investment,opposite,unethical_investment
 ecological_art,mvp,social_fatigue,community_gardens
 bra,king,braking
@@ -130696,8 +130694,6 @@ holy_dance,holy_dance,twinkle_toes
 holy_retreat,holy_retreat,hermitage
 holy_retreat,holy_retreat,spiritual_sanctuary
 content_regulation,food_policy,nutrition_policy
-holy_monday,holy_saturday,holy_thursday,holy_wednesday,days_of_penance
-holy_monday,holy_saturday,holy_thursday,holy_wednesday,week_of_holiness
 antonym,biosimulation,living_shadow
 spiritual_sanctuary,spiritual_sanctuary,spiritual_escape
 data_advantage,virtual_racer,digital_racing
